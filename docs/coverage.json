@@ -140,15 +140,7 @@
     },
     {
       "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
-      "message": "55 source passages lack aligned English."
-    },
-    {
-      "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
       "message": "Office awaits visual source review."
-    },
-    {
-      "office": "little-office-of-the-seven-joys-of-the-blessed-virgin-mary",
-      "message": "50 source passages lack aligned English."
     },
     {
       "office": "little-office-of-the-seven-joys-of-the-blessed-virgin-mary",
@@ -220,10 +212,6 @@
     },
     {
       "office": "little-office-of-s-dismas-the-penitent-thief-patron-of-the-dying-and-those-in-sudden-danger-of-death",
-      "message": "43 source passages lack aligned English."
-    },
-    {
-      "office": "little-office-of-s-dismas-the-penitent-thief-patron-of-the-dying-and-those-in-sudden-danger-of-death",
       "message": "Office awaits visual source review."
     },
     {
@@ -277,10 +265,6 @@
     {
       "office": "little-office-of-s-ignatius-founder-of-the-society-of-jesus-and-s-francis-xavier-apostle-of-the-indies",
       "message": "Office awaits visual source review."
-    },
-    {
-      "office": "little-office-of-the-holy-innocents",
-      "message": "43 source passages lack aligned English."
     },
     {
       "office": "little-office-of-the-holy-innocents",
@@ -650,11 +634,6 @@
       "message": "Internal source reference awaits resolution."
     },
     {
-      "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
-      "block": "prime-b0011",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
       "office": "little-office-of-all-saints",
       "block": "prime-b0012",
       "message": "Internal source reference awaits resolution."
@@ -697,41 +676,6 @@
     {
       "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
       "block": "compline-b0004",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-dismas-the-penitent-thief-patron-of-the-dying-and-those-in-sudden-danger-of-death",
-      "block": "lauds-b0010",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-dismas-the-penitent-thief-patron-of-the-dying-and-those-in-sudden-danger-of-death",
-      "block": "prime-b0010",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-dismas-the-penitent-thief-patron-of-the-dying-and-those-in-sudden-danger-of-death",
-      "block": "terce-b0010",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-dismas-the-penitent-thief-patron-of-the-dying-and-those-in-sudden-danger-of-death",
-      "block": "sext-b0010",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-dismas-the-penitent-thief-patron-of-the-dying-and-those-in-sudden-danger-of-death",
-      "block": "none-b0010",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-dismas-the-penitent-thief-patron-of-the-dying-and-those-in-sudden-danger-of-death",
-      "block": "vespers-b0010",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-dismas-the-penitent-thief-patron-of-the-dying-and-those-in-sudden-danger-of-death",
-      "block": "compline-b0012",
       "message": "Internal source reference awaits resolution."
     },
     {
@@ -792,41 +736,6 @@
     {
       "office": "little-office-of-s-igantius-founder-of-the-society-of-jesus",
       "block": "vespers-b0010",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-the-holy-innocents",
-      "block": "lauds-b0009",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-the-holy-innocents",
-      "block": "prime-b0009",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-the-holy-innocents",
-      "block": "terce-b0009",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-the-holy-innocents",
-      "block": "sext-b0009",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-the-holy-innocents",
-      "block": "none-b0008",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-the-holy-innocents",
-      "block": "vespers-b0008",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-the-holy-innocents",
-      "block": "compline-b0010",
       "message": "Internal source reference awaits resolution."
     },
     {
@@ -964,13 +873,13 @@
     "offices": 82,
     "sections": 686,
     "blocks": 11282,
-    "missingEnglish": 3270,
-    "preparedEnglish": 4461,
+    "missingEnglish": 3079,
+    "preparedEnglish": 4652,
     "unpairedEnglish": 0,
     "reviewedOffices": 10,
     "englishOnly": 8,
     "latinOnly": 62,
     "suppliedBilingual": 12,
-    "unresolvedReferences": 109
+    "unresolvedReferences": 94
   }
 }

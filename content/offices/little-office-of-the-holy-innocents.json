@@ -28,9 +28,9 @@
   ],
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
-    "extraction": "candidate",
-    "translation": "incomplete",
-    "verification": "pending"
+    "extraction": "reviewed",
+    "translation": "complete-prepared",
+    "verification": "source-reading-pending"
   },
   "sections": [
     {
@@ -44,14 +44,21 @@
         {
           "type": "prayer",
           "source": "Vidi sub Altare Dei animas interfectorum propter verbum Dei, et propter testimonium, quod habebant.",
-          "english": null,
+          "english": "I saw beneath the altar of God the souls of those slain for the word of God and for the testimony they held.",
           "sourcePages": [
             523
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              523
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -72,7 +79,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -93,7 +100,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -114,7 +121,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -135,7 +142,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -156,67 +163,102 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Mirum plane rerum thema! Christo negans diadema Rex Herodes impius, Rosas legit, serta nectit, Ipseque coronas nectit Pueris infantibus;",
-          "english": null,
+          "english": "What a wondrous theme of events! Impious King Herod, denying Christ a crown, gathers roses and binds garlands, and himself weaves crowns for infant children,",
           "sourcePages": [
             523
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              523
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Dum praeclaros Milites Christi Jesu exultantis, Viam Crucis incohantis, Promovet in Martyres.",
-          "english": null,
+          "english": "As he promotes to martyrs the illustrious soldiers of Christ Jesus, exulting as He begins the way of the Cross.",
           "sourcePages": [
             523
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              523
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Ecce profanus hostis nunquam beatis Parvulis tantum prodesse potuisset obsequio, quantum profuit odio.",
-          "english": null,
+          "english": "Ant. Behold, the profane enemy could never have benefited the blessed little ones so much by service as he did by hatred.",
           "sourcePages": [
             523
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              523
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Agnelli debent immolari,",
-          "english": null,
+          "english": "℣. The little lambs must be sacrificed,",
           "sourcePages": [
             523
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              523
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Quia Agnus debebit crucifigi.",
-          "english": null,
+          "english": "℟. For the Lamb must be crucified.",
           "sourcePages": [
             523
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              523
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -237,19 +279,26 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0012",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Deus, cujus praeconium Innocentes Martyres non loquendo, sed moriendo confessi sunt: Omnia in nobis vitiorum mala mortifica, ut fidem tuam, quam lingua nostra loquitur, moribus etiam vita fateatur. Per Dominum nostrum etc.",
-          "english": null,
+          "english": "O God, Whose praise the Innocent Martyrs confessed by dying rather than by speaking: mortify in us all the evils of vice, that our life may also confess in conduct Thy faith which our tongue proclaims. Through our Lord, etc.",
           "sourcePages": [
             523
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              523
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0013",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -280,7 +329,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -301,7 +350,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -322,67 +371,104 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Sed et Mater Jesu chara, Virgo Virginum praeclara Campos per Aegyptios Lilia jam nive tincta, Lauro viridi distincta Congerit in calathos:",
-          "english": null,
+          "english": "But also the dear Mother of Jesus, illustrious Virgin of virgins, gathers through the fields of Egypt lilies already tinted with snow and adorned with green laurel into baskets,",
           "sourcePages": [
             523
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              523
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Vobis, casti Martyres, Ut coronas ex his formet, Hisque vestros exornet Virgin ales vertices.",
-          "english": null,
+          "english": "For you, chaste martyrs, that she may fashion crowns from them and adorn with them your virginal brows.",
           "sourcePages": [
             523
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              523
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed Virgin ales is retained; English reads the visibly split virginales as virginal."
         },
         {
           "type": "prayer",
           "source": "Ant. O quam pulchra est casta generatio cum claritate: immortalis est enim memoria illius: quoniam et apud Deum nota est, et apud homines.",
-          "english": null,
+          "english": "Ant. O how beautiful is a chaste generation with glory! For its memory is immortal, being known both with God and among men.",
           "sourcePages": [
             523
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              523
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Innocentes illi debentur victima,",
-          "english": null,
+          "english": "℣. The Innocents are owed as a victim to Him",
           "sourcePages": [
             523
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              523
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0007",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed Innocentes illi debentur victima has defective agreement. English provisionally follows the innocent victims owed to Him who condemns worldly wickedness."
         },
         {
           "type": "prayer",
           "source": "℟. Qui venit damnare mundi malitiam.",
-          "english": null,
+          "english": "℟. Who comes to condemn the wickedness of the world.",
           "sourcePages": [
             523
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              523
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -403,7 +489,17 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              523
+            ],
+            "note": "The printed direction repeats this office’s Matins collect."
+          }
         }
       ]
     },
@@ -435,7 +531,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -456,7 +552,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -477,68 +573,104 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "En jam invide Tyranne! Arma tua tibi sannae Fiunt et opprobrium, Tu dum ipsemet coronas, Unum Regno ut seponas, Totum agmen prolium;",
-          "english": null,
+          "english": "Behold now, envious tyrant! Thy weapons become a mockery and reproach to thee, while thou thyself crownest a whole host of children to remove one from the kingdom.",
           "sourcePages": [
             523,
             524
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              523,
+              524
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Dic, quae haec dementia? Pupos ferro sustulisti, Per quod ipse succidisti Vitae tibi stamina.",
-          "english": null,
+          "english": "Tell me, what madness is this? Thou didst destroy the children with the sword, through which thou thyself didst cut short the threads of thine own life.",
           "sourcePages": [
             524
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              524
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Surge, et accipe Puerum et Matrem ejus, et vade in terram Israel: Defuncti sunt enim, qui quaerebant animam Pueri.",
-          "english": null,
+          "english": "Ant. Arise, take the Child and His Mother, and go into the land of Israel, for those who sought the Child’s life are dead.",
           "sourcePages": [
             524
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              524
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Jacebunt mali ante bonos,",
-          "english": null,
+          "english": "℣. The wicked shall lie before the good,",
           "sourcePages": [
             524
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              524
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Et impii ante portas justorum.",
-          "english": null,
+          "english": "℟. And the impious before the gates of the just.",
           "sourcePages": [
             524
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              524
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -559,7 +691,17 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              524
+            ],
+            "note": "The printed direction repeats this office’s Matins collect."
+          }
         }
       ]
     },
@@ -590,7 +732,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -611,7 +753,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -632,67 +774,103 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Saevit chalybs in infantes, Matres ingemunt balantes, Proles lugent bimulas, Jesulum quae jam sectantur, Cumque Matre comitantur Oras per Niliacas;",
-          "english": null,
+          "english": "Steel rages against the infants; the mothers groan like bleating sheep, mourning their two-year-old children, who now follow the little Jesus and accompany Him with His Mother through the regions of the Nile.",
           "sourcePages": [
             524
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              524
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Caela rigent corpora, Sed animulae dilectae Jesu gratiae refectae Non sensere funera.",
-          "english": null,
+          "english": "Their bodies lie cold, but the beloved little souls, refreshed by the grace of Jesus, did not feel death.",
           "sourcePages": [
             524
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              524
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints Caela rigent corpora. English provisionally follows the evidently intended cold bodies from the contrast with souls unaffected by death."
         },
         {
           "type": "prayer",
           "source": "Ant. Vox in Rhama audita est, ploratus et ululatus multus: Rachel plorans filios suos noluit consolari, quia non sunt.",
-          "english": null,
+          "english": "Ant. A voice was heard in Rama, weeping and great lamentation: Rachel weeping for her children would not be comforted, for they are no more.",
           "sourcePages": [
             524
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              524
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Oves ululant Matres,",
-          "english": null,
+          "english": "℣. The mothers lament like sheep,",
           "sourcePages": [
             524
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              524
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Quia Agnos perdunt sine voce balantes.",
-          "english": null,
+          "english": "℟. For they lose their lambs, bleating without a voice.",
           "sourcePages": [
             524
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              524
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -713,7 +891,17 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              524
+            ],
+            "note": "The printed direction repeats this office’s Matins collect."
+          }
         }
       ]
     },
@@ -744,7 +932,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -765,7 +953,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -786,67 +974,102 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Respirate lachrymosae Matres, Matris dolorosae Jam sub Cruce symbola! Natis vestris una datum Caede mori: Sed hunc Natum Mille iterent vulnera,",
-          "english": null,
+          "english": "Take breath, tearful mothers, already images of the sorrowful Mother beneath the Cross! Your children were given to die by a single slaughter; but a thousand wounds shall pierce this Son,",
           "sourcePages": [
             524
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              524
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Cujus quondam rigidus Animam et Matris flentem, Contristantem ac dolentem Pertransibit gladius.",
-          "english": null,
+          "english": "Whose rigid sword shall one day also pierce the soul of His Mother, weeping, grieving, and sorrowing.",
           "sourcePages": [
             524
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              524
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Suam ipsius animam doloris gladius pertransibit, ut reveletur ex multis cordibus cogitationes.",
-          "english": null,
+          "english": "Ant. A sword of sorrow shall pierce her own soul, that the thoughts of many hearts may be revealed.",
           "sourcePages": [
             524
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              524
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Cum Tyrannus jactabat infantes,",
-          "english": null,
+          "english": "℣. When the tyrant cast down the infants,",
           "sourcePages": [
             524
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              524
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Matres crines capitis dissipabAnt.",
-          "english": null,
+          "english": "℟. The mothers dishevelled the hair of their heads.",
           "sourcePages": [
             524
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              524
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -867,7 +1090,17 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              524
+            ],
+            "note": "The printed direction repeats this office’s Matins collect."
+          }
         }
       ]
     },
@@ -899,7 +1132,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -920,7 +1153,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -941,56 +1174,86 @@
           },
           "alignment": "reviewed",
           "id": "none-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Eja! moestae genitrices! Plausus date jam victrices Parvulis Heroibus, Hilares indutae vultus Tristes ponite singultus, Cernite, quam inclitus Sanguis vester rosea Martyrum futuri Regis, Nove Platis quondam Legis, Jam micescat purpura.",
-          "english": null,
+          "english": "Come, sorrowful mothers! Now victorious, give applause to the little heroes. Put on cheerful faces and lay aside sad sobs. See how your illustrious blood now shines in the rosy purple of martyrs of the coming King [the printed clause Nove Platis quondam Legis is unintelligible].",
           "sourcePages": [
             524,
             525
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              524,
+              525
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF itself prints Nove Platis quondam Legis. This clause is not securely intelligible and is explicitly unresolved in English."
         },
         {
           "type": "prayer",
           "source": "Ant. Hi sunt, qui laverunt stolas suas, et dealbaverunt eas in sanguine Agni: Ideo sunt ante thronum Dei, et serviunt ei die ac nocte in templo ejus.",
-          "english": null,
+          "english": "Ant. These are they who washed their robes and made them white in the Blood of the Lamb. Therefore they are before the throne of God and serve Him day and night in His temple.",
           "sourcePages": [
             525
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              525
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Effuderunt sanguinem Sanctorum,",
-          "english": null,
+          "english": "℣. They poured out the blood of the saints",
           "sourcePages": [
             525
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              525
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Velut aquam in circuitu Jerusalem.",
-          "english": null,
+          "english": "℟. Like water around Jerusalem.",
           "sourcePages": [
             525
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              525
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1011,7 +1274,17 @@
           },
           "alignment": "reviewed",
           "id": "none-b0008",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              525
+            ],
+            "note": "The printed direction repeats this office’s Matins collect."
+          }
         }
       ]
     },
@@ -1042,7 +1315,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1063,7 +1336,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1084,55 +1357,84 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Cernite, quo vestimento Virginali ex argento Innocentis animi, Jesu Mater, chare Matres! Natos vestros sui fratres Exornarit Filii; Paradyso gaudiis Una se jam delectantes, Laetos Christum exspectantes Reducem a mortuis.",
-          "english": null,
+          "english": "See, dear mothers, with what clothing of the virginal silver of an innocent soul the Mother of Jesus has adorned your children, brothers of her Son: now delighting together in the joys of Paradise, joyfully awaiting Christ’s return from the dead.",
           "sourcePages": [
             525
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              525
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0004",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed Innocentis animi and Paradyso gaudiis contain defective agreement. English provisionally follows the clothing and Paradise imagery."
         },
         {
           "type": "prayer",
           "source": "Ant. Beata es o Bethlehem, Terra Juda, quae Herodis Regis immanitatem in puerorum extinctione perpessa eodem tempore candidatam Plebem imbellis infantiae Deo obtulisti.",
-          "english": null,
+          "english": "Ant. Blessed art thou, Bethlehem, land of Juda, who, having endured the cruelty of King Herod in the slaughter of children, at that same time didst offer God a white-robed people of defenceless infancy.",
           "sourcePages": [
             525
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              525
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Isti sunt, qui non inquinaverunt vestimenta sua,",
-          "english": null,
+          "english": "℣. These are they who have not defiled their garments;",
           "sourcePages": [
             525
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              525
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Ambulabunt mecum in albis, quia digni sunt.",
-          "english": null,
+          "english": "℟. They shall walk with Me in white, for they are worthy.",
           "sourcePages": [
             525
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              525
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1153,7 +1455,17 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0008",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              525
+            ],
+            "note": "The printed direction repeats this office’s Matins collect."
+          }
         }
       ]
     },
@@ -1184,7 +1496,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1205,7 +1517,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1226,7 +1538,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1247,7 +1559,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1268,55 +1580,84 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Christo Crucem sed perpesso, Et a mortuis regressso Qui coelorum Principi Ante thronum jam servitis, Splendidaque superbitiis Purpura Martyrii; Vestro nos precamine Promptos, simul, atque fortes Per adversitatum sortes Hic in terris reddite.",
-          "english": null,
+          "english": "But after Christ has endured the Cross and returned from the dead, you who now serve the Prince of heaven before His throne and glory in the splendid purple of martyrdom: by your prayers make us both ready and strong amid the lots of adversity here on earth.",
           "sourcePages": [
             525
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              525
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0006",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed regressso and superbitiis are retained; English provisionally reads returned and glory in from context."
         },
         {
           "type": "prayer",
           "source": "Ant. Mittentes coronas suas ante thronum Domini Dei sui, ceciderunt in conspectu throni in facies suas, et benedixerunt viventem in saecula saeculorum.",
-          "english": null,
+          "english": "Ant. Casting their crowns before the throne of the Lord their God, they fell upon their faces before the throne and blessed Him Who lives for ever and ever.",
           "sourcePages": [
             525
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              525
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Hi empti sunt ex hominibus,",
-          "english": null,
+          "english": "℣. These were purchased from among men,",
           "sourcePages": [
             525
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              525
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Primitiae Deo et Agno.",
-          "english": null,
+          "english": "℟. Firstfruits to God and to the Lamb.",
           "sourcePages": [
             525
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              525
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1337,7 +1678,17 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0010",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              525
+            ],
+            "note": "The printed direction repeats this office’s Matins collect."
+          }
         }
       ]
     },
@@ -1353,38 +1704,59 @@
         {
           "type": "prayer",
           "source": "Laudes istas ex amore Vestro dictas pro honore, Coronati Pugiles! Mente sumite serena, Hacque Mundi in arena Veros ut Christiades, Sic certamen gerere Nos pro Christo edocete, Ut vobiscum quondam laete Astra detur colere.",
-          "english": null,
+          "english": "Crowned champions, receive with a peaceful mind these praises spoken in love for your honour. In this arena of the world, teach us to fight for Christ as His true followers, that one day we may be given joyfully to dwell in the stars with you.",
           "sourcePages": [
             525
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              525
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Cantabant Sancti canticum novum ante sedem Dei et Agni, et resonabat terra in voces eorum.",
-          "english": null,
+          "english": "Ant. The saints sang a new song before the throne of God and of the Lamb, and the earth resounded with their voices.",
           "sourcePages": [
             525
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              525
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Orate pro nobis SS. Innocentes,",
-          "english": null,
+          "english": "℣. Pray for us, Holy Innocents.",
           "sourcePages": [
             525
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              525
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1405,7 +1777,7 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1426,23 +1798,42 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O Sanctissimi Innocentes, Flores et primitiae Martyrum, qui per innocentiam, palmamque Martyrii, Dei Filio infantes adhuc adhaesistis; Dignamini de plenitudine gratiae et innocentiae vestrae infirmitati ac miseriae meae succurrere, veniam peccatorum impetrare, illamque mihi consolationem exhibere, ut qui et ipse hanc lachrymarum vallem plorans et lachrymans intravi, vestra protectione in hac vita, ita valide semper defendar, quo peccatis omnibus Christi mundatus sanguine, ad aeterna tandem Regni caelestis gaudia comitantibus vobis merear proficisci. Per Jesum Christum, Dominum nostrum. Amen.",
-          "english": null,
+          "english": "O most holy Innocents, flowers and firstfruits of martyrs, who, while still infants, cleaved to the Son of God through innocence and the palm of martyrdom: deign from the fullness of your grace and innocence to assist my weakness and misery, to obtain pardon for my sins, and to give me this consolation: that I, who also entered this valley of tears weeping and shedding tears, may always be so strongly defended in this life by your protection that, cleansed from all sins by the Blood of Christ, I may at last deserve to go, accompanied by you, to the eternal joys of the heavenly kingdom. Through Jesus Christ our Lord. Amen.",
           "sourcePages": [
             525,
             526
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              525,
+              526
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "editorialNotes": [
+    {
+      "text": "Prepared English was compared visually with PDF pages 523–526. All eight hours and the commendation are retained. Printed collect directions expand within this office. The defective None hymn clause is explicitly unresolved in English; other printed forms are provisionally rendered and documented. Source reading remains pending.",
+      "pages": [
+        523,
+        524,
+        525,
+        526
+      ]
+    }
+  ]
 }

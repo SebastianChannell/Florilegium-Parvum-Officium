@@ -8858,15 +8858,15 @@
         }
       ],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-prepared",
+        "verification": "source-reading-pending"
       },
       "coverage": {
         "blocks": 84,
-        "missingEnglish": 55,
+        "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 27
+        "preparedEnglish": 82
       }
     },
     {
@@ -9001,15 +9001,15 @@
       "variantMentions": [],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-prepared",
+        "verification": "source-reading-pending"
       },
       "coverage": {
         "blocks": 86,
-        "missingEnglish": 50,
+        "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 35
+        "preparedEnglish": 85
       }
     },
     {
@@ -12115,15 +12115,15 @@
         }
       ],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-prepared",
+        "verification": "source-reading-pending"
       },
       "coverage": {
         "blocks": 97,
-        "missingEnglish": 43,
+        "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 54
+        "preparedEnglish": 97
       }
     },
     {
@@ -13854,15 +13854,15 @@
         }
       ],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-prepared",
+        "verification": "source-reading-pending"
       },
       "coverage": {
         "blocks": 81,
-        "missingEnglish": 43,
+        "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 38
+        "preparedEnglish": 81
       }
     },
     {

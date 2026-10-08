@@ -46,9 +46,9 @@
   ],
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
-    "extraction": "candidate",
-    "translation": "incomplete",
-    "verification": "pending"
+    "extraction": "reviewed",
+    "translation": "complete-prepared",
+    "verification": "source-reading-pending"
   },
   "sections": [
     {
@@ -62,14 +62,21 @@
         {
           "type": "prayer",
           "source": "I. Dolor ex Simeonis Vaticinio",
-          "english": null,
+          "english": "I. Sorrow from Simeon’s prophecy",
           "sourcePages": [
             395
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              395
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -90,7 +97,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0002",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             105
           ],
@@ -115,7 +122,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -136,7 +143,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -157,7 +164,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -178,7 +185,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -199,7 +206,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -219,7 +226,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0008",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             54
           ],
@@ -244,79 +251,122 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ave, dulcis Mater Christi, Quae cur tuum gladio Transfingendum audis tristi Senis vaticinio.",
-          "english": null,
+          "english": "Hail, sweet Mother of Christ, who hearest in the old man’s sad prophecy that thy heart shall be pierced with a sword.",
           "sourcePages": [
             395
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              395
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints cur tuum and Transfingendum. English provisionally reads the intended heart and piercing from the surrounding prophecy; Latin is retained."
         },
         {
           "type": "prayer",
           "source": "Tanti memor fac doloris, Mihi sis praesidio, Ut post vallem hanc meroris Coeli reddar gaudio.",
-          "english": null,
+          "english": "Remembering so great a sorrow, be my protection, that after this valley of mourning I may be restored to the joy of heaven.",
           "sourcePages": [
             395
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              395
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Cui comparabo te vel cui assimilabo te, filia Jerusalem? cui exaequabo te, et consolabor te, Virgo, filia Sion? magna est enim velut mare contritio tua. (Thren. 2, 13.)",
-          "english": null,
+          "english": "Ant. To whom shall I compare thee, or to whom shall I liken thee, daughter of Jerusalem? To whom shall I equal thee, that I may comfort thee, Virgin daughter of Sion? For thy affliction is great as the sea. (Thren. 2:13)",
           "sourcePages": [
             395
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              395
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0012",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Tuam ipsius animam doloris gladius pertransibit.",
-          "english": null,
+          "english": "℣. A sword of sorrow shall pierce thine own soul.",
           "sourcePages": [
             395
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              395
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0013",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Ut revelentur ex multis cordibus cogitationes. (Luc. 2, 35.)",
-          "english": null,
+          "english": "℟. That the thoughts of many hearts may be revealed. (Luc. 2:35)",
           "sourcePages": [
             395
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              395
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0014",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Oremus, Interveniat pro nobis, quaesumus, Domine Jesu Christe, nunc et in hora mortis nostrae apud tuam clementiam B. Virgo Maria, Mater tua, cujus sacratissimam animam in hora tuae passionis doloris gladius pertransivit. Per te, Jesu Christe, Salvator mundi, qui cum Patre et Spiritu Sancto vivis et regnas in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "Let us pray. We beseech Thee, Lord Jesus Christ, that now and at the hour of our death the blessed Virgin Mary, Thy Mother, whose most holy soul was pierced by a sword of sorrow at the hour of Thy Passion, may intercede for us with Thy mercy. Through Thee, Jesus Christ, Saviour of the world, Who with the Father and the Holy Spirit livest and reignest for ever and ever. Amen.",
           "sourcePages": [
             395
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              395
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0015",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -331,26 +381,49 @@
         {
           "type": "prayer",
           "source": "II. Dolor ex Fuga in Aegyptum",
-          "english": null,
+          "english": "II. Sorrow from the flight into Egypt",
           "sourcePages": [
             395
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              395
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ave Maria.",
-          "english": null,
+          "english": "Hail Mary.",
           "sourcePages": [
             395
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              395
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0002"
+            ],
+            "sourcePages": [
+              395
+            ],
+            "note": "The printed incipit repeats the full Hail Mary from Matins."
+          }
         },
         {
           "type": "prayer",
@@ -371,7 +444,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -392,7 +465,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -413,79 +486,132 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ave, dulcis Mater Christi, Quae prae regis furia Sevente, corde tristi, Fugis exul patria.",
-          "english": null,
+          "english": "Hail, sweet Mother of Christ, who, before the raging fury of the king, fleest thy homeland as an exile with a sorrowful heart.",
           "sourcePages": [
             395
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              395
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0006",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed Sevente is retained; English provisionally follows the king’s raging fury from context."
         },
         {
           "type": "prayer",
           "source": "Pro Regina beatorum, Nostri spes exilii, Fac, infractus vel malorum Fiam consors Filii.",
-          "english": null,
+          "english": "O Queen of the blessed, hope of our exile, grant that, unbroken even by evils, I may become a companion of thy Son.",
           "sourcePages": [
             395
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              395
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0007",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed Pro Regina and infractus vel malorum are grammatically defective. English provisionally follows the address to the Queen and remaining unbroken by evils."
         },
         {
           "type": "prayer",
           "source": "Ant. Vide, Domine, quoniam tribulor, conturbatus est venter meus; subversus est cor meum in moerentia, quoniam amaritudine plena sum: foris interfecit gladius, et domi mors similis est. (Thren. 2.)",
-          "english": null,
+          "english": "Ant. See, O Lord, for I am afflicted; my inward parts are troubled, my heart is overturned in mourning, for I am full of bitterness. Outside, the sword has slain; and at home there is a like death. (Thren. 2)",
           "sourcePages": [
             395
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              395
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Domine, ante te omne desiderium meum.",
-          "english": null,
+          "english": "℣. Lord, all my desire is before Thee.",
           "sourcePages": [
             395
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              395
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Et gemitus meus a te non est absconditus.",
-          "english": null,
+          "english": "℟. And my groaning is not hidden from Thee.",
           "sourcePages": [
             395
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              395
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Oremus, Interveniat pro nobis, etc. ut supra.",
-          "english": null,
+          "english": "Let us pray. May she intercede for us, etc., as above.",
           "sourcePages": [
             395
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              395
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0011",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0015"
+            ],
+            "sourcePages": [
+              395
+            ],
+            "note": "The printed abbreviation repeats this office’s Matins collect."
+          }
         }
       ]
     },
@@ -500,26 +626,50 @@
         {
           "type": "prayer",
           "source": "III. Dolor ex amisso Duodennem Filio",
-          "english": null,
+          "english": "III. Sorrow from the loss of the twelve-year-old Son",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The heading prints Duodennem; English reads the evidently intended twelve-year-old."
         },
         {
           "type": "prayer",
           "source": "Ave Maria.",
-          "english": null,
+          "english": "Hail Mary.",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0002"
+            ],
+            "sourcePages": [
+              396
+            ],
+            "note": "The printed incipit repeats the full Hail Mary from Matins."
+          }
         },
         {
           "type": "prayer",
@@ -540,7 +690,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -561,7 +711,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -582,79 +732,130 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ave, dulcis Mater Christi, Natum lugens inclytum: O quam tristis quaesivisti Triduo jam perditum!",
-          "english": null,
+          "english": "Hail, sweet Mother of Christ, grieving for thy glorious Son. O how sorrowfully thou didst seek Him, already lost for three days!",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Hujus memor o doloris, Christum fac inveniam, Et inventum per amoris Nexum semper teneam.",
-          "english": null,
+          "english": "Remembering this sorrow, grant that I may find Christ and, having found Him, always hold Him by the bond of love.",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Plorans ploravit in nocte, et lacrimae ejus in maxillis ejus: non est qui consoletur eam ex omnibus charis ejus. (Thren. 1, 2.)",
-          "english": null,
+          "english": "Ant. She wept bitterly in the night, and her tears are on her cheeks; among all her loved ones there is none to comfort her. (Thren. 1:2)",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Posuisti me desolatam.",
-          "english": null,
+          "english": "℣. Thou hast made me desolate.",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Tota die merore confectam. (Thren. 1, 13.)",
-          "english": null,
+          "english": "℟. Worn out with mourning all the day. (Thren. 1:13)",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Oremus, Interveniat, etc.",
-          "english": null,
+          "english": "Let us pray. May she intercede, etc.",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0011",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0015"
+            ],
+            "sourcePages": [
+              396
+            ],
+            "note": "The printed abbreviation repeats this office’s Matins collect."
+          }
         }
       ]
     },
@@ -669,26 +870,49 @@
         {
           "type": "prayer",
           "source": "IV. Dolor ex Captivitate, Flagellatione, Coronatione et Bajulatione Crucis Christi",
-          "english": null,
+          "english": "IV. Sorrow from Christ’s captivity, scourging, crowning, and carrying of the Cross",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ave Maria.",
-          "english": null,
+          "english": "Hail Mary.",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0002"
+            ],
+            "sourcePages": [
+              396
+            ],
+            "note": "The printed incipit repeats the full Hail Mary from Matins."
+          }
         },
         {
           "type": "prayer",
@@ -709,7 +933,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -730,7 +954,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -751,79 +975,131 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ave, dulcis Mater Christi, Quae dolorem Filium Capi, caedi, flens vidisti Manibus crudeliùm:",
-          "english": null,
+          "english": "Hail, sweet Mother of Christ, who weeping didst see thy Son seized and beaten by cruel hands [the printed word dolorem is defective here].",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0006",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed dolorem Filium is defective; English retains the intelligible seizure and beating and flags the intervening word."
         },
         {
           "type": "prayer",
           "source": "O per poenas patientis, Nobis sit impunitas! Per amorem condolentis Matris crescat charitas!",
-          "english": null,
+          "english": "O through the pains of Him Who suffered, may we be spared punishment! Through the love of the Mother Who suffered with Him, may charity increase!",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Videte, Domine, et considerate quoniam facta sum vilis: erectus est inimicus. Manum suam misit hostis ad omnia desiderabilia mea. (Thren. 1, 9–10.)",
-          "english": null,
+          "english": "Ant. See, O Lord, and consider, for I have become despised; the enemy has risen up. The foe has stretched out his hand over all my precious things. (Thren. 1:9–10)",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Quia dedit capiti meo aquam, et oculis meis fontem lacrymarum.",
-          "english": null,
+          "english": "℣. For He gave water to my head and a fountain of tears to my eyes.",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Et plorabo die ac nocte.",
-          "english": null,
+          "english": "℟. And I shall weep by day and by night.",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Oremus, Interveniat, etc.",
-          "english": null,
+          "english": "Let us pray. May she intercede, etc.",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0011",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0015"
+            ],
+            "sourcePages": [
+              396
+            ],
+            "note": "The printed abbreviation repeats this office’s Matins collect."
+          }
         }
       ]
     },
@@ -838,26 +1114,49 @@
         {
           "type": "prayer",
           "source": "V. Dolor ex Crucifixione",
-          "english": null,
+          "english": "V. Sorrow from the Crucifixion",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ave Maria.",
-          "english": null,
+          "english": "Hail Mary.",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0002"
+            ],
+            "sourcePages": [
+              396
+            ],
+            "note": "The printed incipit repeats the full Hail Mary from Matins."
+          }
         },
         {
           "type": "prayer",
@@ -878,7 +1177,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -899,7 +1198,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -920,79 +1219,130 @@
           },
           "alignment": "reviewed",
           "id": "none-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ave, dulcis Mater Christi, Quae sub Crucis arbore Gemens, Natum morti tristi Vides, heu! succumbere,",
-          "english": null,
+          "english": "Hail, sweet Mother of Christ, who, groaning beneath the tree of the Cross, seest, alas, thy Son succumb to a sorrowful death.",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O per enses hujus doloris, Qui tunc scidit animam, Fac me firmet vis amoris Mortis ad victoriam.",
-          "english": null,
+          "english": "O through the swords of this sorrow which then rent thy soul, grant that the power of love may strengthen me for victory over death.",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. O vos omnes, qui transitis per viam, attendite et videte, si est dolor, sicut dolor meus. (Thren. 1, 12.)",
-          "english": null,
+          "english": "Ant. O all ye who pass by the way, attend and see if there is any sorrow like my sorrow. (Thren. 1:12)",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Plauserunt super te manibus omnes transeuntes per viam.",
-          "english": null,
+          "english": "℣. All who pass by the way have clapped their hands over thee.",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Sibilaverunt et moverunt caput suum super filiam Jerusalem. (Thren. 2, 15.)",
-          "english": null,
+          "english": "℟. They hissed and shook their heads over the daughter of Jerusalem. (Thren. 2:15)",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Oremus, Interveniat, etc.",
-          "english": null,
+          "english": "Let us pray. May she intercede, etc.",
           "sourcePages": [
             396
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0011",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0015"
+            ],
+            "sourcePages": [
+              396
+            ],
+            "note": "The printed abbreviation repeats this office’s Matins collect."
+          }
         }
       ]
     },
@@ -1008,15 +1358,23 @@
         {
           "type": "prayer",
           "source": "VI. Dolor ex Corporis e Cruce Sublatione Ave Maria.",
-          "english": null,
+          "english": "VI. Sorrow from the taking down of the body from the Cross. Hail Mary.",
           "sourcePages": [
             396,
             397
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              396,
+              397
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1037,7 +1395,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1058,7 +1416,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1079,43 +1437,66 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ave, dulcis Mater Christi Quae de Cruce mortuum Unis Natum suscepisti, Madens unda fletuum.",
-          "english": null,
+          "english": "Hail, sweet Mother of Christ, who didst receive thy dead Son from the Cross [the printed Unis is defective], drenched in a flood of tears.",
           "sourcePages": [
             397
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              397
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed Unis Natum is defective; the English marks the unclear word rather than silently reconstructing it."
         },
         {
           "type": "prayer",
           "source": "O praetestis vir doloris, Mater plena gratiae, Ut supremis server horis Gremio clementiae.",
-          "english": null,
+          "english": "O Mother full of grace, [the printed opening praetestis vir doloris is unclear], may I be preserved in my last hours in the bosom of mercy.",
           "sourcePages": [
             397
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              397
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0006",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed praetestis vir doloris is not securely intelligible; English explicitly leaves this opening unresolved."
         },
         {
           "type": "prayer",
           "source": "Ant. Ne vocetis me Noemi (id est pulchram), sed vocate me Mara (id est amaram), quia amaritudine valde me replevit Omnipotens. (Ruth. 1, 20.)",
-          "english": null,
+          "english": "Ant. Call me not Noemi, that is, beautiful, but call me Mara, that is, bitter, for the Almighty has greatly filled me with bitterness. (Ruth 1:20)",
           "sourcePages": [
             397
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              397
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1137,32 +1518,55 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0008",
-          "verification": "pending",
+          "verification": "visual-review",
           "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
           "source": "℟. Inter ubera mea commorabitur. (Cant. 1, 12.)",
-          "english": null,
+          "english": "℟. He shall abide between my breasts. (Cant. 1:12)",
           "sourcePages": [
             397
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              397
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Oremus, Interveniat, etc.",
-          "english": null,
+          "english": "Let us pray. May she intercede, etc.",
           "sourcePages": [
             397
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              397
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0010",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0015"
+            ],
+            "sourcePages": [
+              397
+            ],
+            "note": "The printed abbreviation repeats this office’s Matins collect."
+          }
         }
       ]
     },
@@ -1177,26 +1581,49 @@
         {
           "type": "prayer",
           "source": "VII. Dolor ex Sepultura",
-          "english": null,
+          "english": "VII. Sorrow from the burial",
           "sourcePages": [
             397
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              397
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ave Maria.",
-          "english": null,
+          "english": "Hail Mary.",
           "sourcePages": [
             397
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              397
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0002"
+            ],
+            "sourcePages": [
+              397
+            ],
+            "note": "The printed incipit repeats the full Hail Mary from Matins."
+          }
         },
         {
           "type": "prayer",
@@ -1217,7 +1644,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1238,7 +1665,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1259,7 +1686,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1280,7 +1707,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1301,91 +1728,149 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ave, dulcis Mater Christi, Quae sepulchro conditum Plangis Natum, heu! quam tristi Mente volvens obitum.",
-          "english": null,
+          "english": "Hail, sweet Mother of Christ, who bewailest thy Son laid in the tomb; alas, with how sorrowful a mind thou dost ponder His death.",
           "sourcePages": [
             397
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              397
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "In virtute tot dolorum, Quos tulisti fortiter, Omnem contra vim malorum Stare nos viriliter,",
-          "english": null,
+          "english": "Through the strength of so many sorrows which thou didst bravely bear, grant that we may stand courageously against every power of evil,",
           "sourcePages": [
             397
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              397
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Demum sorte beatorum Fac gaudere jugiter.",
-          "english": null,
+          "english": "And at last rejoice continually in the lot of the blessed.",
           "sourcePages": [
             397
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              397
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Idcirco ego plorans, et oculus meus deducens aquas: quia longe factus est a me consolator, convertens animam meam. (Thren. 1, 16.)",
-          "english": null,
+          "english": "Ant. Therefore I weep, and my eye pours forth waters, for the comforter who restores my soul has become far from me. (Thren. 1:16)",
           "sourcePages": [
             397
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              397
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Defecerunt prae lacrymis oculi mei.",
-          "english": null,
+          "english": "℣. My eyes have failed through tears.",
           "sourcePages": [
             397
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              397
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0012",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Conturbata sunt viscera mea. (Thren. 2, 11.)",
-          "english": null,
+          "english": "℟. My inward parts are troubled. (Thren. 2:11)",
           "sourcePages": [
             397
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              397
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0013",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Oremus, Interveniat, etc.",
-          "english": null,
+          "english": "Let us pray. May she intercede, etc.",
           "sourcePages": [
             397
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              397
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0014",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0015"
+            ],
+            "sourcePages": [
+              397
+            ],
+            "note": "The printed abbreviation repeats this office’s Matins collect."
+          }
         }
       ]
     },
@@ -1400,18 +1885,36 @@
         {
           "type": "prayer",
           "source": "Has horas canonicas cum devotione, Tibi, Virgo, recolo pia ratione, Ut matenis pectoris ex compassione, Mihi sis auxilio mortis in Agone. Amen.",
-          "english": null,
+          "english": "With devotion, O Virgin, I recall these canonical hours to thee in a pious manner, that through the compassion of thy maternal heart thou mayest assist me in the agony of death. Amen.",
           "sourcePages": [
             397
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              397
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed matenis is retained; English provisionally reads the intended maternal from the compassion and breast imagery."
         }
       ]
     }
   ],
   "unpairedEnglish": [],
-  "translationScope": "marked"
+  "translationScope": "marked",
+  "editorialNotes": [
+    {
+      "text": "Prepared English was compared visually with PDF pages 395–397. The seven printed sorrows, seven actual hours, and commendation are retained; no Lauds is added. Hail Mary and collect abbreviations expand from this office’s own Matins. Several printed hymn phrases remain explicitly provisional or unresolved, keeping source reading pending. The printed Septuagesima rubric and the differing reused supplied English Lent wording remain documented.",
+      "pages": [
+        395,
+        396,
+        397
+      ]
+    }
+  ]
 }

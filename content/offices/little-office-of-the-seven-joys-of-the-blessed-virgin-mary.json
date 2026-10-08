@@ -28,9 +28,9 @@
   ],
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
-    "extraction": "candidate",
-    "translation": "incomplete",
-    "verification": "pending"
+    "extraction": "reviewed",
+    "translation": "complete-prepared",
+    "verification": "source-reading-pending"
   },
   "sections": [
     {
@@ -44,38 +44,59 @@
         {
           "type": "prayer",
           "source": "Ave Maria, etc. Sicut laetantium omnium nostrum habitatio est in te, Sancta Dei Genitrix.",
-          "english": null,
+          "english": "Hail Mary, etc. The dwelling of all of us who rejoice is in thee, holy Mother of God.",
           "sourcePages": [
             398
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              398
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Eja mea labia nunc annunciate.",
-          "english": null,
+          "english": "℣. Come, my lips, now proclaim",
           "sourcePages": [
             398
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              398
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Sacra septem gaudia Mariae beatae.",
-          "english": null,
+          "english": "℟. The seven sacred joys of blessed Mary.",
           "sourcePages": [
             398
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              398
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -96,19 +117,26 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. A moerore animi clementer nos defende. Gloria Patri, et Filio, et Spiritui Sancto.",
-          "english": null,
+          "english": "℟. Mercifully defend us from sorrow of mind. Glory be to the Father, and to the Son, and to the Holy Spirit.",
           "sourcePages": [
             398
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              398
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -129,19 +157,27 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Gaude, Virgo Mater Christi, Quia Jesum concepisti Gabriele nuntio, Fac, o Mater, ut salvemur, Nam quod Matrem te fatemur, Resta poscit ratio.",
-          "english": null,
+          "english": "Rejoice, Virgin Mother of Christ, for thou didst conceive Jesus at Gabriel’s announcement. Grant, O Mother, that we may be saved, for right reason requires that we confess thee to be Mother.",
           "sourcePages": [
             398
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              398
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0007",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints Resta poscit ratio. English provisionally reads the evident right reason, retaining the printed word."
         },
         {
           "type": "rubric",
@@ -162,43 +198,64 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Laetentur coeli et exsultet terra, gaudete campi et omnia quae in eis sunt.",
-          "english": null,
+          "english": "Let the heavens rejoice and the earth exult; rejoice, fields and all things that are in them.",
           "sourcePages": [
             398
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              398
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Angelus Domini nunciavit Mariae, Alleluja.",
-          "english": null,
+          "english": "℣. The Angel of the Lord announced unto Mary. Alleluia.",
           "sourcePages": [
             398
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              398
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Et concepit de Spiritu Sancto, Alleluja.",
-          "english": null,
+          "english": "℟. And she conceived of the Holy Spirit. Alleluia.",
           "sourcePages": [
             398
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              398
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -219,19 +276,26 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0012",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Deus, qui de beatae Mariae Virginis utero verbum tuum, Angelo nunciante, carnem suscipere voluisti: praesta supplicibus tuis, ut qui vere eam Genitricem Dei credimus, ejus apud te intercessionibus adjuvemur. Per Dominum nostrum Jesum Christum.",
-          "english": null,
+          "english": "O God, Who didst will that Thy Word should take flesh from the womb of blessed Mary the Virgin at the Angel’s announcement: grant to Thy suppliants that we who truly believe her to be the Mother of God may be helped by her intercessions with Thee. Through our Lord Jesus Christ.",
           "sourcePages": [
             398
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              398
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0013",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -262,7 +326,16 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0001"
+            ],
+            "sourcePages": [
+              398
+            ],
+            "note": "The printed abbreviation repeats the opening from this office’s Matins."
+          }
         },
         {
           "type": "prayer",
@@ -283,19 +356,35 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. A moerore animi, etc. Gloria Patri, etc.",
-          "english": null,
+          "english": "℟. From sorrow of mind, etc. Glory be to the Father, etc.",
           "sourcePages": [
             398
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              398
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0005"
+            ],
+            "sourcePages": [
+              398
+            ],
+            "note": "The printed abbreviation repeats the complete response and Glory be from this office’s Matins."
+          }
         },
         {
           "type": "rubric",
@@ -316,19 +405,26 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Gaude, Mater Deo plena, Novo gignens sine poena Foetum puerperio! Eja Virgo peramena, Casto natum mens serena Stringat desiderio.",
-          "english": null,
+          "english": "Rejoice, Mother filled with God, bringing forth a Child without pain in a wondrous birth. Come, most lovely Virgin, may a peaceful mind embrace thy Son with chaste desire.",
           "sourcePages": [
             398
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              398
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -349,43 +445,64 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Venite et videte opera Domini, quae posuit prodigia super terram.",
-          "english": null,
+          "english": "Come and see the works of the Lord, Who has set wonders upon the earth.",
           "sourcePages": [
             398
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              398
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Germinavit radix Jesse, Alleluja.",
-          "english": null,
+          "english": "℣. The root of Jesse has budded. Alleluia.",
           "sourcePages": [
             398
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              398
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Virgo peperit Salvatorem, Alleluja.",
-          "english": null,
+          "english": "℟. The Virgin has brought forth the Saviour. Alleluia.",
           "sourcePages": [
             398
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              398
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -406,19 +523,26 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Deus, qui salutis aeternae beatae Mariae virginitate fecunda humano generi praemia praestitisti: tribue, quaesumus, ut ipsam pro nobis intercedere sentiamus, per quam meruimus auctorem vitae suscipere, Dominum nostrum Jesum Christum.",
-          "english": null,
+          "english": "O God, Who through the fruitful virginity of blessed Mary didst bestow upon the human race the rewards of eternal salvation: grant, we beseech Thee, that we may experience her intercession for us, through whom we deserved to receive the Author of life, our Lord Jesus Christ.",
           "sourcePages": [
             398
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              398
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -450,7 +574,16 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0001"
+            ],
+            "sourcePages": [
+              398
+            ],
+            "note": "The printed abbreviation repeats the opening from this office’s Matins."
+          }
         },
         {
           "type": "prayer",
@@ -471,19 +604,35 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. A moerore animi, etc. Gloria Patri, etc.",
-          "english": null,
+          "english": "℟. From sorrow of mind, etc. Glory be to the Father, etc.",
           "sourcePages": [
             398
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              398
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0005"
+            ],
+            "sourcePages": [
+              398
+            ],
+            "note": "The printed abbreviation repeats the complete response and Glory be from this office’s Matins."
+          }
         },
         {
           "type": "rubric",
@@ -504,20 +653,29 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Gaude, quod ab Oriente Magi stella prae lucente Dona ferunt Filio, Fac donerur pietate, Fide, spe, ac charitate, Et pudoris lilio.",
-          "english": null,
+          "english": "Rejoice, for from the East the Magi, with a star shining before them, bring gifts to thy Son. Grant that I may be endowed with piety, faith, hope, charity, and the lily of chastity.",
           "sourcePages": [
             398,
             399
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              398,
+              399
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed donerur is retained; English provisionally reads the intended may I be endowed."
         },
         {
           "type": "rubric",
@@ -538,43 +696,64 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Tollite hostias et introite atria ejus; adorate Dominum in atrio sancto ejus.",
-          "english": null,
+          "english": "Bring offerings and enter His courts; adore the Lord in His holy court.",
           "sourcePages": [
             399
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              399
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Et intrantes domum invenerunt Puerum cum Maria matre ejus, Alleluja.",
-          "english": null,
+          "english": "℣. And entering the house, they found the Child with Mary His Mother. Alleluia.",
           "sourcePages": [
             399
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              399
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Et adorantes eum, apertis thesauris suis, obtulerunt ei munera, Alleluja.",
-          "english": null,
+          "english": "℟. And adoring Him, they opened their treasures and offered Him gifts. Alleluia.",
           "sourcePages": [
             399
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              399
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -595,19 +774,26 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Deus, qui unigenitum tuum gentibus stella duce revelasti: concede propitius, ut qui jam te ex fide cognovimus, per intercessionem beatae Mariae Virginis, usque ad contemplandam speciem tuae celsitudinis perducamur. Per Dominum nostrum Jesum Christum.",
-          "english": null,
+          "english": "O God, Who with a star as guide didst reveal Thine Only-begotten to the nations: graciously grant that we who already know Thee through faith may, through the intercession of blessed Mary the Virgin, be led to contemplate the beauty of Thy majesty. Through our Lord Jesus Christ.",
           "sourcePages": [
             399
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              399
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -638,7 +824,16 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0001"
+            ],
+            "sourcePages": [
+              399
+            ],
+            "note": "The printed abbreviation repeats the opening from this office’s Matins."
+          }
         },
         {
           "type": "prayer",
@@ -659,19 +854,35 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. A moerore animi, etc. Gloria Patri, etc.",
-          "english": null,
+          "english": "℟. From sorrow of mind, etc. Glory be to the Father, etc.",
           "sourcePages": [
             399
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              399
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0005"
+            ],
+            "sourcePages": [
+              399
+            ],
+            "note": "The printed abbreviation repeats the complete response and Glory be from this office’s Matins."
+          }
         },
         {
           "type": "rubric",
@@ -692,19 +903,26 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Gaude, quia dulcis nati, Quem vidisti mortem pati, Fulget resurrectio. Fac ab imo vitiorum Surgat mens, et supernorum Gustum spiret actio.",
-          "english": null,
+          "english": "Rejoice, for the resurrection of thy sweet Son, Whom thou didst see suffer death, shines forth. Grant that the mind may rise from the depths of vice, and that action may breathe a taste of heavenly things.",
           "sourcePages": [
             399
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              399
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -725,43 +943,64 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Attollite portas principes vestras, et elevamini portae aeternales, et introibit rex gloriae.",
-          "english": null,
+          "english": "Lift up your gates, ye princes, and be lifted up, everlasting gates, and the King of glory shall enter.",
           "sourcePages": [
             399
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              399
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Gaude et laetare Virgo Maria, Alleluja.",
-          "english": null,
+          "english": "℣. Rejoice and be glad, Virgin Mary. Alleluia.",
           "sourcePages": [
             399
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              399
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Quia surrexit Dominus vere, Alleluja.",
-          "english": null,
+          "english": "℟. For the Lord has truly risen. Alleluia.",
           "sourcePages": [
             399
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              399
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -782,19 +1021,26 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Deus, qui per resurrectionem Filii tui Domini nostri Jesu Christi mundum laetificare dignatus es: praesta quaesumus, ut per ejus Genitricem Virginem Mariam perpetua capiamus gaudia vitae. Per eundem Dominum nostrum Jesum Christum.",
-          "english": null,
+          "english": "O God, Who through the resurrection of Thy Son our Lord Jesus Christ didst deign to gladden the world: grant, we beseech Thee, that through His Mother, the Virgin Mary, we may obtain the perpetual joys of life. Through the same our Lord Jesus Christ.",
           "sourcePages": [
             399
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              399
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -825,7 +1071,16 @@
           },
           "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0001"
+            ],
+            "sourcePages": [
+              399
+            ],
+            "note": "The printed abbreviation repeats the opening from this office’s Matins."
+          }
         },
         {
           "type": "prayer",
@@ -846,19 +1101,26 @@
           },
           "alignment": "reviewed",
           "id": "none-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. A moerore animi, etc. Gloria Patri, et Filio, etc.",
-          "english": null,
+          "english": "℟. From sorrow of mind, etc. Glory be to the Father, and to the Son, etc.",
           "sourcePages": [
             399
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              399
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -879,19 +1141,26 @@
           },
           "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Gaude coelos ascendente Nato, vides quem repente Ferri motu proprio. Via vitae restituta, Quem post natum tu secuta, Fac sequamur serio.",
-          "english": null,
+          "english": "Rejoice as thy Son ascends to heaven, Whom thou seest suddenly borne up by His own power. The way of life restored, grant that we may earnestly follow Him Whom thou didst follow after His birth.",
           "sourcePages": [
             399
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              399
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -912,43 +1181,64 @@
           },
           "alignment": "reviewed",
           "id": "none-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Laudate Dominum de coelis, laudate eum in excelsis.",
-          "english": null,
+          "english": "Praise the Lord from the heavens; praise Him in the heights.",
           "sourcePages": [
             399
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              399
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Videntibus illis elevatus est, Alleluja.",
-          "english": null,
+          "english": "℣. While they watched, He was lifted up. Alleluia.",
           "sourcePages": [
             399
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              399
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Et nubes suscepit eum ab oculis eorum, Alleluja.",
-          "english": null,
+          "english": "℟. And a cloud received Him from their eyes. Alleluia.",
           "sourcePages": [
             399
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              399
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -969,19 +1259,26 @@
           },
           "alignment": "reviewed",
           "id": "none-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Concede quaesumus, Omnipotens Deus, ut qui unigenitum tuum redemptorem nostrum gloriose ascendisse in coelos credimus, intercedente beata Maria Virgine matre ejus, ipsi quoque in coelestibus mereamur habitare. Per Dominum nostrum Jesum Christum.",
-          "english": null,
+          "english": "Grant, we beseech Thee, almighty God, that we who believe Thine Only-begotten, our Redeemer, to have gloriously ascended into heaven may, through the intercession of blessed Mary the Virgin His Mother, also deserve to dwell in heavenly places. Through our Lord Jesus Christ.",
           "sourcePages": [
             399
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              399
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -1013,7 +1310,16 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0001"
+            ],
+            "sourcePages": [
+              399
+            ],
+            "note": "The printed abbreviation repeats the opening from this office’s Matins."
+          }
         },
         {
           "type": "prayer",
@@ -1034,19 +1340,35 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. A moerore animi, etc. Gloria Patri, etc.",
-          "english": null,
+          "english": "℟. From sorrow of mind, etc. Glory be to the Father, etc.",
           "sourcePages": [
             400
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              400
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0005"
+            ],
+            "sourcePages": [
+              400
+            ],
+            "note": "The printed abbreviation repeats the complete response and Glory be from this office’s Matins."
+          }
         },
         {
           "type": "rubric",
@@ -1067,19 +1389,26 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Gaude, quia Paraclitus Missus coelo novos foetus Igne format Entheo. Igne sacri nos amoris, Fac accendi, ne laboris Capiamur taedio.",
-          "english": null,
+          "english": "Rejoice, for the Paraclete, sent from heaven, forms new offspring with divine fire. Grant that we may be kindled with the fire of sacred love, lest we be seized by weariness of labour.",
           "sourcePages": [
             400
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              400
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1100,43 +1429,65 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Benedicite fulgura et nubes Domino, benedicat terra Dominum, laudat et superexaltet eum in saecula.",
-          "english": null,
+          "english": "Bless the Lord, lightnings and clouds; let the earth bless the Lord, praise Him and exalt Him above all for ever.",
           "sourcePages": [
             400
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              400
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints laudat rather than an imperative or subjunctive. English follows the surrounding blessing and praise instruction; Latin is retained."
         },
         {
           "type": "prayer",
           "source": "℣. Factus est repente de coelo sonus, tanquam advenientis Spiritus vehementis, Alleluja.",
-          "english": null,
+          "english": "℣. Suddenly there came a sound from heaven, as of a mighty Spirit approaching. Alleluia.",
           "sourcePages": [
             400
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              400
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Et replevit totam domum, ubi erant sedentes. Alleluja.",
-          "english": null,
+          "english": "℟. And it filled the whole house where they were sitting. Alleluia.",
           "sourcePages": [
             400
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              400
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1157,19 +1508,26 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Deus, qui Genetrici Filii tui atque Apostolis tuis sanctum dedisti Spiritum, concede plebi tuae piae petitionis effectum, ut cui dedisti fidem, beatae Virginis intercessione eidem largiaris pacem. Per Dominum nostrum Jesum Christum.",
-          "english": null,
+          "english": "O God, Who didst give the Holy Spirit to the Mother of Thy Son and to Thine Apostles: grant Thy people the fulfilment of their devout petition, that to those to whom Thou hast given faith Thou mayest also bestow peace through the blessed Virgin’s intercession. Through our Lord Jesus Christ.",
           "sourcePages": [
             400
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              400
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -1200,19 +1558,35 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0001"
+            ],
+            "sourcePages": [
+              400
+            ],
+            "note": "The printed abbreviation repeats the opening from this office’s Matins."
+          }
         },
         {
           "type": "prayer",
           "source": "℣. Convertat nos Domina, tuis precibus placatus, Jesus Christus Filius tuus.",
-          "english": null,
+          "english": "℣. May Jesus Christ Thy Son, appeased by thy prayers, O Lady, convert us.",
           "sourcePages": [
             400
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              400
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1232,7 +1606,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0003",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             383
           ],
@@ -1257,19 +1631,35 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. A moerore animi, etc. Gloria Patri, etc.",
-          "english": null,
+          "english": "℟. From sorrow of mind, etc. Glory be to the Father, etc.",
           "sourcePages": [
             400
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              400
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0005"
+            ],
+            "sourcePages": [
+              400
+            ],
+            "note": "The printed abbreviation repeats the complete response and Glory be from this office’s Matins."
+          }
         },
         {
           "type": "rubric",
@@ -1290,19 +1680,26 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Gaude, quae post Christum scandis Astra coeli, nuncque pandis Aditum ad aethera, O fac fructu ventris tui Per te nobis detur frui In coelesti gloria.",
-          "english": null,
+          "english": "Rejoice, thou who after Christ ascendest to the stars of heaven and now openest the entrance to the skies. O grant that through thee we may be given to enjoy the Fruit of thy womb in heavenly glory.",
           "sourcePages": [
             400
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              400
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1323,43 +1720,64 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Benedicite Angeli Domini Domino: benedicite coeli Domino.",
-          "english": null,
+          "english": "Bless the Lord, angels of the Lord; bless the Lord, ye heavens.",
           "sourcePages": [
             400
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              400
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Exaltata est, Sancta Dei Genitrix, Alleluja.",
-          "english": null,
+          "english": "℣. The holy Mother of God has been exalted. Alleluia.",
           "sourcePages": [
             400
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              400
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Super choros Angelorum ad coelestia regna, Alleluja.",
-          "english": null,
+          "english": "℟. Above the choirs of angels to the heavenly kingdoms. Alleluia.",
           "sourcePages": [
             400
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              400
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1380,43 +1798,66 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0012",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Deus, qui beatam Mariam Virginem, matrem Filii tui gloriosa assumptionis laetitia in coelos assumere dignatus es: concede, ut cujus gaudia devote celebramus in terris, eadem intercedente aeternum mereamur gaudere in coelis. Per Dominum nostrum Jesum Christum.",
-          "english": null,
+          "english": "O God, Who didst deign to take blessed Mary the Virgin, Mother of Thy Son, into heaven in the glorious joy of her Assumption: grant that, as we devoutly celebrate her joys on earth, we may through her intercession deserve to rejoice eternally in heaven. Through our Lord Jesus Christ.",
           "sourcePages": [
             400
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              400
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0013",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Domine exaudi, etc. Benedicamus, etc.",
-          "english": null,
+          "english": "℣. O Lord, hear, etc. Let us bless, etc.",
           "sourcePages": [
             400
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              400
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0014",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "Only these incipits are printed, and the full closing verses do not occur elsewhere in this office. The abbreviation is translated without inventing or importing a complete conclusion."
         },
         {
           "type": "prayer",
           "source": "℟. Et Fidelium, etc.",
-          "english": null,
+          "english": "℟. And the faithful, etc.",
           "sourcePages": [
             400
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              400
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0015",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed Et Fidelium incipit has no full target in this office. It is translated as an incipit; the unresolved reference remains pending."
         }
       ]
     },
@@ -1432,14 +1873,21 @@
         {
           "type": "prayer",
           "source": "Hosce sacros, o Maria! Tibi plausus sume pia, Fusos ex laetitia! Fac et nos, post istud flere, Tibi tandem congaudere In coelesti gloria.",
-          "english": null,
+          "english": "O Mary, graciously receive these sacred acclamations poured forth to thee from joy. Grant that, after this weeping, we also may at last rejoice with thee in heavenly glory.",
           "sourcePages": [
             400
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              400
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "conclusion-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1460,24 +1908,43 @@
           },
           "alignment": "reviewed",
           "id": "conclusion-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O Sanctissima Virgo, Dei Genitrix, has preces ad honorem septem tuorum gaudiorum, meaque pro salute recitatas suscipe. O benedicta Mater misericordiae! Obsecro te per copiosa gaudia quae in coelo et in terra habebas et in aeternum habebis: impetra mihi peccatori a Domino Deo veram consolationem, et gaudium mentis, remissionem omnium peccatorum, gratiam et auxilium sancte vivendi, et tandem feliciter moriendi. Per Jesum Christum dilectissimum Filium tuum, qui cum Patre et Spiritu Sancto vivit et regnat in Trinitate perfecta Deus in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "O most holy Virgin, Mother of God, receive these prayers recited in honour of thy seven joys and for my salvation. O blessed Mother of mercy, I beseech thee through the abundant joys which thou hadst in heaven and on earth and wilt have eternally: obtain for me, a sinner, from the Lord God true consolation and joy of mind, remission of all sins, grace and help to live holily, and at last to die happily. Through Jesus Christ thy most beloved Son, Who with the Father and the Holy Spirit liveth and reigneth in the perfect Trinity, God, for ever and ever. Amen.",
           "sourcePages": [
             400,
             401
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              400,
+              401
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "conclusion-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     }
   ],
   "unpairedEnglish": [],
-  "translationScope": "marked"
+  "translationScope": "marked",
+  "editorialNotes": [
+    {
+      "text": "Prepared English was compared visually with PDF pages 398–401. All seven actual hours and the conclusion remain; no Lauds is added. The seven distinct hourly collects are retained. Repeated opening and response abbreviations expand only to matching full text within this office; the final unsupported closing incipits remain visibly pending rather than being filled from another rite. Minor printed defects are documented.",
+      "pages": [
+        398,
+        399,
+        400,
+        401
+      ]
+    }
+  ]
 }

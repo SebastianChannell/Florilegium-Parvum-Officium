@@ -13,7 +13,7 @@ Four further Latin-only offices now have English throughout:
 
 Checks: structural validation, all 35 Node tests, Python syntax checks, and editorial preview build pass. Browser integration assertions were updated for the English-only supplement, but no browser run was performed because Chromium is not installed in this runtime.
 
-Remaining: 3,270 source passages without English, 109 unresolved reference candidates, transcription/variant structure review, and final publication acceptance. Ten offices have full visual-review status; several others have been inspected but remain pending because the PDF itself contains defects. The production gate remains intact. This is a preserved continuation, not a finished publication.
+Remaining: 3,079 source passages without English, 94 unresolved reference candidates, transcription/variant structure review, and final publication acceptance. Ten offices have full visual-review status; several others have been inspected but remain pending because the PDF itself contains defects. The production gate remains intact. This is a preserved continuation, not a finished publication.
 
 ## Further continuation
 
@@ -47,3 +47,10 @@ Word-sequence reuse now requires the same ordered versicle/response signs. Twent
 Paul (583–585), Stanislaus Kostka (602–604), and Liborius (548–551) now have English rows throughout after all ten PDF pages were inspected. Paul and Stanislaus retain defective printed phrases and visibly unresolved or provisional translations; both remain pending source reading. Liborius has full visual review, with minor printed forms documented. Seven Paul versicle/response extraction artefacts are corrected to the visually verified glyphs, with original extracted text preserved. Fourteen further printed references expand from their own office’s Matins. No absent Lauds or additional hours are introduced. Preservation fixtures cover 21 continued offices.
 
 All 36 tests, structural validation, and the editorial preview build pass. Current coverage: 82 offices, 686 sections, 11,282 rows, 3,270 missing English rows, 4,461 prepared translations including notes, no unpaired supplied English, ten fully visually reviewed offices, and 109 unresolved reference candidates. Browser integration and publication remain outstanding; the release gate is unchanged.
+
+
+## Four further Marian and saint offices
+
+Seven Dolours (395–397), Dismas (476–479), Seven Joys (398–401), and Holy Innocents (523–526) now have English rows throughout after visual comparison with all 15 PDF pages. The first and third retain seven printed hours and no Lauds; Dismas and Holy Innocents retain eight. All include their concluding prayers and printed supplementary material. Seven Joys retains seven distinct collects. Printed repetitions expand only within their own office. Its final closing incipits have no complete target in that office and remain pending rather than being imported or invented. Defective printed clauses are explicitly unresolved or provisional. All four offices remain pending source reading.
+
+These four offices add 191 prepared rows and resolve 15 recorded reference candidates. Original source text, prior English, and printed section preservation fixtures now cover 25 continued offices. All 36 tests, structural validation, and the editorial preview build pass. Coverage is now 3,079 missing English rows, 4,652 prepared translations including notes, ten fully visually reviewed offices, and 94 unresolved reference candidates. Publication remains gated; no browser run or merge is claimed.

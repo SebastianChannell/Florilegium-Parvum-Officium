@@ -28,9 +28,9 @@
   ],
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
-    "extraction": "candidate",
-    "translation": "incomplete",
-    "verification": "pending"
+    "extraction": "reviewed",
+    "translation": "complete-prepared",
+    "verification": "source-reading-pending"
   },
   "sections": [
     {
@@ -44,50 +44,79 @@
         {
           "type": "prayer",
           "source": "Disma poenitens praeclare, Recolli non dedignare Oda hac canonica, Cui post seram poenitere Primo tamen patuere Paradisi ostia.",
-          "english": null,
+          "english": "Illustrious penitent Dismas, disdain not to be honoured by this canonical ode, thou to whom, after late repentance, the gates of Paradise nevertheless opened first.",
           "sourcePages": [
             476
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              476
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "ingressus-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints Recolli and post seram poenitere. English provisionally follows the intended honour and late repentance; printed wording is retained."
         },
         {
           "type": "prayer",
           "source": "Ant. In domo Patris mei multae sunt mansiones: erunt novissimi primi, et primi erunt novissimi.",
-          "english": null,
+          "english": "Ant. In My Father’s house are many dwellings; the last shall be first, and the first shall be last.",
           "sourcePages": [
             476
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              476
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "ingressus-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. In quacunque die conversus fuerit ab impietate sua",
-          "english": null,
+          "english": "℣. On whatever day he turns from his impiety,",
           "sourcePages": [
             476
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              476
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "ingressus-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Impietas impii non nocebit ei.",
-          "english": null,
+          "english": "℟. The impiety of the wicked man shall not harm him.",
           "sourcePages": [
             476
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              476
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "ingressus-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -118,7 +147,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -139,7 +168,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -160,7 +189,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -181,7 +210,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -202,7 +231,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -223,7 +252,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -244,55 +273,85 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Non Aegyptus thura dabat Tot Idolis: abundabat Saevis quot latronibus; Inter quales et fuisse, Disma! datur, te legisse, Huc dum fugit Jesulus.",
-          "english": null,
+          "english": "Egypt did not offer incense to so many idols as the fierce robbers with which it abounded. Dismas, it is given us to read that thou also wast among them when the little Jesus fled there.",
           "sourcePages": [
             476
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              476
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0008",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The historical scene belongs to the printed devotional hymn; it is translated as the hymn’s narrative, without independent historical certification."
         },
         {
           "type": "prayer",
           "source": "Ant. Dispendentur a facie ejus idola Aegypti: lappa et tribulus ascendet super aras eorum.",
-          "english": null,
+          "english": "Ant. The idols of Egypt shall be scattered before His face; burdock and thistle shall grow over their altars.",
           "sourcePages": [
             476
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              476
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0009",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed Dispendentur is retained; English provisionally reads the intended scattering of idols from context."
         },
         {
           "type": "prayer",
           "source": "℣. Lucernas accendit illis,",
-          "english": null,
+          "english": "℣. He lights lamps for them,",
           "sourcePages": [
             476
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              476
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Ne a latronibus exspolientur.",
-          "english": null,
+          "english": "℟. Lest they be plundered by robbers.",
           "sourcePages": [
             476
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              476
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -313,19 +372,26 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0012",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Misericordissime Jesu, qui pendens in Cruce, ineffabile infinitae misericordiae tuae specimen in conversione sancti Dismas latronis ostendisti: per sanguinem tuum pretiosum in Cruce effusum, obsecro te, concede mihi ingratissimo peccatori efficacem tuam gratiam, ut peccata mea deplorare, te toto corde amare, et in hora mortis meae audire a te merear: Hodie mecum eris in Paradiso. Qui vivis et regnas cum Deo Patre etc.",
-          "english": null,
+          "english": "Most merciful Jesus, Who, hanging upon the Cross, didst show an ineffable example of Thine infinite mercy in the conversion of Saint Dismas the thief: through Thy precious Blood shed upon the Cross, I beseech Thee, grant me, a most ungrateful sinner, Thy efficacious grace, that I may bewail my sins, love Thee with my whole heart, and deserve to hear from Thee at the hour of my death, “Today thou shalt be with Me in Paradise.” Who livest and reignest with God the Father, etc.",
           "sourcePages": [
             476
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              476
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0013",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -357,7 +423,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -378,7 +444,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -399,7 +465,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -420,7 +486,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -441,55 +507,83 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Dum sub palma Joseph pater Sedet, atque nato mater Jesulo advigilat, Tu cum assectis prorumpis, Supplex vero mox procumbis, Pupus te dum advocat.",
-          "english": null,
+          "english": "While Joseph the father sits beneath the palm, and the mother watches over the little Jesus her Son, thou dost rush forth with thy followers, but soon fall down in supplication when the Child calls thee.",
           "sourcePages": [
             476
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              476
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Quare posuisti me contrarium tibi, et arbitratus es me inimicum tuum?",
-          "english": null,
+          "english": "Ant. Why hast Thou set me against Thee, and accounted me Thine enemy?",
           "sourcePages": [
             476
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              476
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Ego cum exaltatus fuero de terra,",
-          "english": null,
+          "english": "℣. When I am lifted up from the earth,",
           "sourcePages": [
             476
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              476
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Omnia traham ad meipsum.",
-          "english": null,
+          "english": "℟. I shall draw all things to Myself.",
           "sourcePages": [
             476
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              476
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -510,7 +604,17 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0010",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              477
+            ],
+            "note": "The printed direction repeats this office’s own Matins collect."
+          }
         }
       ]
     },
@@ -541,7 +645,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -562,7 +666,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -583,7 +687,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -604,7 +708,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -625,55 +729,83 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Quin jam sociis relictis, Hospitem te das afflictis, Ducem et itineris; At non diu! nam reversus Ad sodales, mox immersus Priscis es flagitiis.",
-          "english": null,
+          "english": "Indeed, leaving thy companions, thou now dost offer thyself as host to the afflicted and guide for their journey. But not for long! Returning to thy fellows, thou art soon immersed in thine old crimes.",
           "sourcePages": [
             477
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              477
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Odisti disciplinam, et projecisti sermones meos retrorsum: cum videbas furem, currebas cum eo.",
-          "english": null,
+          "english": "Ant. Thou didst hate discipline and cast My words behind thee; when thou sawest a thief, thou didst run with him.",
           "sourcePages": [
             477
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              477
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Cum electo electus eris,",
-          "english": null,
+          "english": "℣. With the chosen thou shalt be chosen,",
           "sourcePages": [
             477
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              477
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Et cum perverso perverteris.",
-          "english": null,
+          "english": "℟. And with the perverse thou shalt be perverted.",
           "sourcePages": [
             477
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              477
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -694,7 +826,17 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0010",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              477
+            ],
+            "note": "The printed direction repeats this office’s own Matins collect."
+          }
         }
       ]
     },
@@ -725,7 +867,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -746,7 +888,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -767,7 +909,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -788,7 +930,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -809,55 +951,83 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "En! jam Christus, instar Ducis, Per virtutes viam Crucis Intrat et miracula, Num et tu ad Crucem perges? Imo certe! sed huc verges Probra per et scelera.",
-          "english": null,
+          "english": "Behold, now Christ, as a leader, enters the way of the Cross through virtues and miracles. Wilt thou also go to the Cross? Indeed, certainly! But thou wilt turn there through disgrace and crimes.",
           "sourcePages": [
             477
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              477
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Fecit oriri solem suum super bonos et malos, et pluit super justos et injustos.",
-          "english": null,
+          "english": "Ant. He made His sun rise upon the good and the evil, and rains upon the just and the unjust.",
           "sourcePages": [
             477
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              477
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Justum autem deducet Dominus per vias rectas,",
-          "english": null,
+          "english": "℣. But the Lord shall lead the just through straight paths,",
           "sourcePages": [
             477
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              477
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Et impii in circuitu ambulabunt.",
-          "english": null,
+          "english": "℟. And the wicked shall walk in a circle.",
           "sourcePages": [
             477
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              477
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -878,7 +1048,17 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0010",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              477
+            ],
+            "note": "The printed direction repeats this office’s own Matins collect."
+          }
         }
       ]
     },
@@ -909,7 +1089,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -930,7 +1110,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -951,7 +1131,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -972,7 +1152,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -993,55 +1173,84 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "At, quam multum obliquabas Iter Dismae, et distabas Recta Christi semita, Tamen hi, per pares mortes, Viae sancti sunt consortes Rursum in Calvaria.",
-          "english": null,
+          "english": "Yet how greatly, Dismas, thou didst bend thy way aside and depart from Christ’s straight path! Nevertheless, through like deaths, [the defective printed clause concerning companions on the holy way is unresolved] again on Calvary.",
           "sourcePages": [
             477
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              477
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0006",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed Iter Dismae and Viae sancti sunt consortes have defective agreement. The first sentence is provisional; the second clause remains explicitly unresolved rather than reconstructed."
         },
         {
           "type": "prayer",
           "source": "Ant. Pro eo enim, quod tradidit in mortem animam suam, et peccata multorum tulit, cum sceleratis reputatus est.",
-          "english": null,
+          "english": "Ant. For because He surrendered His soul to death and bore the sins of many, He was numbered with the wicked.",
           "sourcePages": [
             477
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              477
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Ducebantur autem et alii duo nequam cum eo,",
-          "english": null,
+          "english": "℣. And two other criminals were led with Him,",
           "sourcePages": [
             477
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              477
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Ut interficerentur.",
-          "english": null,
+          "english": "℟. To be put to death.",
           "sourcePages": [
             477
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              477
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1062,7 +1271,17 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0010",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              477
+            ],
+            "note": "The printed direction repeats this office’s own Matins collect."
+          }
         }
       ]
     },
@@ -1094,7 +1313,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1115,7 +1334,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1136,7 +1355,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1157,7 +1376,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1178,55 +1397,84 @@
           },
           "alignment": "reviewed",
           "id": "none-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Disma, quae haec paradoxa? Par est poena, dispar noxa, Tu sons, Christus innocens: Porro nec vercundaris, Sons insolens, criminari, Probrum terrae, summum Ens.",
-          "english": null,
+          "english": "Dismas, what paradox is this? Equal punishment, unequal guilt: thou art guilty, Christ innocent. Yet thou art not ashamed, insolent in thy guilt, a disgrace to the earth, to accuse the Supreme Being.",
           "sourcePages": [
             478
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              478
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0006",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed vercundaris is retained; English reads the evidently intended ashamed from context."
         },
         {
           "type": "prayer",
           "source": "Ant. Nequitiam et iniquitatem in excelso locuti sunt: posuerunt in coelum os suum.",
-          "english": null,
+          "english": "Ant. They spoke wickedness and iniquity from on high; they set their mouths against heaven.",
           "sourcePages": [
             478
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              478
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Si tu es Christus, salvum fac temetipsum et nos,",
-          "english": null,
+          "english": "℣. If Thou art Christ, save Thyself and us.",
           "sourcePages": [
             478
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              478
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Alios salvos facis, te ipsum non potes salvum facere.",
-          "english": null,
+          "english": "℟. Thou savest others; Thou canst not save Thyself.",
           "sourcePages": [
             478
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              478
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1247,7 +1495,17 @@
           },
           "alignment": "reviewed",
           "id": "none-b0010",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              478
+            ],
+            "note": "The printed direction repeats this office’s own Matins collect."
+          }
         }
       ]
     },
@@ -1278,7 +1536,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1299,7 +1557,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1320,7 +1578,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1341,7 +1599,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1362,55 +1620,83 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Unus Christi sed aspectus Sic contudit tibi pectus Alta missus arbore, Mox ut totus indoleres, Caedes, spolia defleres, Noxas et blasphemiae.",
-          "english": null,
+          "english": "But one glance of Christ, sent from the lofty tree, so smote thy breast that at once thou wast wholly filled with sorrow, bewailing murders, plunder, and the offences of blasphemy.",
           "sourcePages": [
             478
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              478
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Exaudi me Domine, quoniam benigna est misericordia tua: secundum multitudinem miserationum tuarum respice in me.",
-          "english": null,
+          "english": "Ant. Hear me, Lord, for Thy mercy is good; according to the multitude of Thy mercies look upon me.",
           "sourcePages": [
             478
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              478
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Et nos quidem digna factis recipimus,",
-          "english": null,
+          "english": "℣. And we indeed receive what our deeds deserve,",
           "sourcePages": [
             478
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              478
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Hic vero nihil mali gessit.",
-          "english": null,
+          "english": "℟. But this Man has done no evil.",
           "sourcePages": [
             478
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              478
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1431,7 +1717,17 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0010",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              478
+            ],
+            "note": "The printed direction repeats this office’s own Matins collect."
+          }
         }
       ]
     },
@@ -1462,7 +1758,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1483,7 +1779,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1504,7 +1800,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1525,7 +1821,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1546,7 +1842,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1567,7 +1863,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1588,55 +1884,84 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Venia sic impetrata, Dismae Paradisi grata Jam et regna exspectat; Cui et Jesus prompto ore, Hodie se adhuc fore Ibi secum, innuit.",
-          "english": null,
+          "english": "Having thus obtained pardon, Dismas now awaits the pleasant realms of Paradise; and Jesus readily tells him that this very day he shall be there with Him.",
           "sourcePages": [
             478
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              478
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0008",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed Dismae and regna exspectat have defective agreement. English provisionally follows the clear Dismas and Paradise narrative."
         },
         {
           "type": "prayer",
           "source": "Ant. Apud Dominum propitiatio est, et copiosa apud eum redemptio: et ipse redimet Israel ex omnibus iniquitatibus ejus.",
-          "english": null,
+          "english": "Ant. With the Lord there is forgiveness, and with Him plentiful redemption; and He shall redeem Israel from all his iniquities.",
           "sourcePages": [
             478
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              478
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Domine, memento mei, cum veneris in regnum tuum.",
-          "english": null,
+          "english": "℣. Lord, remember me when Thou comest into Thy kingdom.",
           "sourcePages": [
             478
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              478
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Amen. dico tibi: hodie mecum eris in Paradiso.",
-          "english": null,
+          "english": "℟. Amen, I say to thee: today thou shalt be with Me in Paradise.",
           "sourcePages": [
             478
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              478
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1657,7 +1982,17 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0012",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              478
+            ],
+            "note": "The printed direction repeats this office’s own Matins collect."
+          }
         }
       ]
     },
@@ -1673,63 +2008,99 @@
         {
           "type": "prayer",
           "source": "Disma, fac et nos sincero, Sed dolore non tam sero Portum coeli tangere; Quodsi vero id sit sero, Luctu fac hoc plus severo Culpas nostras plangere.",
-          "english": null,
+          "english": "Dismas, grant that we also may reach the harbour of heaven with sincere sorrow, yet not so late. But if it should indeed be late, grant that we may bewail our faults with all the deeper mourning.",
           "sourcePages": [
             478
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              478
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Suavis Dominus universis, patiens et multum misericors: et miserationes ejus super omnia opera ejus.",
-          "english": null,
+          "english": "Ant. The Lord is gracious to all, patient and very merciful; and His mercies are over all His works.",
           "sourcePages": [
             478
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              478
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Sacrificium Deo spiritus contribulatus,",
-          "english": null,
+          "english": "℣. A sacrifice to God is an afflicted spirit;",
           "sourcePages": [
             478
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              478
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Cor contritum et humiliatum Deus non despicies.",
-          "english": null,
+          "english": "℟. A contrite and humbled heart, O God, Thou wilt not despise.",
           "sourcePages": [
             478,
             479
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              478,
+              479
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Ora pro nobis beate Disma,",
-          "english": null,
+          "english": "℣. Pray for us, blessed Dismas.",
           "sourcePages": [
             479
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              479
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1750,7 +2121,7 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1771,22 +2142,41 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Sancte Disma, qui mira Dei providentia ex nefario latrone in eximium poenitentiae speculum evasisti, et paucas intra horas aeterna tibi gaudia comparasti: dignare de excelso gloriae tuae throno, sicut in te de Cruce aspexit Christus, super miseriam hanc lachrymarum vallem oculos tuos defigere; et quoniam tibi cognita est mentis humanae fragilitas, semper ad malum magis, quam ad bonum proclivis; igitur nobis, apud dulcissimum Redemptorem nostrum, precibus tuis impetra, ut sicut per gratiam suam efficacem ad poenitentiam et Paradisi coelestis gloriam te perduxit, ita et nos famulos suos eadem efficaci gratia ad dignos poenitentiae fructus impellat, quo commissis nostris corditus deploratis, pie quondam tibi commoremur, ac una tandem in Deo Salvatori nostro jugiter exultemus, qui vivit et regnat in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "Saint Dismas, who by the wonderful providence of God didst become, from a wicked robber, an outstanding example of repentance, and within a few hours didst obtain eternal joys for thyself: deign from the lofty throne of thy glory to fix thine eyes upon this misery, this valley of tears, as Christ looked upon thee from the Cross. And since thou knowest the frailty of the human mind, always more inclined to evil than to good, obtain for us by thy prayers before our sweetest Redeemer that, as He led thee by His efficacious grace to repentance and the glory of heavenly Paradise, so He may urge us His servants by that same efficacious grace to worthy fruits of repentance; that, having heartily bewailed our offences, we may one day dwell devoutly with thee, and at last together rejoice continually in God our Saviour, Who liveth and reigneth for ever and ever. Amen.",
           "sourcePages": [
             479
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              479
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0008",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed corditus and Deo Salvatori nostro are retained. English provisionally follows the evident heartily and God our Saviour meaning."
         }
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "editorialNotes": [
+    {
+      "text": "Prepared English was compared visually with PDF pages 476–479. All eight printed hours, the ingressus, and the commendation remain. Repeated collect directions expand from this office’s Matins. The hymn’s devotional narrative is translated as printed; defective Latin remains visibly provisional or unresolved, keeping source reading pending.",
+      "pages": [
+        476,
+        477,
+        478,
+        479
+      ]
+    }
+  ]
 }
