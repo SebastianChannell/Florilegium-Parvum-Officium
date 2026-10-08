@@ -1,0 +1,1150 @@
+{
+  "schemaVersion": 1,
+  "id": "little-office-of-s-alexius-confessor",
+  "title": "Little Office of S. Alexius, Confessor",
+  "category": "Angels and Saints",
+  "source": {
+    "pdfPages": [
+      440,
+      442
+    ],
+    "printedPages": [
+      "440",
+      "442"
+    ],
+    "file": "book.pdf",
+    "pageNumberConvention": "1-based; printed and PDF pages coincide"
+  },
+  "sourceLanguage": "Latin",
+  "introductoryNotes": [
+    {
+      "type": "source-note",
+      "text": "From the Officium Rakoczianum (1783 edition)",
+      "pages": [
+        440
+      ],
+      "language": "English"
+    }
+  ],
+  "translationNotice": null,
+  "status": {
+    "extraction": "candidate",
+    "translation": "incomplete",
+    "verification": "pending"
+  },
+  "sections": [
+    {
+      "id": "opening-prayers",
+      "title": "Opening Prayers",
+      "sourceHeading": null,
+      "pages": [
+        440
+      ],
+      "blocks": [
+        {
+          "type": "heading",
+          "source": "Invitatory",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "opening-prayers-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Invit. Noli timere, fili mi: pauperem quidem vitam gerimus; sed bene nobis erit, si timuerimus Deum, et recesserimus ab omni malo, et fecerimus bene.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "opening-prayers-b0002",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "matins",
+      "title": "Matins",
+      "sourceHeading": "Matins",
+      "pages": [
+        440
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Domine labia mea aperies.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et os meum annuntiabit laudem tuam.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri, et Filio, et Spiritui Sancto, Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Alexi, gentis unica, In ortu spes Quirina, Euphemiani gloria, Et urbium Reginae. Salve o miles nobilis, Qui novo bellas astu Fugiendo sponsam, redderis Victor de mundi fastu.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Antiphona",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "In te Domine speravi: non confundar in aeternum.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Mihi autem adhaerere Deo bonum est.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et ponere in Jesu meo spem meam.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0011",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Deus, qui famulum tuum Sanctum Alexium mirabili modo docuisti mundum spernere, ut relicta primum sponsa peregrinus, paternas etiam inter aedes ignotus omnibus septendecim annos abjectus remaneret; praesta quaesumus: ut, dum mirificam ejus constantiam veneramur in terris, ejus etiam intercessione semper in te uno, mi Jesu, gaudeamus in caelis. Amen.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0012",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "prime",
+      "title": "Prime",
+      "sourceHeading": "Prime",
+      "pages": [
+        440
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Gloria Patri, et Filio, et Spiritui Sancto.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Tum apparatur nuptiae, Plus caeli crescit amor Hinc rapitur, et prope Solum consedit aequor. Egestas sponsa sumitur; Comes amor latendi: Beata mens, quae tangitur Hoc studio vivendi.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Antiphona",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Dilectus meus mihi et ego illi, qui fascitur inter lilia, donec aspiret dies, et inclinentur umbrae.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Oculi Domini super fideles terrae.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et super timentes eum gratia ejus.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus, Deus, qui famulos tuos, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0011",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "terce",
+      "title": "Terce",
+      "sourceHeading": "Terce",
+      "pages": [
+        440,
+        441
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Gloria Patri, et Filio, et Spiritui Sancto.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.",
+          "english": null,
+          "sourcePages": [
+            440
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Amen. Alleluia.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Elapsus fuga, tegitur Mendiculi lacerna Nec amplius distinguitur per famulos a Verna. O alta mens Alexii! Quae siscitate quaesieris pro Christo velle despici, Quam rara res in terris!",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Antiphona",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Cum essem pauper, servum feci; mihi servivit Christus, et mihi lumen creavit.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Oculi Domini super fideles terrae.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et super timentes eum gratia ejus.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0011",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus, Deus, qui famulos tuos, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0012",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "sext",
+      "title": "Sext",
+      "sourceHeading": "Sext",
+      "pages": [
+        441
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Gloria Patri, et Filio, et Spiritui Sancto.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen. Alleluia.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Edesse tenet litora; Pauper, mendicus, nudus: Cujus non tangat viscera Tam novus iste luctus? O nova res! ut senore Virtus pateat miro, Ditissimus cum paupere Miseri gaudet in Iro.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Antiphona",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Ego interim videbo vos: et gaudebit cor vestrum, nemo tollet a vobis.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Justus quasi palma florebit:",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Sicut cedrus Libani multiplicabitur.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus, Deus, qui famulum tuum, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0011",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "none",
+      "title": "None",
+      "sourceHeading": "None",
+      "pages": [
+        441
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Gloria Patri, et Filio, et Spiritui Sancto.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen. Alleluia.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Sed postquam omni patuit Tam clara virtus luci, Ciliciam constituit Tentare, Ponto duci, Jam fugerat: cum vertitur Adversa vi ventorum, Portu Quirino sistitur Haec cymba tot annorum.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Antiphona",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Mihi autem absit gloriari, nisi in cruce Domini nostri Jesu Christi, per quem mihi mundus crucifixus est, et ego mundo.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Laetatus sum in his, quae dicta sunt mihi:",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. In domum Domini ibimus.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus, Deus, qui famulum tuum, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0011",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "vespers",
+      "title": "Vespers",
+      "sourceHeading": "Vespers",
+      "pages": [
+        441,
+        442
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Gloria Patri, et Filio, et Spiritui Sancto.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.",
+          "english": null,
+          "sourcePages": [
+            441
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Amen. Alleluia.",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Ingressus urbem, queruli Ignotos Domo Patris Admittitur, sed pauperi Cubile sit sub scalis. Gementem Sponsam adspicit, Tristésque Matris vultus: Dolorem tamen supprimit: Deo patent singulatus.",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Antiphona",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Euntes ibant, et flebant, mittentes semina sua: venientes autem venient cum exsultatione, portantes manipulos suos.",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Pater meus, et mater mea dereliquerunt me.",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus, Deus, qui famulum tuum, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0011",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "compline",
+      "title": "Compline",
+      "sourceHeading": "Compline",
+      "pages": [
+        442
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Converte nos Deus Salutaris noster.",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et averte iram tuam a nobis.",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina.",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Gloria Patri, et Filio, et Spiritui Sancto.",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen. Alleluia.",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Septemdecim jam viderat Hac egestate soles;",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Queis natum se celaverat Toties quaesita proles. Ergo, ut notescat Patria Calamo consignant vitam Recondit illam pectore, Fideli loco fixam. Hoc acto, Coelo spiritum Corpusque reddit terris! O verum Jesu Filium Qui patriam sic quaesitis!",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Antiphona",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Quam magna multitudo dulcedinis tuae, Domine; quam abscondisti timentibus te.",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0011",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Quam bonus Deus Israel his.",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0012",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Qui recto sunt corde.",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0013",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus, Deus, qui famulum tuum, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0014",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "commendatio",
+      "title": "Commendatio",
+      "sourceHeading": "Commendation",
+      "pages": [
+        442
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Alexii, o spes unica Sincere te amantis: Da sequi nos vestigia Aeternum jam ovantis: Has demum preces suscipe, Vota tui Clientis; Malisque cunctis eripe Periculisque mentis. Da vana cuncta spernere; Ne sit nobis gaudere, Jesu te diligere Nec aliud aevum. Amen.",
+          "english": null,
+          "sourcePages": [
+            442
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "commendatio-b0001",
+          "verification": "pending"
+        }
+      ]
+    }
+  ],
+  "unpairedEnglish": []
+}

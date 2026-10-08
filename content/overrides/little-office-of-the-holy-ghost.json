@@ -1,0 +1,593 @@
+{
+  "schemaVersion": 1,
+  "id": "little-office-of-the-holy-ghost",
+  "title": "Little Office of the Holy Ghost",
+  "category": "Divine Mysteries",
+  "source": {
+    "pdfPages": [
+      90,
+      91
+    ],
+    "printedPages": [
+      "90",
+      "91"
+    ],
+    "file": "book.pdf",
+    "pageNumberConvention": "1-based; printed and PDF pages coincide"
+  },
+  "sourceLanguage": "Latin",
+  "introductoryNotes": [
+    {
+      "type": "source-note",
+      "text": "From the Coeleste Palmetum (1879 edition)",
+      "pages": [
+        90
+      ],
+      "language": "English"
+    }
+  ],
+  "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
+  "status": {
+    "extraction": "reviewed",
+    "translation": "complete-prepared-reading-pending",
+    "verification": "source-reading-pending"
+  },
+  "sections": [
+    {
+      "id": "ordinary",
+      "title": "Ordinary",
+      "sourceHeading": "Ordinaria",
+      "pages": [
+        90
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Spiritus sancti gratia illuminet sensus et corda nostra. Amen.",
+          "english": "May the grace of the Holy Ghost illumine our senses and our hearts. Amen.",
+          "sourcePages": [
+            90
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "ordinary-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine, labia mea aperies.",
+          "english": "℣. O Lord, Thou shalt open my lips.",
+          "sourcePages": [
+            90
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "ordinary-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et os meum annuntiabit laudem tuam.",
+          "english": "℟. And my mouth shall declare Thy praise.",
+          "sourcePages": [
+            90
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "ordinary-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Converte nos, Deus salutaris noster.",
+          "english": "℣. Convert us, O God our Saviour.",
+          "sourcePages": [
+            90
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "ordinary-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et averte iram tuam a nobis.",
+          "english": "℟. And turn away Thine anger from us.",
+          "sourcePages": [
+            90
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "ordinary-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus, in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            90
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "ordinary-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine, ad adjuvandum me festina.",
+          "english": "℟. O Lord, make haste to help me.",
+          "sourcePages": [
+            90
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "ordinary-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Gloria Patri. Alleluia.",
+          "english": "℣. Glory be to the Father. Alleluia.",
+          "sourcePages": [
+            90
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "ordinary-b0008",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "A Septuagesima usque ad Pascha, loco Alleluia dicitur: Laus tibi, Domine, Rex aeternae gloriae.",
+          "english": "From Septuagesima until Easter, instead of Alleluia is said: Praise be to Thee, O Lord, King of everlasting glory.",
+          "sourcePages": [
+            90
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "ordinary-b0009",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "matins",
+      "title": "Matins",
+      "sourceHeading": "Matins",
+      "pages": [
+        90
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Nobis sancti Spiritus gratia sit data, De qua Virgo virginum fuit obumbrata, Cum per sanctum Angelum fuit salutata. Verbum caro factum est, Virgo foecundata.",
+          "english": "May the grace of the Holy Ghost be given unto us,\nBy which the Virgin of virgins was overshadowed,\nWhen by the holy Angel she was greeted.\nThe Word was made flesh; the Virgin became fruitful.",
+          "sourcePages": [
+            90
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0001",
+          "verification": "visual-review",
+          "poetry": true
+        }
+      ]
+    },
+    {
+      "id": "prime",
+      "title": "Prime",
+      "sourceHeading": "Prime",
+      "pages": [
+        90
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "De Maria Virgine Christus fuit natus; Crucifixus, mortuus, atque tumulatus; Resurgens Discipulis fuit demonstratus, Et ipsis cernentibus in ccelos elevatus.",
+          "english": "Of the Virgin Mary Christ was born;\nCrucified, dead, and buried;\nRising again, He was shown unto the disciples,\nAnd, while they beheld Him, was lifted up into heaven.",
+          "sourcePages": [
+            90
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0001",
+          "verification": "source-reading-pending",
+          "poetry": true
+        }
+      ]
+    },
+    {
+      "id": "terce",
+      "title": "Terce",
+      "sourceHeading": "Terce",
+      "pages": [
+        90
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Suum sanctum Spiritum Deus delegavit, In die Pentecostes Apostolos confortavit, Et de linguis igneis ipsos inflammavit, Relinquere orphanos eos denegavit.",
+          "english": "God sent His Holy Spirit,\nOn the day of Pentecost He strengthened the Apostles,\nAnd with fiery tongues He set them aflame;\nHe refused to leave them as orphans.",
+          "sourcePages": [
+            90
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0001",
+          "verification": "visual-review",
+          "poetry": true
+        }
+      ]
+    },
+    {
+      "id": "sext",
+      "title": "Sext",
+      "sourceHeading": "Sext",
+      "pages": [
+        90
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Septiformem gratiam tunc acceptaverunt, Quare idiomata cuncta cognoverunt, Ad diversa climata mundi recesserunt, Et fidem Catholicam tunc praedicaverunt.",
+          "english": "Then they received the sevenfold grace,\nWhereby they understood all tongues;\nThey went forth unto the diverse regions of the world,\nAnd then preached the Catholic faith.",
+          "sourcePages": [
+            90
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0001",
+          "verification": "visual-review",
+          "poetry": true
+        }
+      ]
+    },
+    {
+      "id": "none",
+      "title": "None",
+      "sourceHeading": "None",
+      "pages": [
+        90
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Spiritus Paraclitus fuit appellatus, Donum Dei, charitas, fons vivificatus, Spiritualis unctio, ignis inflammatus, Septiformis gratia, charisma vocatus.",
+          "english": "The Spirit was called the Paraclete,\nThe Gift of God, charity, a quickened fount,\nSpiritual anointing, burning fire,\nSevenfold grace, and a gift of grace.",
+          "sourcePages": [
+            90
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0001",
+          "verification": "visual-review",
+          "poetry": true
+        }
+      ]
+    },
+    {
+      "id": "vespers",
+      "title": "Vespers",
+      "sourceHeading": "Vespers",
+      "pages": [
+        90
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Dexterae Dei digitus, virtus spiritualis, Nos defendat, eruat ab omnibus malis, Ut nobis non noceat daemon infernalis, Protegat et nutriat, foveatque sub alis.",
+          "english": "May the Finger of the right hand of God, spiritual power,\nDefend us and deliver us from all evils,\nThat the infernal demon may do us no harm;\nMay He protect and nourish us, and cherish us beneath His wings.",
+          "sourcePages": [
+            90
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0001",
+          "verification": "visual-review",
+          "poetry": true
+        }
+      ]
+    },
+    {
+      "id": "compline",
+      "title": "Compline",
+      "sourceHeading": "Compline",
+      "pages": [
+        90
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Spiritus Paraclitus nos velit juvare, Gressus nostros regere et illuminare, Ut cum Deus venerit omnes judicare, Nos velit ad dexteram omnes appellare.",
+          "english": "May the Spirit, the Paraclete, deign to help us,\nTo direct and illumine our steps,\nThat, when God shall come to judge all men,\nHe may deign to call us all unto His right hand.",
+          "sourcePages": [
+            90
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0001",
+          "verification": "visual-review",
+          "poetry": true
+        }
+      ]
+    },
+    {
+      "id": "conclusion",
+      "title": "Conclusion",
+      "sourceHeading": "Conclusio",
+      "pages": [
+        90
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Ant. Veni, sancte Spiritus, reple tuorum corda fidelium, et tui amoris in eis ignem accende.",
+          "english": "Ant. Come, Holy Ghost, fill the hearts of Thy faithful, and kindle in them the fire of Thy love.",
+          "sourcePages": [
+            90
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "conclusion-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Emitte Spiritum tuum, et creabuntur.",
+          "english": "℣. Send forth Thy Spirit, and they shall be created.",
+          "sourcePages": [
+            90
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "conclusion-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et renovabis faciem terrae.",
+          "english": "℟. And Thou shalt renew the face of the earth.",
+          "sourcePages": [
+            90
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "conclusion-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            90
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "conclusion-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Adsit nobis, quaesumus, Domine, virtus Spiritus sancti, quae et corda nostra clementer expurget, et ab omnibus tueatur adversis. Per Dominum.",
+          "english": "May the power of the Holy Ghost be with us, we beseech Thee, O Lord, both mercifully to cleanse our hearts and to defend us from all adversity. Through our Lord.",
+          "sourcePages": [
+            90
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "conclusion-b0005",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "commendatio",
+      "title": "Commendatio",
+      "sourceHeading": "Commendatio",
+      "pages": [
+        90,
+        91
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Has horas canonicas cum devotione, Tibi, sancte Spiritus, pia ratione, Dixi, ut nos visites inspiratione, Et vivamus jugiter in coeli regione.",
+          "english": "These canonical Hours I have said with devotion,\nUnto Thee, O Holy Ghost, with pious intent,\nThat Thou mayest visit us with Thine inspiration,\nAnd that we may live for ever in the realm of heaven.",
+          "sourcePages": [
+            90,
+            91
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              90,
+              91
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Amen.",
+          "english": "Amen.",
+          "sourcePages": [
+            91
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              91
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0002",
+          "verification": "visual-review"
+        }
+      ]
+    }
+  ],
+  "unpairedEnglish": [],
+  "editorialNotes": [
+    {
+      "text": "At Prime the source visibly prints “ccelos.” The English “heaven” is an explicitly conjectural reading of that word; the source spelling remains unchanged. At None “fons vivificatus” is rendered literally as “a quickened fount.” The source abbreviations “Gloria Patri” and “Per Dominum” are retained as abbreviations.",
+      "pages": [
+        90
+      ]
+    }
+  ]
+}

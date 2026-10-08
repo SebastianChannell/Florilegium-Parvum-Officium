@@ -1,0 +1,757 @@
+{
+  "schemaVersion": 1,
+  "id": "little-office-of-the-most-amiable-child-jesus",
+  "title": "Little Office of the Most Amiable Child Jesus",
+  "category": "Divine Mysteries",
+  "source": {
+    "pdfPages": [
+      52,
+      53
+    ],
+    "printedPages": [
+      "52",
+      "53"
+    ],
+    "file": "book.pdf",
+    "pageNumberConvention": "1-based; printed and PDF pages coincide"
+  },
+  "sourceLanguage": "Latin",
+  "introductoryNotes": [
+    {
+      "type": "source-note",
+      "text": "From a book of the same name published in 1719.",
+      "pages": [
+        52
+      ],
+      "language": "English"
+    }
+  ],
+  "translationNotice": null,
+  "status": {
+    "extraction": "candidate",
+    "translation": "incomplete",
+    "verification": "pending"
+  },
+  "sections": [
+    {
+      "id": "matins",
+      "title": "Matins",
+      "sourceHeading": "Matins",
+      "pages": [
+        52
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Mea o Domine labia pandas,",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Tuas ad laudes digne cantandas.",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Meas ad preces te Deus inclina,",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et ope mihi succurre divina.",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Jesu puer dulcissime, ter millies ave to: cor moerens tu suavissime unguento mulces lato: qui amat te, prosentitur dulcedinum in mare; tuus dum amor cernitur, quis nollet te amare? qui meum te fraterculum nasci fecit pauperculum.",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Qui Deus erat in principio,",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et factus par mancipio.",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "O Deus, cujus tam fortis amor est, ut te parvum fieri infantulum compulerit, tanti nobis tui amoris cognitionem concede, ut ad reciprocum amorem animati, te aeternum amare, laudare, et benedicere valeamus. Amen.",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0010",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "prime",
+      "title": "Prime",
+      "sourceHeading": "Prime",
+      "pages": [
+        52
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Meas ad preces te Deus inclina,",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et ope mihi succurre divina.",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Deus ingens infantulum induere volebat, parvum, tenellum, blandulum se terris exhibebat: ut cunctis sic amabilis foret, praesertim reis, non esset formidabilis, culpas indulgens eis: ridens blande nos aspicit suavi nos spe sic afficit.",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Infans, Deus peccator te",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ade funibus trahit ad se.",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Oratio ut supra.",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0007",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "terce",
+      "title": "Terce",
+      "sourceHeading": "Terce",
+      "pages": [
+        52
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Meas ad preces te Deus inclina,",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et ope mihi succurre divina.",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Puer in quo mirifice divinitas se celat, formae tamen deificae venustas te revelat: lucis divinae radius ex oculis dimanat, cor meum velut gladius amoris ictu tranat: amore quis det moriari, hac morte caelis oriar!",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Natum amemus Dominum",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Decorum pra natis hominum.",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Oratio ut supra.",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0007",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "sext",
+      "title": "Sext",
+      "sourceHeading": "Sext",
+      "pages": [
+        52,
+        53
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Meas ad preces te Deus inclina,",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et ope mihi succurre divina.",
+          "english": null,
+          "sourcePages": [
+            52
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Fleo puer ac rideo, ridens cogor plorare tuisdum stellas video in oculis micare: candor ostrum eximitum rosarum genis nectit, ac lux corusca nivium se artubus implectit: auro dant crispo splendicant crines, cor sibi vindicant.",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Quia ergo tam suavis es,",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Praecunctis charus favis es.",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Oratio ut supra.",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0007",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "none",
+      "title": "None",
+      "sourceHeading": "None",
+      "pages": [
+        53
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Meas ad preces te Deus inclina,",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et ope mihi succurre divina.",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Dum lachrymis tam bellulos aspicio natare tuos Jesu ocellulos, queis culpas vis lavare: latis cor meum gestibus exultans tenerescit, et sic amoris aestibus ut cera colliquescit: amorem hunc perpendere, cor suum est accendere.",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus, dum flet ut pusio,",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Amoris est effusio.",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Oratio ut supra.",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0007",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "vespers",
+      "title": "Vespers",
+      "sourceHeading": "Vespers",
+      "pages": [
+        53
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Meas ad preces te Deus inclina,",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et ope mihi succurre divina.",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Saepe cor meum angitur, sua volvens delicta. Vix non desperans frangitur, mens metu jacet icta: sed dum infantis cogito mei blandum amorem, dimitti culpas, rogito exutiens timorem. A se me non projiciet, propitius aspiciet.",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Nolo mortem peccatoris,",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Infans inquit, fons amoris.",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Oratio ut supra.",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0007",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "compline",
+      "title": "Compline",
+      "sourceHeading": "Compline",
+      "pages": [
+        53
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Converte nos o puer chare,",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ut sic possimus te amare.",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Meas ad preces te Deus inclina,",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et ope mihi succurre divina.",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Dum frigore constringeris, qui ignis es divinus: totus rigore cingeris, meos veni in sinus. Cor meum ardens flammulis amoris te fovebit, a tuis nunquam famulis me ullus dimovebit: tenebo, nec dimittam te, donec mors advocabit me.",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Versans in terra finibus,",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Est lubens cum hominibus.",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Oratio ut supra.",
+          "english": null,
+          "sourcePages": [
+            53
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0009",
+          "verification": "pending"
+        }
+      ]
+    }
+  ],
+  "unpairedEnglish": []
+}

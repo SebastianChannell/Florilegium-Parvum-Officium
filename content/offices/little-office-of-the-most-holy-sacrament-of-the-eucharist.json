@@ -1,0 +1,971 @@
+{
+  "schemaVersion": 1,
+  "id": "little-office-of-the-most-holy-sacrament-of-the-eucharist",
+  "title": "Little Office of the Most Holy Sacrament of the Eucharist",
+  "category": "Divine Mysteries",
+  "source": {
+    "pdfPages": [
+      57,
+      59
+    ],
+    "printedPages": [
+      "57",
+      "59"
+    ],
+    "file": "book.pdf",
+    "pageNumberConvention": "1-based; printed and PDF pages coincide"
+  },
+  "sourceLanguage": "Latin",
+  "introductoryNotes": [
+    {
+      "type": "source-note",
+      "text": "From the Officium Rakoczianum (1783 edition)",
+      "pages": [
+        57
+      ],
+      "language": "English"
+    }
+  ],
+  "translationNotice": null,
+  "status": {
+    "extraction": "candidate",
+    "translation": "incomplete",
+    "verification": "pending"
+  },
+  "sections": [
+    {
+      "id": "matins",
+      "title": "Matins",
+      "sourceHeading": "Matins",
+      "pages": [
+        57
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Panem coeli dedit nobis Dominus:",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Panem Angelorum manducat homo.",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine labia mea aperies.",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et os meum annunciabit laudem tuam.",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri, et Filio, etc.",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Lauda Sion Salvatorem, lauda Ducem, et Pastorem, in hymnis, et canticis. Quantum potes, tantum aude: quia major omni laude: nec laudare sufficis. Laudis thema specialis; panis vivus, et vitalis, hodie proponitur. Quem in sacra mensa coenae, turbae fratrum duodenae, datum non ambigitur.",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Panem de coelo praestitisti eis Domine.",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Omne delectamentum in se habentem.",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Dominus Jesus, in qua nocte tradebatur, accepit panem, et gratias agens, benedixit, fregit, et dixit: Accipite, et manducate: Hoc est Corpus meum, quod pro vobis tradetur: hoc facite in meam commemorationem.",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0011",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine exaudi orationem meam.",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0012",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et clamor meus ad te veniat.",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0013",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0014",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Deus, qui nobis sub Sacramento mirabili passionis tuae memoriam reliquisti, tribue, quaesumus, ita nos Corporis, et Sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis jugiter sentiamus. Qui vivis, et regnas cum Deo Patre in unitate Spiritus Sancti Deus, per omnia saecula saeculorum. Amen.",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0015",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "prime",
+      "title": "Prime",
+      "sourceHeading": "Prime",
+      "pages": [
+        57
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Panem coeli dedit nobis etc. ut supra in Mat.",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium etc. ut supra in Matutin.",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Sit laus plena, sit sonora: sit jucunda, sit decora, mentis jubilatio. Dies enim solemnis agitur, in qua mensae primae recollitur hujus institutio. In hac mensa novi Regis, novum Pascha novae legis, Phase vetus terminat. Vetustatem novitas; umbram fugat veritas, noctem lux eliminat.",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Panem de coelo praestitisti etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Omnem suavitatem etc.",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine, spiritus tuus, qui descendit super te in Jordane, illuminet et confirmet nos in veritate. suavissimo de coelo praestituto, esurientes replevit bonis, fastidiosos divites dimittens inanes.",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine exaudi, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oratio Deus, qui nobis, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            57
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0009",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "terce",
+      "title": "Terce",
+      "sourceHeading": "Terce",
+      "pages": [
+        58
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Panem coeli dedit nobis, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Quod in coena Christus gessit, facidendum hoc expressit in sui memoriam. Docti sacris institutis, Panem, Vinum in salutis consecramus hostiam. Dogma datur Christianis, quod in carnem transit panis, et in sanguinem. Quod non capis, quod non vides, animosa firmat fides, praeter rerum ordinem.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Panem de coelo, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Caro mea vere est cibus, et sanguis meus vere est potus: qui manducat meam carnem, et bibit meum sanguinem, in me manet, et ego in illo.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine exaudi, etc.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Orat. Deus, qui nobis, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0008",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "sext",
+      "title": "Sext",
+      "sourceHeading": "Sext",
+      "pages": [
+        58
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Panem coeli dedit nobis, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Sub diversis speciebus signis tantum, et non rebus, latent res eximiae. Caro cibus, Sanguis potus, manet tamen Christus totus sub utraque specie. A sumente non concisus, non confractus, non divisus, integer accipitur.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Panem de coelo, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Antiph. Quotiescumque manducabitis panem hunc et calicem bibetis, mortem Domini annuntiabitis, donec iterum veniat.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine exaudi, etc.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Orat. Deus, qui nobis, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0008",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "none",
+      "title": "None",
+      "sourceHeading": "None",
+      "pages": [
+        58
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Panem coeli dedit nobis, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Sumit unus, sumunt mille: quantum isti, tantum ille; nec sumptus consumitur. Sumunt boni, sumunt mali: forte tamen inaequali, vitae, vel interitus. Mors est malis, vita bonis, vide, paris sumptionis quam sit dispar exitus.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Panem de coelo, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Quicumque manducaverit panem hunc, vel biberit calicem Domini indigne, reus erit Corporis, et Sanguinis Domini.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine exaudi, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Orat. Deus, qui nobis, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0008",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "vespers",
+      "title": "Vespers",
+      "sourceHeading": "Vespers",
+      "pages": [
+        58,
+        59
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Panem coeli dedit, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            58
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            59
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Fracto demum Sacramento, ne vacilles, sed memento, tantum esse sub fragmento, quantum totum tegitur. Nulla rei fit scissura, signi tantum fit fractura, nec status, nec statura signati minuitur. Ecce Panis Angelorum factus cibus viatorum: vere panis filiorum, non mittendus canibus.",
+          "english": null,
+          "sourcePages": [
+            59
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Panem de coelo, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            59
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Antiph. O sacrum convivium, in quo Christus sumitur, recolitur memoria passionis ejus, mens impletur gratia, et futura gloriae nobis pignus datur.",
+          "english": null,
+          "sourcePages": [
+            59
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine exaudi, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            59
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Orat. Deus, qui nobis, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            59
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0008",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "compline",
+      "title": "Compline",
+      "sourceHeading": "Compline",
+      "pages": [
+        59
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Panem coeli dedit nobis, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            59
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Converte nos Deus salutaris noster.",
+          "english": null,
+          "sourcePages": [
+            59
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et averte iram tuam a nobis.",
+          "english": null,
+          "sourcePages": [
+            59
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium, etc. ut supra.",
+          "english": null,
+          "sourcePages": [
+            59
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            59
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "In figuris praesignatur, cum Isaac immolatur: Agnus Paschae deputatur: datur manna Patribus. Bone Pastor, panis vere, Jesu nostri miserere tu nos pasce, nos tuere, ut tuos bona fac videre in terra viventium.",
+          "english": null,
+          "sourcePages": [
+            59
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Tu, qui cuncta scis, et vales, qui nos pascis hic mortales, tuos ibi commensales, cohaeredes, et sodales fac sanctorum civium. Amen.",
+          "english": null,
+          "sourcePages": [
+            59
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Panem de coelo praestitisti eis Domine.",
+          "english": null,
+          "sourcePages": [
+            59
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Omne delectamentum in se habentem.",
+          "english": null,
+          "sourcePages": [
+            59
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Nisi manducaveritis Carnem Filii hominis, et biberitis ejus Sanguinem, non habebitis vitam in vobis. Qui manducat meam Carnem, et bibit meum Sanguinem, habet vitam aeternam, et ego resuscitabo eum in novissimo die.",
+          "english": null,
+          "sourcePages": [
+            59
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine exaudi orationem meam.",
+          "english": null,
+          "sourcePages": [
+            59
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0011",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et clamor meus ad te veniat.",
+          "english": null,
+          "sourcePages": [
+            59
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0012",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus, Deus, qui nobis sub Sacramento mirabili Passionis tuae memoriam reliquisti: tribue, quaesumus, ita nos Corporis, et Sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis jugiter sentiamus. Qui vivis, et regnas cum Deo Patre, in unitate Spiritus Sancti Deus, per omnia saecula saeculorum. Amen.",
+          "english": null,
+          "sourcePages": [
+            59
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0013",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "commendatio",
+      "title": "Commendatio",
+      "sourceHeading": "Commendation",
+      "pages": [
+        59
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Has horas tibi recolo piae rationes Tibi, Corpus Domini, ut confessione Contritus, et prava satisfactione Valeam te sumere cum devotione. Amen.",
+          "english": null,
+          "sourcePages": [
+            59
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "commendatio-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "O salutaris hostia! quae coeli pandis ostium, Bella premunt hostilia, da robur, fer auxilium. Uni, trinoque Domino sit sempiterna gloria, Qui vitam sine termino nobis donet in Patria. Amen.",
+          "english": null,
+          "sourcePages": [
+            59
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "commendatio-b0002",
+          "verification": "pending"
+        }
+      ]
+    }
+  ],
+  "unpairedEnglish": []
+}

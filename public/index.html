@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#070606">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Parvum Officium">
+  <meta name="description" content="Little offices from A Big Book of Little Offices, in a quiet Sacrum Florilegium reader.">
+  <title>Parvum Officium · Sacrum Florilegium</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./app.js" type="module"></script>
+</head>
+<body>
+  <a href="#reader" class="skip-link">Skip to prayer</a>
+  <div class="app-shell">
+    <header class="topbar">
+      <a class="brand" href="./"><span>Sacrum Florilegium</span><strong>Parvum Officium</strong></a>
+      <details class="florilegium-menu">
+        <summary>Sites <span class="chevron" aria-hidden="true"></span></summary>
+        <nav aria-label="Sacrum Florilegium sites">
+          <p>Sacrum Florilegium</p>
+          <a href="https://sacrumflorilegium.com/">Domus</a>
+          <a href="https://biblia.sacrumflorilegium.com/">Biblia</a>
+          <a href="https://florilegium-census.sebastianchannell99.workers.dev/">Census</a>
+          <a href="https://librarium.sacrumflorilegium.com/">Librarium</a>
+          <a href="https://officium.sacrumflorilegium.com/">Officium</a>
+          <a href="https://orarium.sacrumflorilegium.com/">Orarium</a>
+          <a href="https://propria.sacrumflorilegium.com/">Propria</a>
+        </nav>
+      </details>
+    </header>
+    <main>
+      <p id="editionStatus" class="edition-notice" hidden></p>
+      <section class="selection-panel" aria-label="Choose an office">
+        <div class="browse-row">
+          <label class="search-control"><span>Find an office</span><input id="officeSearch" type="search" placeholder="Title, saint, or rite" autocomplete="off" spellcheck="false"></label>
+          <label class="category-control"><span>Category</span><select id="categorySelect"><option value="">All categories</option></select></label>
+        </div>
+        <label class="office-control"><span>Office <small id="resultCount" role="status"></small></span><select id="officeSelect" aria-label="Choose an office"></select></label>
+      </section>
+      <section class="office-heading" aria-labelledby="officeTitle">
+        <p id="officeCategory" class="eyebrow"></p>
+        <h1 id="officeTitle">Parvum Officium</h1>
+        <p id="translationNotice" class="translation-notice" hidden></p>
+        <p id="officeStatus" class="edition-notice" hidden></p>
+        <details id="notesDetails"><summary>Introduction and source notes</summary><div id="officeNotes"></div></details>
+        <p class="source-line"><a id="sourceLink" href="./source/book.pdf" target="_blank" rel="noopener">Source PDF</a> <span id="sourcePages"></span></p>
+      </section>
+      <div class="prayer-controls">
+        <label class="section-control"><span>Hour or section</span><select id="sectionSelect"></select></label>
+        <nav id="sectionNav" class="hour-nav" aria-label="Available hours and sections"></nav>
+        <div id="variantControls" class="variant-controls"></div>
+        <div class="reader-tools">
+          <label><span class="visually-hidden">Reading layout</span><select id="layoutSelect" aria-label="Reading layout"><option value="parallel">Side by side</option><option value="stacked">Stacked bilingual</option><option value="source">Source only</option><option value="english">English only</option></select></label>
+          <div class="font-controls" role="group" aria-label="Prayer text size"><button type="button" id="fontDown" aria-label="Decrease prayer text size">A−</button><button type="button" id="fontUp" aria-label="Increase prayer text size">A+</button></div>
+          <button type="button" id="shareButton">Copy link</button>
+        </div>
+      </div>
+      <p id="status" class="status" role="status" aria-live="polite">Opening the book…</p>
+      <article id="reader" tabindex="-1" aria-labelledby="sectionTitle">
+        <h2 id="sectionTitle"></h2>
+        <div id="languageLabels" class="language-labels" aria-hidden="true"></div>
+        <p id="sectionStatus" class="edition-notice" hidden></p>
+        <div id="prayerBlocks"></div>
+        <details id="unpairedDetails" class="unpaired" hidden><summary>Supplied English awaiting correspondence review</summary><p>This English is transcribed from the PDF. Its correspondence with the source paragraphs has not yet been verified.</p><div id="unpairedEnglish"></div></details>
+        <nav class="section-step" aria-label="Move between sections"><button type="button" id="previousSection">‹ Previous section</button><button type="button" id="nextSection">Next section ›</button></nav>
+      </article>
+    </main>
+    <footer><span aria-hidden="true">✠</span><p>A Big Book of Little Offices · Little Office Guild · 2025</p><a href="./coverage.html">Edition coverage and review status</a><p>T.A.D.M.N.</p></footer>
+    <noscript><p>This reader needs JavaScript to select an office. <a href="./source/book.pdf">Read the complete source PDF.</a></p></noscript>
+  </div>
+</body>
+</html>

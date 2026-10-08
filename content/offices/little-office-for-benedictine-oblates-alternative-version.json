@@ -1,0 +1,256 @@
+{
+  "schemaVersion": 1,
+  "id": "little-office-for-benedictine-oblates-alternative-version",
+  "title": "Little Office for Benedictine Oblates (Alternative Version)",
+  "category": "Miscellaneous",
+  "source": {
+    "pdfPages": [
+      633,
+      633
+    ],
+    "printedPages": [
+      "633",
+      "633"
+    ],
+    "file": "book.pdf",
+    "pageNumberConvention": "1-based; printed and PDF pages coincide"
+  },
+  "sourceLanguage": "Latin",
+  "introductoryNotes": [
+    {
+      "type": "source-note",
+      "text": "From A Manual for Oblates (1913)",
+      "pages": [
+        633
+      ],
+      "language": "English"
+    }
+  ],
+  "translationNotice": null,
+  "status": {
+    "extraction": "candidate",
+    "translation": "incomplete",
+    "verification": "pending"
+  },
+  "sections": [
+    {
+      "id": "opening-prayers",
+      "title": "Little Office for Benedictine Oblates (Alternative Version)",
+      "sourceHeading": null,
+      "pages": [
+        633
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Pater. Ave.",
+          "english": null,
+          "sourcePages": [
+            633
+          ],
+          "translation": null,
+          "alignment": "unpaired",
+          "id": "opening-prayers-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": null,
+          "sourcePages": [
+            633
+          ],
+          "translation": null,
+          "alignment": "unpaired",
+          "id": "opening-prayers-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine, ad adjuvandam me festina",
+          "english": null,
+          "sourcePages": [
+            633
+          ],
+          "translation": null,
+          "alignment": "unpaired",
+          "id": "opening-prayers-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Gloria Patri, etc. Sicut erat, etc.",
+          "english": null,
+          "sourcePages": [
+            633
+          ],
+          "translation": null,
+          "alignment": "unpaired",
+          "id": "opening-prayers-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Alleluia (vel, Laus tibi Domine, Rex aeternae gloriae)",
+          "english": null,
+          "sourcePages": [
+            633
+          ],
+          "translation": null,
+          "alignment": "unpaired",
+          "id": "opening-prayers-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Psalmus 116",
+          "english": null,
+          "sourcePages": [
+            633
+          ],
+          "translation": null,
+          "alignment": "unpaired",
+          "id": "opening-prayers-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Laudate Dominum omnes gentes: laudate eum omnes populi. Quoniam confirmata est super nos misericordia ejus: et veritas Domini manet in aeternum. Gloria Patri, etc. Sicut erat, etc.",
+          "english": null,
+          "sourcePages": [
+            633
+          ],
+          "translation": null,
+          "alignment": "unpaired",
+          "id": "opening-prayers-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Benedicamus Domino.",
+          "english": null,
+          "sourcePages": [
+            633
+          ],
+          "translation": null,
+          "alignment": "unpaired",
+          "id": "opening-prayers-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Deo gratias.",
+          "english": null,
+          "sourcePages": [
+            633
+          ],
+          "translation": null,
+          "alignment": "unpaired",
+          "id": "opening-prayers-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Fidelium animae per misericordiam Dei requiescant in pace.",
+          "english": null,
+          "sourcePages": [
+            633
+          ],
+          "translation": null,
+          "alignment": "unpaired",
+          "id": "opening-prayers-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Amen.",
+          "english": null,
+          "sourcePages": [
+            633
+          ],
+          "translation": null,
+          "alignment": "unpaired",
+          "id": "opening-prayers-b0011",
+          "verification": "pending"
+        }
+      ]
+    }
+  ],
+  "unpairedEnglish": [
+    {
+      "section": "opening-prayers",
+      "blocks": [
+        {
+          "type": "prayer",
+          "text": "Our Father. Hail Mary.",
+          "pages": [
+            633
+          ]
+        },
+        {
+          "type": "prayer",
+          "text": "℣. O God, come to my assistance.",
+          "pages": [
+            633
+          ]
+        },
+        {
+          "type": "prayer",
+          "text": "℟. O Lord, make haste to help me.",
+          "pages": [
+            633
+          ]
+        },
+        {
+          "type": "prayer",
+          "text": "Glory be to the Father, etc. As it was in the beginning, etc. Alleluia Or from Septuagesima to Easter, Praise to Thee, O Lord, King of everlasting Glory.",
+          "pages": [
+            633
+          ]
+        },
+        {
+          "type": "rubric",
+          "text": "Psalm 116",
+          "pages": [
+            633
+          ]
+        },
+        {
+          "type": "prayer",
+          "text": "O praise the Lord, all ye nations: praise Him, all ye people. For His mercy is confirmed upon us: and the truth of the Lord remaineth for ever. Glory be to the Father, etc. As it was in the beginning, etc.",
+          "pages": [
+            633
+          ]
+        },
+        {
+          "type": "prayer",
+          "text": "℣. Let us bless the Lord.",
+          "pages": [
+            633
+          ]
+        },
+        {
+          "type": "prayer",
+          "text": "℟. Thanks be to God.",
+          "pages": [
+            633
+          ]
+        },
+        {
+          "type": "prayer",
+          "text": "℣. May the souls of the faithful, through the mercy of God, rest in peace.",
+          "pages": [
+            633
+          ]
+        },
+        {
+          "type": "prayer",
+          "text": "℟. Amen.",
+          "pages": [
+            633
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Parvum Officium · Sacrum Florilegium",
+  "short_name": "Parvum Officium",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070606",
+  "theme_color": "#070606",
+  "icons": [{"src":"./favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}

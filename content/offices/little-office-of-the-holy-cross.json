@@ -1,0 +1,1250 @@
+{
+  "schemaVersion": 1,
+  "id": "little-office-of-the-holy-cross",
+  "title": "Little Office of the Holy Cross",
+  "category": "Divine Mysteries",
+  "source": {
+    "pdfPages": [
+      64,
+      67
+    ],
+    "printedPages": [
+      "64",
+      "67"
+    ],
+    "file": "book.pdf",
+    "pageNumberConvention": "1-based; printed and PDF pages coincide"
+  },
+  "sourceLanguage": "Latin",
+  "introductoryNotes": [
+    {
+      "type": "source-note",
+      "text": "From a book of the same name published in 1800.",
+      "pages": [
+        64
+      ],
+      "language": "English"
+    }
+  ],
+  "translationNotice": null,
+  "status": {
+    "extraction": "candidate",
+    "translation": "incomplete",
+    "verification": "pending"
+  },
+  "sections": [
+    {
+      "id": "matins",
+      "title": "Matins",
+      "sourceHeading": "Ad Matutinum",
+      "pages": [
+        64
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per signum Crucis de inimicis nostris:",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Libera nos Deus noster. Ita dicitur in principio horarum.",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine labia mea aperies.",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et os meum annuntiabit laudem tuam.",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina.",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Gloria Patri, et Filio, et Spiritui Sancto, Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Non dicitur Alleluia, nec Laus tibi Domine.",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Patris sapientia, veritas divina: Deus homo captus est hora matutina. A notis discipulis cito derelictus: A Judaeis traditus, venditus, et afflictus.",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Antiph. O Crux venerabilis, quae salutem attulisti miseris: quibus te efferam praeconis, quoniam vitam nobis caelestem praeparasti?",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0011",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Adoramus te Christe, et benedicimus tibi.",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0012",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Quia per sanctam Crucem tuam redemisti mundum.",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0013",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0014",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Jesu Christe, Fili Dei vivi, pone Passionem, Crucem, et mortem tuam inter judicium tuum, et animam meam, nunc, et in hora mortis meae: et mihi largiri digneris gratiam et misericordiam: vivis et defunctis requiem et veniam: Ecclesiae tuae pacem et concordiam et nobis peccatoribus vitam et gloriam sempiternam. Qui vivis et regnas in saecula saeculorum. Amen.",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "matins-b0015",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "prime",
+      "title": "Prime",
+      "sourceHeading": "Ad Primam",
+      "pages": [
+        64,
+        65
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per signum Crucis de inimicis nostris:",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Libera nos Deus noster.",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina.",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Gloria Patri, et Filio, et Spiritui Sancto, Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Hora prima Dominum ducunt ad Pilatum, Et a falsis testibus multum accusatum: Colaphis percutiunt, manibus ligatum: Vultum Dei conspuunt, lumen caeli gratum.",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Antiph. O Crucis victoria, et admirabile signum: in caelesti curia fac nos captare triumphum.",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Adoramus te Christe, et benedicimus tibi.",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Quia per sanctam Crucem tuam redemisti mundum.",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": null,
+          "sourcePages": [
+            64
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0011",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Jesu Christe, Fili Dei vivi, pone Passionem, Crucem, et mortem tuam inter judicium tuum, et animam meam, nunc, et in hora mortis meae: et mihi largiri digneris gratiam, et misericordiam: vivis, et defunctis requiem, et veniam: Ecclesiae tuae pacem, et concordiam; et nobis peccatoribus vitam, et gloriam sempiternam. Qui vivis et regnas in saecula saeculorum. Amen.",
+          "english": null,
+          "sourcePages": [
+            64,
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "prime-b0012",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "terce",
+      "title": "Terce",
+      "sourceHeading": "Ad Tertiam",
+      "pages": [
+        65
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per signum Crucis de inimicis nostris:",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Libera nos Deus noster.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Gloria Patri, et Filio, et Spiritui Sancto, Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Crucifige, crucifige, clamitat hora tertiam: Illusus induitur veste purpuram: Caput ejus pungitur corona spinarum: Crucem portat humeris ad locum poenarum.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Antiph. Funestae mortis damnatur supplicium, dum Christus in Cruce nostra destruxit vincula criminum.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Adoramus te Christe, et benedicimus tibi.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Quia per sanctam Crucem tuam redemisti mundum.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0011",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Jesu Christe, Fili Dei vivi, pone Passionem, Crucem, et mortem tuam inter judicium tuum, et animam meam, nunc, et in hora mortis meae: et mihi largiri digneris gratiam, et misericordiam: vivis, et defunctis requiem, et veniam: Ecclesiae tuae pacem, et concordiam; et nobis peccatoribus vitam, et gloriam sempiternam. Qui vivis et regnas in saecula saeculorum. Amen.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "terce-b0012",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "sext",
+      "title": "Sext",
+      "sourceHeading": "Ad Sextam",
+      "pages": [
+        65
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per signum, etc.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Gloria Patri, et Filio, etc.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Hora sexta Jesus est Cruci conclavatus. Et cum latronibus pendens est deputatus: Prae tormentis sitiens felle saturatus: Agnus crimen diluens, sic est ludificatus.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Antiph. Per lignum servi facti sumus, et per sanctam Crucem liberati sumus: fructus arboris seduxit nos: Filius Dei redemit nos.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Adoramus te Christe, etc.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Jesu Christe, Fili Dei vivi, pone Passionem, Crucem, et mortem tuam inter judicium tuum, et animam meam, nunc, et in hora mortis meae: et mihi largiri digneris gratiam, et misericordiam: vivis, et defunctis requiem, et veniam: Ecclesiae tuae pacem, et concordiam; et nobis peccatoribus vitam, et gloriam sempiternam. Qui vivis et regnas in saecula saeculorum. Amen.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "sext-b0010",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "none",
+      "title": "None",
+      "sourceHeading": "Ad Nonam",
+      "pages": [
+        65,
+        66
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per signum, etc.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Gloria Patri, etc.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Hora nona Dominus Jesus expiravit: Eli clamans spiritum Patri commendavit: Latus ejus lancea miles perforavit: Terra tunc contremuit, et sol se obscuravit.",
+          "english": null,
+          "sourcePages": [
+            65
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Antiph. O magnum pietatis opus! mors mortua tunc est, in ligno, quando mortua vita fuit.",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Adoramus te Christe, etc.",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Jesu Christe, Fili Dei vivi, pone Passionem, Crucem, et mortem tuam inter judicium tuum, et animam meam, nunc, et in hora mortis meae: et mihi largiri digneris gratiam, et misericordiam: vivis, et defunctis requiem, et veniam: Ecclesiae tuae pacem, et concordiam; et nobis peccatoribus vitam, et gloriam sempiternam. Qui vivis et regnas in saecula saeculorum. Amen.",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "none-b0010",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "vespers",
+      "title": "Vespers",
+      "sourceHeading": "Ad Vesperas",
+      "pages": [
+        66
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per signum, etc.",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina.",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Gloria Patri, etc.",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "De Cruce deponitur hora vespertina: Fortitudo latuit in mente divina: Talem mortem subiit vitae medicina: Heu corona gloriae jacuit supina!",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Antiph. O Crux benedicta, quae sola fuisti digna portare talentum mundi; dulce lignum, dulces clavos, dulcia ferens pondera: super omnia ligna cedrorum tu sola excelsior, in qua mundi salus pependit; in qua Christus triumphavit, et mors mortem superavit in aeternum.",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Adoramus te Christe, etc.",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Jesu Christe, Fili Dei vivi, pone Passionem, Crucem, et mortem tuam inter judicium tuum, et animam meam, nunc, et in hora mortis meae: et mihi largiri digneris gratiam, et misericordiam: vivis, et defunctis requiem, et veniam: Ecclesiae tuae pacem, et concordiam; et nobis peccatoribus vitam, et gloriam sempiternam. Qui vivis et regnas in saecula saeculorum. Amen.",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "vespers-b0010",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "compline",
+      "title": "Compline",
+      "sourceHeading": "Ad Completorium",
+      "pages": [
+        66
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per signum, etc.",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Convertere nos Deus salutaris noster.",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et averte iram tuam a nobis.",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina.",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Gloria Patri, etc.",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Hora Completorii datur sepulturae Corpus Christi nobile, spes vitae futurae: Conduntur aromate: complentur Scripturae. Jugis sit memoria mortis suae dura.",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Antiph. Salvator mundi salva nos, qui per Crucem, et sanguinem tuum redemisti nos; auxiliare nobis, te deprecamur, Deus noster.",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Adoramus te Christe, etc.",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0011",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Jesu Christe, Fili Dei vivi, pone Passionem, Crucem, et mortem tuam inter judicium tuum, et animam meam, nunc, et in hora mortis meae: et mihi largiri digneris gratiam, et misericordiam: vivis, et defunctis requiem, et veniam: Ecclesiae tuae pacem, et concordiam; et nobis peccatoribus vitam, et gloriam sempiternam. Qui vivis et regnas in saecula saeculorum. Amen.",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "compline-b0012",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "commendatio",
+      "title": "Commendatio",
+      "sourceHeading": "Commendatio",
+      "pages": [
+        66,
+        67
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Has Horas canonicas cum devotione. Tibi, Christe, recolo pia ratione:",
+          "english": null,
+          "sourcePages": [
+            66
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "commendatio-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Ut qui pro me passus es amoris ardore, Sis mihi solatium mortis in agone. Amen.",
+          "english": null,
+          "sourcePages": [
+            67
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "commendatio-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": null,
+          "sourcePages": [
+            67
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "commendatio-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Vexilla Regis prodeunt: Fulget Crucis mysterium, Qua vita mortem pertulit, Et morte vitam protulit.",
+          "english": null,
+          "sourcePages": [
+            67
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "commendatio-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Quae vulnerata lanceae Mucrone diro, criminum Ut nos lavaret sordibus, Manavit unda, et sanguine.",
+          "english": null,
+          "sourcePages": [
+            67
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "commendatio-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Impleta sunt quae concinit David fideli carmine; Dicendo nationibus: Regnavit a ligno Deus.",
+          "english": null,
+          "sourcePages": [
+            67
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "commendatio-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Arbor decora, et fulgida, Ornata Regis purpura, Electa digno stipite Tam sancta membra tangere.",
+          "english": null,
+          "sourcePages": [
+            67
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "commendatio-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Beata, cujus brachiis Pretium pependit saeculi, Statera facta corporis Tulitque praedam tartari.",
+          "english": null,
+          "sourcePages": [
+            67
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "commendatio-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "O Crux ave spes unica, Hoc passionis tempore, Piis adauge gratiam, Reisque dele crimina.",
+          "english": null,
+          "sourcePages": [
+            67
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "commendatio-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Te, fons salutis, Trinitas: Collaudet omnis spiritus: Quibus Crucis victoriam Largiris, adde praemium.",
+          "english": null,
+          "sourcePages": [
+            67
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "commendatio-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Amen.",
+          "english": null,
+          "sourcePages": [
+            67
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "commendatio-b0011",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Temp. Pasch. dic. Paschale quae fers gaudium. Per annum dic. In hac triumphii gloria.",
+          "english": null,
+          "sourcePages": [
+            67
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "commendatio-b0012",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus, Respice, quaesumus Domine, super hanc familiam tuam, pro qua Dominus noster Jesus Christus non dubitavit manibus tradi nocentium, et crucis subire tormentum. Qui tecum vivit, et regnat in saecula saeculorum. Amen.",
+          "english": null,
+          "sourcePages": [
+            67
+          ],
+          "translation": null,
+          "alignment": "single-language",
+          "id": "commendatio-b0013",
+          "verification": "pending"
+        }
+      ]
+    }
+  ],
+  "unpairedEnglish": []
+}
