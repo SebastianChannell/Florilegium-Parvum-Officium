@@ -64,3 +64,11 @@ Application is limited to offices inventoried as Latin-only. It never replaces e
 A manually reviewed `block.referenceExpansion` contains `targets` (same-office block IDs), `sourcePages`, and an explanatory `note`. The reader retains the original abbreviated reference as a rubric and follows it with the referenced text. Nested expansions reject missing targets and cycles. Validation requires the reference manifest and content expansion to agree; a bare `resolved` status is insufficient.
 
 `source-reading-pending` passages remain pending even when provisional English exists. The reader displays a section warning in addition to the office's detailed editorial notes. Do not remove that warning or promote an office's status merely because all its English fields are populated.
+
+### Passages printed only in the English column
+
+An `english-supplement` block preserves supplied English without inventing Latin. It requires `source: null`, `sourceOmission: true`, nonempty supplied English, an explanatory `editorialNote`, and identical `sourcePages`, `englishPages`, and `translation.sourcePages`. Those pages identify the printed English, not a missing Latin passage. The reader shows an explicit source-absence message in parallel or stacked mode, the supplied text in English mode, and omits the supplement in source-only mode. Ordinary source passages must still have nonempty source text.
+
+### Exact reviewed English reuse
+
+`scripts/editorial/reuse_reviewed_english.py` may fill an empty English field when the complete Latin passage matches a reviewed source passage after whitespace normalization alone. It skips conflicting English candidates and does not overwrite existing English or source-review status. Supplied English retains the original PDF pages and source-office/block identifiers. Prepared English retains the required notice. Validation verifies the referenced original, the complete Latin equality, the copied English, and supplied-page provenance. Reused bilingual content requires `translationScope: marked` when the office also contains prepared English.

@@ -7,3 +7,11 @@ Prepared passages are marked under the required translation notice: omitted open
 The erroneous running page header naming the Rite of Lyon is noted; the Dominican office’s own opening title remains authoritative. None’s printed “Famulum tuorum” is retained with a note.
 
 Validation: content check, all 24 tests, and editorial preview build pass. Overall publication remains blocked: 5,286 rows still lack English, 271 supplied English blocks await pairing (Dominican Matins, Lauds, Vespers, and Compline), and 219 references remain unresolved. The whole Dominican office remains uncertified pending completion of those hours and the remaining source material.
+
+## Completed supplied-English pairing
+
+All eight hours are now paired, preserving every original printed text stream in digest fixtures. PDF pages 280–320 have been visually compared. There are no remaining unpaired supplied-English blocks in the entire collection.
+
+Lauds Psalm 66, three Matins instructions/additional-responsory passages, Vespers’ Ascensiontide antiphon, and the Compline blessing are printed only in English. They use the explicit `english-supplement` model; no Latin has been fabricated. Further missing opening prayers, priest responses, and Vespers collects have marked prepared English. The seasonal collect instructions omitted by the English column are translated inline and reproduced among the top source notes. The Matins versicle marker extracted as “OV.” has been visually corrected, retaining the original extraction in provenance.
+
+The PDF’s English Nunc dimittis omits “in peace”. Both printed readings remain, with a visible discrepancy note and pending source-discrepancy status. The source’s expanded and differing English instructions have not been replaced with calendar logic or Divinum Officium rules.

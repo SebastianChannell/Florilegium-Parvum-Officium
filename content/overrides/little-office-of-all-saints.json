@@ -1367,26 +1367,50 @@
         {
           "type": "prayer",
           "source": "℣. Exsultabunt Sancti in gloria.",
-          "english": null,
+          "english": "℣. The Saints shall be joyful in glory.",
           "sourcePages": [
             427
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0049",
+            "sourcePages": [
+              295
+            ]
+          },
+          "alignment": "reviewed",
           "id": "none-b0008",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            295
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
           "source": "℟. Laetabuntur in cubilibus suis.",
-          "english": null,
+          "english": "℟. They shall sing for joy on their couches.",
           "sourcePages": [
             427
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0050",
+            "sourcePages": [
+              295
+            ]
+          },
+          "alignment": "reviewed",
           "id": "none-b0009",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            295
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2023,5 +2047,6 @@
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "translationScope": "marked"
 }

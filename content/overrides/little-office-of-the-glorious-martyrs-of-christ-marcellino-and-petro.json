@@ -694,14 +694,26 @@
         {
           "type": "prayer",
           "source": "℟. Mors Sanctorum ejus.",
-          "english": null,
+          "english": "℟. Is the death of His saints.",
           "sourcePages": [
             562
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "prime-b0026",
+            "sourcePages": [
+              621
+            ]
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0012",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            621
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1589,14 +1601,26 @@
         {
           "type": "prayer",
           "source": "℟. Laetabuntur in cubilibus suis.",
-          "english": null,
+          "english": "℟. They shall sing for joy on their couches.",
           "sourcePages": [
             563
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0050",
+            "sourcePages": [
+              295
+            ]
+          },
+          "alignment": "reviewed",
           "id": "sext-b0011",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            295
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2661,5 +2685,6 @@
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "translationScope": "marked"
 }

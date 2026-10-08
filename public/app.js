@@ -99,10 +99,12 @@ function renderSection(focus = false) {
   for (const language of languages) $('languageLabels').append(el('span',language));
   $('prayerBlocks').replaceChildren();
   for (const b of blocks) {
+    if (mode === 'source' && b.type === 'english-supplement') continue;
     if (mode === 'english' && !englishSource && !b.english) continue;
     const row = el('div', undefined, `prayer-row ${b.type}${englishSource || !b.english ? ' single' : ''}`);
     row.dataset.block = b.id;
-    row.append(cell(b.source, office.sourceLanguage, `source-cell${englishSource ? ' english-source' : ''}`));
+    row.append(cell(b.type === 'english-supplement' ? 'No corresponding source-language passage is printed in the PDF.' : b.source,
+      b.type === 'english-supplement' ? 'English' : office.sourceLanguage, `source-cell${englishSource ? ' english-source' : ''}`));
     if (!englishSource && b.english) row.append(cell(b.english, 'English', 'english-cell', b.translation?.kind === 'prepared'));
     $('prayerBlocks').append(row);
     if (b.editorialNote) $('prayerBlocks').append(el('p', `Source note: ${b.editorialNote}`, 'editorial-note'));

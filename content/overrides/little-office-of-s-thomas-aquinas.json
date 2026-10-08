@@ -142,14 +142,26 @@
         {
           "type": "rubric",
           "source": "Invitatorium",
-          "english": null,
+          "english": "Invitatory",
           "sourcePages": [
             594
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "matins-b0008",
+            "sourcePages": [
+              280
+            ]
+          },
+          "alignment": "reviewed",
           "id": "matins-b0006",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            280
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -271,38 +283,74 @@
         {
           "type": "prayer",
           "source": "℣. Amavit eum Dominus et ornavit eum.",
-          "english": null,
+          "english": "℣. The Lord hath loved and adorned him.",
           "sourcePages": [
             594
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "vespers-b0018",
+            "sourcePages": [
+              630
+            ]
+          },
+          "alignment": "reviewed",
           "id": "matins-b0016",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            630
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
           "source": "℟. Stolam gloriae induit eum.",
-          "english": null,
+          "english": "℟. He hath invested him with the stole of glory.",
           "sourcePages": [
             594
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "vespers-b0019",
+            "sourcePages": [
+              630
+            ]
+          },
+          "alignment": "reviewed",
           "id": "matins-b0017",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            630
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
           "source": "Pater noster.",
-          "english": null,
+          "english": "Our Father.",
           "sourcePages": [
             594
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-holy-name-of-god",
+            "reusedFrom": "matins-b0001",
+            "sourcePages": [
+              26
+            ]
+          },
+          "alignment": "reviewed",
           "id": "matins-b0018",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            26
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1675,14 +1723,26 @@
         {
           "type": "prayer",
           "source": "℟. Et libera nos propter nomen tuum.",
-          "english": null,
+          "english": "℟. And deliver us for thy name’s sake.",
           "sourcePages": [
             597
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "prime-b0015",
+            "sourcePages": [
+              621
+            ]
+          },
+          "alignment": "reviewed",
           "id": "prime-b0020",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            621
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2326,14 +2386,26 @@
         {
           "type": "rubric",
           "source": "Psalmus 130",
-          "english": null,
+          "english": "Psalm 130",
           "sourcePages": [
             598
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "none-b0010",
+            "sourcePages": [
+              306
+            ]
+          },
+          "alignment": "reviewed",
           "id": "sext-b0008",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            306
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2910,14 +2982,26 @@
         {
           "type": "prayer",
           "source": "℟. Intercede pro nobis ad Dominum Deum nostrum.",
-          "english": null,
+          "english": "℟. Intercede for us with Lord our God.",
           "sourcePages": [
             599
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "none-b0019",
+            "sourcePages": [
+              307
+            ]
+          },
+          "alignment": "reviewed",
           "id": "none-b0019",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            307
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3498,14 +3582,26 @@
         {
           "type": "rubric",
           "source": "Psalmus 133",
-          "english": null,
+          "english": "Psalm 133",
           "sourcePages": [
             601
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "compline-b0008",
+            "sourcePages": [
+              631
+            ]
+          },
+          "alignment": "reviewed",
           "id": "compline-b0005",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            631
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3699,14 +3795,26 @@
         {
           "type": "prayer",
           "source": "℟. Sub umbra alarum tuarum protege nos.",
-          "english": null,
+          "english": "℟. Protect us under the shadow of thy wings.",
           "sourcePages": [
             601
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "compline-b0017",
+            "sourcePages": [
+              632
+            ]
+          },
+          "alignment": "reviewed",
           "id": "compline-b0018",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            632
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "rubric",
@@ -3831,5 +3939,6 @@
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "translationScope": "marked"
 }

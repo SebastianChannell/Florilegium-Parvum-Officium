@@ -712,14 +712,26 @@
         {
           "type": "rubric",
           "source": "Salve Regina",
-          "english": null,
+          "english": "Salve Regina",
           "sourcePages": [
             636
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "compline-b0039",
+            "sourcePages": [
+              319
+            ]
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0052",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            319
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1709,14 +1721,26 @@
         {
           "type": "rubric",
           "source": "Salve Regina",
-          "english": null,
+          "english": "Salve Regina",
           "sourcePages": [
             640
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "compline-b0039",
+            "sourcePages": [
+              319
+            ]
+          },
+          "alignment": "reviewed",
           "id": "commemorationes-ad-libitum-b0006",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            319
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1733,5 +1757,6 @@
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "translationScope": "marked"
 }

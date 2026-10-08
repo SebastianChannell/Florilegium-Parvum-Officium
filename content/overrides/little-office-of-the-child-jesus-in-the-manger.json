@@ -28,9 +28,9 @@
   ],
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
-    "extraction": "candidate",
-    "translation": "incomplete",
-    "verification": "pending"
+    "extraction": "reviewed",
+    "translation": "complete-prepared",
+    "verification": "source-reading-pending"
   },
   "sections": [
     {
@@ -44,14 +44,21 @@
         {
           "type": "prayer",
           "source": "℣. Gloria in excelsis Deo, et in terra pax hominibus bonae voluntatis.",
-          "english": null,
+          "english": "℣. Glory to God in the highest, and on earth peace to men of good will.",
           "sourcePages": [
             49
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              49
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -72,7 +79,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -93,7 +100,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -114,7 +121,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -135,7 +142,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -156,55 +163,83 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O mi Jesu! quis hic status! Deus a Puella natus, Princeps pro Regali aula Vili recubas in caula In Praesepre reclinatus, Summus compar infimo: Cui condignum Deo Chorum Gens sonabat Angelorum, Nunc pro musica coelesti Gaudes tibia agresti, Atque simplici Pastorum Delectaris lituo.",
-          "english": null,
+          "english": "O my Jesus, what a condition is this! God born of a Maiden,\nThou, a Prince, dost recline in a lowly sheepfold instead of a royal hall.\nLaid in a manger, the Most High is made like the lowliest.\nThe company of Angels sounded a choir worthy of God for Thee;\nNow, instead of heavenly music, Thou delightest in a rustic pipe\nAnd art pleased by the simple trumpet of shepherds.",
           "sourcePages": [
             49
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              49
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. O Regem Caeli, cui talia famulantur obsequia! stabulo ponitur, qui continet mundum: jacet in Praesepio, qui regnat in caelis.",
-          "english": null,
+          "english": "Ant. O King of heaven, to whom such service is rendered! He who contains the world is laid in a stable; He who reigns in heaven lies in a manger.",
           "sourcePages": [
             49
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              49
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Exultavit ut gigas ad currendam viam.",
-          "english": null,
+          "english": "℣. He rejoiced as a giant to run His course.",
           "sourcePages": [
             49
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              49
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. A summo caelo egressio ejus.",
-          "english": null,
+          "english": "℟. His going forth is from the highest heaven.",
           "sourcePages": [
             49
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              49
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -225,19 +260,26 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Odulcis Jesule! O bonitas infinita! da obsecro, ut velut propter me hominem coelestis Patris reliquisti delicias: sic ego amore tui mundanis omnibus renunciem voluptatibus, nec alio tendam, nisi ad Te. Qui cum Patre et Spiritu Sancto vivis et regnas in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "O sweet little Jesus, O infinite goodness! Grant, I beseech Thee, that, as for my sake, a man, Thou didst leave the delights of the heavenly Father, so I may renounce all worldly pleasures for love of Thee and strive for nothing but Thee. Who with the Father and the Holy Ghost livest and reignest for ever and ever. Amen.",
           "sourcePages": [
             49
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              49
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0012",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -268,7 +310,16 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0001"
+            ],
+            "sourcePages": [
+              49
+            ],
+            "note": "The printed Gloria in excelsis incipit refers to the full opening at Matins."
+          }
         },
         {
           "type": "prayer",
@@ -289,7 +340,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -310,19 +361,26 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Gloria Patri etc.",
-          "english": null,
+          "english": "Glory be to the Father, etc.",
           "sourcePages": [
             49
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              49
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -343,55 +401,83 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Raucos asini ruditus Bovis inter et mugitus Almi Proles dormi Patris! Et ad melos castae Matris Sacros terminat vagitus; Dormi dulcis Jesule! Dormi gratiarum aedes, Charitum sacrata sedes, Et ignosce, dum praesumit, Amor tuus quem consumit Sacros osculari pedes, Dormi dulcis Pupule!",
-          "english": null,
+          "english": "Amid the hoarse braying of an ass and the lowing of an ox,\nSleep, O Son of the loving Father!\nAt the song of Thy chaste Mother, cease Thy holy cries;\nSleep, sweet little Jesus! Sleep, dwelling of graces,\nSacred seat of loving gifts,\nAnd forgive him whom Thy love consumes\nWhen he presumes to kiss Thy holy feet.\nSleep, sweet little Child!",
           "sourcePages": [
             49
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              49
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Ecce tu pulcher es Dilecte mi et decorus. Lectulus noster floridus, tigna domorum cedrina, et laquearia nostra cypressina.",
-          "english": null,
+          "english": "Ant. Behold, Thou art fair, my Beloved, and comely. Our little bed is flowering, the beams of our houses are cedar, and our ceilings cypress.",
           "sourcePages": [
             49
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              49
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Da somnum oculis tuis.",
-          "english": null,
+          "english": "℣. Give sleep to Thine eyes,",
           "sourcePages": [
             49
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              49
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Et palpebris tuis dormitationem.",
-          "english": null,
+          "english": "℟. And slumber to Thine eyelids.",
           "sourcePages": [
             49
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              49
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -412,19 +498,26 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Odulcis Jesule! vera et unica requies amantis animae: da, ut sicut inter castissima Matris tuae brachia suavissime obdormisti: sic ego me, meaque omnia in manus tuas semper commendem, ac unice requiescam in te. Qui cum etc.",
-          "english": null,
+          "english": "O sweet little Jesus, true and only rest of the loving soul: grant that, as Thou didst fall most sweetly asleep in the most chaste arms of Thy Mother, so I may always commend myself and all that is mine into Thy hands, and rest in Thee alone. Who with, etc.",
           "sourcePages": [
             49
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              49
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -456,7 +549,16 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0001"
+            ],
+            "sourcePages": [
+              49
+            ],
+            "note": "The printed Gloria in excelsis incipit refers to the full opening at Matins."
+          }
         },
         {
           "type": "prayer",
@@ -477,7 +579,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -498,7 +600,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "heading",
@@ -519,56 +621,86 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Belle Puer, Jesu chare, Quis non possit te amare; Quis, o Pusio formose, Cujus genas pingunt rosae, Quis te nolit adorare, O dilecte Parvule! Cujus oculi sagittae In amantem expediatae, Cujus residet in labris Cum coraliò cinnabris, Quis, o Decor infinite? Quis te amet congrue?",
-          "english": null,
+          "english": "Fair Child, dear Jesus, who could fail to love Thee?\nWho, O beautiful little Child, whose cheeks roses adorn,\nWould not adore Thee, O beloved little One?\nThine eyes are arrows sent forth against the lover;\nUpon Thy lips dwell vermilion and coral.\nWho, O infinite Beauty, could love Thee worthily?",
           "sourcePages": [
             49,
             50
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              49,
+              50
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Oculi ejus sicut columbae super rivulos aquarum, dentes illius, sicut arcole aromatum, labia ejus lilia distillantia myrrham primam.",
-          "english": null,
+          "english": "Ant. His eyes are as doves above streams of water, His teeth as little beds of spices, His lips lilies dropping the first myrrh.",
           "sourcePages": [
             50
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              50
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0006",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed source gives “dentes” (teeth), not cheeks, and “arcole”. The translation retains teeth and provisionally understands arcole as little beds; it does not substitute a different biblical edition."
         },
         {
           "type": "prayer",
           "source": "℣. Dilectus meus candidus et rubicundus.",
-          "english": null,
+          "english": "℣. My Beloved is white and ruddy,",
           "sourcePages": [
             50
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              50
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Electus ex millibus.",
-          "english": null,
+          "english": "℟. Chosen out of thousands.",
           "sourcePages": [
             50
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              50
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -589,19 +721,26 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Odulcis Jesule! Pulchritudo excedens omnem pulchritudinem: da, amore tui ita me capi, ut creatas elegantias facilem spernens, nec pulchrum aestimem, neque decorum, nisi te, speciosae prae Filiis hominum. Qui cum Patre etc.",
-          "english": null,
+          "english": "O sweet little Jesus, Beauty surpassing every beauty: grant that I may be so captivated by love of Thee that, readily despising created beauties, I may esteem nothing fair or comely but Thee, fairer than the sons of men. Who with the Father, etc.",
           "sourcePages": [
             50
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              50
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -632,7 +771,16 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0001"
+            ],
+            "sourcePages": [
+              50
+            ],
+            "note": "The printed Gloria in excelsis incipit refers to the full opening at Matins."
+          }
         },
         {
           "type": "prayer",
@@ -653,7 +801,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -674,7 +822,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -695,55 +843,85 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Heu mi Jesu! quam ut rosa Membra tibi speciosa Gelu rubent! quam horrendis Brumae poenis saevientis Dei soboles formosa! Jaces hic exposita? En quam tibi superfusa, Velut conchis interclusa, Lilicet per genarum, Globulata lachrymarum Sacris oculis protrusa, Gemma fluit gemina!",
-          "english": null,
+          "english": "Alas, my Jesus, how Thy beautiful limbs redden like roses with the frost!\nTo what dreadful pains of raging winter, O fair Son of God,\nDost Thou lie exposed here?\nBehold, as though enclosed in shells,\nA rounded double pearl of tears, pressed forth from Thy holy eyes,\nFlows over the lilies of Thy cheeks.",
           "sourcePages": [
             50
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              50
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The source prints the malformed “Lilicet per genarum”. The provisional English understands the imagery as tears flowing over lily-like cheeks; the Latin is retained."
         },
         {
           "type": "prayer",
           "source": "Ant. Quarumus Domino nostro Regi, qui stetit coram eo, et foveat eum, dormiatque in sinu suo, et calefaciat Dominum nostrum Regem.",
-          "english": null,
+          "english": "Ant. Let us seek for our Lord the King one who may stand before Him and warm Him, and sleep in His bosom, and give warmth to our Lord the King.",
           "sourcePages": [
             50
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              50
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0006",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The source prints “Quarumus” and gives no explicit object of the seeking. The provisional English understands “Let us seek” and supplies “one” to express the apparent sense; the printed Latin is retained."
         },
         {
           "type": "prayer",
           "source": "℣. Fasciculus myrrhae dilectus meus mihi.",
-          "english": null,
+          "english": "℣. My Beloved is to me a bundle of myrrh.",
           "sourcePages": [
             50
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              50
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Inter ubera mea commorabitur.",
-          "english": null,
+          "english": "℟. He shall abide between my breasts.",
           "sourcePages": [
             50
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              50
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -764,19 +942,26 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Odulcis Jesule! tenerrimum patientiae speculum! qui vix nasci, mox pati etiam voluisti: concede, quaeso, ut et ego exemplo tuo, tum vivere nolim nisi tibi, tum semper cupiam pati pro te. Qui cum Patre etc.",
-          "english": null,
+          "english": "O sweet little Jesus, most tender mirror of patience, who didst scarcely will to be born before Thou didst also will to suffer: grant, I pray, that by Thy example I may wish to live only for Thee and always desire to suffer for Thee. Who with the Father, etc.",
           "sourcePages": [
             50
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              50
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -807,7 +992,16 @@
           },
           "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0001"
+            ],
+            "sourcePages": [
+              50
+            ],
+            "note": "The printed Gloria in excelsis incipit refers to the full opening at Matins."
+          }
         },
         {
           "type": "prayer",
@@ -828,7 +1022,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -849,7 +1043,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -870,55 +1064,83 @@
           },
           "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ecquid inter hos dolores, Quos mi Jesu digne plores! Tamen blandule renides, Dum me peccatorem vides, Tibi, inter Pastores Genibus adrepere! Nempè mei quod ardore Primae mox ab ortu horae Haec sustines, atque plura Adhuc ferre petas dura, Atque tuo sic amore Meum tibi quaerere.",
-          "english": null,
+          "english": "What is this, my Jesus? Amid these sorrows, which Thou mayest rightly lament,\nYet Thou dost smile gently when Thou seest me, a sinner,\nCreeping on my knees toward Thee among the shepherds!\nSurely it is from burning love of me that, from the first hour of Thy birth,\nThou dost endure these things and desire to bear still greater hardships,\nAnd thus by Thy love dost seek my love for Thee.",
           "sourcePages": [
             50
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              50
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Ludens erat in Orbe terrarum, et deliciae ejus esse cum filiis hominum.",
-          "english": null,
+          "english": "Ant. He played upon the earth, and His delight was to be with the sons of men.",
           "sourcePages": [
             50
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              50
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Dilexit Patres suos.",
-          "english": null,
+          "english": "℣. He loved His fathers,",
           "sourcePages": [
             50
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              50
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Et elegit semen eorum post eos.",
-          "english": null,
+          "english": "℟. And chose their seed after them.",
           "sourcePages": [
             50
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              50
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -939,19 +1161,26 @@
           },
           "alignment": "reviewed",
           "id": "none-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Odulcis Jesule! mirande amator hominum! da, ut dum sine causa meriti ab aeterno me praedilexisti; Ego quoque nec spe praemii nec metu poenae, sed solum redamem te Deus propter te. Qui cum Patre etc.",
-          "english": null,
+          "english": "O sweet little Jesus, wondrous lover of men: grant that, since without any merit on my part Thou hast loved me beforehand from eternity, I too may love Thee in return, O God, neither from hope of reward nor from fear of punishment, but solely for Thyself. Who with the Father, etc.",
           "sourcePages": [
             50
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              50
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -983,7 +1212,16 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0001"
+            ],
+            "sourcePages": [
+              50
+            ],
+            "note": "The printed Gloria in excelsis incipit refers to the full opening at Matins."
+          }
         },
         {
           "type": "prayer",
@@ -1004,7 +1242,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1025,7 +1263,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1046,55 +1284,83 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O mi Jesu! qui sic amas, Absit, quin et meas flammas Tuis velim sociare, Sicque tibi adornare, Ut quod unice inclamas Lectulum calidulum; Sed o sacri vos Amores! Vestros meum per ardores Ocyus Cor inflammate Et frigenti praeparate Sacros inter calores Jesu meo Lectulum!",
-          "english": null,
+          "english": "O my Jesus, who dost love thus, far be it from me not to wish\nTo join my flames to Thine, and thus prepare for Thee\nThe little warm bed which alone Thou dost ask for.\nBut, O holy loves, through your ardour swiftly kindle my heart,\nAnd amid holy warmth prepare a little bed for my freezing Jesus!",
           "sourcePages": [
             51
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              51
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Si invenieritis dilectum meum, nuntiate Ei, quia amore langueo.",
-          "english": null,
+          "english": "Ant. If ye find my Beloved, tell Him that I languish with love.",
           "sourcePages": [
             51
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              51
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Concalvit cor meum intra me.",
-          "english": null,
+          "english": "℣. My heart grew hot within me.",
           "sourcePages": [
             51
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              51
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Et in meditatione mea exardescet ignis.",
-          "english": null,
+          "english": "℟. And in my meditation a fire shall burn.",
           "sourcePages": [
             51
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              51
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1115,19 +1381,26 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Odulcis Jesule! Ignis qui semper ardes, et nunquam tepes: inflamma, obsecro cor meum, ne unquam tepeat, sed in omni opere suo, fervore dilectionis tuae succensus, jugiter ardescat ex te. Qui cum Patre etc.",
-          "english": null,
+          "english": "O sweet little Jesus, Fire who always burnest and never growest lukewarm: kindle my heart, I beseech Thee, that it may never grow lukewarm, but, set aflame by the fervour of Thy love, may continually burn from Thee in all its works. Who with the Father, etc.",
           "sourcePages": [
             51
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              51
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -1158,7 +1431,16 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0001"
+            ],
+            "sourcePages": [
+              51
+            ],
+            "note": "The printed Gloria in excelsis incipit refers to the full opening at Matins."
+          }
         },
         {
           "type": "prayer",
@@ -1179,7 +1461,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1200,7 +1482,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1221,7 +1503,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1242,7 +1524,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1263,55 +1545,83 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Sine Jesu! ut frigentem Toto corpore trementem Corde meo te abscondam, Et amoris lecto condam. Subi Jesule! calentem, Subi, precor, lectulum! Nil hic frigoris timendum, Nihil turbinis verendum, Etsi levis aura flaret, Quam fors amor excitaret, Suavius est dormiendum; Dormi Cordis Corculum!",
-          "english": null,
+          "english": "Permit me, Jesus, to hide Thee in my heart, freezing and trembling in Thy whole body,\nAnd lay Thee upon the bed of love.\nEnter, little Jesus, enter, I pray, the little warm bed!\nHere no cold need be feared, no tempest dreaded.\nEven if a gentle breeze should blow, which love perchance has stirred,\nThou mayest sleep all the more sweetly.\nSleep, little Heart of my heart!",
           "sourcePages": [
             51
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              51
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Adjuro vos filiae Jerusalem, per capreas, cervosque camporum, ne suscitetis, neque evigilare faciatis dilectum meum, donec ipse velit.",
-          "english": null,
+          "english": "Ant. I adjure you, daughters of Jerusalem, by the roes and the stags of the fields, that ye neither stir up nor awaken my Beloved until He wills.",
           "sourcePages": [
             51
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              51
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Haec requies mea.",
-          "english": null,
+          "english": "℣. This is my rest.",
           "sourcePages": [
             51
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              51
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Hic habitabo, quoniam elegi eam.",
-          "english": null,
+          "english": "℟. Here shall I dwell, for I have chosen it.",
           "sourcePages": [
             51
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              51
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1332,19 +1642,26 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Odulcis Jesule! Mentis desideratissime Hospes! Ecce pando tibi ostium Cordis mei, ut, cui non erat locus in diversorio, tu solus illud inhabites, omnesque saeculi vanitates, magnifica tua praesentia, ab eo longe praecludas. Qui cum Patre etc.",
-          "english": null,
+          "english": "O sweet little Jesus, most desired Guest of my mind! Behold, I open to Thee the door of my heart, that Thou, for whom there was no place in the inn, mayest alone inhabit it, and by Thy majestic presence exclude far from it all the vanities of the world. Who with the Father, etc.",
           "sourcePages": [
             51
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              51
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0012",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -1359,50 +1676,78 @@
         {
           "type": "prayer",
           "source": "Non Paternus vero Thronis, At nec lecto Salomonis, Sponsae thalamo electae Neque compar est, Dilecte Jesu! membra quo reponis, Meus iste lectulus: Sed qui palam publicorum Tecta quondam peccatorum Visitare jam decernis, Scio: nec Cor meum spernis; Tuis pie quod in thorum Detuli amoribus,",
-          "english": null,
+          "english": "My little bed, beloved Jesus, in which Thou dost lay Thy limbs,\nIs not equal to the Father’s throne, nor to Solomon’s bed,\nNor to the bridal chamber of the chosen spouse.\nBut I know that Thou hast determined openly to visit\nThe houses of public sinners of old;\nNor wilt Thou despise my heart, which I have lovingly offered\nAs a couch for Thy love.",
           "sourcePages": [
             51
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              51
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "conclusion-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Hodie in domo tua oportet me manere: Hodie huic domui salus facta est.",
-          "english": null,
+          "english": "Ant. Today I must abide in thy house; today salvation has come to this house.",
           "sourcePages": [
             51
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              51
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "conclusion-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Inveni quem diligit anima mea.",
-          "english": null,
+          "english": "℣. I have found Him whom my soul loves.",
           "sourcePages": [
             51
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              51
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "conclusion-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Tenui eum, nec dimittam.",
-          "english": null,
+          "english": "℟. I have held Him and will not let Him go.",
           "sourcePages": [
             51
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              51
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "conclusion-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1423,22 +1768,39 @@
           },
           "alignment": "reviewed",
           "id": "conclusion-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Odulcis Jesule! o vera et unica Dilectio mea! largire, obsecro, ut quoties Cor meum superna gratiae inspiratione, vel Eucharistica praesentia tua visitare dignaris: non illud hodie tantum, aut una saltem vel altera die, sed in Charitate, statuque Gratiae tuae constanter perseverans, aeternum maneat in te, et tu Deus in eo. Qui cum Patre etc.",
-          "english": null,
+          "english": "O sweet little Jesus, O my true and only Love! Grant, I beseech Thee, that whenever Thou dost deign to visit my heart by a heavenly inspiration of grace or by Thy Eucharistic presence, it may abide in Thee not merely today or for one or two days, but eternally, constantly persevering in charity and in the state of Thy grace, and Thou, O God, in it. Who with the Father, etc.",
           "sourcePages": [
             51
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              51
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "conclusion-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "editorialNotes": [
+    {
+      "pages": [
+        49,
+        50,
+        51
+      ],
+      "text": "All three pages have been visually compared. English is prepared from this printed Latin, retaining abbreviated collect endings instead of silently supplying a different edition. The repeated Gloria in excelsis opening displays the full text printed at Matins. Three malformed source passages have explicit provisional-reading notes. The source has seven hours without Lauds, and a separate Conclusion."
+    }
+  ]
 }

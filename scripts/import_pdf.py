@@ -245,7 +245,7 @@ def main():
                             'preparedEnglish':sum(b.get('translation',{}).get('kind')=='prepared' for s in doc['sections'] for b in s['blocks'] if b.get('translation'))}
         for s in doc['sections']:
             for b in s['blocks']:
-                if REFERENCE.search(b['source']):
+                if REFERENCE.search(b['source'] or ''):
                     review.append({'office':doc['id'], 'section':s['id'], 'block':b['id'], 'pages':b['sourcePages'],
                                    'kind':'internal-reference', 'text':b['source'],
                                    'status':'resolved' if b.get('referenceExpansion') else 'unresolved',

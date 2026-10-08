@@ -92,10 +92,19 @@ with sync_playwright() as p:
     assert page.locator('#translationNotice').is_visible()
     assert 'marked †' in page.locator('#translationNotice').inner_text()
     page.locator('#notesDetails summary').click()
-    assert page.locator('#officeNotes .prepared-mark').count()==1
+    assert page.locator('#officeNotes .prepared-mark').count()==3
     check_width(page)
     page.screenshot(path=str(ARTIFACTS/'mixed-long-notes-390.png'),full_page=True)
-    for trigger in ['#fontUp','#fontDown','#shareButton','#officeSearch','#officeSelect','#sectionSelect']:
+    page.locator('#sectionSelect').select_option('lauds')
+    assert page.locator('.english-supplement').count()==1
+    assert 'Psalm 66' in page.locator('.english-supplement .english-cell').inner_text()
+    assert 'No corresponding source-language passage' in page.locator('.english-supplement .source-cell').inner_text()
+    for mode in ['parallel','stacked','english','source']:
+        page.locator('#layoutSelect').select_option(mode)
+        assert page.locator('.english-supplement').count()==(0 if mode=='source' else 1)
+        check_width(page)
+    page.locator('#layoutSelect').select_option('parallel')
+    for trigger in ['#fontUp' ,'#fontDown','#shareButton','#officeSearch','#officeSelect','#sectionSelect']:
         assert page.locator(trigger).bounding_box()['height']>=44
     page.locator('.skip-link').focus();page.keyboard.press('Enter')
     assert page.locator('#reader').evaluate('(e)=>document.activeElement===e')

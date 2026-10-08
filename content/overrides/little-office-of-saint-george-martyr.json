@@ -982,14 +982,26 @@
         {
           "type": "prayer",
           "source": "℟. Et ostendit illi regnum Dei.",
-          "english": null,
+          "english": "℟. And showed him the kingdom of God.",
           "sourcePages": [
             510
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "lauds-b0034",
+            "sourcePages": [
+              619
+            ]
+          },
+          "alignment": "reviewed",
           "id": "sext-b0009",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            619
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1359,14 +1371,26 @@
         {
           "type": "prayer",
           "source": "℟. Mors Sanctorum ejus.",
-          "english": null,
+          "english": "℟. Is the death of His saints.",
           "sourcePages": [
             511
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "prime-b0026",
+            "sourcePages": [
+              621
+            ]
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0009",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            621
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1738,5 +1762,6 @@
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "translationScope": "marked"
 }

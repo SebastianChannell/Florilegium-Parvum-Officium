@@ -30,12 +30,21 @@ export function validateContent({ inventory, documents, boundaries, references =
         blocks++;
         if (blockIds.has(b.id)) add(`Duplicate block: ${b.id}`,office.id);
         blockIds.add(b.id);
-        if (!b.source?.trim()) add(`Empty source passage: ${b.id}`,office.id);
+        if (b.type === 'english-supplement') {
+          if (b.source !== null || b.sourceOmission !== true || !b.english?.trim() || b.translation?.kind !== 'supplied' || !b.englishPages?.length || !b.editorialNote?.trim()) add(`Invalid English-only supplement: ${b.id}`,office.id);
+          if (JSON.stringify(b.sourcePages) !== JSON.stringify(b.englishPages) || JSON.stringify(b.translation?.sourcePages) !== JSON.stringify(b.englishPages)) add(`English-only supplement has inconsistent printed-page provenance: ${b.id}`,office.id);
+        } else if (!b.source?.trim()) add(`Empty source passage: ${b.id}`,office.id);
         if (!b.sourcePages?.length) add(`Missing page provenance: ${b.id}`,office.id);
         if (b.sourcePages?.some(p => !Number.isInteger(p) || p < doc.source.pdfPages[0] || p > doc.source.pdfPages[1])) add(`Page outside office boundary: ${b.id}`,office.id);
         if (doc.sourceLanguage !== 'English' && !b.english?.trim()) { missing++; missingEnglish++; }
         if (doc.sourceLanguage === 'English' && b.english) add(`English-only office duplicates its source: ${b.id}`,office.id);
         if (b.english && !b.translation?.kind) add(`English lacks provenance: ${b.id}`,office.id);
+        if (b.translation?.method === 'exact-reviewed-pdf-reuse') {
+          const origin = documents.get(b.translation.reusedFromOffice)?.sections.flatMap(s => s.blocks).find(t => t.id === b.translation.reusedFrom);
+          const normalize = t => t?.replace(/\s+/g, ' ').trim();
+          if (!origin || origin.verification !== 'visual-review' || origin.alignment !== 'reviewed' || normalize(origin.source) !== normalize(b.source) || origin.english !== b.english || origin.translation?.kind !== b.translation.kind) add(`Reused English lacks an identical reviewed source passage: ${b.id}`,office.id);
+          if (b.translation.kind === 'supplied' && JSON.stringify(b.englishPages) !== JSON.stringify(origin?.englishPages || origin?.translation?.sourcePages)) add(`Reused supplied English has incorrect provenance: ${b.id}`,office.id);
+        }
         if (b.alignment === 'source-discrepancy' && (!b.editorialNote?.trim() || b.verification !== 'source-reading-pending')) add(`Source discrepancy lacks a visible note or pending review status: ${b.id}`,office.id);
         if (b.translation?.kind === 'prepared') { prepared++; preparedEnglish++; if (!b.english) add(`Prepared translation is empty: ${b.id}`,office.id); }
         if (/\b(?:TODO|TBD|LOREM IPSUM)\b/i.test(b.source+' '+(b.english || ''))) add(`Placeholder content: ${b.id}`,office.id);

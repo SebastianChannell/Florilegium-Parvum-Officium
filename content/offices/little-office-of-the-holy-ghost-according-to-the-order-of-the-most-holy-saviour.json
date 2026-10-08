@@ -252,14 +252,26 @@
         {
           "type": "rubric",
           "source": "Psalmus I",
-          "english": null,
+          "english": "Psalm I",
           "sourcePages": [
             92
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-s-benedict",
+            "reusedFrom": "prime-b0008",
+            "sourcePages": [
+              459
+            ]
+          },
+          "alignment": "reviewed",
           "id": "matins-b0013",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            459
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -538,14 +550,26 @@
         {
           "type": "rubric",
           "source": "Canticum Zachariae (Luc. 1)",
-          "english": null,
+          "english": "Canticle of Zachary",
           "sourcePages": [
             93
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0032",
+            "sourcePages": [
+              293
+            ]
+          },
+          "alignment": "reviewed",
           "id": "matins-b0033",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            293
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1064,14 +1088,26 @@
         {
           "type": "rubric",
           "source": "Responsorium Breve",
-          "english": null,
+          "english": "Short Responsory",
           "sourcePages": [
             94
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "lauds-b0011",
+            "sourcePages": [
+              617
+            ]
+          },
+          "alignment": "reviewed",
           "id": "prime-b0015",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            617
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1431,14 +1467,26 @@
         {
           "type": "rubric",
           "source": "Responsorium Breve",
-          "english": null,
+          "english": "Short Responsory",
           "sourcePages": [
             95
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "lauds-b0011",
+            "sourcePages": [
+              617
+            ]
+          },
+          "alignment": "reviewed",
           "id": "terce-b0013",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            617
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1808,14 +1856,26 @@
         {
           "type": "rubric",
           "source": "Responsorium Breve",
-          "english": null,
+          "english": "Short Responsory",
           "sourcePages": [
             96
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "lauds-b0011",
+            "sourcePages": [
+              617
+            ]
+          },
+          "alignment": "reviewed",
           "id": "sext-b0014",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            617
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2131,14 +2191,26 @@
         {
           "type": "rubric",
           "source": "Responsorium Breve",
-          "english": null,
+          "english": "Short Responsory",
           "sourcePages": [
             97
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "lauds-b0011",
+            "sourcePages": [
+              617
+            ]
+          },
+          "alignment": "reviewed",
           "id": "none-b0013",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            617
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2298,14 +2370,26 @@
         {
           "type": "rubric",
           "source": "Psalmus 127",
-          "english": null,
+          "english": "Psalm 127",
           "sourcePages": [
             97
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "none-b0007",
+            "sourcePages": [
+              627
+            ]
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0002",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            627
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2811,14 +2895,26 @@
         {
           "type": "rubric",
           "source": "Psalmus 128",
-          "english": null,
+          "english": "Psalm 128",
           "sourcePages": [
             98
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "none-b0006",
+            "sourcePages": [
+              305
+            ]
+          },
+          "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            305
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2911,14 +3007,26 @@
         {
           "type": "rubric",
           "source": "Responsorium Breve",
-          "english": null,
+          "english": "Short Responsory",
           "sourcePages": [
             99
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "lauds-b0011",
+            "sourcePages": [
+              617
+            ]
+          },
+          "alignment": "reviewed",
           "id": "compline-b0013",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            617
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3016,14 +3124,26 @@
         {
           "type": "rubric",
           "source": "Canticum Simeonis (Luc. 2)",
-          "english": null,
+          "english": "Canticle of Simeon",
           "sourcePages": [
             99
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "compline-b0026",
+            "sourcePages": [
+              318
+            ]
+          },
+          "alignment": "reviewed",
           "id": "compline-b0021",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            318
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3361,5 +3481,6 @@
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "translationScope": "marked"
 }

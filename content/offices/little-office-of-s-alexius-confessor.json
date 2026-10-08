@@ -44,14 +44,26 @@
         {
           "type": "heading",
           "source": "Invitatory",
-          "english": null,
+          "english": "Invitatory",
           "sourcePages": [
             440
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "matins-b0010",
+            "sourcePages": [
+              105
+            ]
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0001",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            105
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1560,5 +1572,6 @@
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "translationScope": "marked"
 }

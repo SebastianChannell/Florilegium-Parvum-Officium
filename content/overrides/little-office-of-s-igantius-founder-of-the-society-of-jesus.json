@@ -98,14 +98,25 @@
         {
           "type": "prayer",
           "source": "℟. Domine ad adjuvandum me festina. Gloria Patri, et Filio, etc.",
-          "english": null,
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, and to the Son, etc.",
           "sourcePages": [
             516
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-most-holy-sacrament-of-the-eucharist",
+            "reusedFrom": "matins-b0006",
+            "sourcePages": [
+              516
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0004",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "rubric",

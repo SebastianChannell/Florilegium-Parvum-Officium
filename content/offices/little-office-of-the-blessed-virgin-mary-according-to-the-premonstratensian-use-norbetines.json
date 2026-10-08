@@ -234,14 +234,26 @@
         {
           "type": "rubric",
           "source": "Psalm 109",
-          "english": null,
+          "english": "Psalm 109",
           "sourcePages": [
             362
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "vespers-b0004",
+            "sourcePages": [
+              150
+            ]
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0012",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            150
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -258,14 +270,26 @@
         {
           "type": "rubric",
           "source": "Psalm 121",
-          "english": null,
+          "english": "Psalm 121",
           "sourcePages": [
             362
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "terce-b0012",
+            "sourcePages": [
+              141
+            ]
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0014",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            141
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -283,14 +307,26 @@
         {
           "type": "rubric",
           "source": "Psalm 126",
-          "english": null,
+          "english": "Psalm 126",
           "sourcePages": [
             363
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "none-b0010",
+            "sourcePages": [
+              147
+            ]
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0016",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            147
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -307,14 +343,26 @@
         {
           "type": "rubric",
           "source": "Psalm 147",
-          "english": null,
+          "english": "Psalm 147",
           "sourcePages": [
             363
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "vespers-b0024",
+            "sourcePages": [
+              153
+            ]
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0018",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            153
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -451,75 +499,147 @@
         {
           "type": "prayer",
           "source": "Sumens illud Ave Gabrielis ore, Funda nos in pace, Mutans Hevae nomen.",
-          "english": null,
+          "english": "Oh! by Gabriel’s Ave, Uttered long ago, Eva’s name reversing, Establish peace below.",
           "sourcePages": [
             363,
             364
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "vespers-b0036",
+            "sourcePages": [
+              155
+            ]
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0030",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            155
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
           "source": "Solve vincla reis, Profer lumen caecis, Mala nostra pelle, Bona cuncta posce.",
-          "english": null,
+          "english": "Break the captives’ fetters, Light on blindness pour; All our ills expelling, Every bliss implore.",
           "sourcePages": [
             364
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "vespers-b0037",
+            "sourcePages": [
+              155
+            ]
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0031",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            155
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
           "source": "Monstra te esse matrem, Sumat per te preces, Qui pro nobis natus, Tulit esse tuus.",
-          "english": null,
+          "english": "Show thyself a Mother; Offer Him our sighs, Who for us Incarnate Did not thee despise.",
           "sourcePages": [
             364
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "vespers-b0038",
+            "sourcePages": [
+              155
+            ]
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0032",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            155
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
           "source": "Virgo singularis, Inter omnes mitis, Nos culpis solutos Mites fac et castos.",
-          "english": null,
+          "english": "Virgin of all virgins! To thy shelter take us: Gentlest of the gentle! Chaste and gentle make us.",
           "sourcePages": [
             364
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "vespers-b0039",
+            "sourcePages": [
+              155
+            ]
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0033",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            155
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
           "source": "Vitam praesta puram, Iter para tutum, Ut videntes Jesum, Semper collaetemur.",
-          "english": null,
+          "english": "Still, as on we journey, Help our weak endeavour, Till with thee and Jesus We rejoice for ever.",
           "sourcePages": [
             364
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "vespers-b0040",
+            "sourcePages": [
+              155
+            ]
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0034",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            155
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
           "source": "Sit laus Deo Patri, Summo Christo decus, Spiritui Sancto, Tribus honor unus.",
-          "english": null,
+          "english": "Through the highest heaven, To the almighty Three, Father, Son, and Spirit, One same glory be.",
           "sourcePages": [
             364
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "vespers-b0041",
+            "sourcePages": [
+              155
+            ]
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0035",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            155
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1704,14 +1824,26 @@
         {
           "type": "rubric",
           "source": "Psalm 66",
-          "english": null,
+          "english": "Psalm 66",
           "sourcePages": [
             366
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "lauds-b0023",
+            "sourcePages": [
+              125
+            ]
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0117",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            125
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2038,14 +2170,26 @@
         {
           "type": "rubric",
           "source": "Psalm 128",
-          "english": null,
+          "english": "Psalm 128",
           "sourcePages": [
             368
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "compline-b0011",
+            "sourcePages": [
+              159
+            ]
+          },
+          "alignment": "reviewed",
           "id": "compline-b0009",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            159
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2062,14 +2206,26 @@
         {
           "type": "rubric",
           "source": "Psalm 130",
-          "english": null,
+          "english": "Psalm 130",
           "sourcePages": [
             368
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "compline-b0015",
+            "sourcePages": [
+              160
+            ]
+          },
+          "alignment": "reviewed",
           "id": "compline-b0011",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            160
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2538,14 +2694,26 @@
         {
           "type": "prayer",
           "source": "℣. Domine, labia ✠ea aperies.",
-          "english": null,
+          "english": "℣. Lord, ✠Thou shalt open my lips.",
           "sourcePages": [
             369
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "matins-b0004",
+            "sourcePages": [
+              105
+            ]
+          },
+          "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            105
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2658,14 +2826,26 @@
         {
           "type": "rubric",
           "source": "Psalm 94",
-          "english": null,
+          "english": "Psalm 94",
           "sourcePages": [
             369
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "matins-b0013",
+            "sourcePages": [
+              105
+            ]
+          },
+          "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            105
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2682,14 +2862,26 @@
         {
           "type": "rubric",
           "source": "Hymn",
-          "english": null,
+          "english": "Hymn",
           "sourcePages": [
             369
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "matins-b0016",
+            "sourcePages": [
+              106
+            ]
+          },
+          "alignment": "reviewed",
           "id": "matins-b0012",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            106
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2730,14 +2922,28 @@
         {
           "type": "prayer",
           "source": "Beata caeli nuntio, Fecunda Sancto Spiritu, Desideratus gentibus Cujus per alvum fusus est.",
-          "english": null,
+          "english": "Blest by herald angel’s tongue, O’er thee God’s shadowing Spirit hung, And fill’d thy womb which issued forth, The long-desir’d of all the earth.",
           "sourcePages": [
             370
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "matins-b0017",
+            "sourcePages": [
+              281,
+              282
+            ]
+          },
+          "alignment": "reviewed",
           "id": "matins-b0016",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            281,
+            282
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2787,14 +2993,26 @@
         {
           "type": "rubric",
           "source": "Psalm 8",
-          "english": null,
+          "english": "Psalm 8",
           "sourcePages": [
             370
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "matins-b0025",
+            "sourcePages": [
+              107
+            ]
+          },
+          "alignment": "reviewed",
           "id": "matins-b0020",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            107
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2835,14 +3053,26 @@
         {
           "type": "rubric",
           "source": "Psalm 18",
-          "english": null,
+          "english": "Psalm 18",
           "sourcePages": [
             370
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "matins-b0028",
+            "sourcePages": [
+              108
+            ]
+          },
+          "alignment": "reviewed",
           "id": "matins-b0024",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            108
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2872,14 +3102,26 @@
         {
           "type": "rubric",
           "source": "Psalm 23",
-          "english": null,
+          "english": "Psalm 23",
           "sourcePages": [
             371
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "matins-b0031",
+            "sourcePages": [
+              109
+            ]
+          },
+          "alignment": "reviewed",
           "id": "matins-b0027",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            109
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2977,14 +3219,26 @@
         {
           "type": "rubric",
           "source": "Psalm 44",
-          "english": null,
+          "english": "Psalm 44",
           "sourcePages": [
             371
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "matins-b0042",
+            "sourcePages": [
+              110
+            ]
+          },
+          "alignment": "reviewed",
           "id": "matins-b0035",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            110
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3025,14 +3279,26 @@
         {
           "type": "rubric",
           "source": "Psalm 45",
-          "english": null,
+          "english": "Psalm 45",
           "sourcePages": [
             371
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "matins-b0046",
+            "sourcePages": [
+              111
+            ]
+          },
+          "alignment": "reviewed",
           "id": "matins-b0039",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            111
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3073,14 +3339,26 @@
         {
           "type": "rubric",
           "source": "Psalm 86",
-          "english": null,
+          "english": "Psalm 86",
           "sourcePages": [
             372
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "matins-b0049",
+            "sourcePages": [
+              112
+            ]
+          },
+          "alignment": "reviewed",
           "id": "matins-b0043",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            112
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3157,14 +3435,26 @@
         {
           "type": "rubric",
           "source": "Psalm 95",
-          "english": null,
+          "english": "Psalm 95",
           "sourcePages": [
             372
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "matins-b0059",
+            "sourcePages": [
+              113
+            ]
+          },
+          "alignment": "reviewed",
           "id": "matins-b0050",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            113
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3193,14 +3483,26 @@
         {
           "type": "rubric",
           "source": "Psalm 96",
-          "english": null,
+          "english": "Psalm 96",
           "sourcePages": [
             372
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "matins-b0062",
+            "sourcePages": [
+              113
+            ]
+          },
+          "alignment": "reviewed",
           "id": "matins-b0053",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            113
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3230,14 +3532,26 @@
         {
           "type": "rubric",
           "source": "Psalm 97",
-          "english": null,
+          "english": "Psalm 97",
           "sourcePages": [
             373
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "matins-b0065",
+            "sourcePages": [
+              114
+            ]
+          },
+          "alignment": "reviewed",
           "id": "matins-b0056",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            114
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3840,14 +4154,26 @@
         {
           "type": "rubric",
           "source": "Psalm 92",
-          "english": null,
+          "english": "Psalm 92",
           "sourcePages": [
             375
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "lauds-b0010",
+            "sourcePages": [
+              123
+            ]
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0006",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            123
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3864,14 +4190,26 @@
         {
           "type": "rubric",
           "source": "Psalm 99",
-          "english": null,
+          "english": "Psalm 99",
           "sourcePages": [
             375
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "lauds-b0015",
+            "sourcePages": [
+              123
+            ]
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0008",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            123
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3900,14 +4238,26 @@
         {
           "type": "rubric",
           "source": "Psalm 62",
-          "english": null,
+          "english": "Psalm 62",
           "sourcePages": [
             375
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "lauds-b0021",
+            "sourcePages": [
+              124
+            ]
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0011",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            124
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3924,14 +4274,26 @@
         {
           "type": "rubric",
           "source": "Psalm 66",
-          "english": null,
+          "english": "Psalm 66",
           "sourcePages": [
             375
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "lauds-b0023",
+            "sourcePages": [
+              125
+            ]
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0013",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            125
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3960,14 +4322,26 @@
         {
           "type": "rubric",
           "source": "Canticum Trium Puerorum",
-          "english": null,
+          "english": "Canticum Trium Puerorum",
           "sourcePages": [
             376
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "lauds-b0028",
+            "sourcePages": [
+              126
+            ]
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0016",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            126
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3996,38 +4370,76 @@
         {
           "type": "rubric",
           "source": "Psalm 148",
-          "english": null,
+          "english": "Psalm 148",
           "sourcePages": [
             376
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "lauds-b0034",
+            "sourcePages": [
+              127
+            ]
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0019",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            127
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
           "source": "Laudate Dominum de caelis: laudate eum in excelsis. Laudate eum, omnes angeli ejus: laudate eum, omnes virtutes ejus. Laudate eum, sol et luna: laudate eum, omnes stellae et lumen. Laudate eum, caeli caelorum: et aquae omnes, quae super caelos sunt, laudent nomen Domini. Quia ipse dixit, et facta sunt: ipse mandavit, et creata sunt. Statuit ea in aeternum, et in saeculum saeculi: praeceptum posuit, et non praeteribit. Laudate Dominum de terra, dracones, et omnes abyssi. Ignis, grando, nix, glacies, spiritus procellarum: quae faciunt verbum ejus: Montes, et omnes colles: ligna fructifera, et omnes cedri. Bestiae, et universa pecora: serpentes, et volucres pennatae: Reges terrae, et omnes populi: principes, et omnes judices terrae. Juvenes, et virgines: senes cum junioribus laudent nomen Domini: quia exaltatum est nomen ejus solius. Confessio ejus super caelum et terram: et exaltavit cornu populi sui. Hymnus omnibus sanctis ejus: filiis Israel, populo appropinquanti sibi.",
-          "english": null,
+          "english": "Praise the Lord from the heavens; praise Him in the heights. Praise Him, all ye His angels; praise Him, all His hosts. Praise Him, sun and moon; praise Him, all ye stars and light. Praise Him, ye heavens of heavens; and let all the waters that are above the heavens, praise the name of the Lord. For He spake, and they were made: He commanded, and they were created. He hath established them for ever, and for evermore; He hath made a decree, and it shall not pass away. Praise the Lord from the earth; ye dragons and all deeps. Fire, hail, snow, ice, and stormy winds, which fulfil His word. Mountains and all hills; fruitful trees and all cedars. Beasts and all cattle; creeping things, and feathered fowls. Kings of the earth and all peoples; princes and all judges of the earth. Young men and maidens, old men and children, let them praise the name of the Lord; for His name alone is exalted. His praise is above heaven and earth; and He hath exalted the horn of His people. A song of praise to all His saints; to the children of Israel, a people drawing nigh unto Him.",
           "sourcePages": [
             376
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "lauds-b0035",
+            "sourcePages": [
+              127,
+              128
+            ]
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0020",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            127,
+            128
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "rubric",
           "source": "Psalm 149",
-          "english": null,
+          "english": "Psalm 149",
           "sourcePages": [
             376
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0014",
+            "sourcePages": [
+              292
+            ]
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0021",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            292
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -4056,14 +4468,26 @@
         {
           "type": "rubric",
           "source": "Psalm 150",
-          "english": null,
+          "english": "Psalm 150",
           "sourcePages": [
             377
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0017",
+            "sourcePages": [
+              292
+            ]
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0024",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            292
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -4908,14 +5332,26 @@
         {
           "type": "rubric",
           "source": "Psalm 119",
-          "english": null,
+          "english": "Psalm 119",
           "sourcePages": [
             379
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "terce-b0008",
+            "sourcePages": [
+              140
+            ]
+          },
+          "alignment": "reviewed",
           "id": "terce-b0009",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            140
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -4944,14 +5380,26 @@
         {
           "type": "rubric",
           "source": "Psalm 120",
-          "english": null,
+          "english": "Psalm 120",
           "sourcePages": [
             380
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "terce-b0010",
+            "sourcePages": [
+              140
+            ]
+          },
+          "alignment": "reviewed",
           "id": "terce-b0012",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            140
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -4968,14 +5416,26 @@
         {
           "type": "rubric",
           "source": "Psalm 121",
-          "english": null,
+          "english": "Psalm 121",
           "sourcePages": [
             380
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "terce-b0012",
+            "sourcePages": [
+              141
+            ]
+          },
+          "alignment": "reviewed",
           "id": "terce-b0014",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            141
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -5234,14 +5694,26 @@
         {
           "type": "rubric",
           "source": "Psalm 121",
-          "english": null,
+          "english": "Psalm 121",
           "sourcePages": [
             381
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "terce-b0012",
+            "sourcePages": [
+              141
+            ]
+          },
+          "alignment": "reviewed",
           "id": "sext-b0009",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            141
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -5258,14 +5730,26 @@
         {
           "type": "rubric",
           "source": "Psalm 123",
-          "english": null,
+          "english": "Psalm 123",
           "sourcePages": [
             381
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "sext-b0011",
+            "sourcePages": [
+              144
+            ]
+          },
+          "alignment": "reviewed",
           "id": "sext-b0011",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            144
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -5282,14 +5766,26 @@
         {
           "type": "rubric",
           "source": "Psalm 124",
-          "english": null,
+          "english": "Psalm 124",
           "sourcePages": [
             381
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "sext-b0013",
+            "sourcePages": [
+              144
+            ]
+          },
+          "alignment": "reviewed",
           "id": "sext-b0013",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            144
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -5569,14 +6065,26 @@
         {
           "type": "rubric",
           "source": "Psalm 125",
-          "english": null,
+          "english": "Psalm 125",
           "sourcePages": [
             382
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "none-b0008",
+            "sourcePages": [
+              147
+            ]
+          },
+          "alignment": "reviewed",
           "id": "none-b0009",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            147
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -5593,14 +6101,26 @@
         {
           "type": "rubric",
           "source": "Psalm 126",
-          "english": null,
+          "english": "Psalm 126",
           "sourcePages": [
             382
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "none-b0010",
+            "sourcePages": [
+              147
+            ]
+          },
+          "alignment": "reviewed",
           "id": "none-b0011",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            147
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -5617,14 +6137,26 @@
         {
           "type": "rubric",
           "source": "Psalm 127",
-          "english": null,
+          "english": "Psalm 127",
           "sourcePages": [
             382
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "none-b0012",
+            "sourcePages": [
+              148
+            ]
+          },
+          "alignment": "reviewed",
           "id": "none-b0013",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            148
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -5848,5 +6380,6 @@
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "translationScope": "marked"
 }

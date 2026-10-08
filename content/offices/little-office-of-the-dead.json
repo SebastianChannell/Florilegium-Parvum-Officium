@@ -245,26 +245,50 @@
         {
           "type": "prayer",
           "source": "℟. Et lux perpetua luceat eis.",
-          "english": null,
+          "english": "℟. And let perpetual light shine upon them.",
           "sourcePages": [
             611
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "prime-b0065",
+            "sourcePages": [
+              624
+            ]
+          },
+          "alignment": "reviewed",
           "id": "matins-b0014",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            624
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
           "source": "℣. Requiescant in pace.",
-          "english": null,
+          "english": "℣. May they rest in peace.",
           "sourcePages": [
             611
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "prime-b0052",
+            "sourcePages": [
+              623
+            ]
+          },
+          "alignment": "reviewed",
           "id": "matins-b0015",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            623
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1161,26 +1185,50 @@
         {
           "type": "prayer",
           "source": "℟. Et lux perpetua luceat eis.",
-          "english": null,
+          "english": "℟. And let perpetual light shine upon them.",
           "sourcePages": [
             613
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "prime-b0065",
+            "sourcePages": [
+              624
+            ]
+          },
+          "alignment": "reviewed",
           "id": "oblatio-b0004",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            624
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
           "source": "℣. Requiescant in pace.",
-          "english": null,
+          "english": "℣. May they rest in peace.",
           "sourcePages": [
             613
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "prime-b0052",
+            "sourcePages": [
+              623
+            ]
+          },
+          "alignment": "reviewed",
           "id": "oblatio-b0005",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            623
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1240,5 +1288,6 @@
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "translationScope": "marked"
 }

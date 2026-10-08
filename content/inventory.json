@@ -765,15 +765,15 @@
       "variantMentions": [],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-prepared",
+        "verification": "source-reading-pending"
       },
       "coverage": {
-        "blocks": 105,
-        "missingEnglish": 53,
+        "blocks": 102,
+        "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 52
+        "preparedEnglish": 102
       }
     },
     {
@@ -1140,15 +1140,15 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-prepared",
+        "verification": "source-reading-pending"
       },
       "coverage": {
         "blocks": 81,
-        "missingEnglish": 42,
+        "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 39
+        "preparedEnglish": 81
       }
     },
     {
@@ -1301,15 +1301,15 @@
         }
       ],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-prepared",
+        "verification": "source-reading-pending"
       },
       "coverage": {
         "blocks": 54,
-        "missingEnglish": 26,
+        "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 28
+        "preparedEnglish": 54
       }
     },
     {
@@ -2070,6 +2070,23 @@
             64
           ],
           "language": "English"
+        },
+        {
+          "type": "source-note",
+          "text": "Non dicitur Alleluia, nec Laus tibi Domine.",
+          "pages": [
+            64
+          ],
+          "language": "Latin",
+          "english": "Neither Alleluia nor Praise be to Thee, O Lord, is said.",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete"
+          }
         }
       ],
       "variantMentions": [
@@ -2096,15 +2113,15 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-prepared",
+        "verification": "visual-review"
       },
       "coverage": {
-        "blocks": 94,
-        "missingEnglish": 52,
+        "blocks": 93,
+        "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 42
+        "preparedEnglish": 93
       }
     },
     {
@@ -3000,7 +3017,7 @@
       },
       "coverage": {
         "blocks": 206,
-        "missingEnglish": 121,
+        "missingEnglish": 111,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 85
       }
@@ -4919,7 +4936,7 @@
       },
       "coverage": {
         "blocks": 507,
-        "missingEnglish": 327,
+        "missingEnglish": 310,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 180
       }
@@ -5634,7 +5651,7 @@
       },
       "coverage": {
         "blocks": 530,
-        "missingEnglish": 340,
+        "missingEnglish": 262,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 190
       }
@@ -5933,7 +5950,7 @@
       },
       "coverage": {
         "blocks": 682,
-        "missingEnglish": 438,
+        "missingEnglish": 428,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 244
       }
@@ -6171,7 +6188,7 @@
       },
       "coverage": {
         "blocks": 292,
-        "missingEnglish": 230,
+        "missingEnglish": 165,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 62
       }
@@ -6389,7 +6406,7 @@
       },
       "coverage": {
         "blocks": 199,
-        "missingEnglish": 181,
+        "missingEnglish": 161,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 18
       }
@@ -6602,6 +6619,40 @@
             ],
             "review": "editorial-review-complete"
           }
+        },
+        {
+          "type": "source-note",
+          "text": "Haec Oratio dicitur ad Tertiam, et ad Vesperas eo tempore.",
+          "pages": [
+            294
+          ],
+          "language": "Latin",
+          "english": "This prayer is said at Terce and at Vespers during this season.",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              294
+            ],
+            "review": "editorial-review-complete"
+          }
+        },
+        {
+          "type": "source-note",
+          "text": "Haec Oratio dicitur ad Tertiam, et ad Vesperas eo tempore.",
+          "pages": [
+            294
+          ],
+          "language": "Latin",
+          "english": "This prayer is said at Terce and at Vespers during this season.",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              294
+            ],
+            "review": "editorial-review-complete"
+          }
         }
       ],
       "variantMentions": [
@@ -6744,15 +6795,15 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete",
+        "verification": "source-reading-pending"
       },
       "coverage": {
-        "blocks": 367,
-        "missingEnglish": 271,
-        "unpairedEnglishBlocks": 271,
-        "preparedEnglish": 21
+        "blocks": 348,
+        "missingEnglish": 0,
+        "unpairedEnglishBlocks": 0,
+        "preparedEnglish": 48
       }
     },
     {
@@ -7569,7 +7620,7 @@
       },
       "coverage": {
         "blocks": 559,
-        "missingEnglish": 404,
+        "missingEnglish": 89,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 155
       }
@@ -7668,7 +7719,7 @@
       },
       "coverage": {
         "blocks": 291,
-        "missingEnglish": 233,
+        "missingEnglish": 225,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 58
       }
@@ -8110,7 +8161,7 @@
       },
       "coverage": {
         "blocks": 420,
-        "missingEnglish": 347,
+        "missingEnglish": 303,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 73
       }
@@ -8653,9 +8704,9 @@
       },
       "coverage": {
         "blocks": 84,
-        "missingEnglish": 58,
+        "missingEnglish": 56,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 26
+        "preparedEnglish": 27
       }
     },
     {
@@ -8796,7 +8847,7 @@
       },
       "coverage": {
         "blocks": 86,
-        "missingEnglish": 51,
+        "missingEnglish": 50,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 35
       }
@@ -9909,7 +9960,7 @@
       },
       "coverage": {
         "blocks": 118,
-        "missingEnglish": 65,
+        "missingEnglish": 63,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 53
       }
@@ -10086,9 +10137,9 @@
       },
       "coverage": {
         "blocks": 55,
-        "missingEnglish": 27,
+        "missingEnglish": 26,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 28
+        "preparedEnglish": 29
       }
     },
     {
@@ -10590,7 +10641,7 @@
       },
       "coverage": {
         "blocks": 85,
-        "missingEnglish": 39,
+        "missingEnglish": 38,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 46
       }
@@ -11147,7 +11198,7 @@
       },
       "coverage": {
         "blocks": 65,
-        "missingEnglish": 19,
+        "missingEnglish": 18,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 46
       }
@@ -12419,7 +12470,7 @@
       },
       "coverage": {
         "blocks": 77,
-        "missingEnglish": 38,
+        "missingEnglish": 37,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 39
       }
@@ -12769,9 +12820,9 @@
       },
       "coverage": {
         "blocks": 70,
-        "missingEnglish": 43,
+        "missingEnglish": 40,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 27
+        "preparedEnglish": 28
       }
     },
     {
@@ -12939,7 +12990,7 @@
       },
       "coverage": {
         "blocks": 104,
-        "missingEnglish": 65,
+        "missingEnglish": 63,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 39
       }
@@ -13254,9 +13305,9 @@
       },
       "coverage": {
         "blocks": 94,
-        "missingEnglish": 54,
+        "missingEnglish": 53,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 40
+        "preparedEnglish": 41
       }
     },
     {
@@ -13441,7 +13492,7 @@
       },
       "coverage": {
         "blocks": 75,
-        "missingEnglish": 23,
+        "missingEnglish": 22,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 52
       }
@@ -13833,7 +13884,7 @@
       },
       "coverage": {
         "blocks": 72,
-        "missingEnglish": 25,
+        "missingEnglish": 24,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 47
       }
@@ -14638,9 +14689,9 @@
       },
       "coverage": {
         "blocks": 82,
-        "missingEnglish": 40,
+        "missingEnglish": 39,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 42
+        "preparedEnglish": 43
       }
     },
     {
@@ -14981,9 +15032,9 @@
       },
       "coverage": {
         "blocks": 117,
-        "missingEnglish": 55,
+        "missingEnglish": 54,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 62
+        "preparedEnglish": 63
       }
     },
     {
@@ -15157,7 +15208,7 @@
       },
       "coverage": {
         "blocks": 151,
-        "missingEnglish": 71,
+        "missingEnglish": 69,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 80
       }
@@ -15524,7 +15575,7 @@
       },
       "coverage": {
         "blocks": 91,
-        "missingEnglish": 62,
+        "missingEnglish": 61,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 29
       }
@@ -16555,7 +16606,7 @@
       },
       "coverage": {
         "blocks": 224,
-        "missingEnglish": 111,
+        "missingEnglish": 102,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 113
       }
@@ -16971,7 +17022,7 @@
       },
       "coverage": {
         "blocks": 65,
-        "missingEnglish": 28,
+        "missingEnglish": 24,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 37
       }
@@ -17404,7 +17455,7 @@
       },
       "coverage": {
         "blocks": 127,
-        "missingEnglish": 114,
+        "missingEnglish": 112,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 13
       }
@@ -17540,7 +17591,7 @@
       },
       "coverage": {
         "blocks": 276,
-        "missingEnglish": 204,
+        "missingEnglish": 202,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 72
       }

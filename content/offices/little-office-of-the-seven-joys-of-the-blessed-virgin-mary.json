@@ -1217,14 +1217,26 @@
         {
           "type": "prayer",
           "source": "℟. Et avertat iram suam a nobis.",
-          "english": null,
+          "english": "℟. And turn away His anger from us.",
           "sourcePages": [
             400
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-immaculate-conception",
+            "reusedFrom": "ordinary-b0005",
+            "sourcePages": [
+              383
+            ]
+          },
+          "alignment": "reviewed",
           "id": "compline-b0003",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            383
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1466,5 +1478,6 @@
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "translationScope": "marked"
 }

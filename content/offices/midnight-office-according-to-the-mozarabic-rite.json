@@ -227,14 +227,26 @@
         {
           "type": "rubric",
           "source": "Psalmus 132",
-          "english": null,
+          "english": "Psalm 132",
           "sourcePages": [
             641
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "compline-b0009",
+            "sourcePages": [
+              316
+            ]
+          },
+          "alignment": "reviewed",
           "id": "ordo-ad-medium-noctis-b0011",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            316
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -251,14 +263,26 @@
         {
           "type": "rubric",
           "source": "Psalmus 133",
-          "english": null,
+          "english": "Psalm 133",
           "sourcePages": [
             641
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "compline-b0008",
+            "sourcePages": [
+              631
+            ]
+          },
+          "alignment": "reviewed",
           "id": "ordo-ad-medium-noctis-b0013",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            631
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -4017,5 +4041,6 @@
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "translationScope": "marked"
 }
