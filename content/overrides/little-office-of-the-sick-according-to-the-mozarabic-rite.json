@@ -539,14 +539,28 @@
         {
           "type": "rubric",
           "source": "Benedictio.",
-          "english": null,
+          "english": "Blessing",
           "sourcePages": [
             635
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-s-benedict",
+            "reusedFrom": "matins-b0023",
+            "sourcePages": [
+              454
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected reviewed wording translates the complete source passage and retains its liturgical role; alternatives differ in punctuation, diction, or capitalization."
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0037",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            454
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected reviewed wording translates the complete source passage and retains its liturgical role; alternatives differ in punctuation, diction, or capitalization."
         },
         {
           "type": "prayer",
@@ -1094,14 +1108,28 @@
         {
           "type": "rubric",
           "source": "Responsorium.",
-          "english": null,
+          "english": "Responsory",
           "sourcePages": [
             637
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "matins-b0037",
+            "sourcePages": [
+              285
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The heading is rendered in English."
+          },
+          "alignment": "reviewed",
           "id": "matins-b0022",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            285
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The heading is rendered in English."
         },
         {
           "type": "prayer",
@@ -1667,14 +1695,28 @@
         {
           "type": "rubric",
           "source": "Benedictio",
-          "english": null,
+          "english": "Blessing",
           "sourcePages": [
             640
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-s-benedict",
+            "reusedFrom": "matins-b0023",
+            "sourcePages": [
+              454
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected reviewed wording translates the complete source passage and retains its liturgical role; alternatives differ in punctuation, diction, or capitalization."
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0042",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            454
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected reviewed wording translates the complete source passage and retains its liturgical role; alternatives differ in punctuation, diction, or capitalization."
         },
         {
           "type": "prayer",

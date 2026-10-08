@@ -2084,14 +2084,28 @@
         {
           "type": "prayer",
           "source": "℣. Elegit eam Deus, et praelegit eam.",
-          "english": null,
+          "english": "℣. God hath chosen her, and preferred her.",
           "sourcePages": [
             435
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0030",
+            "sourcePages": [
+              293
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected supplied English retains the source versicle sign."
+          },
+          "alignment": "reviewed",
           "id": "compline-b0009",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            293
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected supplied English retains the source versicle sign."
         },
         {
           "type": "prayer",
@@ -2241,5 +2255,6 @@
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "translationScope": "marked"
 }

@@ -3,7 +3,7 @@
 
 Whitespace alone is normalized by default. The explicit --word-sequence mode
 compares every Unicode letter/number token in order, ignoring punctuation and
-capitalization only. It never removes accents, words, or numbers, or substitutes
+capitalization only; the ordered versicle/response signs must also match. It never removes accents, words, or numbers, or substitutes
 spellings. Conflicting English is never chosen silently.
 Existing English and source-review status are preserved; no fuzzy matching,
 prayer expansion, or copied visual certification is performed.
@@ -18,8 +18,10 @@ ROOT=Path(__file__).resolve().parents[2]
 NOTICE='English translation prepared for Sacrum Florilegium; not supplied in the source PDF.'
 def normalized(text):return ' '.join(text.split())
 def word_sequence(text):return ' '.join(re.findall(r'[^\W_]+',text.lower()))
-def apply(root=ROOT,word_variants=False):
-    key=word_sequence if word_variants else normalized
+def roles(text):return tuple(re.findall('[℣℟]',text))
+def apply(root=ROOT,word_variants=False,selections=None):
+    selected={(e["wordSequence"],tuple(e["roles"])):e for e in (selections or [])}
+    key=(lambda t:(word_sequence(t),roles(t))) if word_variants else normalized
     documents=[]
     for path in sorted((root/'content/offices').glob('*.json')):
         override=root/'content/overrides'/path.name
@@ -29,7 +31,7 @@ def apply(root=ROOT,word_variants=False):
         for section in doc['sections']:
             for b in section['blocks']:
                 if b.get('source') and b.get('english') and b.get('verification')=='visual-review' and b.get('alignment')=='reviewed' and (b.get('translation') or {}).get('kind') in ('supplied','prepared'):
-                    if key(b['source']):memory[key(b['source'])].append((doc['id'],copy.deepcopy(b)))
+                    if (word_sequence(b['source']) if word_variants else key(b['source'])):memory[key(b['source'])].append((doc['id'],copy.deepcopy(b)))
     applied=0
     for target,doc in documents:
         if doc['sourceLanguage']=='English':continue
@@ -38,7 +40,13 @@ def apply(root=ROOT,word_variants=False):
             for b in section['blocks']:
                 if b.get('english') or not b.get('source'):continue
                 matches=memory.get(key(b['source']),[])
-                if not matches or len({normalized(v['english']) for _,v in matches})!=1:continue
+                if not matches:continue
+                selection=selected.get(key(b['source'])) if word_variants else None
+                if len({normalized(v['english']) for _,v in matches})!=1:
+                    if not selection:continue
+                    matches=[(o,v) for o,v in matches if o==selection['originOffice'] and v['id']==selection['originBlock']]
+                    if not matches:raise ValueError('Selected origin is not a reviewed complete matching passage')
+                else:selection=None
                 origin,original=next(((o,v) for o,v in matches if v['translation']['kind']=='supplied'),matches[0])
                 kind=original['translation']['kind'];b['english']=original['english'];b['translation']={'kind':kind,'method':'exact-reviewed-pdf-reuse','reusedFromOffice':origin,'reusedFrom':original['id'],'sourcePages':original.get('englishPages',original['sourcePages']) if kind=='supplied' else b['sourcePages']}
                 if word_variants:
@@ -48,6 +56,9 @@ def apply(root=ROOT,word_variants=False):
                 b['alignment']='reviewed';b['editorialNote']='English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review.'
                 if word_variants:
                     b['editorialNote']='English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review.'
+                if selection:
+                    b['translation']['selectionReason']=selection['reason']
+                    b['editorialNote']+=' Differing reviewed English versions were compared; this wording was selected explicitly. '+selection['reason']
                 if original.get('editorialNote'):
                     b['editorialNote']+=' Original printed-text note: '+original['editorialNote']
                 if 'Septuagesima' in b['source'] and 'Lent' in b['english'] and 'Septuagesima' not in b['english']:
@@ -62,5 +73,7 @@ def apply(root=ROOT,word_variants=False):
     return applied
 if __name__=='__main__':
     variants='--word-sequence' in sys.argv[1:]
-    if any(a!='--word-sequence' for a in sys.argv[1:]):raise SystemExit('Usage: reuse_reviewed_english.py [--word-sequence]')
-    print(f'Reused {apply(word_variants=variants)} reviewed English passages ({"complete word sequence" if variants else "exact text"}). Re-run import to refresh derived content.')
+    manual='--reviewed-selections' in sys.argv[1:]
+    if any(a not in ('--word-sequence','--reviewed-selections') for a in sys.argv[1:]) or (manual and not variants):raise SystemExit('Usage: reuse_reviewed_english.py [--word-sequence [--reviewed-selections]]')
+    selections=json.loads((ROOT/'content/translations/reviewed-reuse-selections.json').read_text())['entries'] if manual else None
+    print(f'Reused {apply(word_variants=variants,selections=selections)} reviewed English passages ({"complete word sequence" if variants else "exact text"}). Re-run import to refresh derived content.')

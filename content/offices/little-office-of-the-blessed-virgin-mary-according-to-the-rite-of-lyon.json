@@ -1076,14 +1076,28 @@
         {
           "type": "prayer",
           "source": "Laudate Dominum in sanctis ejus: laudate eum in firmamento virtutis ejus. Laudate eum in virtutibus ejus: laudate eum secundum multitudinem magnitudinis ejus. Laudate eum in sono tubae: laudate eum in psalterio, et cithara. Laudate eum in tympano, et choro: laudate eum in chordis, et organo. Laudate eum in cymbalis benesonantibus: laudate eum in cymbalis jubilationis. Omnis spiritus laudet Dominum. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "Praise ye the Lord in his holy places: praise him in the firmament of his power. Praise ye him for his mighty acts: praise him according to his excellent greatness. Praise him with the sound of the trumpet: praise him with psaltery and harp. Praise him with timbrel and choir: praise him upon the strings and organs. Praise him upon the well-tuned cymbals: praise him on cymbals of joy. Let every thing that hath breath, praise the Lord. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             270
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0018",
+            "sourcePages": [
+              292
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected printed version avoids transcription errors in the other supplied version."
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0011",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            292
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected printed version avoids transcription errors in the other supplied version."
         },
         {
           "type": "prayer",
@@ -2623,38 +2637,80 @@
         {
           "type": "prayer",
           "source": "Monstra te esse matrem; Sumat per te preces, Qui pro nobis natus, Tulit esse tuus.",
-          "english": null,
+          "english": "Show thyself a mother, May the Word Divine, Born for us thine infant, Hear our pray’rs through thine.",
           "sourcePages": [
             277
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "vespers-b0024",
+            "sourcePages": [
+              311
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected stanza retains maternal intercession to the One born for us."
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0019",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            311
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected stanza retains maternal intercession to the One born for us."
         },
         {
           "type": "prayer",
           "source": "Virgo singularis, Inter omnes mitis, Nos culpis solutos, Mites fac et castos.",
-          "english": null,
+          "english": "Virgin all excelling, Mildest of the mild, Free from sin preserve us, Meek and undefiled.",
           "sourcePages": [
             277
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "compline-b0021",
+            "sourcePages": [
+              317
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected supplied stanza retains meekness and chastity without the alternate apostrophe contraction."
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0020",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            317
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected supplied stanza retains meekness and chastity without the alternate apostrophe contraction."
         },
         {
           "type": "prayer",
           "source": "Vitam praesta puram, Iter para tutum; Ut videntes Jesum, Semper collaetemur.",
-          "english": null,
+          "english": "Keep our lives all spotless, Make our way secure: Till we find in Jesus, Joys that shall endure.",
           "sourcePages": [
             277
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "vespers-b0026",
+            "sourcePages": [
+              311
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected supplied stanza retains spotless life, a secure way, and lasting joy in Jesus."
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0021",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            311
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected supplied stanza retains spotless life, a secure way, and lasting joy in Jesus."
         },
         {
           "type": "prayer",
@@ -2836,14 +2892,28 @@
         {
           "type": "rubric",
           "source": "Psalmus 129",
-          "english": null,
+          "english": "Psalm 129",
           "sourcePages": [
             278
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "none-b0008",
+            "sourcePages": [
+              306
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected heading retains only the printed psalm number."
+          },
+          "alignment": "reviewed",
           "id": "compline-b0004",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            306
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected heading retains only the printed psalm number."
         },
         {
           "type": "prayer",

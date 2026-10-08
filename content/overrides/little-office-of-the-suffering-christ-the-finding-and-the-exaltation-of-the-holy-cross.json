@@ -210,26 +210,22 @@
         {
           "type": "prayer",
           "source": "℣. Gloria Patri, et Filio, etc.",
-          "english": "Glory be to the Father, and to the Son, etc.",
+          "english": "℣ Glory be to the Father, and to the Son, etc.",
           "sourcePages": [
             86
           ],
           "translation": {
             "kind": "prepared",
-            "method": "reviewed-pdf-word-sequence-reuse",
-            "reusedFromOffice": "little-office-of-the-holy-cross",
-            "reusedFrom": "sext-b0004",
+            "preparedFor": "Sacrum Florilegium",
             "sourcePages": [
               86
             ],
-            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
-            "preparedFor": "Sacrum Florilegium",
             "review": "editorial-review-complete"
           },
           "alignment": "reviewed",
           "id": "matins-b0005",
           "verification": "pending",
-          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
+          "editorialNote": "English prepared directly for this printed Latin passage. A previously considered reused version had different versicle/response signs or expanded wording; the prepared English follows this office’s own signs and incipit. The source still awaits visual review."
         },
         {
           "type": "rubric",

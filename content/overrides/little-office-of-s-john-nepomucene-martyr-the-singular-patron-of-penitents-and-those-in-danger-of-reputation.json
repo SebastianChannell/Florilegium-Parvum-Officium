@@ -128,14 +128,27 @@
         {
           "type": "prayer",
           "source": "Gloria Patri etc.",
-          "english": null,
+          "english": "Glory be to the Father, etc.",
           "sourcePages": [
             536
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-holy-cross",
+            "reusedFrom": "none-b0004",
+            "sourcePages": [
+              536
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete",
+            "selectionReason": "The selected incipit explicitly renders Patri and retains the printed abbreviation."
+          },
+          "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected incipit explicitly renders Patri and retains the printed abbreviation."
         },
         {
           "type": "rubric",
@@ -278,14 +291,28 @@
         {
           "type": "prayer",
           "source": "℟. Et clamor meus ad Te veniat.",
-          "english": null,
+          "english": "℟. And let my cry come unto Thee.",
           "sourcePages": [
             536
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0067",
+            "sourcePages": [
+              296
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected supplied response avoids the other printed version’s onto/unto error."
+          },
+          "alignment": "reviewed",
           "id": "matins-b0016",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            296
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected supplied response avoids the other printed version’s onto/unto error."
         },
         {
           "type": "prayer",
@@ -344,14 +371,28 @@
         {
           "type": "prayer",
           "source": "℟. Et clamor meus ad Te veniat.",
-          "english": null,
+          "english": "℟. And let my cry come unto Thee.",
           "sourcePages": [
             536
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0067",
+            "sourcePages": [
+              296
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected supplied response avoids the other printed version’s onto/unto error."
+          },
+          "alignment": "reviewed",
           "id": "matins-b0020",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            296
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected supplied response avoids the other printed version’s onto/unto error."
         },
         {
           "type": "prayer",
@@ -493,14 +534,27 @@
         {
           "type": "prayer",
           "source": "Gloria Patri etc.",
-          "english": null,
+          "english": "Glory be to the Father, etc.",
           "sourcePages": [
             536
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-holy-cross",
+            "reusedFrom": "none-b0004",
+            "sourcePages": [
+              536
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete",
+            "selectionReason": "The selected incipit explicitly renders Patri and retains the printed abbreviation."
+          },
+          "alignment": "reviewed",
           "id": "prime-b0003",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected incipit explicitly renders Patri and retains the printed abbreviation."
         },
         {
           "type": "rubric",
@@ -656,14 +710,28 @@
         {
           "type": "prayer",
           "source": "℟. Et clamor meus ad Te veniat.",
-          "english": null,
+          "english": "℟. And let my cry come unto Thee.",
           "sourcePages": [
             537
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0067",
+            "sourcePages": [
+              296
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected supplied response avoids the other printed version’s onto/unto error."
+          },
+          "alignment": "reviewed",
           "id": "prime-b0015",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            296
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected supplied response avoids the other printed version’s onto/unto error."
         },
         {
           "type": "prayer",
@@ -1972,14 +2040,28 @@
         {
           "type": "prayer",
           "source": "℟. Et clamor meus ad Te veniat.",
-          "english": null,
+          "english": "℟. And let my cry come unto Thee.",
           "sourcePages": [
             539
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0067",
+            "sourcePages": [
+              296
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected supplied response avoids the other printed version’s onto/unto error."
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0015",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            296
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected supplied response avoids the other printed version’s onto/unto error."
         },
         {
           "type": "prayer",
@@ -2498,5 +2580,6 @@
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "translationScope": "marked"
 }

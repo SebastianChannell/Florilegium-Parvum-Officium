@@ -2397,38 +2397,77 @@
         {
           "type": "prayer",
           "source": "Memento salutis auctor, Quod nostri quondam corporis, Ex illibata virgine Nascendo formam sumpseris,",
-          "english": null,
+          "english": "Remember, O Author of salvation, that once, by being born of the spotless Virgin, Thou didst take the form of our body.",
           "sourcePages": [
             368
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "prime-b0003",
+            "sourcePages": [
+              368
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete",
+            "selectionReason": "Literal wording retains the Author of salvation, spotless Virgin, and human bodily form."
+          },
+          "alignment": "reviewed",
           "id": "compline-b0016",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. Literal wording retains the Author of salvation, spotless Virgin, and human bodily form."
         },
         {
           "type": "prayer",
           "source": "Maria mater gratiae, Mater misericordiae; Tu nos ab hoste protege, Et hora mortis suscipe.",
-          "english": null,
+          "english": "Mary, Mother of grace, Mother of mercy: protect us from the enemy, and receive us at the hour of death.",
           "sourcePages": [
             368
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "prime-b0004",
+            "sourcePages": [
+              368
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete",
+            "selectionReason": "Literal wording retains grace, mercy, protection from the enemy, and reception at death."
+          },
+          "alignment": "reviewed",
           "id": "compline-b0017",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. Literal wording retains grace, mercy, protection from the enemy, and reception at death."
         },
         {
           "type": "prayer",
           "source": "Gloria tibi Domine, Qui natus es de Virgine, Cum Patre et sancto Spiritu, In sempiterna saecula. Amen.",
-          "english": null,
+          "english": "Glory be to Thee, O Lord, who wast born of the Virgin, with the Father and the Holy Spirit, for ever and ever. Amen.",
           "sourcePages": [
             368
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "lauds-b0053",
+            "sourcePages": [
+              368
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete",
+            "selectionReason": "Literal wording retains birth from the Virgin and praise with the Father and Holy Spirit."
+          },
+          "alignment": "reviewed",
           "id": "compline-b0018",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. Literal wording retains birth from the Virgin and praise with the Father and Holy Spirit."
         },
         {
           "type": "rubric",
@@ -2493,14 +2532,28 @@
         {
           "type": "prayer",
           "source": "℟. Dei genitrix intercede pro nobis.",
-          "english": null,
+          "english": "℟. Mother of God, intercede for us.",
           "sourcePages": [
             368
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "compline-b0025",
+            "sourcePages": [
+              318
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected reviewed wording translates the complete source passage and retains its liturgical role; alternatives differ in punctuation, diction, or capitalization."
+          },
+          "alignment": "reviewed",
           "id": "compline-b0024",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            318
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected reviewed wording translates the complete source passage and retains its liturgical role; alternatives differ in punctuation, diction, or capitalization."
         },
         {
           "type": "rubric",
@@ -2680,14 +2733,26 @@
         {
           "type": "prayer",
           "source": "℣. Dominus Vobiscum.",
-          "english": null,
+          "english": "℣. The Lord be with you.",
           "sourcePages": [
             369
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "vespers-b0033",
+            "sourcePages": [
+              369
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0038",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Original printed-text note: This passage is omitted from the English column at Vespers; its English is prepared from the printed Latin."
         },
         {
           "type": "prayer",
@@ -3019,26 +3084,53 @@
         {
           "type": "prayer",
           "source": "Cui luna, sol et omnia Deserviunt per tempora, Perfusa caeli gratia, Gestant puellae viscera.",
-          "english": null,
+          "english": "He whom moon, sun, and all things serve throughout the ages is carried in the maiden’s womb, filled with heavenly grace.",
           "sourcePages": [
             369
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "matins-b0018",
+            "sourcePages": [
+              369
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete",
+            "selectionReason": "Literal wording retains the celestial servants and the maiden’s womb."
+          },
+          "alignment": "reviewed",
           "id": "matins-b0014",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. Literal wording retains the celestial servants and the maiden’s womb."
         },
         {
           "type": "prayer",
           "source": "Beata Mater munere, Cujus, supernus Artifex Mundum pugillo continens, Ventris sub arca clausus est.",
-          "english": null,
+          "english": "O Mother blest, to whom was given Within thy compass to contain The Architect of earth and heaven, Whose hands the universe sustain!",
           "sourcePages": [
             370
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "matins-b0019",
+            "sourcePages": [
+              106
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected supplied stanza retains the Maker of earth and heaven and the contained universe."
+          },
+          "alignment": "reviewed",
           "id": "matins-b0015",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            106
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected supplied stanza retains the Maker of earth and heaven and the contained universe."
         },
         {
           "type": "prayer",
@@ -3150,26 +3242,22 @@
         {
           "type": "prayer",
           "source": "Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": "℟. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
+          "english": "As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             370
           ],
           "translation": {
             "kind": "prepared",
-            "method": "reviewed-pdf-word-sequence-reuse",
-            "reusedFromOffice": "ordo-quiete-ante-lectulo-according-to-the-mozarabic-rite",
-            "reusedFrom": "opening-prayers-b0007",
+            "preparedFor": "Sacrum Florilegium",
             "sourcePages": [
               370
             ],
-            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
-            "preparedFor": "Sacrum Florilegium",
             "review": "editorial-review-complete"
           },
           "alignment": "reviewed",
           "id": "matins-b0022",
           "verification": "pending",
-          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
+          "editorialNote": "English prepared directly for this printed Latin passage. A previously considered reused version had different versicle/response signs or expanded wording; the prepared English follows this office’s own signs and incipit. The source still awaits visual review."
         },
         {
           "type": "prayer",
@@ -3808,27 +3896,22 @@
         {
           "type": "prayer",
           "source": "℣. Pater noster.",
-          "english": "Our Father.",
+          "english": "℣ Our Father.",
           "sourcePages": [
             373
           ],
           "translation": {
-            "kind": "supplied",
-            "method": "reviewed-pdf-word-sequence-reuse",
-            "reusedFromOffice": "little-office-of-the-holy-name-of-god",
-            "reusedFrom": "matins-b0001",
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
             "sourcePages": [
-              26
+              373
             ],
-            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+            "review": "editorial-review-complete"
           },
           "alignment": "reviewed",
           "id": "matins-b0062",
           "verification": "pending",
-          "englishPages": [
-            26
-          ],
-          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
+          "editorialNote": "English prepared directly for this printed Latin passage. A previously considered reused version had different versicle/response signs or expanded wording; the prepared English follows this office’s own signs and incipit. The source still awaits visual review."
         },
         {
           "type": "prayer",
@@ -4252,27 +4335,22 @@
         {
           "type": "prayer",
           "source": "℣. Quia ex te ortus est sol justitiae Christus Deus noster.",
-          "english": "℟. For out of thee arose the Sun of righteousness, Christ our God.",
+          "english": "℣ For out of thee arose the Sun of righteousness, Christ our God.",
           "sourcePages": [
             374
           ],
           "translation": {
-            "kind": "supplied",
-            "method": "reviewed-pdf-word-sequence-reuse",
-            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
-            "reusedFrom": "matins-b0106",
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
             "sourcePages": [
-              117
+              374
             ],
-            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+            "review": "editorial-review-complete"
           },
           "alignment": "reviewed",
           "id": "matins-b0091",
           "verification": "pending",
-          "englishPages": [
-            117
-          ],
-          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Original printed-text note: English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages."
+          "editorialNote": "English prepared directly for this printed Latin passage. A previously considered reused version had different versicle/response signs or expanded wording; the prepared English follows this office’s own signs and incipit. The source still awaits visual review."
         },
         {
           "type": "rubric",
@@ -4325,14 +4403,28 @@
         {
           "type": "prayer",
           "source": "℟. Et habitare eam facit in tabernaculo suo.",
-          "english": null,
+          "english": "℟. And He maketh her dwell in His tabernacle.",
           "sourcePages": [
             375
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0031",
+            "sourcePages": [
+              293
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected supplied English retains the source response sign."
+          },
+          "alignment": "reviewed",
           "id": "matins-b0096",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            293
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected supplied English retains the source response sign."
         }
       ]
     },
@@ -4770,14 +4862,28 @@
         {
           "type": "prayer",
           "source": "Laudate Dominum in sanctis ejus: laudate eum in firmamento virtutis ejus. Laudate eum in virtutibus ejus: laudate eum secundum multitudinem magnitudinis ejus. Laudate eum in sono tubae: laudate eum in psalterio, et cithara. Laudate eum in tympano, et choro: laudate eum in chordis, et organo. Laudate eum in cymbalis benesonantibus: laudate eum in cymbalis jubilationis: omnis spiritus laudet Dominum. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "Praise ye the Lord in his holy places: praise him in the firmament of his power. Praise ye him for his mighty acts: praise him according to his excellent greatness. Praise him with the sound of the trumpet: praise him with psaltery and harp. Praise him with timbrel and choir: praise him upon the strings and organs. Praise him upon the well-tuned cymbals: praise him on cymbals of joy. Let every thing that hath breath, praise the Lord. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             377
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0018",
+            "sourcePages": [
+              292
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected printed version avoids transcription errors in the other supplied version."
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0025",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            292
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected printed version avoids transcription errors in the other supplied version."
         },
         {
           "type": "rubric",
@@ -4884,50 +4990,104 @@
         {
           "type": "prayer",
           "source": "Tu Regis alti janua, Et porta lucis fulgida, Vitam datam per virginem, Gentes redemptae plaudite.",
-          "english": null,
+          "english": "Thou art the gateway of the King on high and the shining gate of light. O redeemed nations, applaud the life given through the Virgin.",
           "sourcePages": [
             377
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "lauds-b0052",
+            "sourcePages": [
+              377
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete",
+            "selectionReason": "Literal wording retains the shining gateway and redeemed nations."
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0033",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. Literal wording retains the shining gateway and redeemed nations."
         },
         {
           "type": "prayer",
           "source": "Gloria tibi Domine, Qui natus es de Virgine, Cum Patre et sancto Spiritu, In sempiterna saecula. Amen.",
-          "english": null,
+          "english": "Glory be to Thee, O Lord, who wast born of the Virgin, with the Father and the Holy Spirit, for ever and ever. Amen.",
           "sourcePages": [
             377
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "lauds-b0053",
+            "sourcePages": [
+              377
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete",
+            "selectionReason": "Literal wording retains birth from the Virgin and praise with the Father and Holy Spirit."
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0034",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. Literal wording retains birth from the Virgin and praise with the Father and Holy Spirit."
         },
         {
           "type": "prayer",
           "source": "℣. Elegit eam Deus, et praelegit eam.",
-          "english": null,
+          "english": "℣. God hath chosen her, and preferred her.",
           "sourcePages": [
             377
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0030",
+            "sourcePages": [
+              293
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected supplied English retains the source versicle sign."
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0035",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            293
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected supplied English retains the source versicle sign."
         },
         {
           "type": "prayer",
           "source": "℟. Et habitare eam facit in tabernaculo suo.",
-          "english": null,
+          "english": "℟. And He maketh her dwell in His tabernacle.",
           "sourcePages": [
             377
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0031",
+            "sourcePages": [
+              293
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected supplied English retains the source response sign."
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0036",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            293
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected supplied English retains the source response sign."
         },
         {
           "type": "prayer",
@@ -5365,38 +5525,48 @@
         {
           "type": "prayer",
           "source": "Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": "℟. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
+          "english": "As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             379
           ],
           "translation": {
             "kind": "prepared",
-            "method": "reviewed-pdf-word-sequence-reuse",
-            "reusedFromOffice": "ordo-quiete-ante-lectulo-according-to-the-mozarabic-rite",
-            "reusedFrom": "opening-prayers-b0007",
+            "preparedFor": "Sacrum Florilegium",
             "sourcePages": [
               379
             ],
-            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
-            "preparedFor": "Sacrum Florilegium",
             "review": "editorial-review-complete"
           },
           "alignment": "reviewed",
           "id": "prime-b0014",
           "verification": "pending",
-          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
+          "editorialNote": "English prepared directly for this printed Latin passage. A previously considered reused version had different versicle/response signs or expanded wording; the prepared English follows this office’s own signs and incipit. The source still awaits visual review."
         },
         {
           "type": "rubric",
           "source": "Capitulum. - Eccli. 24.",
-          "english": null,
+          "english": "Little Chapter (Eccli. 24)",
           "sourcePages": [
             379
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0020",
+            "sourcePages": [
+              293
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected reviewed wording translates the complete source passage and retains its liturgical role; alternatives differ in punctuation, diction, or capitalization."
+          },
+          "alignment": "reviewed",
           "id": "prime-b0015",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            293
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected reviewed wording translates the complete source passage and retains its liturgical role; alternatives differ in punctuation, diction, or capitalization."
         },
         {
           "type": "prayer",
@@ -6277,14 +6447,28 @@
         {
           "type": "prayer",
           "source": "℟. Dei genitrix intercede pro nobis.",
-          "english": null,
+          "english": "℟. Mother of God, intercede for us.",
           "sourcePages": [
             381
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "compline-b0025",
+            "sourcePages": [
+              318
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected reviewed wording translates the complete source passage and retains its liturgical role; alternatives differ in punctuation, diction, or capitalization."
+          },
+          "alignment": "reviewed",
           "id": "sext-b0023",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            318
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected reviewed wording translates the complete source passage and retains its liturgical role; alternatives differ in punctuation, diction, or capitalization."
         },
         {
           "type": "prayer",
@@ -6620,26 +6804,54 @@
         {
           "type": "prayer",
           "source": "℣. Elegit eam Deus, et praelegit eam",
-          "english": null,
+          "english": "℣. God hath chosen her, and preferred her.",
           "sourcePages": [
             382
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0030",
+            "sourcePages": [
+              293
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected supplied English retains the source versicle sign."
+          },
+          "alignment": "reviewed",
           "id": "none-b0020",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            293
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected supplied English retains the source versicle sign."
         },
         {
           "type": "prayer",
           "source": "℟. Et habitare eam facit in tabernaculo suo.",
-          "english": null,
+          "english": "℟. And He maketh her dwell in His tabernacle.",
           "sourcePages": [
             382
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0031",
+            "sourcePages": [
+              293
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected supplied English retains the source response sign."
+          },
+          "alignment": "reviewed",
           "id": "none-b0021",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            293
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected supplied English retains the source response sign."
         },
         {
           "type": "rubric",

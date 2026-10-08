@@ -60,7 +60,7 @@ with tempfile.TemporaryDirectory() as t:
  r=pathlib.Path(t)
  for p in ['content/offices','content/overrides']:(r/p).mkdir(parents=True)
  source={'id':'origin','sourceLanguage':'Latin','status':{'translation':'complete'},'sections':[{'blocks':[{'id':'a','source':'℣. Glória Patri, non 12.','english':'The supplied English.','sourcePages':[1],'englishPages':[2],'verification':'visual-review','alignment':'reviewed','translation':{'kind':'supplied','sourcePages':[2]}}]}]}
- texts=['GLÓRIA PATRI; NON: 12!','Gloria Patri non 12','Glória Patri 12','Glória Patri non 13','Patri Glória non 12','Glória Patri non 12 et','Glória Patri non 12','...']
+ texts=['℣. GLÓRIA PATRI; NON: 12!','Gloria Patri non 12','Glória Patri 12','Glória Patri non 13','Patri Glória non 12','Glória Patri non 12 et','Glória Patri non 12','...','℟. Glória Patri non 12','Glória Patri non 12']
  blocks=[{'id':str(i),'source':s,'english':'Existing.' if i==6 else None,'sourcePages':[3],'verification':'pending'} for i,s in enumerate(texts)]
  target={'id':'target','sourceLanguage':'Latin','status':{'translation':'incomplete'},'sections':[{'blocks':blocks}]}
  for d in [source,target]:(r/'content/offices'/(d['id']+'.json')).write_text(json.dumps(d))
@@ -69,7 +69,7 @@ with tempfile.TemporaryDirectory() as t:
  assert rows[0]['english']=='The supplied English.' and rows[0]['source']==texts[0]
  assert rows[0]['verification']=='pending' and rows[0]['englishPages']==[2]
  assert rows[0]['translation']['normalizationPolicy']=='unicode-letters-numbers-lowercase-v1'
- assert all(rows[i]['english'] is None for i in [1,2,3,4,5,7])
+ assert all(rows[i]['english'] is None for i in [1,2,3,4,5,7,8,9])
  assert rows[6]['english']=='Existing.'
  assert m.apply(r,word_variants=True)==0
  print('lexical differences protected')
@@ -84,13 +84,15 @@ test('every word-sequence reuse has reviewed provenance and unchanged English',(
   if(b.translation?.method!=='reviewed-pdf-word-sequence-reuse')continue;
   count++;
   const original=input.documents.get(b.translation.reusedFromOffice).sections.flatMap(s=>s.blocks).find(x=>x.id===b.translation.reusedFrom);
-  assert.equal(words(b.source),words(original.source));assert.equal(b.english,original.english);
+  assert.equal(words(b.source),words(original.source));assert.deepEqual(b.source.match(/[℣℟]/gu)||[],original.source.match(/[℣℟]/gu)||[]);assert.equal(b.english,original.english);
   assert.equal(original.verification,'visual-review');assert.equal(original.alignment,'reviewed');
   assert(b.editorialNote.includes('complete sequence'));
  }
  assert(count>=135);
  const changed=structuredClone(input);
  const row=[...changed.documents.values()].flatMap(d=>d.sections.flatMap(s=>s.blocks)).find(b=>b.translation?.method==='reviewed-pdf-word-sequence-reuse');
+ row.source+=' ℟';
+ assert(validateContent(changed).errors.some(e=>e.message.includes('identical reviewed source')));
  row.source+=' non';
  assert(validateContent(changed).errors.some(e=>e.message.includes('identical reviewed source')));
 });
@@ -136,4 +138,32 @@ test('cyclic and missing inline reference targets are rejected', () => {
   const ref=all.references.find(r=>r.status==='resolved');
   ref.resolution={targets:['invented'],sourcePages:[1]};
   assert(validateContent(all).errors.some(e=>e.message.includes('no matching content expansion')));
+});
+
+
+test('conflicting English requires an explicit reviewed selection matching the complete passage',()=>{
+ const output=execFileSync('python3',['-c',`
+import importlib.util,json,tempfile,pathlib
+spec=importlib.util.spec_from_file_location('reuse','scripts/editorial/reuse_reviewed_english.py')
+m=importlib.util.module_from_spec(spec);spec.loader.exec_module(m)
+with tempfile.TemporaryDirectory() as t:
+ r=pathlib.Path(t)
+ for p in ['content/offices','content/overrides']:(r/p).mkdir(parents=True)
+ def office(id,english):return {'id':id,'sourceLanguage':'Latin','status':{'translation':'incomplete'},'sections':[{'blocks':[{'id':'a','source':'℣. Deus, adjuva.','english':english,'sourcePages':[1],'verification':'visual-review' if english else 'pending','alignment':'reviewed','translation':{'kind':'prepared','sourcePages':[1]}}]}]}
+ for d in [office('origin','℣. O God, help.'),office('other','℣. God, assist.'),office('target',None)]:
+  (r/'content/offices'/(d['id']+'.json')).write_text(json.dumps(d))
+ assert m.apply(r,word_variants=True)==0
+ selection={'wordSequence':'deus adjuva','roles':['℣'],'originOffice':'absent','originBlock':'a','reason':'Explicit editorial choice.'}
+ try:m.apply(r,word_variants=True,selections=[selection])
+ except ValueError:pass
+ else:raise AssertionError('unreviewed origin accepted')
+ selection['originOffice']='origin'
+ assert m.apply(r,word_variants=True,selections=[selection])==1
+ row=json.loads((r/'content/overrides/target.json').read_text())['sections'][0]['blocks'][0]
+ assert row['english']=='℣. O God, help.' and row['verification']=='pending'
+ assert row['translation']['selectionReason']==selection['reason']
+ assert 'selected explicitly' in row['editorialNote']
+ print('explicit choice protected')
+`],{encoding:'utf8'});
+ assert.match(output,/explicit choice protected/);
 });

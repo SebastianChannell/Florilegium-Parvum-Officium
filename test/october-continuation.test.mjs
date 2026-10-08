@@ -7,7 +7,7 @@ import {sectionBlocks,resolveVariants} from '../public/reader-model.js';
 const {documents}=readContent();
 const expected=JSON.parse(fs.readFileSync(new URL('./fixtures/october-continuation-source-digests.json',import.meta.url)));
 const digest=t=>createHash('sha256').update(t.replace(/\s+/g,' ').trim()).digest('hex');
-test('eighteen continued offices conserve source text, existing English, and printed hours',()=>{
+test('continued offices conserve source text, existing English, and printed hours',()=>{
  for(const entry of expected){
   const office=documents.get(entry.office);
   assert.deepEqual(office.sections.map(s=>s.id),entry.sections.map(s=>s.id));
@@ -19,7 +19,7 @@ test('eighteen continued offices conserve source text, existing English, and pri
    for(const row of rows.filter(b=>b.verification==='source-reading-pending'))assert(row.editorialNote?.trim());
    assert.doesNotThrow(()=>sectionBlocks(office,section.id,resolveVariants(office)));
   }
-  assert.equal(office.status.verification,'source-reading-pending');
+  assert.equal(office.status.verification,entry.verification??'source-reading-pending');
  }
 });
 test('Monastic Matins selects its printed weekday psalms and lesson/responsory alternatives',()=>{

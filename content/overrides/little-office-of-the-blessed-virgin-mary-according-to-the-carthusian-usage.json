@@ -882,38 +882,48 @@
         {
           "type": "prayer",
           "source": "Jube, domne, benedicere.",
-          "english": "℣. Pray, sir, give the blessing.",
+          "english": "Pray, sir, give the blessing.",
           "sourcePages": [
             217
           ],
           "translation": {
             "kind": "prepared",
-            "method": "reviewed-pdf-word-sequence-reuse",
-            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
-            "reusedFrom": "matins-b0074",
+            "preparedFor": "Sacrum Florilegium",
             "sourcePages": [
               217
             ],
-            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
-            "preparedFor": "Sacrum Florilegium",
             "review": "editorial-review-complete"
           },
           "alignment": "reviewed",
           "id": "matins-b0057",
           "verification": "pending",
-          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
+          "editorialNote": "English prepared directly for this printed Latin passage. A previously considered reused version had different versicle/response signs or expanded wording; the prepared English follows this office’s own signs and incipit. The source still awaits visual review."
         },
         {
           "type": "rubric",
           "source": "Benedictio.",
-          "english": null,
+          "english": "Blessing",
           "sourcePages": [
             217
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-s-benedict",
+            "reusedFrom": "matins-b0023",
+            "sourcePages": [
+              454
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected reviewed wording translates the complete source passage and retains its liturgical role; alternatives differ in punctuation, diction, or capitalization."
+          },
+          "alignment": "reviewed",
           "id": "matins-b0058",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            454
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected reviewed wording translates the complete source passage and retains its liturgical role; alternatives differ in punctuation, diction, or capitalization."
         },
         {
           "type": "prayer",
@@ -1250,27 +1260,22 @@
         {
           "type": "prayer",
           "source": "℣. Domine ad adjuvandum me festina.",
-          "english": "℟. O Lord, make haste to help me.",
+          "english": "℣ O Lord, make haste to help me.",
           "sourcePages": [
             218
           ],
           "translation": {
-            "kind": "supplied",
-            "method": "reviewed-pdf-word-sequence-reuse",
-            "reusedFromOffice": "little-office-for-benedictine-oblates",
-            "reusedFrom": "matins-b0002",
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
             "sourcePages": [
-              614
+              218
             ],
-            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+            "review": "editorial-review-complete"
           },
           "alignment": "reviewed",
           "id": "lauds-b0002",
           "verification": "pending",
-          "englishPages": [
-            614
-          ],
-          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
+          "editorialNote": "English prepared directly for this printed Latin passage. A previously considered reused version had different versicle/response signs or expanded wording; the prepared English follows this office’s own signs and incipit. The source still awaits visual review."
         },
         {
           "type": "prayer",
@@ -1988,14 +1993,28 @@
         {
           "type": "prayer",
           "source": "Kyrie eleison. Christe eleison. Kyrie eleison.",
-          "english": null,
+          "english": "Lord, have mercy on us. Christ, have mercy on us. Lord, have mercy on us.",
           "sourcePages": [
             222
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "matins-b0022",
+            "sourcePages": [
+              616
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected reviewed wording translates the complete source passage and retains its liturgical role; alternatives differ in punctuation, diction, or capitalization."
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0051",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            616
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected reviewed wording translates the complete source passage and retains its liturgical role; alternatives differ in punctuation, diction, or capitalization."
         },
         {
           "type": "prayer",
@@ -2929,14 +2948,27 @@
         {
           "type": "prayer",
           "source": "Maria Mater gratiae, Mater misericordiae, Tu nos ab hoste protege, Et hora mortis suscipe.",
-          "english": null,
+          "english": "Mary, Mother of grace, Mother of mercy: protect us from the enemy, and receive us at the hour of death.",
           "sourcePages": [
             224
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "prime-b0004",
+            "sourcePages": [
+              224
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete",
+            "selectionReason": "Literal wording retains grace, mercy, protection from the enemy, and reception at death."
+          },
+          "alignment": "reviewed",
           "id": "prime-b0008",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. Literal wording retains grace, mercy, protection from the enemy, and reception at death."
         },
         {
           "type": "prayer",
@@ -3585,14 +3617,27 @@
         {
           "type": "prayer",
           "source": "Maria Mater gratiae, Mater misericordiae, Tu nos ab hoste protege, Et hora mortis suscipe.",
-          "english": null,
+          "english": "Mary, Mother of grace, Mother of mercy: protect us from the enemy, and receive us at the hour of death.",
           "sourcePages": [
             226
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "prime-b0004",
+            "sourcePages": [
+              226
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete",
+            "selectionReason": "Literal wording retains grace, mercy, protection from the enemy, and reception at death."
+          },
+          "alignment": "reviewed",
           "id": "terce-b0008",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. Literal wording retains grace, mercy, protection from the enemy, and reception at death."
         },
         {
           "type": "prayer",
@@ -3831,27 +3876,22 @@
         {
           "type": "prayer",
           "source": "℣. Propterea benedixit te Deus in aeternum.",
-          "english": "℟. Therefore hath God blessed thee for ever.",
+          "english": "℣ Therefore hath God blessed thee for ever.",
           "sourcePages": [
             227
           ],
           "translation": {
-            "kind": "supplied",
-            "method": "reviewed-pdf-word-sequence-reuse",
-            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
-            "reusedFrom": "matins-b0036",
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
             "sourcePages": [
-              109
+              227
             ],
-            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+            "review": "editorial-review-complete"
           },
           "alignment": "reviewed",
           "id": "terce-b0027",
           "verification": "pending",
-          "englishPages": [
-            109
-          ],
-          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
+          "editorialNote": "English prepared directly for this printed Latin passage. A previously considered reused version had different versicle/response signs or expanded wording; the prepared English follows this office’s own signs and incipit. The source still awaits visual review."
         },
         {
           "type": "prayer",
@@ -4439,14 +4479,27 @@
         {
           "type": "prayer",
           "source": "Maria Mater gratiae, Mater misericordiae, Tu nos ab hoste protege, Et hora mortis suscipe.",
-          "english": null,
+          "english": "Mary, Mother of grace, Mother of mercy: protect us from the enemy, and receive us at the hour of death.",
           "sourcePages": [
             228
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "prime-b0004",
+            "sourcePages": [
+              228
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete",
+            "selectionReason": "Literal wording retains grace, mercy, protection from the enemy, and reception at death."
+          },
+          "alignment": "reviewed",
           "id": "sext-b0008",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. Literal wording retains grace, mercy, protection from the enemy, and reception at death."
         },
         {
           "type": "prayer",
@@ -5286,14 +5339,27 @@
         {
           "type": "prayer",
           "source": "Maria Mater gratiae, Mater misericordiae, Tu nos ab hoste protege, Et hora mortis suscipe.",
-          "english": null,
+          "english": "Mary, Mother of grace, Mother of mercy: protect us from the enemy, and receive us at the hour of death.",
           "sourcePages": [
             231
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "prime-b0004",
+            "sourcePages": [
+              231
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete",
+            "selectionReason": "Literal wording retains grace, mercy, protection from the enemy, and reception at death."
+          },
+          "alignment": "reviewed",
           "id": "none-b0008",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. Literal wording retains grace, mercy, protection from the enemy, and reception at death."
         },
         {
           "type": "prayer",
@@ -6463,26 +6529,54 @@
         {
           "type": "prayer",
           "source": "Monstra te esse matrem, Sumat per te preces, Qui pro nobis natus Tulit esse tuus.",
-          "english": null,
+          "english": "Show thyself a mother, May the Word Divine, Born for us thine infant, Hear our pray’rs through thine.",
           "sourcePages": [
             235
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "vespers-b0024",
+            "sourcePages": [
+              311
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected stanza retains maternal intercession to the One born for us."
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0026",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            311
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected stanza retains maternal intercession to the One born for us."
         },
         {
           "type": "prayer",
           "source": "Virgo singularis Inter omnes mitis, Nos culpis solutos Mites fac et castos.",
-          "english": null,
+          "english": "Virgin all excelling, Mildest of the mild, Free from sin preserve us, Meek and undefiled.",
           "sourcePages": [
             235
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "compline-b0021",
+            "sourcePages": [
+              317
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected supplied stanza retains meekness and chastity without the alternate apostrophe contraction."
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0027",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            317
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected supplied stanza retains meekness and chastity without the alternate apostrophe contraction."
         },
         {
           "type": "prayer",
@@ -6511,14 +6605,28 @@
         {
           "type": "prayer",
           "source": "Sit laus Deo Patri, Summo Christo decus, Spiritui Sancto, Tribus honor unus. Amen.",
-          "english": null,
+          "english": "Praise to God the Father, Honour to the Son, To the Holy Spirit, Be glory one. Amen.",
           "sourcePages": [
             235
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "compline-b0023",
+            "sourcePages": [
+              318
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected supplied stanza retains the three persons and one honour."
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0029",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            318
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected supplied stanza retains the three persons and one honour."
         },
         {
           "type": "rubric",
@@ -7390,14 +7498,27 @@
         {
           "type": "prayer",
           "source": "Maria Mater gratiae, Mater misericordiae, Tu nos ab hoste protege, Et hora mortis suscipe.",
-          "english": null,
+          "english": "Mary, Mother of grace, Mother of mercy: protect us from the enemy, and receive us at the hour of death.",
           "sourcePages": [
             237
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "prime-b0004",
+            "sourcePages": [
+              237
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete",
+            "selectionReason": "Literal wording retains grace, mercy, protection from the enemy, and reception at death."
+          },
+          "alignment": "reviewed",
           "id": "compline-b0019",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. Literal wording retains grace, mercy, protection from the enemy, and reception at death."
         },
         {
           "type": "prayer",
@@ -7753,14 +7874,27 @@
         {
           "type": "prayer",
           "source": "℣. Dignare me laudare te Virgo sacrata.",
-          "english": null,
+          "english": "℣. Vouchsafe that I may praise thee, O sacred Virgin.",
           "sourcePages": [
             238
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "lauds-b0106",
+            "sourcePages": [
+              238
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete",
+            "selectionReason": "The selected prepared wording renders sacrata directly as sacred."
+          },
+          "alignment": "reviewed",
           "id": "compline-b0044",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected prepared wording renders sacrata directly as sacred."
         },
         {
           "type": "prayer",
@@ -8720,14 +8854,28 @@
         {
           "type": "prayer",
           "source": "℣. Ave Maria gratia plena, Dominus tecum.",
-          "english": null,
+          "english": "℣. Hail Mary, full of grace, the Lord is with thee.",
           "sourcePages": [
             240
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "matins-b0001",
+            "sourcePages": [
+              280
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected reviewed wording translates the complete source passage and retains its liturgical role; alternatives differ in punctuation, diction, or capitalization."
+          },
+          "alignment": "reviewed",
           "id": "compline-b0105",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            280
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected reviewed wording translates the complete source passage and retains its liturgical role; alternatives differ in punctuation, diction, or capitalization."
         },
         {
           "type": "prayer",

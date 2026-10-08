@@ -483,14 +483,28 @@
         {
           "type": "prayer",
           "source": "Praesta, Pater Piissime, Patrique compar Unice, Cum Spiritu Paraclito Regnans per omne saeculum. Amen.",
-          "english": null,
+          "english": "This grace on thy redeemed confer, Father, coequal Son, And Holy Ghost the Comforter, Eternal Three in One. Amen.",
           "sourcePages": [
             642
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "none-b0006",
+            "sourcePages": [
+              627
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The selected printed stanza expresses the requested grace and the coequal Son and Comforter."
+          },
+          "alignment": "reviewed",
           "id": "ordo-ad-medium-noctis-b0027",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            627
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected printed stanza expresses the requested grace and the coequal Son and Comforter."
         },
         {
           "type": "rubric",
@@ -1840,14 +1854,28 @@
         {
           "type": "rubric",
           "source": "Responsorium",
-          "english": null,
+          "english": "Responsory",
           "sourcePages": [
             645
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "matins-b0037",
+            "sourcePages": [
+              285
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "selectionReason": "The heading is rendered in English."
+          },
+          "alignment": "reviewed",
           "id": "ordo-ad-medium-noctis-b0112",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            285
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The heading is rendered in English."
         },
         {
           "type": "prayer",

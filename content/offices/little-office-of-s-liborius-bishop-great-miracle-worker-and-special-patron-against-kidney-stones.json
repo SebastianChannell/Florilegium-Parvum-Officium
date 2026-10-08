@@ -28,9 +28,9 @@
   ],
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
-    "extraction": "candidate",
-    "translation": "incomplete",
-    "verification": "pending"
+    "extraction": "reviewed",
+    "translation": "complete-prepared",
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -44,26 +44,46 @@
         {
           "type": "prayer",
           "source": "Laudate Dominum in Sanctis ejus: laudate eum in firmamento virtutis ejus. Ps. 150.",
-          "english": null,
+          "english": "Praise the Lord in His saints; praise Him in the firmament of His power. Ps. 150.",
           "sourcePages": [
             548
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              548
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Domine labia mea aperies,",
-          "english": null,
+          "english": "℣. O Lord, Thou shalt open my lips.",
           "sourcePages": [
             548
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-s-philip-neri-founder-of-the-congregation-of-the-oratory",
+            "reusedFrom": "matins-b0001",
+            "sourcePages": [
+              548
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete",
+            "selectionReason": "The selected reviewed wording translates the complete source passage and retains its liturgical role; alternatives differ in punctuation, diction, or capitalization."
+          },
+          "alignment": "reviewed",
           "id": "matins-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected reviewed wording translates the complete source passage and retains its liturgical role; alternatives differ in punctuation, diction, or capitalization."
         },
         {
           "type": "prayer",
@@ -84,7 +104,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -105,7 +125,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -126,55 +146,83 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
           "source": "Loco hujus Alleluia, a Septuagesima usque ad Pascha dicitur: Laus tibi Domine, Rex aeternae gloriae.",
-          "english": null,
+          "english": "In place of this Alleluia, from Septuagesima until Easter is said: Praise be to Thee, O Lord, King of everlasting glory.",
           "sourcePages": [
             548
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              548
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Hymnus O Libori! Praesul bone, Advocate, et Patrone Quovis in discrimine: Nostra spes in rebus duris, Consolator in pressuris Corporis et animae!",
-          "english": null,
+          "english": "Hymn. O Liborius, good bishop, advocate and patron in every danger, our hope in adversity, comforter in afflictions of body and soul!",
           "sourcePages": [
             548
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              548
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "De caelorum celsa aede, Beatorum laeta sede, Me dicentem respice: Gratiose preces audi, Quas dicabo tuae laudi; Nec orantem despice!",
-          "english": null,
+          "english": "From the lofty temple of heaven, the joyful dwelling of the blessed, look upon me as I speak. Graciously hear the prayers that I dedicate to thy praise, and despise not the one who prays.",
           "sourcePages": [
             548
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              548
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Antiphona 2 Mach. 15:14. Hic est fratrum amator, et populi Israel: hic est, qui multum orat pro populo, et universa sancta civitate.",
-          "english": null,
+          "english": "Antiphon. 2 Mach. 15:14. This is the lover of his brethren and of the people of Israel; this is he who prays much for the people and the whole holy city.",
           "sourcePages": [
             548
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              548
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -195,7 +243,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -216,7 +264,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -237,19 +285,27 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0012",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Deus, qui Sanctum Liborium Pontificem tuum, aliis innumeris gloriosum miraculis, speciali in medendis arenarum et calculi passionibus privilegio decorasti: praesta, quaesumus, ut ipsius meritis et intercessione his aliis malis eruti, gaudiis perfrui mereamur aeternis. Per Dominum nostrum Jesum Christum Filium tuum: qui tecum vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum. Amen.",
-          "english": null,
+          "english": "O God, Who didst adorn Saint Liborius Thy bishop, glorious in countless other miracles, with a special privilege in healing afflictions of gravel and stones: grant, we beseech Thee, that by his merits and intercession we may be delivered from these and other evils and deserve to enjoy eternal joys. Through our Lord Jesus Christ Thy Son, Who liveth and reigneth with Thee in the unity of the Holy Spirit, God, for ever and ever. Amen.",
           "sourcePages": [
             548
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              548
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0013",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "The printed his aliis malis is retained; English supplies the conjunction implied by the paired objects, these and other evils."
         }
       ]
     },
@@ -281,7 +337,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -302,7 +358,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -323,44 +379,66 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ab ingressu juventutis Cor et mentem ad virtutis Contulisti studium: Haec deinceps in te crevit, Et constanter adolevit Ad stuporem omnium.",
-          "english": null,
+          "english": "From the beginning of youth thou didst apply heart and mind to the pursuit of virtue. This afterwards grew in thee and steadily increased, to the wonder of all.",
           "sourcePages": [
             548
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              548
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Fac, et ego sic intendam Rebus sacris, et impendam Me virtutum cultui: Fac, in fide, spe, amore, Probe crescam te Doctore, Uti semper debui.",
-          "english": null,
+          "english": "Grant that I also may attend to holy things and devote myself to the cultivation of virtues. Grant that, with thee as teacher, I may grow rightly in faith, hope, and love, as I ought always to have done.",
           "sourcePages": [
             548
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              548
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Antiphona Eccles. 51:18. Cum adhuc junior essem, priusquam oberrarem, quaesivi sapientiam palam in oratione mea: ante templum postulabam pro illa, et usque in novissimis inquiram eam.",
-          "english": null,
+          "english": "Antiphon. Eccles. 51:18. While I was still young, before I wandered, I openly sought wisdom in my prayer. Before the temple I asked for her, and I shall seek her even to the end.",
           "sourcePages": [
             548,
             549
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              548,
+              549
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -381,7 +459,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -402,19 +480,36 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Oremus, Deus, qui S. Liborium, etc. ut supra.",
-          "english": null,
+          "english": "Let us pray. O God, Who didst adorn Saint Liborius, etc., as above.",
           "sourcePages": [
             549
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              549
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              549
+            ],
+            "note": "The printed abbreviation repeats the Matins collect."
+          }
         }
       ]
     },
@@ -445,7 +540,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -466,7 +561,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -487,43 +582,64 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "In doctrina mandatorum, Ore Christi traditorum, Perstitisti gnaviter: Nemo vidit te peccantem, Vel a recto deviantem, Ac prolapsum graviter.",
-          "english": null,
+          "english": "Thou didst steadfastly persevere in the teaching of the commandments handed down by the mouth of Christ. No one saw thee sinning, turning from the right path, or falling grievously.",
           "sourcePages": [
             549
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              549
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ora Deum, ut et ego, Dum in fluxa carne dego, Sine lapsu maneam: Utque semper castam vitam, Et a noxis custoditam, Hic in orbe peragam!",
-          "english": null,
+          "english": "Pray to God that I also, while dwelling in frail flesh, may remain without a fall, and may always lead in this world a chaste life, guarded from offences.",
           "sourcePages": [
             549
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              549
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Antiphona Ps. 118:33. Legem pone mihi Domine viam justificationum tuarum, et exquiram eam semper: da mihi intellectum, et scrutabor legem tuam, et custodiam illam in toto corde meo.",
-          "english": null,
+          "english": "Antiphon. Ps. 118:33. Set before me, O Lord, the way of Thy statutes, and I shall seek it always. Give me understanding, and I shall search Thy law and keep it with my whole heart.",
           "sourcePages": [
             549
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              549
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -544,7 +660,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -565,19 +681,36 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Oremus, Deus, qui S. Liborium, etc. ut supra.",
-          "english": null,
+          "english": "Let us pray. O God, Who didst adorn Saint Liborius, etc., as above.",
           "sourcePages": [
             549
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              549
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              549
+            ],
+            "note": "The printed abbreviation repeats the Matins collect."
+          }
         }
       ]
     },
@@ -608,7 +741,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -629,7 +762,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -651,7 +784,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0003",
-          "verification": "pending",
+          "verification": "visual-review",
           "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
@@ -673,43 +806,64 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Tuae mentis lenitudo, Humilissima mansuetudo Probabatur omnibus. Plenus eras caritate, Plenus omni suavitate, Placidissimis moribus.",
-          "english": null,
+          "english": "The gentleness of thy mind and thy most humble meekness were approved by all. Thou wast full of charity, full of every sweetness, and most peaceful in thy ways.",
           "sourcePages": [
             549
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              549
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Fac, ut ego quoque vitem Iras omnes, nec ad litem Sim et rixas facilis: Ora Jesum et Mariam, Ut exemplo horum fiam Mitis, blandus, humilis!",
-          "english": null,
+          "english": "Grant that I also may avoid all anger and may not be quick to dispute or quarrel. Pray to Jesus and Mary that by their example I may become meek, gracious, and humble.",
           "sourcePages": [
             549
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              549
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Antiphona 2 Reg. 6:21. Ante Dominum, qui elegit me, vilior fiam, plus quam factus sum; et ero humilis in oculis meis.",
-          "english": null,
+          "english": "Antiphon. 2 Reg. 6:21. Before the Lord, Who chose me, I shall become more lowly than I have been, and I shall be humble in my own eyes.",
           "sourcePages": [
             549
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              549
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -730,7 +884,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -751,19 +905,36 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Oremus, Deus, qui Sanctum Liborium, etc. ut supra.",
-          "english": null,
+          "english": "Let us pray. O God, Who didst adorn Saint Liborius, etc., as above.",
           "sourcePages": [
             549
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              549
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0010",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              549
+            ],
+            "note": "The printed abbreviation repeats the Matins collect."
+          }
         }
       ]
     },
@@ -795,7 +966,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -816,7 +987,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -837,43 +1008,64 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Omnem plausum et honorem Mundi hujus, ut vaporem, Despexisti penitus: Soli Deo inhaesisti; In hoc solo quievisti Prae creatis omnibus.",
-          "english": null,
+          "english": "Thou didst utterly despise all applause and honour of this world as vapour. Thou didst cling to God alone and rest in Him alone above all created things.",
           "sourcePages": [
             549
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              549
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Sancte Praesul! pro me ora, Ut et ego sine mora Mundi pompas negligam: Soli Deo sim innixus, Huic mente sim infixus, Et hunc solum diligam!",
-          "english": null,
+          "english": "Holy bishop, pray for me that I also may without delay disregard the pomp of the world, depend on God alone, fix my mind on Him, and love Him alone.",
           "sourcePages": [
             550
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              550
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Antiphona 1 Joan. 2:15. Nolite diligere mundum, neque ea, quae in mundo sunt. Si quis diligit mundum, non est caritas Patris in eo.",
-          "english": null,
+          "english": "Antiphon. 1 Joan. 2:15. Love not the world, nor the things that are in the world. If anyone loves the world, the charity of the Father is not in him.",
           "sourcePages": [
             550
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              550
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -894,7 +1086,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -915,19 +1107,36 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Oremus, Deus, qui Sanctum Liborium, etc. ut supra.",
-          "english": null,
+          "english": "Let us pray. O God, Who didst adorn Saint Liborius, etc., as above.",
           "sourcePages": [
             550
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              550
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              550
+            ],
+            "note": "The printed abbreviation repeats the Matins collect."
+          }
         }
       ]
     },
@@ -958,7 +1167,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -979,7 +1188,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1000,43 +1209,65 @@
           },
           "alignment": "reviewed",
           "id": "none-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Sanctus Praesul te Martinus, Morti esses cum vicinus, Aegrotantem adiit. O! quam pios cordis motus, Cum arderes Deo totus, Tecum is eliciuit?",
-          "english": null,
+          "english": "Saint Martin the bishop visited thee in thy sickness when thou wast near death. O what devout movements of the heart he drew forth with thee, when thou wast wholly aflame for God!",
           "sourcePages": [
             550
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              550
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "The printed eliciuit is retained in Latin; English renders the evident verb elicuit, drew forth."
         },
         {
           "type": "prayer",
           "source": "Ah! et mihi, o Libori, Quando fata jubent mori, Sacerdotem advoca: Dum supremus urget angor, Atque mortis falce tangor, Ad solandum advola!",
-          "english": null,
+          "english": "Ah, Liborius, summon a priest for me also when my appointed time bids me die. When the final anguish presses and death’s sickle touches me, hasten to comfort me.",
           "sourcePages": [
             550
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              550
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Antiphona Numb. 23:10. Moriatur anima mea morte justorum, et fiant novissima mea horum similia!",
-          "english": null,
+          "english": "Antiphon. Numb. 23:10. May my soul die the death of the just, and may my last end be like theirs!",
           "sourcePages": [
             550
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              550
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1057,7 +1288,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1078,19 +1309,36 @@
           },
           "alignment": "reviewed",
           "id": "none-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Oremus, Deus, qui Sanctum Liborium, etc. ut supra.",
-          "english": null,
+          "english": "Let us pray. O God, Who didst adorn Saint Liborius, etc., as above.",
           "sourcePages": [
             550
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              550
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              550
+            ],
+            "note": "The printed abbreviation repeats the Matins collect."
+          }
         }
       ]
     },
@@ -1121,7 +1369,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1142,7 +1390,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1163,43 +1411,64 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Contra morbos oculorum, Pedum quoque, et lumborum, Te fideles invocant: At praesertim acriore Calculorum in dolore Te Patronum praedicant.",
-          "english": null,
+          "english": "The faithful invoke thee against diseases of the eyes, the feet, and the loins; but especially in the sharper pain of stones they proclaim thee their patron.",
           "sourcePages": [
             550
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              550
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Fac, me morbis expediri, Nec urentis experiri Calculi saevitiem: Ac, ne frustra istud orem, A me aufer graviorem Peccatorum silicem!",
-          "english": null,
+          "english": "Grant that I may be freed from diseases and not experience the cruelty of a burning stone. And, that I may not ask this in vain, remove from me the heavier flint of sins.",
           "sourcePages": [
             550
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              550
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Antiphona Eccli. 48:4. Amplificatus est in mirabilibus suis: et quis potest similiter sic gloriari?",
-          "english": null,
+          "english": "Antiphon. Eccli. 48:4. He was magnified in his wonders; and who can glory in the same way?",
           "sourcePages": [
             550
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              550
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1220,7 +1489,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1241,19 +1510,36 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Oremus, Deus, qui Sanctum Liborium, etc. ut supra.",
-          "english": null,
+          "english": "Let us pray. O God, Who didst adorn Saint Liborius, etc., as above.",
           "sourcePages": [
             550
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              550
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              550
+            ],
+            "note": "The printed abbreviation repeats the Matins collect."
+          }
         }
       ]
     },
@@ -1269,14 +1555,27 @@
         {
           "type": "prayer",
           "source": "℣. Converte nos Deus salutaris noster,",
-          "english": null,
+          "english": "℣. Convert us, O God our Saviour.",
           "sourcePages": [
             550
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-s-john-of-god-whose-fiery-birth-was-revealed-by-divine-intervention",
+            "reusedFrom": "compline-b0001",
+            "sourcePages": [
+              550
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete",
+            "selectionReason": "The selected reviewed wording translates the complete source passage and retains its liturgical role; alternatives differ in punctuation, diction, or capitalization."
+          },
+          "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected reviewed wording translates the complete source passage and retains its liturgical role; alternatives differ in punctuation, diction, or capitalization."
         },
         {
           "type": "prayer",
@@ -1297,7 +1596,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1318,7 +1617,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1339,7 +1638,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1360,44 +1659,66 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Contra morbos oculorum, Pedum quoque, et lumborum, Te fideles invocant: At praesertim acriore Calculorum in dolore Te Patronum praedicant.",
-          "english": null,
+          "english": "The faithful invoke thee against diseases of the eyes, the feet, and the loins; but especially in the sharper pain of stones they proclaim thee their patron.",
           "sourcePages": [
             550,
             551
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              550,
+              551
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Fac, me morbis expediri, Nec urentis experiri Calculi saevitiem: Ac, ne frustra istud orem, A me aufer graviorem Peccatorum silicem!",
-          "english": null,
+          "english": "Grant that I may be freed from diseases and not experience the cruelty of a burning stone. And, that I may not ask this in vain, remove from me the heavier flint of sins.",
           "sourcePages": [
             551
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              551
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Antiphona Eccli. 48:4. Amplificatus est in mirabilibus suis: et quis potest similiter sic gloriari?",
-          "english": null,
+          "english": "Antiphon. Eccli. 48:4. He was magnified in his wonders; and who can glory in the same way?",
           "sourcePages": [
             551
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              551
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1418,7 +1739,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1439,19 +1760,36 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Oremus, Deus, qui Sanctum Liborium, etc. ut supra.",
-          "english": null,
+          "english": "Let us pray. O God, Who didst adorn Saint Liborius, etc., as above.",
           "sourcePages": [
             551
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              551
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0011",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              551
+            ],
+            "note": "The printed abbreviation repeats the Matins collect."
+          }
         }
       ]
     },
@@ -1466,41 +1804,73 @@
         {
           "type": "prayer",
           "source": "Ista sunt, quae supplex oro, Ac pro quibus te imploro: O Patrone, audi me! Et tu Jesu, Dei nate, Nostri causa incarnate, Mea vota respice!",
-          "english": null,
+          "english": "These are the things I ask in supplication and for which I implore thee. O patron, hear me! And Thou, Jesus, Son of God, incarnate for our sake, regard my prayers.",
           "sourcePages": [
             551
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              551
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "conclusion-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Scio quidem, transgressorem Esse me, et peccatorem Coram tua facie: Sed tu, Jesu, rubicunda Me cruoris tui unda A peccatis ablue!",
-          "english": null,
+          "english": "I know indeed that I am a transgressor and a sinner before Thy face. But Thou, Jesus, wash me from sins in the crimson flood of Thy blood.",
           "sourcePages": [
             551
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              551
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "conclusion-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Cum e caelo descendisti: Nomen Jesu assumpsisti, Ut in te stet nostra spes. Quaeso, nomen hoc attende, Salvatorem te ostende, Esto mihi, id quod es!",
-          "english": null,
+          "english": "When Thou didst descend from heaven, Thou didst take the name of Jesus, that our hope might rest in Thee. I beseech Thee, heed this name; show Thyself a Saviour; be to me that which Thou art.",
           "sourcePages": [
             551
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              551
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "conclusion-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "editorialNotes": [
+    {
+      "text": "Prepared English was compared with PDF pages 548–551. The printed hours and conclusion are retained; repeated collect references expand from this office’s Matins. Minor printed forms are documented beside the affected translations.",
+      "pages": [
+        548,
+        549,
+        550,
+        551
+      ]
+    }
+  ]
 }

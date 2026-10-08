@@ -43,8 +43,9 @@ export function validateContent({ inventory, documents, boundaries, references =
           const origin = documents.get(b.translation.reusedFromOffice)?.sections.flatMap(s => s.blocks).find(t => t.id === b.translation.reusedFrom);
           const words = b.translation.method === 'reviewed-pdf-word-sequence-reuse';
           const normalize = words ? t => t?.toLowerCase().match(/[\p{L}\p{N}]+/gu)?.join(' ') : t => t?.replace(/\s+/g, ' ').trim();
+          const roles = t => JSON.stringify(t?.match(/[℣℟]/gu)||[]);
           if (words && (b.translation.normalizationPolicy !== 'unicode-letters-numbers-lowercase-v1' || !normalize(b.source) || !b.editorialNote?.trim())) add(`Word-sequence English reuse lacks its checked policy or visible note: ${b.id}`,office.id);
-          if (!origin || origin.verification !== 'visual-review' || origin.alignment !== 'reviewed' || normalize(origin.source) !== normalize(b.source) || origin.english !== b.english || origin.translation?.kind !== b.translation.kind) add(`Reused English lacks an identical reviewed source passage: ${b.id}`,office.id);
+          if (!origin || origin.verification !== 'visual-review' || origin.alignment !== 'reviewed' || normalize(origin.source) !== normalize(b.source) || (words && roles(origin.source)!==roles(b.source)) || origin.english !== b.english || origin.translation?.kind !== b.translation.kind) add(`Reused English lacks an identical reviewed source passage: ${b.id}`,office.id);
           if (b.translation.kind === 'supplied' && JSON.stringify(b.englishPages) !== JSON.stringify(origin?.englishPages || origin?.translation?.sourcePages)) add(`Reused supplied English has incorrect provenance: ${b.id}`,office.id);
         }
         if (b.alignment === 'source-discrepancy' && (!b.editorialNote?.trim() || b.verification !== 'source-reading-pending')) add(`Source discrepancy lacks a visible note or pending review status: ${b.id}`,office.id);

@@ -13,7 +13,7 @@ Four further Latin-only offices now have English throughout:
 
 Checks: structural validation, all 35 Node tests, Python syntax checks, and editorial preview build pass. Browser integration assertions were updated for the English-only supplement, but no browser run was performed because Chromium is not installed in this runtime.
 
-Remaining: 3,494 source passages without English, 123 unresolved reference candidates, Latin source notes, transcription/variant structure review, and final publication acceptance. Nine offices have full visual-review status; several others have been inspected but remain pending because the PDF itself contains defects. The production gate remains intact. This is a preserved continuation, not a finished publication.
+Remaining: 3,270 source passages without English, 109 unresolved reference candidates, transcription/variant structure review, and final publication acceptance. Ten offices have full visual-review status; several others have been inspected but remain pending because the PDF itself contains defects. The production gate remains intact. This is a preserved continuation, not a finished publication.
 
 ## Further continuation
 
@@ -38,3 +38,12 @@ After the two new translations, a further 19 complete-word-sequence matches beca
 Francis Xavier (505–507), Lawrence (552–554), Alexius (440–442), Joachim and Anne (527–530), Philip Neri (586–589), and Bruno (472–475) now have English rows throughout. All relevant PDF pages were visually inspected. Their seven printed hours and non-hour concluding material remain; none adds Lauds. Distinct Philip Neri collects remain distinct. Repeated prayer groups in the other five offices expand from their own Matins. Defective grammatical constructions and unintelligible printed clauses are explicitly provisional or marked unresolved in English, keeping source-review status pending.
 
 Seven more complete-word-sequence reuses became available after the first three offices, bringing that mode to 161 cumulative reuses. The next pass adds zero. Source-preservation fixtures now cover eighteen continued offices and protect their original Latin, existing English, and printed sections. All 35 tests, the structural check, and the editorial preview build pass. No browser integration run, production publication, or merge is claimed.
+
+
+## Role-preserving reuse and three further offices
+
+Word-sequence reuse now requires the same ordered versicle/response signs. Twenty-three earlier copies with differing signs or expanded incipits were replaced by direct prepared translations of the target text, retaining the source and its review status. One additional unambiguous match was reused. Thirty-nine differing-version groups were individually compared and recorded in `reviewed-reuse-selections.json`; 118 previously empty rows now reuse those explicit choices. Automatic conflicting-version selection remains disabled. The current word-sequence reuse total is 257 (including 118 explicitly selected rows); whitespace-only exact reuse remains 625. Tests cover conflicting versions, nonmatching selected origins, role differences, lexical differences, and preserved review status.
+
+Paul (583–585), Stanislaus Kostka (602–604), and Liborius (548–551) now have English rows throughout after all ten PDF pages were inspected. Paul and Stanislaus retain defective printed phrases and visibly unresolved or provisional translations; both remain pending source reading. Liborius has full visual review, with minor printed forms documented. Seven Paul versicle/response extraction artefacts are corrected to the visually verified glyphs, with original extracted text preserved. Fourteen further printed references expand from their own office’s Matins. No absent Lauds or additional hours are introduced. Preservation fixtures cover 21 continued offices.
+
+All 36 tests, structural validation, and the editorial preview build pass. Current coverage: 82 offices, 686 sections, 11,282 rows, 3,270 missing English rows, 4,461 prepared translations including notes, no unpaired supplied English, ten fully visually reviewed offices, and 109 unresolved reference candidates. Browser integration and publication remain outstanding; the release gate is unchanged.

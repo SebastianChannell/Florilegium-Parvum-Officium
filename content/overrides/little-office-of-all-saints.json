@@ -170,14 +170,27 @@
         {
           "type": "rubric",
           "source": "A Septuagesima usque ad Pascha, loco Alleluia, dicitur: Laus tibi, Domine; Rex aeternae gloriae.",
-          "english": null,
+          "english": "From Septuagesima until Easter, instead of Alleluia is said: Praise be to Thee, O Lord, King of everlasting glory.",
           "sourcePages": [
             424
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-holy-ghost",
+            "reusedFrom": "ordinary-b0009",
+            "sourcePages": [
+              424
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete",
+            "selectionReason": "The selected prepared version retains Septuagesima rather than the differing supplied Lent rubric."
+          },
+          "alignment": "reviewed",
           "id": "matins-b0007",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected prepared version retains Septuagesima rather than the differing supplied Lent rubric."
         },
         {
           "type": "rubric",
