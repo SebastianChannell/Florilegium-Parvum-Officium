@@ -199,7 +199,7 @@
           "englishPages": [
             105
           ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review. Note on the original printed translation: The PDF prints “Domine, labia ✠ea aperies,” with an incomplete Latin word. The printed source and its supplied English are retained."
         },
         {
           "type": "prayer",
@@ -431,14 +431,25 @@
         {
           "type": "prayer",
           "source": "Quem terra, pontus, aethera Colunt, adorant, praedicant, Trinam regentem machinam, Claustrum Mariae bajulat.",
-          "english": null,
+          "english": "He whom earth, sea, and heaven worship, adore, and proclaim, who rules the threefold universe, is borne within Mary’s womb.",
           "sourcePages": [
             188
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "matins-b0017",
+            "sourcePages": [
+              188
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0016",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2095,7 +2106,7 @@
             124,
             125
           ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review. Note on the original printed translation: The Latin Psalm 62 ends its psalm text after “partes vulpium erunt”; the English includes the additional verse beginning “But the king shall rejoice in God.” No absent Latin has been added."
         },
         {
           "type": "rubric",
@@ -2146,7 +2157,7 @@
             126,
             127
           ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review. Note on the original printed translation: The English canticle includes “O ye spirits and souls of the just” and “O ye holy and humble of heart”; the Latin column omits these invocations. Both printed versions are retained."
         },
         {
           "type": "rubric",
@@ -6792,14 +6803,25 @@
         {
           "type": "prayer",
           "source": "Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "Glory be to the Father, and to the Son, and to the Holy Spirit. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             205
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "vespers-b0023",
+            "sourcePages": [
+              205
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0010",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "rubric",

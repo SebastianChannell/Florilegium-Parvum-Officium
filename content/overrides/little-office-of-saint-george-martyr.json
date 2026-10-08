@@ -267,14 +267,25 @@
         {
           "type": "prayer",
           "source": "℟. Et constituisti eum super opera manuum tuarum.",
-          "english": null,
+          "english": "℟. And hast set him over the works of Thy hands.",
           "sourcePages": [
             508
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-saint-sebastian-martyr-special-patron-against-epidemic-disease",
+            "reusedFrom": "matins-b0010",
+            "sourcePages": [
+              508
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",

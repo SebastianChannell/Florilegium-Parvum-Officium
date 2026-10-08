@@ -137,7 +137,7 @@
           "englishPages": [
             105
           ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review. Note on the original printed translation: The PDF prints “Domine, labia ✠ea aperies,” with an incomplete Latin word. The printed source and its supplied English are retained."
         },
         {
           "type": "prayer",
@@ -271,26 +271,48 @@
         {
           "type": "prayer",
           "source": "Ant. Ave Maria, gratia plena, Dominus tecum.",
-          "english": null,
+          "english": "Ant. Hail Mary, full of grace, the Lord is with thee.",
           "sourcePages": [
             246
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "matins-b0011",
+            "sourcePages": [
+              246
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vigils-b0011",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
           "source": "Ant. Ave Maria, gratia plena, Dominus tecum.",
-          "english": null,
+          "english": "Ant. Hail Mary, full of grace, the Lord is with thee.",
           "sourcePages": [
             246
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "matins-b0011",
+            "sourcePages": [
+              246
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vigils-b0012",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "rubric",
@@ -393,14 +415,25 @@
         {
           "type": "prayer",
           "source": "Quem terra, pontus, aethera Colunt, adorant, praedicant, Trinam regentem machinam, Claustrum Mariae bajulat.",
-          "english": null,
+          "english": "He whom earth, sea, and heaven worship, adore, and proclaim, who rules the threefold universe, is borne within Mary’s womb.",
           "sourcePages": [
             246
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "matins-b0017",
+            "sourcePages": [
+              246
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vigils-b0017",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -441,15 +474,27 @@
         {
           "type": "prayer",
           "source": "Beata caeli nuntio, Foecunda sancto Spiritu, Desideratus gentibus, Cujus per alvum fusus est.",
-          "english": null,
+          "english": "Blessed by heaven’s messenger and made fruitful by the Holy Spirit, she brought forth from her womb Him whom the nations desired.",
           "sourcePages": [
             246,
             247
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "matins-b0020",
+            "sourcePages": [
+              246,
+              247
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vigils-b0020",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -607,14 +652,25 @@
         {
           "type": "prayer",
           "source": "Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "Glory be to the Father, and to the Son, and to the Holy Spirit. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             248
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "vespers-b0023",
+            "sourcePages": [
+              248
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vigils-b0028",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1082,7 +1138,7 @@
             124,
             125
           ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review. Note on the original printed translation: The Latin Psalm 62 ends its psalm text after “partes vulpium erunt”; the English includes the additional verse beginning “But the king shall rejoice in God.” No absent Latin has been added."
         },
         {
           "type": "rubric",
@@ -1132,7 +1188,7 @@
             126,
             127
           ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review. Note on the original printed translation: The English canticle includes “O ye spirits and souls of the just” and “O ye holy and humble of heart”; the Latin column omits these invocations. Both printed versions are retained."
         },
         {
           "type": "rubric",
@@ -1377,14 +1433,25 @@
         {
           "type": "prayer",
           "source": "O gloriosa Domina, Excelsa super sidera: Qui te creavit, provide Lactasti sacro ubere.",
-          "english": null,
+          "english": "O glorious Lady, exalted above the stars, thou didst graciously nourish at thy holy breast Him who created thee.",
           "sourcePages": [
             250
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "lauds-b0050",
+            "sourcePages": [
+              250
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0028",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1413,26 +1480,48 @@
         {
           "type": "prayer",
           "source": "Tu Regis alti janua, Et porta lucis fulgida: Vitam datam per Virginem, Gentes redemptae, plaudite.",
-          "english": null,
+          "english": "Thou art the gateway of the King on high and the shining gate of light. O redeemed nations, applaud the life given through the Virgin.",
           "sourcePages": [
             250
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "lauds-b0052",
+            "sourcePages": [
+              250
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0030",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
           "source": "Gloria tibi Domine, Qui natus es de Virgine, Cum Patre et Sancto Spiritu, In sempiterna saecula. Amen.",
-          "english": null,
+          "english": "Glory be to Thee, O Lord, who wast born of the Virgin, with the Father and the Holy Spirit, for ever and ever. Amen.",
           "sourcePages": [
             250
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "lauds-b0053",
+            "sourcePages": [
+              250
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0031",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1587,26 +1676,50 @@
         {
           "type": "prayer",
           "source": "℣. O Lord, hear my prayer.",
-          "english": null,
+          "english": "℣. O Lord, hear my prayer.",
           "sourcePages": [
             251
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "lauds-b0069",
+            "sourcePages": [
+              332
+            ]
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0041",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            332
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
           "source": "℟. And let my cry come unto Thee.",
-          "english": null,
+          "english": "℟. And let my cry come unto Thee.",
           "sourcePages": [
             251
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "lauds-b0070",
+            "sourcePages": [
+              332
+            ]
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0042",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            332
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -4661,14 +4774,25 @@
         {
           "type": "prayer",
           "source": "Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "Glory be to the Father, and to the Son, and to the Holy Spirit. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             263
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "vespers-b0023",
+            "sourcePages": [
+              263
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0011",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "rubric",

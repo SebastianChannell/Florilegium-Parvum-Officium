@@ -28,9 +28,9 @@
   ],
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
-    "extraction": "candidate",
-    "translation": "incomplete",
-    "verification": "pending"
+    "extraction": "reviewed",
+    "translation": "complete-prepared",
+    "verification": "source-reading-pending"
   },
   "sections": [
     {
@@ -60,7 +60,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -81,7 +81,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -102,7 +102,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -123,7 +123,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -144,7 +144,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -165,7 +165,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -185,11 +185,11 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0007",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             54
           ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages. The original Latin says Septuagesima; the supplied English says Lent. These differing printed terms are retained."
         },
         {
           "type": "rubric",
@@ -210,55 +210,83 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Fatalis o agonis Patrona Barbara, Coelestibus coronis, Gemmisque fulgida! Moerentis in novissimo Mors certa spiculo Sed, Virgo, te favente, Sum par periculo.",
-          "english": null,
+          "english": "O Barbara, patroness of the final struggle,\nShining with heavenly crowns and gems!\nDeath is certain with its last dart of sorrow,\nBut, O Virgin, with thy favour I am equal to the danger.",
           "sourcePages": [
             450
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              450
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Osee. 2. 19. Sponsabo te mihi in sempiternum; et sponsabo te mihi in justitia et judicio, et in misericordia, et in miserationibus.",
-          "english": null,
+          "english": "Ant. Osee 2:19. I will espouse thee to Me for ever; and I will espouse thee to Me in justice and judgment, and in mercy and compassion.",
           "sourcePages": [
             450
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              450
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Ora pro nobis, sancta Virgo et Martyr Barbara.",
-          "english": null,
+          "english": "℣. Pray for us, Saint Barbara, virgin and martyr.",
           "sourcePages": [
             450
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              450
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Ut felix nobis sit mortis hora.",
-          "english": null,
+          "english": "℟. That the hour of our death may be blessed.",
           "sourcePages": [
             450
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              450
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0012",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -279,19 +307,27 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0013",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Intercessio, quaesumus, Domine, sanctae virginis et martyris tuae Barbarae nos adjuvet: ut qui ejus patrocinio in angustiis et necessitatibus nostris imploramus, auxilium quoque in hora potissimum mortis experiarmur. Per Dominum nostrum.",
-          "english": null,
+          "english": "May the intercession of Thy holy virgin and martyr Barbara help us, we beseech Thee, O Lord: that we who implore her patronage in our straits and necessities may also experience her help, above all at the hour of death. Through our Lord.",
           "sourcePages": [
             450
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              450
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0014",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "The Latin has irregular “qui ejus patrocinio” and “experiarmur”; the English expresses the apparent request for Saint Barbara’s help, while retaining the printed Latin."
         },
         {
           "type": "prayer",
@@ -312,7 +348,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0015",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -333,7 +369,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0016",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -354,7 +390,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0017",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -375,7 +411,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0018",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -396,7 +432,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0019",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -417,7 +453,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0020",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -448,7 +484,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -469,7 +505,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -490,7 +526,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -511,31 +547,45 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Tu vincis innocenti Candore lilia, Per prata quae nitenti Stant lacte turgida. Da candido nitore Ut, Virgo, fulgeam, Castoque fac amore Ut purus ardeam.",
-          "english": null,
+          "english": "In innocent whiteness thou surpassest the lilies\nThat stand in the meadows, full of shining milky brightness.\nGrant that I may shine with pure radiance, O Virgin,\nAnd make me burn in chaste love, pure of heart.",
           "sourcePages": [
             450
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              450
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Cant. 8. 7. Aquae multae non potuerunt extinguere charitatem, nec flumina obruent illam.",
-          "english": null,
+          "english": "Ant. Canticles 8:7. Many waters have not been able to extinguish charity, neither shall rivers overwhelm it.",
           "sourcePages": [
             450
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              450
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -556,7 +606,19 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014"
+            ],
+            "sourcePages": [
+              450
+            ],
+            "note": "The repeated versicle, response, and collect are printed in full at Matins."
+          }
         }
       ]
     },
@@ -588,7 +650,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -609,7 +671,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -630,7 +692,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -651,32 +713,47 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Dum proprio cruore Asperas pingeris, Vincis rosas rubore, Quae stant in hortulis. O coelico vireto Plantatae flosculae! Hoc orbis in vepreto, Me, quaeso, respice.",
-          "english": null,
+          "english": "While thou art harshly stained with thine own blood,\nThou surpassest in redness the roses that stand in gardens.\nO little flower planted in a heavenly garden,\nLook upon me, I beseech thee, amid this world’s thorns.",
           "sourcePages": [
             450,
             451
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              450,
+              451
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Sap. 3. 13. Haec est quae nescivit thorum in delicto, habebit fructum in respectu animarum sanctarum.",
-          "english": null,
+          "english": "Ant. Wisdom 3:13. This is she who knew not the bed in sin; she shall have fruit at the visitation of holy souls.",
           "sourcePages": [
             451
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              451
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -697,7 +774,19 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014"
+            ],
+            "sourcePages": [
+              451
+            ],
+            "note": "The repeated versicle, response, and collect are printed in full at Matins."
+          }
         }
       ]
     },
@@ -728,7 +817,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -749,7 +838,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -770,7 +859,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -791,31 +880,45 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ut axe sunt sereno Nocturna sidera, Ut vere sunt amoeno Jucunda flumina; Sic, Virgo, charitatis Es luce fulgida, Sic, Virgo, puritatis Es rore limpida.",
-          "english": null,
+          "english": "As the stars by night are in the clear sky,\nAs pleasant rivers are in lovely spring,\nSo, O Virgin, thou art bright with the light of charity;\nSo, O Virgin, thou art clear with the dew of purity.",
           "sourcePages": [
             451
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              451
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Sap. 4. 1. O quam pulchra est casta generatio cum claritate! immortalis est enim memoria illius; quoniam et apud Deum nota est, et apud homines.",
-          "english": null,
+          "english": "Ant. Wisdom 4:1. O how beautiful is the chaste generation with glory! For its memory is immortal, since it is known both with God and with men.",
           "sourcePages": [
             451
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              451
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -836,7 +939,19 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014"
+            ],
+            "sourcePages": [
+              451
+            ],
+            "note": "The repeated versicle, response, and collect are printed in full at Matins."
+          }
         }
       ]
     },
@@ -867,7 +982,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -888,7 +1003,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -909,7 +1024,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -930,31 +1045,45 @@
           },
           "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Te sentiunt patronam Quos morbus opprimit, Te sublevare pronam Quos cura deserit. Angore cum super me Me morbus opprimit; Succurre, quando nemo Levamen adferet.",
-          "english": null,
+          "english": "Those oppressed by sickness know thee as their patroness;\nThose whom care has abandoned know thee ready to help.\nWhen sickness presses me with anguish,\nCome to my aid when no one will bring relief.",
           "sourcePages": [
             451
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              451
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Eccli. 51. 4. Liberasti me secundum multitudinem misericordiae nominis tui de manibus quaerentium animam meam, et de portis tribulationum, quae circumdederunt me.",
-          "english": null,
+          "english": "Ant. Ecclesiasticus 51:4. Thou hast delivered me according to the abundance of the mercy of Thy name, from the hands of those who sought my life and from the gates of tribulations that surrounded me.",
           "sourcePages": [
             451
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              451
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -975,7 +1104,19 @@
           },
           "alignment": "reviewed",
           "id": "none-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014"
+            ],
+            "sourcePages": [
+              451
+            ],
+            "note": "The repeated versicle, response, and collect are printed in full at Matins."
+          }
         }
       ]
     },
@@ -1006,7 +1147,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1027,7 +1168,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1048,7 +1189,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1069,31 +1210,45 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Cum ferreo sopore Mors membra vinciet, Et tartarus furore Bacchante saeviet: Dum Judicis severi Tribunal horreo, Tum, Virgo, me tuere Ne differ, obsecro.",
-          "english": null,
+          "english": "When death binds my limbs in an iron sleep\nAnd hell rages with furious frenzy;\nWhen I dread the tribunal of the stern Judge,\nThen, O Virgin, protect me; delay not, I beseech thee.",
           "sourcePages": [
             451
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              451
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Matth. 25. 6. Media nocte clamor factus est: Ecce sponsus venit, exite obviam ei.",
-          "english": null,
+          "english": "Ant. Matthew 25:6. At midnight a cry was made: Behold, the bridegroom comes; go forth to meet him.",
           "sourcePages": [
             451
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              451
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1114,7 +1269,19 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014"
+            ],
+            "sourcePages": [
+              451
+            ],
+            "note": "The repeated versicle, response, and collect are printed in full at Matins."
+          }
         }
       ]
     },
@@ -1146,7 +1313,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1167,7 +1334,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1188,7 +1355,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1209,7 +1376,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1230,7 +1397,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1251,32 +1418,48 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Amabo te, sanabo, Dum vita manserit, Magisque praedicabo, Cum vita cessaverit: Interque liliata Cum me receperis, Queis gaudiis repleta, O Virgo, pasceris.",
-          "english": null,
+          "english": "I shall love thee and sing thy praises while life remains,\nAnd proclaim thee still more when life has ceased;\nWhen thou hast received me among the lilies,\nO Virgin, what joys, with which thou art filled, shall nourish thee!",
           "sourcePages": [
             451,
             452
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              451,
+              452
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints “sanabo”, meaning “I shall heal”. The provisional English understands an apparent intended “canabo”, “I shall sing”; the printed Latin remains unchanged."
         },
         {
           "type": "prayer",
           "source": "Ant. Cant. 2. 11, 13. Jam hiems transiit, imber abiit et recessit: Surge, amica mea, speciosa mea, et veni.",
-          "english": null,
+          "english": "Ant. Canticles 2:11,13. Now winter has passed, the rain has gone and departed: arise, my friend, my fair one, and come.",
           "sourcePages": [
             452
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              452
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1297,7 +1480,19 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014"
+            ],
+            "sourcePages": [
+              452
+            ],
+            "note": "The repeated versicle, response, and collect are printed in full at Matins."
+          }
         }
       ]
     },
@@ -1312,18 +1507,35 @@
         {
           "type": "prayer",
           "source": "Admitte nostra vota, O sancta Barbara, Profectam mente tota, Patrona maxima: Exoptote te videre, Cum cesso vivere; Tunc, oro, me tuere, Coeloque suscipe. Amen.",
-          "english": null,
+          "english": "Receive our vows, O Saint Barbara,\nOffered with our whole mind, O mighty patroness.\nI long to see thee when I cease to live;\nThen, I pray, protect me and receive me into heaven. Amen.",
           "sourcePages": [
             452
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              452
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "oblatio-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     }
   ],
   "unpairedEnglish": [],
-  "translationScope": "marked"
+  "translationScope": "marked",
+  "editorialNotes": [
+    {
+      "text": "All three pages were visually compared. Prepared hymn, antiphon, and collect translations retain the source text. Repeated versicle and collect references expand from this office’s Matins. The seasonal rubric’s supplied English from elsewhere in the PDF says Lent while the Latin says Septuagesima; that difference is noted. One hymn word has explicitly provisional English.",
+      "pages": [
+        450,
+        451,
+        452
+      ]
+    }
+  ]
 }

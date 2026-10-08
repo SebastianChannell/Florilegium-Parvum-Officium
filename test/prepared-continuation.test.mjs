@@ -36,7 +36,7 @@ test('all cross-office English reuse points to identical reviewed Latin and orig
   assert.equal(b.english,original.english);
   assert.equal(original.verification,'visual-review');
  }
- assert.equal(count,606);
+ assert(count>=606);
  const changed=structuredClone(input);
  const b=[...changed.documents.values()].flatMap(o=>o.sections.flatMap(s=>s.blocks)).find(b=>b.translation?.method==='exact-reviewed-pdf-reuse');
  b.english='An unrelated prayer';

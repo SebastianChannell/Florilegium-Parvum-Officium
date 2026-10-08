@@ -4,6 +4,29 @@ import { execFileSync } from 'node:child_process';
 import { sectionBlocks } from '../public/reader-model.js';
 import { readContent, validateContent } from '../scripts/validate-content.mjs';
 
+test('reviewed PDF reuse carries source notes and differing seasonal terminology',()=>{
+ const output=execFileSync('python3',['-c',`
+import importlib.util,json,tempfile,pathlib
+spec=importlib.util.spec_from_file_location('reuse','scripts/editorial/reuse_reviewed_english.py')
+m=importlib.util.module_from_spec(spec);spec.loader.exec_module(m)
+with tempfile.TemporaryDirectory() as t:
+ r=pathlib.Path(t)
+ for p in ['content/offices','content/overrides']:(r/p).mkdir(parents=True)
+ b={'id':'a','source':'A Septuagesima.','english':'From Lent.','sourcePages':[1],'englishPages':[2],'verification':'visual-review','alignment':'reviewed','translation':{'kind':'supplied','sourcePages':[2]},'editorialNote':'The printed English differs.'}
+ source={'id':'source','sourceLanguage':'Latin','status':{'translation':'complete'},'sections':[{'blocks':[b]}]}
+ target={'id':'target','sourceLanguage':'Latin','status':{'translation':'incomplete'},'sections':[{'blocks':[{'id':'b','source':b['source'],'english':None,'sourcePages':[3],'verification':'pending'}]}]}
+ for d in [source,target]:(r/'content/offices'/(d['id']+'.json')).write_text(json.dumps(d))
+ assert m.apply(r)==1
+ row=json.loads((r/'content/overrides/target.json').read_text())['sections'][0]['blocks'][0]
+ assert 'The printed English differs.' in row['editorialNote']
+ assert 'Latin says Septuagesima; the supplied English says Lent' in row['editorialNote']
+ assert row['english']=='From Lent.' and row['verification']=='pending'
+ assert m.apply(r)==0
+ print('notes preserved')
+`],{encoding:'utf8'});
+ assert.match(output,/notes preserved/);
+});
+
 test('exact translation memory protects supplied English, variant spellings, and review status', () => {
   const output = execFileSync('python3', ['-c', `
 import importlib.util,json,tempfile,pathlib

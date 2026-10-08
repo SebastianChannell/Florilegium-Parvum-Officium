@@ -37,6 +37,10 @@ def apply(root=ROOT):
                 if kind=='supplied':b['englishPages']=original.get('englishPages',original['translation']['sourcePages'])
                 else:b['translation'].update({'preparedFor':'Sacrum Florilegium','review':'editorial-review-complete'})
                 b['alignment']='reviewed';b['editorialNote']='English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review.'
+                if original.get('editorialNote'):
+                    b['editorialNote']+=' Original printed-text note: '+original['editorialNote']
+                if 'Septuagesima' in b['source'] and 'Lent' in b['english'] and 'Septuagesima' not in b['english']:
+                    b['editorialNote']+=' The original Latin says Septuagesima; the supplied English says Lent. These differing printed terms are retained.'
                 changed=True;applied+=1
         if changed:
             blocks=[b for s in doc['sections'] for b in s['blocks']]

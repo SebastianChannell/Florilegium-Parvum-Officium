@@ -44,14 +44,25 @@
         {
           "type": "prayer",
           "source": "℣. Domine, labia mea aperies,",
-          "english": null,
+          "english": "℣. O Lord, open my lips,",
           "sourcePages": [
             516
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-s-aloysius-gonzaga-of-the-society-of-jesus",
+            "reusedFrom": "matins-b0001",
+            "sourcePages": [
+              516
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",

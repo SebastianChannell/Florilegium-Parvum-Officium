@@ -28,9 +28,9 @@
   ],
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
-    "extraction": "candidate",
-    "translation": "incomplete",
-    "verification": "pending"
+    "extraction": "reviewed",
+    "translation": "complete-prepared",
+    "verification": "source-reading-pending"
   },
   "sections": [
     {
@@ -44,14 +44,21 @@
         {
           "type": "prayer",
           "source": "Momentaneum et leve tribulationis nostrae supra modum in sublimitate aeternum gloriae pondus operatur in nobis.",
-          "english": null,
+          "english": "Our momentary and light tribulation worketh in us, beyond measure, an eternal weight of glory on high.",
           "sourcePages": [
             545
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              545
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -72,19 +79,26 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Et os meum annuntiabit laudem tuam. Gloria Patri, et Filio, et Spiritui Sancto, Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "℟. And my mouth shall proclaim Thy praise. Glory be to the Father, and to the Son, and to the Holy Spirit; as it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             545
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              545
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -105,43 +119,64 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Fortes avete milites, Quorum cruore Japonens, Et purpurascit inclytae Ager ferax Ecclesiae.",
-          "english": null,
+          "english": "Hail, brave soldiers, by whose blood the fertile Japanese field of the renowned Church is crimsoned.",
           "sourcePages": [
             545
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              545
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Vestro hunc rigate sanguine, Terramque cordis aridam. Fecunda fructus proferat, Quos horreis caeli inferat.",
-          "english": null,
+          "english": "Water it with your blood, and the dry earth of our heart. May it, made fruitful, bring forth fruits to gather into heaven’s storehouses.",
           "sourcePages": [
             545
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              545
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Antiphona Justorum animae in manu Dei sunt, et non tanget illos tormentum malitiae: visi sunt oculis insipientium mori: illi autem sunt in pace.",
-          "english": null,
+          "english": "Antiphon. The souls of the righteous are in the hand of God, and the torment of wickedness shall not touch them. In the eyes of the foolish they seemed to die, but they are in peace.",
           "sourcePages": [
             545
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              545
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -162,7 +197,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -183,7 +218,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -204,19 +239,27 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Deus, qui Beatos Martyres tuos Joannem, Paulum, et Jacobum Martyrio gloria decorasti: Concede, quaesumus, ut, quorum gloria coronam in caelis veneramur, eorum fortitudinis exemplum et passionis constantiam imitemur in terris. Per Dominum nostrum, etc.",
-          "english": null,
+          "english": "O God, who hast adorned Thy blessed martyrs John, Paul, and James with the glory of martyrdom, grant, we beseech Thee, that we who venerate their crown of glory in heaven may imitate upon earth their example of courage and steadfastness in suffering. Through our Lord, etc.",
           "sourcePages": [
             545
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              545
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints irregular case endings in “Martyrio gloria” and “quorum gloria coronam.” The prepared English provisionally renders the intended crown and glory of martyrdom; the printed Latin is retained."
         }
       ]
     },
@@ -247,7 +290,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -268,7 +311,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -289,31 +332,45 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O lata animos viscera; O caritatis pectora! Quae non tyranni vincula Stringere valent, aut verbera.",
-          "english": null,
+          "english": "O hearts wide with courage! O breasts filled with charity, which neither a tyrant’s chains nor his scourges can constrain!",
           "sourcePages": [
             545
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              545
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Per vestra solvi vincula Nexus rogamus criminum, Mens ut beatis libera Caeli fruatur sedibus.",
-          "english": null,
+          "english": "Through your chains we ask that the bonds of our sins be loosed, so that the mind, set free, may enjoy the blessed dwellings of heaven.",
           "sourcePages": [
             545
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              545
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -334,7 +391,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -355,7 +412,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -387,7 +444,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -408,7 +465,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -429,32 +486,47 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ad carceres, ad judices Laeti trahuntur Martyres, In vinculis, in carcere Deum fatentur jugiter.",
-          "english": null,
+          "english": "Joyfully the martyrs are dragged to prison and before judges. In chains and in prison they confess God unceasingly.",
           "sourcePages": [
             545
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              545
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Confessione supplices Vestra precamur, Martyres, Numen, quod ore credimus, Nostris feramus moribus.",
-          "english": null,
+          "english": "Through your confession, O martyrs, we humbly pray that we may bear in our conduct the God whom we profess with our lips.",
           "sourcePages": [
             545,
             546
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              545,
+              546
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -475,7 +547,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -496,7 +568,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -527,7 +599,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -548,7 +620,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -569,31 +641,45 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Fame premuntur viscera, Sitique fauces asperae, Caeli tamen mens gaudiis Solatiisque pascitur.",
-          "english": null,
+          "english": "Hunger oppresses their bodies and thirst makes their throats harsh; yet their minds are nourished by the joys and consolations of heaven.",
           "sourcePages": [
             546
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              546
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Sitim, famemque pellite, Manna supremum promite, Vitae perennis rivulos Desideratos fundite.",
-          "english": null,
+          "english": "Drive away thirst and hunger; bring forth the manna from on high; pour out the longed-for streams of everlasting life.",
           "sourcePages": [
             546
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              546
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -614,7 +700,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -635,7 +721,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -666,7 +752,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -687,7 +773,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -708,31 +794,45 @@
           },
           "alignment": "reviewed",
           "id": "none-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Nares et aures impie Tibi Tyranne tollito, Mens verba Sponsi percipiat, Melosque gratum personet.",
-          "english": null,
+          "english": "Wickedly take away noses and ears, O tyrant; let the mind hear the Bridegroom’s words and sound a pleasing song.",
           "sourcePages": [
             546
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              546
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Vitae relictis gaudiis, Christo vocanti optemperat: Mundus vilescit, desipit, Christusque solus perplacet.",
-          "english": null,
+          "english": "Leaving the joys of life behind, it obeys Christ who calls. The world grows worthless and foolish; Christ alone is wholly pleasing.",
           "sourcePages": [
             546
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              546
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -753,7 +853,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -774,7 +874,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -805,7 +905,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -826,7 +926,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -847,31 +947,46 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Gratam Deo se victimam In stipite crucis consecrant, Ut veriores asseclae Christi sui sint Principis.",
-          "english": null,
+          "english": "Upon the wood of the cross they consecrate themselves as a victim pleasing to God, that they may be truer followers of Christ their Prince.",
           "sourcePages": [
             546
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              546
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Nobis superno a Numine Constantiam depositae, Crucem ut feramus alacriter Ad usque finem fortiter.",
-          "english": null,
+          "english": "Ask steadfastness for us from God on high, that we may bear the cross cheerfully and bravely unto the end.",
           "sourcePages": [
             546
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              546
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints “depositae,” where the context calls for a petition to ask steadfastness. The prepared English provisionally gives “ask”; the printed Latin remains for editorial resolution."
         },
         {
           "type": "prayer",
@@ -892,7 +1007,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -913,7 +1028,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -945,7 +1060,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -966,7 +1081,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -987,19 +1102,26 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Domine ad adjuvandum me festina. Gloria Patri, et Filio, et Spiritui Sancto, Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.",
-          "english": null,
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, and to the Son, and to the Holy Spirit; as it was in the beginning, is now, and ever shall be, world without end.",
           "sourcePages": [
             546
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              546
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1020,7 +1142,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1041,31 +1163,45 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O gloriosi Martyres! Vestrum polorum Principi Cruore fuso spiritum Qui reddidistis ultimum,",
-          "english": null,
+          "english": "O glorious martyrs, who, your blood poured forth, gave up your last breath to the Prince of heaven,",
           "sourcePages": [
             547
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              547
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Cor nostrum amoris spiculo Offerte Christo saucium, In spiritu vitae ultimo Opemque nobis mittite.",
-          "english": null,
+          "english": "Offer to Christ our heart wounded by the dart of love, and send us help at life’s last breath.",
           "sourcePages": [
             547
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              547
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1086,7 +1222,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1107,7 +1243,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -1122,38 +1258,59 @@
         {
           "type": "prayer",
           "source": "Hoc gratulamur carmine Vobis triumphum Martyres; Et purpuratam sanguine Vobis favemus lauream.",
-          "english": null,
+          "english": "With this song we congratulate you upon your triumph, O martyrs, and acclaim your laurel crimsoned with blood.",
           "sourcePages": [
             547
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              547
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Vitae peracto termino, Vestro, et omniumque Coelitum Ut perfrui consortio Nobis liceat in saecula. Amen.",
-          "english": null,
+          "english": "When the course of life is ended, may we be permitted to enjoy your fellowship and that of all heaven’s citizens for ever. Amen.",
           "sourcePages": [
             547
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              547
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Orate pro nobis, beati Martyres.",
-          "english": null,
+          "english": "℣. Pray for us, blessed martyrs.",
           "sourcePages": [
             547
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              547
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1174,22 +1331,40 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Oremus, Omnipotens aeterne Deus, qui servis tuis Paulo, Joanni, et Jacobo in Societatem Filii tui vocatis, Apostolicum studium in Gentium conversionem et Haereticorum reductionem inspirasti; ideoque Martyrii gloria decorasti: concede propitius, ut ipsis, et Passionis Sociis in hoc mundo et consolationis deinde in aeterna beatitudine esse mereamur. Per Dominum nostrum Jesum Christum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum. Amen.",
-          "english": null,
+          "english": "Let us pray. Almighty and eternal God, who didst inspire Thy servants Paul, John, and James, called into the Society of Thy Son, with apostolic zeal for the conversion of the nations and the return of heretics, and therefore adorn them with the glory of martyrdom, mercifully grant that we may be found worthy to share their suffering in this world and their consolation thereafter in everlasting blessedness. Through Jesus Christ our Lord, who liveth and reigneth with Thee in the unity of the Holy Spirit, God, for ever and ever. Amen.",
           "sourcePages": [
             547
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              547
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF’s “ipsis, et Passionis Sociis ... et consolationis” construction is irregular. The prepared English provisionally renders fellowship in their suffering and consolation; the printed Latin is retained."
         }
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "editorialNotes": [
+    {
+      "text": "English prepared after visual comparison with PDF pages 545–547. All seven printed hours and the Commendation are retained; no Lauds or unprinted repeated collects are added. Irregular printed case endings and one hymn verb are identified inline and keep source review pending.",
+      "pages": [
+        545,
+        546,
+        547
+      ]
+    }
+  ]
 }

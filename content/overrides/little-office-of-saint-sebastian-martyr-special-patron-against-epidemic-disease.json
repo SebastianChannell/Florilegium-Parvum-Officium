@@ -28,9 +28,9 @@
   ],
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
-    "extraction": "candidate",
-    "translation": "incomplete",
-    "verification": "pending"
+    "extraction": "reviewed",
+    "translation": "complete-prepared",
+    "verification": "source-reading-pending"
   },
   "sections": [
     {
@@ -60,7 +60,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -81,7 +81,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -102,7 +102,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -123,7 +123,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -144,7 +144,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -165,55 +165,83 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O Sebastiane Gemma! Quem et virtus, quem et stemma Luce ornant pariili, Te Caesarei favores, Te commendat formae flores, Te acumen animi, Sed quod magis te honorat, Est, Cor tuum quod decorat Amor Christi flammeus: Is, ut corde hunc celiabis, Quo afflictos plus curabis, Tandem fiet publicus.",
-          "english": null,
+          "english": "O Sebastian, precious gem! Virtue and lineage adorn thee with equal light.\nImperial favour, the flower of thy beauty, and the keenness of thy mind commend thee.\nBut what honours thee more is the burning love of Christ that adorns thy heart.\nThough thou concealest Him in thy heart so as to care more for the afflicted,\nAt length that love shall become public.",
           "sourcePages": [
             590
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              590
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Cibavit illum pane vitae et intellectus, et aqua sapientiae salutaris potavit illum Dominus.",
-          "english": null,
+          "english": "Ant. The Lord fed him with the bread of life and understanding, and gave him to drink the water of saving wisdom.",
           "sourcePages": [
             590
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              590
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Gloria et honore coronasti eum Domine.",
-          "english": null,
+          "english": "℣. Thou hast crowned him with glory and honour, O Lord.",
           "sourcePages": [
             590
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              590
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Et constituisti eum super opera manuum tuarum.",
-          "english": null,
+          "english": "℟. And hast set him over the works of Thy hands.",
           "sourcePages": [
             590
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              590
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -234,19 +262,27 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Beati Sebastiani Martyris tui, quaesumus, Domine, intercessione nos adjuva, et ab omni peste mala tuam animam et corpus tuos praeserva, quo meritis ejus et precibus, tuam in praesentia gratiam et in futuro gloriam consequamur aeternam. Per Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit",
-          "english": null,
+          "english": "Help us, we beseech Thee, O Lord, by the intercession of Thy blessed martyr Sebastian, and preserve our soul and body from every evil pestilence, that by his merits and prayers we may obtain Thy grace in the present and eternal glory in the future. Through our Lord Jesus Christ, Thy Son, who liveth with Thee",
           "sourcePages": [
             590
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              590
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0012",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed prayer has malformed “tuam animam et corpus tuos”. The provisional English understands preservation of our soul and body; the original Latin and its abbreviated conclusion are retained."
         },
         {
           "type": "rubric",
@@ -267,7 +303,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0013",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -288,7 +324,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0014",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -319,7 +355,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -340,7 +376,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -361,7 +397,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -382,31 +418,45 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ecquid, inquis, ut confortem, Juvat, alios ad mortem Ducam et ad lauream? Ni et ipse hanc coronam Tandem capiti imponam Meo Martyr auream; Marcus et Marcellianus Hinc dum vincla tenent manus, Plorat dum familia, Ades Heros et mutantes, Inter milites adstantes Suada firmas aenea.",
-          "english": null,
+          "english": "“What use is it,” thou sayest, “to strengthen others,\nTo lead them to death and the laurel crown,\nUnless I too, a martyr, at last place that golden crown upon my head?”\nThus, while Marcus and Marcellianus have their hands in bonds and their family weeps,\nThou comest, O hero, and amid the attending soldiers\nDost confirm the wavering with steadfast persuasion.",
           "sourcePages": [
             590
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              590
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Confortabo domum Juda, et domum Joseph, et convertam eos, et erunt quasi fortes Ephraim.",
-          "english": null,
+          "english": "Ant. I will strengthen the house of Juda and the house of Joseph, and I will bring them back, and they shall be as the mighty men of Ephraim.",
           "sourcePages": [
             590
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              590
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -427,7 +477,21 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0009",
+              "matins-b0010",
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014"
+            ],
+            "sourcePages": [
+              590
+            ],
+            "note": "The repeated versicle, response, and prayer refer to the complete Matins text, including the printed abbreviated ending."
+          }
         }
       ]
     },
@@ -459,7 +523,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -480,7 +544,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -501,7 +565,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -522,32 +586,48 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Haec dum agis, a splendore Heres spatium per horae Totus circumjiceris, Septem Angelis stipatus, Veste nivea donatus, Quod sis, et praediceris, Omni aevo perstaturus, Cumque Christo permansurus; Quae dum spectant, audiunt, Et Nicostratus miratur, Jamque uxor muta fatur, Ambo Christum induunt!",
-          "english": null,
+          "english": "While thou dost these things, O hero, for the space of an hour\nThou art wholly surrounded with splendour, attended by seven Angels, clothed in snowy raiment;\nAnd it is foretold that thou shalt endure through every age and remain with Christ.\nWhile they behold and hear these things, Nicostratus marvels,\nAnd now his mute wife speaks: both put on Christ!",
           "sourcePages": [
             590,
             591
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              590,
+              591
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The source prints “Heres” in an irregular line. The provisional English understands an address to the hero and a period of an hour; the printed reading is retained."
         },
         {
           "type": "prayer",
           "source": "Ant. Posuit in eis verba signorum suorum: et prodigiorum in terra Cham.",
-          "english": null,
+          "english": "Ant. He placed among them the words of His signs and wonders in the land of Cham.",
           "sourcePages": [
             591
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              591
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -568,7 +648,21 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0009",
+              "matins-b0010",
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014"
+            ],
+            "sourcePages": [
+              591
+            ],
+            "note": "The repeated versicle, response, and prayer refer to the complete Matins text, including the printed abbreviated ending."
+          }
         }
       ]
     },
@@ -599,7 +693,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -620,7 +714,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -641,7 +735,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -662,43 +756,64 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Mille quadringenti sacro Post mundati sunt Lavacro Viri atque feminae: Sed res ista haud celata, Quin ad aulam fuit delata, Potuit perstistere;",
-          "english": null,
+          "english": "Afterwards, fourteen hundred men and women were cleansed in the sacred laver.\nBut this deed could not remain hidden; it was reported at the court.",
           "sourcePages": [
             591
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              591
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Hinc dum Caesar haec rescisit, Et quis Ductor sit, audivit, Ira tumens rabida, Huc Sebastianum dari Vinctum jubet, et raptari Ante tribunalai,",
-          "english": null,
+          "english": "Thus, when Caesar learned these things and heard who their leader was,\nSwelling with raging anger, he commanded Sebastian to be brought bound\nAnd dragged before the tribunal.",
           "sourcePages": [
             591
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              591
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Loquebar de testimoniis tuis in conspectu Regum, et non confundebar.",
-          "english": null,
+          "english": "Ant. I spoke of Thy testimonies in the sight of kings, and was not confounded.",
           "sourcePages": [
             591
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              591
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -719,7 +834,21 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0008",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0009",
+              "matins-b0010",
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014"
+            ],
+            "sourcePages": [
+              591
+            ],
+            "note": "The repeated versicle, response, and prayer refer to the complete Matins text, including the printed abbreviated ending."
+          }
         }
       ]
     },
@@ -750,7 +879,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -771,7 +900,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -792,7 +921,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -813,31 +942,45 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Jamque ades macte heros! Vultus Caesaris severos Sustinens intrepide, Sed et spernis blandimenta, Quae minantur, et tormenta Divo plenus Numine; Christum vocas, Christum doces; Nihil curans, dum feroces Milites jam praeparant, Jussu Caesaris damnatum Ut ad palum religatum Jaculis confodiAnt.",
-          "english": null,
+          "english": "Now thou art present, O noble hero, fearlessly bearing Caesar’s stern looks.\nFilled with divine power, thou despisest both blandishments and threatened torments.\nThou callest upon Christ, thou teachest Christ, caring nothing\nWhile savage soldiers prepare, at Caesar’s command,\nTo bind thee, condemned, to a stake and pierce thee with darts.",
           "sourcePages": [
             591
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              591
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Posuit me quasi signum ad sagittam: misit in renibus meis filias pharetrae suae.",
-          "english": null,
+          "english": "Ant. He set me as a mark for the arrow; He sent into my reins the daughters of His quiver.",
           "sourcePages": [
             591
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              591
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -858,7 +1001,21 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0009",
+              "matins-b0010",
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014"
+            ],
+            "sourcePages": [
+              591
+            ],
+            "note": "The repeated versicle, response, and prayer refer to the complete Matins text, including the printed abbreviated ending."
+          }
         }
       ]
     },
@@ -890,7 +1047,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -911,7 +1068,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -932,7 +1089,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -953,32 +1110,48 @@
           },
           "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Nec infixit tibi tanta Miles atrox, Christo quanta Tu fixisti spicula: Spicula, sed quae Authore Tibi cusa sunt amore, Folle, Patientiae, Jamque confixum sagittis Ut te mortuum immitis Gens opinans abiiit, En! Irene, dum sacratum Nostru corpus est humatum, Vivum adhuc reperit.",
-          "english": null,
+          "english": "The cruel soldier did not fix so many darts in thee as thou didst fix in Christ:\nDarts forged for thee by love, their maker, with the bellows of patience.\nNow pierced with arrows, thou art thought dead by the pitiless crowd, and they depart.\nBehold, Irene comes to bury thy sacred body and finds thee still alive.",
           "sourcePages": [
             591,
             592
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              591,
+              592
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The source prints “Nostru corpus est humatum”. The provisional English follows the apparent narrative of Irene coming to bury Sebastian’s body, without correcting the Latin."
         },
         {
           "type": "prayer",
           "source": "Ant. Exaltavit me de portis mortis, ut annunciem omnes laudes ejus in portis filiae Sion.",
-          "english": null,
+          "english": "Ant. He raised me from the gates of death, that I might announce all His praises in the gates of the daughter of Sion.",
           "sourcePages": [
             592
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              592
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -999,7 +1172,21 @@
           },
           "alignment": "reviewed",
           "id": "none-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0009",
+              "matins-b0010",
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014"
+            ],
+            "sourcePages": [
+              592
+            ],
+            "note": "The repeated versicle, response, and prayer refer to the complete Matins text, including the printed abbreviated ending."
+          }
         }
       ]
     },
@@ -1030,7 +1217,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1051,7 +1238,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1072,7 +1259,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1093,31 +1280,59 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ab Irene vix curatus Mox Praetorium Senatus Metu procul repetis, Et Tyrannum obviantem Male diis immolantem Generose corripis, Hic stupore mox et ira, Novitate hac ex mira Totus ut excanduit, Te ad mortem virgis tergi, Et cnectum tunc immergi Volutabro praecipit.",
-          "english": null,
+          "english": "Scarcely healed by Irene, thou returnest without fear to the senate’s hall\nAnd nobly rebukest the tyrant whom thou meetest, for his evil sacrifices to the gods.\nAt once, wholly inflamed with astonishment and anger at this marvellous new sight,\nHe commands thee to be beaten with rods to death\nAnd then, slain, cast into a foul pit.",
           "sourcePages": [
             592
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              592
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Tradiderunt me in conciliis, et in synagogis suis flagellaverunt me. Vers. et Oratio ut supra cum seqq.",
-          "english": null,
+          "english": "Ant. They delivered me to councils, and scourged me in their synagogues. Versicle and prayer as above, with what follows.",
           "sourcePages": [
             592
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              592
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0006",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0009",
+              "matins-b0010",
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014"
+            ],
+            "sourcePages": [
+              592
+            ],
+            "note": "The repeated versicle, response, and prayer refer to the complete Matins text, including the printed abbreviated ending."
+          }
         }
       ]
     },
@@ -1148,7 +1363,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1169,7 +1384,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1190,7 +1405,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1211,7 +1426,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1232,7 +1447,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1253,31 +1468,46 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Sed Tyranne vah! infane, En! Lucina summo mane Dio docta Morpheo Adest, corpus est sacratus Ex palude jam levatum, Divi parens monito, Ad sanctorum Catacumbas Gloriosas inter tumbas Pia manu collocat, Dehinc in honorem ibi O Sebastiane tibi Templum et aedificat.",
-          "english": null,
+          "english": "But, alas, mad tyrant! Behold, Lucina comes at early dawn,\nDivinely instructed by Morpheus. Obeying the holy one’s warning,\nShe lifts the sacred body from the mire and with loving hands\nLays it among the glorious tombs in the catacombs of the saints.\nAfterwards she builds a church there in thine honour, O Sebastian.",
           "sourcePages": [
             592
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              592
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "The hymn uses Morpheus, the classical personification of dreams; that name is translated literally and is not added historical material."
         },
         {
           "type": "prayer",
           "source": "Ant. Corpus ipsius in pace sepultum est, et nomen ejus vivet in generationem et generationem.",
-          "english": null,
+          "english": "Ant. His body is buried in peace, and his name shall live from generation to generation.",
           "sourcePages": [
             592
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              592
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1298,7 +1528,21 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0009",
+              "matins-b0010",
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014"
+            ],
+            "sourcePages": [
+              592
+            ],
+            "note": "The repeated versicle, response, and prayer refer to the complete Matins text, including the printed abbreviated ending."
+          }
         }
       ]
     },
@@ -1314,38 +1558,59 @@
         {
           "type": "prayer",
           "source": "Preces has, quas recitavi, Magnae Martyr dedicavi Tuo supplex Nomini, Ut misello, peccatorum Contra lues et morborum Des medelam homini; Fuga pestem, mentem quaeque Corpus vel corrumpit aeque, Plagas pelle noxias. Solo Jesu sauciatis Ut amore, cum beatis Perpes detur sanitas!",
-          "english": null,
+          "english": "These prayers which I have recited I have humbly dedicated to thy name, O great martyr,\nThat thou mayest give this wretched man a remedy against the plagues of sins and sickness.\nDrive away the pestilence that corrupts mind or body alike; repel harmful scourges.\nMay those wounded only with love of Jesus be granted everlasting health with the blessed!",
           "sourcePages": [
             592
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              592
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. In die illa, qui stat in signum populorum, ipsum Gentes deprecabuntur.",
-          "english": null,
+          "english": "Ant. In that day the nations shall entreat Him who stands as a sign for the peoples.",
           "sourcePages": [
             592
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              592
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Ora pro nobis B. Martyr Sebastiane.",
-          "english": null,
+          "english": "℣. Pray for us, blessed martyr Sebastian.",
           "sourcePages": [
             592
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              592
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1366,23 +1631,42 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Oremus, Deus, qui B. Sebastianum Martyrem tuum in tua fide, et dilectione tam ardenter solidasti, ut nullis carnalibus blandimentis, nullis Tyrannorum minis, nullisque carnificum plagis aut sagittis a tua cultura potuerit revocari; da nobis miseris peccatoribus, dignis ejus meritis, et intercessionibus in tribulatione auxilium, in persecutione solatium, et in omni tempore contra morbum Epidimiae praesens remedium: quatenus contra omnes diabolicas insidias viriliter dimicare discamus, mundum et ea quae in mundo sunt, despicere, nullaque ejus adversa formidare, sed a te, quae te inspirante desideramus, dona et feliciter consequi mereamur. Per Dominum nostrum Jesum Christum etc.",
-          "english": null,
+          "english": "Let us pray. O God, who didst so ardently establish Thy blessed martyr Sebastian in Thy faith and love that no carnal blandishments, threats of tyrants, blows or arrows of executioners could turn him from Thy worship: grant us miserable sinners, through his worthy merits and intercessions, help in tribulation, consolation in persecution, and at all times a present remedy against epidemic disease; that we may learn to fight courageously against all the snares of the devil, despise the world and the things in it, fear none of its adversities, and happily attain from Thee the gifts which by Thy inspiration we desire. Through our Lord Jesus Christ, etc.",
           "sourcePages": [
             592,
             593
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              592,
+              593
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "editorialNotes": [
+    {
+      "text": "All four pages were visually compared. The eight actual hours and separate Commendation remain. The narrative hymns, antiphons, and prayers have prepared English; recurring references display this office’s Matins prayers. Malformed source phrases are retained and explicitly provisional. No biography or prayer from another edition is substituted.",
+      "pages": [
+        590,
+        591,
+        592,
+        593
+      ]
+    }
+  ]
 }

@@ -1316,26 +1316,48 @@
         {
           "type": "prayer",
           "source": "℣. In omnem terram exivit sonus eorum.",
-          "english": null,
+          "english": "℣. Their sound hath gone forth into all the earth,",
           "sourcePages": [
             365
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-s-ignatius-founder-of-the-society-of-jesus-and-s-francis-xavier-apostle-of-the-indies",
+            "reusedFrom": "matins-b0012",
+            "sourcePages": [
+              365
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0083",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
           "source": "℟. Et in fines orbis terrae verba eorum.",
-          "english": null,
+          "english": "℟. And their words unto the ends of the world.",
           "sourcePages": [
             365
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-s-ignatius-founder-of-the-society-of-jesus-and-s-francis-xavier-apostle-of-the-indies",
+            "reusedFrom": "matins-b0013",
+            "sourcePages": [
+              365
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0084",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "rubric",
@@ -2713,7 +2735,7 @@
           "englishPages": [
             105
           ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review. Note on the original printed translation: The PDF prints “Domine, labia ✠ea aperies,” with an incomplete Latin word. The printed source and its supplied English are retained."
         },
         {
           "type": "prayer",
@@ -2886,14 +2908,25 @@
         {
           "type": "prayer",
           "source": "Quem terra, pontus, aethera Colunt, adorant, praedicant, Trinam regentem machinam, Claustrum Mariae bajulat.",
-          "english": null,
+          "english": "He whom earth, sea, and heaven worship, adore, and proclaim, who rules the threefold universe, is borne within Mary’s womb.",
           "sourcePages": [
             369
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "matins-b0017",
+            "sourcePages": [
+              369
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0013",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
