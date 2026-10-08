@@ -621,14 +621,14 @@
         }
       ],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "supplied",
+        "verification": "visual-review"
       },
       "coverage": {
-        "blocks": 135,
-        "missingEnglish": 93,
-        "unpairedEnglishBlocks": 90,
+        "blocks": 131,
+        "missingEnglish": 0,
+        "unpairedEnglishBlocks": 0,
         "preparedEnglish": 0
       }
     },
@@ -11246,7 +11246,8 @@
           "pages": [
             453,
             454,
-            455
+            455,
+            456
           ]
         },
         {
@@ -11256,7 +11257,8 @@
             455,
             456,
             457,
-            458
+            458,
+            459
           ]
         },
         {
@@ -11265,7 +11267,8 @@
           "pages": [
             458,
             459,
-            460
+            460,
+            461
           ]
         },
         {
@@ -11282,7 +11285,8 @@
           "title": "Sext",
           "pages": [
             462,
-            463
+            463,
+            464
           ]
         },
         {
@@ -11301,7 +11305,8 @@
             465,
             466,
             467,
-            468
+            468,
+            469
           ]
         },
         {
@@ -11310,7 +11315,8 @@
           "pages": [
             468,
             469,
-            470
+            470,
+            471
           ]
         }
       ],
@@ -11507,14 +11513,14 @@
         }
       ],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "supplied",
+        "verification": "visual-review"
       },
       "coverage": {
-        "blocks": 276,
-        "missingEnglish": 276,
-        "unpairedEnglishBlocks": 266,
+        "blocks": 253,
+        "missingEnglish": 0,
+        "unpairedEnglishBlocks": 0,
         "preparedEnglish": 0
       }
     },
@@ -17074,7 +17080,8 @@
             616,
             617,
             618,
-            619
+            619,
+            620
           ]
         },
         {
@@ -17102,7 +17109,8 @@
           "title": "Sext",
           "pages": [
             625,
-            626
+            626,
+            627
           ]
         },
         {
@@ -17183,15 +17191,15 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-mixed",
+        "verification": "visual-review"
       },
       "coverage": {
-        "blocks": 259,
-        "missingEnglish": 259,
-        "unpairedEnglishBlocks": 257,
-        "preparedEnglish": 0
+        "blocks": 253,
+        "missingEnglish": 0,
+        "unpairedEnglishBlocks": 0,
+        "preparedEnglish": 1
       }
     },
     {

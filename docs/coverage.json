@@ -7,18 +7,6 @@
       "message": "Office awaits visual source review."
     },
     {
-      "office": "little-office-of-the-holy-name-of-god",
-      "message": "93 source passages lack aligned English."
-    },
-    {
-      "office": "little-office-of-the-holy-name-of-god",
-      "message": "90 supplied English passages await pairing."
-    },
-    {
-      "office": "little-office-of-the-holy-name-of-god",
-      "message": "Office awaits visual source review."
-    },
-    {
       "office": "little-office-of-the-most-holy-name-of-jesus",
       "message": "53 source passages lack aligned English."
     },
@@ -283,18 +271,6 @@
       "message": "Office awaits visual source review."
     },
     {
-      "office": "little-office-of-s-benedict",
-      "message": "276 source passages lack aligned English."
-    },
-    {
-      "office": "little-office-of-s-benedict",
-      "message": "266 supplied English passages await pairing."
-    },
-    {
-      "office": "little-office-of-s-benedict",
-      "message": "Office awaits visual source review."
-    },
-    {
       "office": "little-office-of-s-bruno-founder-of-the-carthusian-order",
       "message": "21 source passages lack aligned English."
     },
@@ -532,18 +508,6 @@
     },
     {
       "office": "little-office-of-the-dead",
-      "message": "Office awaits visual source review."
-    },
-    {
-      "office": "little-office-for-benedictine-oblates",
-      "message": "259 source passages lack aligned English."
-    },
-    {
-      "office": "little-office-for-benedictine-oblates",
-      "message": "257 supplied English passages await pairing."
-    },
-    {
-      "office": "little-office-for-benedictine-oblates",
       "message": "Office awaits visual source review."
     },
     {
@@ -972,41 +936,6 @@
     {
       "office": "little-office-of-s-barbara-virgin-and-martyr-for-the-purpose-of-asking-for-a-blessed-death",
       "block": "compline-b0009",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-benedict",
-      "block": "matins-b0002",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-benedict",
-      "block": "lauds-b0002",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-benedict",
-      "block": "prime-b0002",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-benedict",
-      "block": "terce-b0002",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-benedict",
-      "block": "sext-b0002",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-benedict",
-      "block": "none-b0002",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-benedict",
-      "block": "compline-b0011",
       "message": "Internal source reference awaits resolution."
     },
     {
@@ -1623,14 +1552,14 @@
   "totals": {
     "offices": 82,
     "sections": 686,
-    "blocks": 11381,
-    "missingEnglish": 6579,
-    "preparedEnglish": 3450,
-    "unpairedEnglish": 1564,
-    "reviewedOffices": 5,
+    "blocks": 11348,
+    "missingEnglish": 5951,
+    "preparedEnglish": 3451,
+    "unpairedEnglish": 951,
+    "reviewedOffices": 8,
     "englishOnly": 8,
     "latinOnly": 62,
     "suppliedBilingual": 12,
-    "unresolvedReferences": 209
+    "unresolvedReferences": 202
   }
 }
