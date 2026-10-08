@@ -53,14 +53,26 @@
         {
           "type": "rubric",
           "source": "Incipit",
-          "english": null,
+          "english": "Here begins the office.",
           "sourcePages": [
             641
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "ordo-quiete-ante-lectulo-according-to-the-mozarabic-rite",
+            "reusedFrom": "opening-prayers-b0001",
+            "sourcePages": [
+              641
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "ordo-ad-medium-noctis-b0001",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -483,14 +495,26 @@
         {
           "type": "rubric",
           "source": "Credo, Versus, Kyrie, et Pater",
-          "english": null,
+          "english": "Creed, Versicle, Kyrie, and Our Father",
           "sourcePages": [
             642
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "ordo-quiete-ante-lectulo-according-to-the-mozarabic-rite",
+            "reusedFrom": "opening-prayers-b0026",
+            "sourcePages": [
+              642
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "ordo-ad-medium-noctis-b0028",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -603,14 +627,26 @@
         {
           "type": "prayer",
           "source": "℣. Pater noster, qui es in caelis.",
-          "english": null,
+          "english": "℣. Our Father, who art in heaven,",
           "sourcePages": [
             642
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "ordo-quiete-ante-lectulo-according-to-the-mozarabic-rite",
+            "reusedFrom": "opening-prayers-b0032",
+            "sourcePages": [
+              642
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "ordo-ad-medium-noctis-b0035",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -636,14 +672,26 @@
         {
           "type": "prayer",
           "source": "℣. Sanctificetur nomen tuum.",
-          "english": null,
+          "english": "℣. Hallowed be Thy name.",
           "sourcePages": [
             642
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "ordo-quiete-ante-lectulo-according-to-the-mozarabic-rite",
+            "reusedFrom": "opening-prayers-b0034",
+            "sourcePages": [
+              642
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "ordo-ad-medium-noctis-b0037",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -669,14 +717,26 @@
         {
           "type": "prayer",
           "source": "℣. Adveniat regnum tuum.",
-          "english": null,
+          "english": "℣. Thy kingdom come.",
           "sourcePages": [
             642
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "ordo-quiete-ante-lectulo-according-to-the-mozarabic-rite",
+            "reusedFrom": "opening-prayers-b0036",
+            "sourcePages": [
+              642
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "ordo-ad-medium-noctis-b0039",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -702,14 +762,26 @@
         {
           "type": "prayer",
           "source": "℣. Fiat voluntas tua, sicut in caelo, et in terra.",
-          "english": null,
+          "english": "℣. Thy will be done on earth as it is in heaven.",
           "sourcePages": [
             642
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "ordo-quiete-ante-lectulo-according-to-the-mozarabic-rite",
+            "reusedFrom": "opening-prayers-b0038",
+            "sourcePages": [
+              642
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "ordo-ad-medium-noctis-b0041",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -735,26 +807,50 @@
         {
           "type": "prayer",
           "source": "℣. Panem nostrum quotidianum da nobis hodie.",
-          "english": null,
+          "english": "℣. Give us this day our daily bread.",
           "sourcePages": [
             642
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "ordo-quiete-ante-lectulo-according-to-the-mozarabic-rite",
+            "reusedFrom": "opening-prayers-b0040",
+            "sourcePages": [
+              642
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "ordo-ad-medium-noctis-b0043",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
           "source": "℟. Quia Deus es.",
-          "english": null,
+          "english": "℟. For Thou art God.",
           "sourcePages": [
             643
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "ordo-quiete-ante-lectulo-according-to-the-mozarabic-rite",
+            "reusedFrom": "opening-prayers-b0041",
+            "sourcePages": [
+              643
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "ordo-ad-medium-noctis-b0044",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3450,14 +3546,26 @@
         {
           "type": "prayer",
           "source": "Praesta, Pater Piissime, Patrique compar Unice, Cum Spiritu Paraclito Regnans per omne saeculum.",
-          "english": null,
+          "english": "Grant this, most loving Father, and Thou, only Son, equal to the Father, reigning with the Holy Spirit, the Comforter, throughout every age.",
           "sourcePages": [
             649
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "ordo-quiete-ante-lectulo-according-to-the-mozarabic-rite",
+            "reusedFrom": "opening-prayers-b0024",
+            "sourcePages": [
+              649
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "ordo-ad-medium-noctis-b0242",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",

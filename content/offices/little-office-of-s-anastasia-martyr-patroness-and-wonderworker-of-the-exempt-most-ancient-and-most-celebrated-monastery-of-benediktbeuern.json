@@ -410,14 +410,26 @@
         {
           "type": "prayer",
           "source": "℣. Et fidelium animae per misericordiam Dei requiescant in pace.",
-          "english": null,
+          "english": "℣. And may the souls of the faithful departed, through the mercy of God, rest in peace.",
           "sourcePages": [
             432
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-holy-ghost-for-obtaining-the-true-love-of-god",
+            "reusedFrom": "matins-b0018",
+            "sourcePages": [
+              432
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0021",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -766,14 +778,26 @@
         {
           "type": "prayer",
           "source": "℣. Et fidelium animae per misericordiam Dei requiescant in pace.",
-          "english": null,
+          "english": "℣. And may the souls of the faithful departed, through the mercy of God, rest in peace.",
           "sourcePages": [
             433
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-holy-ghost-for-obtaining-the-true-love-of-god",
+            "reusedFrom": "matins-b0018",
+            "sourcePages": [
+              433
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0018",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1121,14 +1145,26 @@
         {
           "type": "prayer",
           "source": "℣. Et fidelium animae per misericordiam Dei requiescant in pace.",
-          "english": null,
+          "english": "℣. And may the souls of the faithful departed, through the mercy of God, rest in peace.",
           "sourcePages": [
             433
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-holy-ghost-for-obtaining-the-true-love-of-god",
+            "reusedFrom": "matins-b0018",
+            "sourcePages": [
+              433
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0018",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",

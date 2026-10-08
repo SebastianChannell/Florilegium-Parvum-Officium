@@ -31,7 +31,17 @@
       "pages": [
         92
       ],
-      "language": "Latin"
+      "language": "Latin",
+      "english": "To be recited by the Sisters every Sunday.",
+      "translation": {
+        "kind": "prepared",
+        "preparedFor": "Sacrum Florilegium",
+        "sourcePages": [
+          92
+        ],
+        "review": "editorial-review-complete"
+      },
+      "verification": "visual-review"
     }
   ],
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
@@ -685,14 +695,27 @@
         {
           "type": "prayer",
           "source": "Deus qui corda fidelium Sancti Spiritus illustratione docuisti: da nobis in eodem Spiritu recta sapere et de ejus semper consolatione gaudere. Per Dominum nostrum Jesum Christum, Filium tuum, qui tecum vivit et regnat in unitate ejusdem Spiritus Sancti Deus, per omnia saecula saeculorum.",
-          "english": null,
+          "english": "O God, who didst instruct the hearts of the faithful by the light of the Holy Spirit; grant that by the light of the same Spirit we may be always truly wise and rejoice in his consolation. Through our Lord Jesus Christ, thy Son, who liveth and reigneth with thee, in the unity of the same Holy Ghost, one God, world without end.",
           "sourcePages": [
             93
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "terce-b0020",
+            "sourcePages": [
+              625
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0041",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            625
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2394,14 +2417,29 @@
         {
           "type": "prayer",
           "source": "Beati omnes qui timent Dominum: qui ambulant in viis ejus. Labores manuum tuarum quia manducabis: beatus es, et bene tibi erit. Uxor tua sicut vitis abundans, in lateribus domus tuae. Filii tui sicut novellae olivarum, in circuitu mensae tuae. Ecce sic benedicetur homo, qui timet Dominum. Benedicat tibi Dominus ex Sion: et videas bona Jerusalem omnibus diebus vitae tuae. Et videas filios filiorum tuorum, pacem super Israel.",
-          "english": null,
+          "english": "Blessed are they that fear the Lord, that walk in his ways. For thou shalt eat the labors of thy hands: blessed art thou, and it shall be well with thee. Thy wife as a fruitful vine, on the sides of thy house. Thy children as olive plants, round about thy table. Behold, thus shall the man be blessed, that feareth the Lord. May the Lord bless thee out of Sion: and mayst thou see the good things of Jerusalem all the days of thy life. And mayst thou see thy children’s children, peace upon Israel.",
           "sourcePages": [
             97
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "none-b0008",
+            "sourcePages": [
+              627,
+              628
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            627,
+            628
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2608,14 +2646,26 @@
         {
           "type": "prayer",
           "source": "℣. Emitte Spiritum tuum et creabuntur.",
-          "english": null,
+          "english": "℣. Send forth Thy Spirit, and they shall be created.",
           "sourcePages": [
             98
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-holy-ghost",
+            "reusedFrom": "conclusion-b0002",
+            "sourcePages": [
+              98
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0017",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",

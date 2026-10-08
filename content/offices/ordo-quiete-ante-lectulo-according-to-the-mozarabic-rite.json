@@ -36,9 +36,9 @@
   ],
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
-    "extraction": "candidate",
-    "translation": "incomplete",
-    "verification": "pending"
+    "extraction": "reviewed",
+    "translation": "complete-prepared",
+    "verification": "source-reading-pending"
   },
   "sections": [
     {
@@ -53,74 +53,116 @@
         {
           "type": "rubric",
           "source": "Incipit",
-          "english": null,
+          "english": "Here begins the office.",
           "sourcePages": [
             651
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Esto nobis domine in deum protectorem.",
-          "english": null,
+          "english": "℣. Be to us, O Lord, a protecting God.",
           "sourcePages": [
             651
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Esto nobis domine in deum protectorem.",
-          "english": null,
+          "english": "℟. Be to us, O Lord, a protecting God.",
           "sourcePages": [
             651
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Esto nobis domine in deum protectorem.",
-          "english": null,
+          "english": "℣. Be to us, O Lord, a protecting God.",
           "sourcePages": [
             651
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Gloria, et honor Patri, et Filio, et Spiritui Sancto.",
-          "english": null,
+          "english": "℟. Glory and honour be to the Father, and to the Son, and to the Holy Spirit.",
           "sourcePages": [
             651
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Esto nobis domine in deum protectorem.",
-          "english": null,
+          "english": "℣. Be to us, O Lord, a protecting God.",
           "sourcePages": [
             651
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -141,43 +183,64 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Saluos nos fac ut confiteamur.",
-          "english": null,
+          "english": "℣. Save us, that we may give thanks.",
           "sourcePages": [
             651
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Benedictus dominus deus.",
-          "english": null,
+          "english": "℟. Blessed be the Lord God.",
           "sourcePages": [
             651
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
           "source": "Lauda",
-          "english": null,
+          "english": "Praise",
           "sourcePages": [
             651
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -198,7 +261,7 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -219,67 +282,102 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0012",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Alleluia. Dignare domine noctem istam sine tribulatione et a peccato nos custodire.",
-          "english": null,
+          "english": "Alleluia. Deign, O Lord, to keep us this night without tribulation and free from sin.",
           "sourcePages": [
             651
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0013",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Alleluia.",
-          "english": null,
+          "english": "℣. Alleluia.",
           "sourcePages": [
             651
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0014",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Fiat domine misericordia tua super nos sicut sperabimus in te.",
-          "english": null,
+          "english": "℟. Let Thy mercy, O Lord, be upon us, as we shall hope in Thee.",
           "sourcePages": [
             651
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0015",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Alleluia.",
-          "english": null,
+          "english": "℣. Alleluia.",
           "sourcePages": [
             651
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0016",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
           "source": "Nota, quod in tempore Quadragesimae non dicitur Alleluia in ista Lauda, sed dicitur Laus tibi domine, Rex eterne glorie.",
-          "english": null,
+          "english": "Note that during Lent Alleluia is not said in this Praise; instead, “Praise be to Thee, O Lord, King of eternal glory” is said.",
           "sourcePages": [
             651
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0017",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -300,79 +398,123 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0018",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Tempus sopori congruum adest, quies sit corporum, stratum rigemus lacrimis, lectum lauemus fletibus.",
-          "english": null,
+          "english": "The time fitting for sleep is here; let our bodies rest. Let us water our couch with tears and wash our bed with weeping.",
           "sourcePages": [
             651
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0019",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Preceliamus simbolum succedat hinc oratio; hinc osculantes inuicem armemur ipsi per crucem.",
-          "english": null,
+          "english": "Let us first recite the Creed, and let prayer follow; then, kissing one another, let us arm ourselves with the cross.",
           "sourcePages": [
             651
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0020",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints the unclear verb “Preceliamus” before “simbolum.” The prepared English provisionally renders reciting the Creed first; the source word remains."
         },
         {
           "type": "prayer",
           "source": "Sic fessa membra lectulo demus sub illo iudice, qui sic quiescentes excubat, ut dormientes protegat.",
-          "english": null,
+          "english": "Thus let us give our weary limbs to the bed beneath that Judge who keeps watch as we rest, to protect us while we sleep.",
           "sourcePages": [
             651
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0021",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Discede turba demonum, liquesce ars satellitum per nomen hoc crucis sacre, atque tuosque dissice.",
-          "english": null,
+          "english": "Depart, throng of demons; let the craft of their followers dissolve through this name of the holy cross, and scatter thy followers.",
           "sourcePages": [
             651
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0022",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed closing “atque tuosque dissice” has an unclear addressee and a doubled conjunction. The English retains a literal appeal to scatter followers; the Latin remains unresolved."
         },
         {
           "type": "prayer",
           "source": "At tu creator omnium procul repelle inuidum, aduersa cuncta dissices, tranquilla queque conferas.",
-          "english": null,
+          "english": "But Thou, Creator of all, drive the envious one far away; scatter every adversity and grant all things peaceful.",
           "sourcePages": [
             651
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0023",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Praesta, Pater Piissime, Patrique compar Unice, Cum Spiritu Paraclito Regnans per omne saeculum.",
-          "english": null,
+          "english": "Grant this, most loving Father, and Thou, only Son, equal to the Father, reigning with the Holy Spirit, the Comforter, throughout every age.",
           "sourcePages": [
             651
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0024",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -393,56 +535,86 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0025",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
           "source": "Credo, Versus, Kyrie, et Pater",
-          "english": null,
+          "english": "Creed, Versicle, Kyrie, and Our Father",
           "sourcePages": [
             651
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0026",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Credo in Deum Patrem omnipotentem. Et in Ihesum Christum filium eius, unicum Deum et Dominum nostrum. Qui natus est de Spiritu Sancto et Maria Virgine. Passus sub Pontio Pilato, crucifixus et sepultus. Descendit ad inferna. Tertia die resurrexit viuus a mortuis. Ascendit ad coelos, sedet ad dexteram Dei patris omnipotentis. Inde venturus iudicare viuos et mortuos. Credo in Sanctum Spiritum. Sanctam Ecclesiam Catholicam. Remissionem omnium peccatorum. Carnis huius resurrectionem et vitam aeternam. Amen.",
-          "english": null,
+          "english": "I believe in God the Father almighty, and in Jesus Christ, His only Son, God and our Lord; who was born of the Holy Spirit and the Virgin Mary; suffered under Pontius Pilate, was crucified and buried; descended into hell; on the third day rose alive from the dead; ascended into heaven and sitteth at the right hand of God the Father almighty; from thence He shall come to judge the living and the dead. I believe in the Holy Spirit; the holy Catholic Church; the forgiveness of all sins; the resurrection of this flesh and life everlasting. Amen.",
           "sourcePages": [
             651,
             652
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651,
+              652
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0027",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF punctuates “filium eius, unicum Deum et Dominum nostrum” ambiguously. The English understands “unicum” with Son and retains God and our Lord; no additional clauses from another Creed are inserted."
         },
         {
           "type": "prayer",
           "source": "℣. Custodi nos domine ut pupillam oculi sub umbra alarum tuarum protege nos.",
-          "english": null,
+          "english": "℣. Keep us, O Lord, as the apple of the eye; protect us under the shadow of Thy wings.",
           "sourcePages": [
             652
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              652
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0028",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Kyrie eleison",
-          "english": null,
+          "english": "℣. Lord, have mercy.",
           "sourcePages": [
             652
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              652
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0029",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -463,31 +635,45 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0030",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Kyrie eleison.",
-          "english": null,
+          "english": "℣. Lord, have mercy.",
           "sourcePages": [
             652
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              652
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0031",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Pater noster, qui es in caelis.",
-          "english": null,
+          "english": "℣. Our Father, who art in heaven,",
           "sourcePages": [
             652
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              652
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0032",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -508,19 +694,26 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0033",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Sanctificetur nomen tuum.",
-          "english": null,
+          "english": "℣. Hallowed be Thy name.",
           "sourcePages": [
             652
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              652
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0034",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -541,19 +734,26 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0035",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Adveniat regnum tuum.",
-          "english": null,
+          "english": "℣. Thy kingdom come.",
           "sourcePages": [
             652
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              652
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0036",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -574,19 +774,26 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0037",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Fiat voluntas tua, sicut in caelo, et in terra.",
-          "english": null,
+          "english": "℣. Thy will be done on earth as it is in heaven.",
           "sourcePages": [
             652
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              652
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0038",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -607,43 +814,64 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0039",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Panem nostrum quotidianum da nobis hodie.",
-          "english": null,
+          "english": "℣. Give us this day our daily bread.",
           "sourcePages": [
             652
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              652
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0040",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Quia Deus es.",
-          "english": null,
+          "english": "℟. For Thou art God.",
           "sourcePages": [
             652
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              652
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0041",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris.",
-          "english": null,
+          "english": "℣. And forgive us our debts, as we forgive our debtors.",
           "sourcePages": [
             652
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              652
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0042",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -664,7 +892,7 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0043",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -685,7 +913,7 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0044",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -706,31 +934,45 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0045",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
           "source": "Clamores (Preces)",
-          "english": null,
+          "english": "Cries (Supplications)",
           "sourcePages": [
             652
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              652
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0046",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Deus misere, Deus misere, Deus misere, Deus misere, Deus misere, Deus misere, Deus misere, Deus misere, Deus misere.",
-          "english": null,
+          "english": "God, have mercy; God, have mercy; God, have mercy; God, have mercy; God, have mercy; God, have mercy; God, have mercy; God, have mercy; God, have mercy.",
           "sourcePages": [
             652
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              652
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0047",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -751,7 +993,7 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0048",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -772,7 +1014,7 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0049",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -793,19 +1035,27 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0050",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Miserere nobis domine miserere nobis et kariatis dulcedine corde nostra perfunde. Quo pacis tue semper conexione firmati. antiqui hostis in cordibus nostris aditus non pateat introeundi. sed sic semper protectionis tuae uelamine tueamur. ut ubique angelorum tuorum excubiis muniarum. Ut si fessa membra quieberint. spiritus tibi uigilet semper. Vigilate tua custodia deus noster qui uiuis.",
-          "english": null,
+          "english": "Have mercy on us, O Lord, have mercy on us, and fill our hearts with the sweetness of charity, so that, always strengthened by the bond of Thy peace, no entrance into our hearts may lie open to the ancient enemy. May we always be sheltered by the covering of Thy protection, and everywhere fortified by the watch of Thy angels; so that, if our weary limbs rest, our spirit may always keep watch for Thee. May Thy guarding watch keep vigil, O our God, who livest.",
           "sourcePages": [
             652
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              652
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0051",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints several malformed words and constructions, including “kariatis,” “muniarum,” “quieberint,” and the closing “Vigilate tua custodia.” The English provisionally renders the evident prayer for charity, protection, and vigilance; the Latin remains."
         },
         {
           "type": "prayer",
@@ -826,7 +1076,7 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0052",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -847,7 +1097,7 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0053",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -868,19 +1118,26 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0054",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. In nomine Domini nostri Ihesu Christi eamus et requiescamus in pace.",
-          "english": null,
+          "english": "℣. In the name of our Lord Jesus Christ, let us go and rest in peace.",
           "sourcePages": [
             652
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              652
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0055",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -901,22 +1158,38 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0056",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
           "source": "Post hec date abinuicem veniam absoluit decanus et uadunt ad lectos et requiscunt.",
-          "english": null,
+          "english": "After this, having forgiven one another, the dean gives absolution; they go to their beds and rest.",
           "sourcePages": [
             652
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              652
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "opening-prayers-b0057",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "editorialNotes": [
+    {
+      "text": "English prepared after visual comparison with PDF pages 651–652. The original introductory explanation distinguishes this bedtime prayer from Mozarabic Compline; the content remains one non-hour section. The printed Creed, nine mercy petitions, and responsive Our Father are retained without standardising their contents. Irregular printed readings are identified inline.",
+      "pages": [
+        651,
+        652
+      ]
+    }
+  ]
 }

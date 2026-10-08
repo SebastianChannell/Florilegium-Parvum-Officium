@@ -31,7 +31,17 @@
       "pages": [
         634
       ],
-      "language": "Latin"
+      "language": "Latin",
+      "english": "Here begins the office for one sick person or for several sick persons. This office is said on Friday, when there is no feast to recite, or at another time when one wishes to recite it.",
+      "translation": {
+        "kind": "prepared",
+        "preparedFor": "Sacrum Florilegium",
+        "sourcePages": [
+          634
+        ],
+        "review": "editorial-review-complete"
+      },
+      "verification": "visual-review"
     }
   ],
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
@@ -78,14 +88,26 @@
         {
           "type": "rubric",
           "source": "Lauda.",
-          "english": null,
+          "english": "Praise",
           "sourcePages": [
             634
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "ordo-quiete-ante-lectulo-according-to-the-mozarabic-rite",
+            "reusedFrom": "opening-prayers-b0010",
+            "sourcePages": [
+              634
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -195,14 +217,26 @@
         {
           "type": "rubric",
           "source": "Lauda.",
-          "english": null,
+          "english": "Praise",
           "sourcePages": [
             634
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "ordo-quiete-ante-lectulo-according-to-the-mozarabic-rite",
+            "reusedFrom": "opening-prayers-b0010",
+            "sourcePages": [
+              634
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0012",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -550,14 +584,26 @@
         {
           "type": "rubric",
           "source": "Lauda.",
-          "english": null,
+          "english": "Praise",
           "sourcePages": [
             635
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "ordo-quiete-ante-lectulo-according-to-the-mozarabic-rite",
+            "reusedFrom": "opening-prayers-b0010",
+            "sourcePages": [
+              635
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0040",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1158,14 +1204,26 @@
         {
           "type": "rubric",
           "source": "Lauda.",
-          "english": null,
+          "english": "Praise",
           "sourcePages": [
             638
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "ordo-quiete-ante-lectulo-according-to-the-mozarabic-rite",
+            "reusedFrom": "opening-prayers-b0010",
+            "sourcePages": [
+              638
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0007",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1549,14 +1607,26 @@
         {
           "type": "rubric",
           "source": "Lauda",
-          "english": null,
+          "english": "Praise",
           "sourcePages": [
             640
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "ordo-quiete-ante-lectulo-according-to-the-mozarabic-rite",
+            "reusedFrom": "opening-prayers-b0010",
+            "sourcePages": [
+              640
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0038",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",

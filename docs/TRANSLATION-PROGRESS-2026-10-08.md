@@ -11,9 +11,9 @@ Four further Latin-only offices now have English throughout:
 
 606 further empty English fields now reuse a complete, identical Latin passage from an already reviewed source elsewhere in the PDF: 600 supplied and six prepared. Only whitespace is normalized. Conflicting candidates, existing English, and source-review status remain untouched. Original English PDF pages and source office/block are recorded and validated. The script is idempotent: the second pass adds zero passages. Many reused rows are short common prayers or headings; 606 is a passage count, not a count of newly translated unique prayers.
 
-Checks: structural validation, all 32 Node tests, Python syntax checks, and editorial preview build pass. Browser integration assertions were updated for the English-only supplement, but no browser run was performed because Chromium is not installed in this runtime.
+Checks: structural validation, all 35 Node tests, Python syntax checks, and editorial preview build pass. Browser integration assertions were updated for the English-only supplement, but no browser run was performed because Chromium is not installed in this runtime.
 
-Remaining: 3,920 source passages without English, 153 unresolved reference candidates, Latin source notes, transcription/variant structure review, and final publication acceptance. Nine offices have full visual-review status; several others have been inspected but remain pending because the PDF itself contains defects. The production gate remains intact. This is a preserved continuation, not a finished publication.
+Remaining: 3,692 source passages without English, 147 unresolved reference candidates, Latin source notes, transcription/variant structure review, and final publication acceptance. Nine offices have full visual-review status; several others have been inspected but remain pending because the PDF itself contains defects. The production gate remains intact. This is a preserved continuation, not a finished publication.
 
 ## Further continuation
 
@@ -22,3 +22,13 @@ Ten further offices now have English rows throughout: Saint Anne (436–439), Sa
 Monastic Matins now selects its three printed weekday psalm groups, Advent/non-Advent lessons, and the printed responsory additions/substitutions associated with saying the Te Deum. No Te Deum text or calendar is invented. Repeated opening, conclusion, and Marian-anthem instructions expand within the office. Eight wrap fragments are joined, preserving original extracted text and identifiers.
 
 Source notes are now carried with reused English, including differences between Septuagesima in Latin and Lent in the supplied English. Nineteen additional identical reviewed passages are reused, for a cumulative 625. Regression fixtures preserve all ten offices’ original source text, existing supplied English, and actual sections; tests also exercise all twelve Monastic Matins combinations.
+
+## Checked reuse and introductory notes
+
+154 further English rows reuse reviewed PDF passages with the exact complete sequence of Unicode letter/number tokens. The explicit `--word-sequence` mode ignores punctuation and capitalization only: accents, spellings, word order, omitted/added words, and numbers must match. Differing English candidates are rejected. Target Latin, existing English, and target verification status remain untouched. The validator independently checks the policy and origin; tests reject missing/added/reordered words, different accents/numbers, and copied certification. This mode is separate from the 625 whitespace-only exact reuses.
+
+All 17 previously untranslated Latin introductory notes now have prepared English; 21 non-English introductory notes in total now have English. Each retains its original text and PDF pages and displays above the office. The Norbertine note has malformed source wording and its relevant clause remains explicitly provisional; no calendar automation is inferred from any historical instruction.
+
+Two more offices have English throughout: Francis Borgia (498–500) and the Mozarabic bedtime prayer (651–652). Both were compared visually with all their PDF pages and preserve their original contents. Their malformed printed passages remain flagged, including an ambiguous Creed phrase; no clauses are added from a standard Creed. The bedtime office retains its single non-hour section. Source-preservation fixtures now cover twelve continued offices.
+
+After the two new translations, a further 19 complete-word-sequence matches became available; the next pass adds zero, with all 35 tests still passing.

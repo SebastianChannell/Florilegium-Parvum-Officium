@@ -31,7 +31,17 @@
       "pages": [
         395
       ],
-      "language": "Latin"
+      "language": "Latin",
+      "english": "Do not forget the groans of thy mother. — Sirach 7:29.",
+      "translation": {
+        "kind": "prepared",
+        "preparedFor": "Sacrum Florilegium",
+        "sourcePages": [
+          395
+        ],
+        "review": "editorial-review-complete"
+      },
+      "verification": "visual-review"
     }
   ],
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
@@ -64,14 +74,27 @@
         {
           "type": "prayer",
           "source": "Ave Maria, gratia plena, Dominus tecum. Benedicta tu in mulieribus, et benedictus fructus ventris tui Jesus. Sancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc, et in hora mortis nostrae. Amen.",
-          "english": null,
+          "english": "Hail Mary, full of grace; The Lord is with thee; Blessed art thou amongst women, And blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, Pray for us sinners, now and at the hour of our death. Amen.",
           "sourcePages": [
             395
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "matins-b0002",
+            "sourcePages": [
+              105
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0002",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            105
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Original printed-text note: English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages."
         },
         {
           "type": "prayer",

@@ -2646,9 +2646,9 @@
       },
       "coverage": {
         "blocks": 98,
-        "missingEnglish": 88,
+        "missingEnglish": 87,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 10
+        "preparedEnglish": 11
       }
     },
     {
@@ -2950,7 +2950,17 @@
           "pages": [
             92
           ],
-          "language": "Latin"
+          "language": "Latin",
+          "english": "To be recited by the Sisters every Sunday.",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              92
+            ],
+            "review": "editorial-review-complete"
+          },
+          "verification": "visual-review"
         }
       ],
       "variantMentions": [
@@ -3017,9 +3027,9 @@
       },
       "coverage": {
         "blocks": 206,
-        "missingEnglish": 111,
+        "missingEnglish": 108,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 85
+        "preparedEnglish": 86
       }
     },
     {
@@ -4897,7 +4907,17 @@
           "pages": [
             164
           ],
-          "language": "Latin"
+          "language": "Latin",
+          "english": "This one and the same office is said at all seasons of the year, according to the rite of the Holy Church of Milan.",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              164
+            ],
+            "review": "editorial-review-complete"
+          },
+          "verification": "visual-review"
         }
       ],
       "variantMentions": [
@@ -4936,7 +4956,7 @@
       },
       "coverage": {
         "blocks": 507,
-        "missingEnglish": 310,
+        "missingEnglish": 294,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 180
       }
@@ -5254,7 +5274,17 @@
           "pages": [
             187
           ],
-          "language": "Latin"
+          "language": "Latin",
+          "english": "Preliminary notes",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              187
+            ],
+            "review": "editorial-review-complete"
+          },
+          "verification": "visual-review"
         },
         {
           "type": "source-note",
@@ -5262,7 +5292,17 @@
           "pages": [
             187
           ],
-          "language": "Latin"
+          "language": "Latin",
+          "english": "1. At different times of the year the Little Office is to be said in different forms: one form during the year, another in Advent, another after the Nativity, and another in Eastertide, as can be seen in each appropriate place. The following points should be noted:",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              187
+            ],
+            "review": "editorial-review-complete"
+          },
+          "verification": "visual-review"
         },
         {
           "type": "source-note",
@@ -5270,7 +5310,17 @@
           "pages": [
             187
           ],
-          "language": "Latin"
+          "language": "Latin",
+          "english": "I. The form During the Year is said:",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              187
+            ],
+            "review": "editorial-review-complete"
+          },
+          "verification": "visual-review"
         },
         {
           "type": "source-note",
@@ -5278,7 +5328,17 @@
           "pages": [
             187
           ],
-          "language": "Latin"
+          "language": "Latin",
+          "english": "a) From Matins on 3 February through None on Holy Saturday, inclusive, except on the Feast of the Annunciation; and b) from Vespers on the Ember Saturday of Pentecost through None on the Saturday before the First Sunday of Advent, likewise inclusive.",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              187
+            ],
+            "review": "editorial-review-complete"
+          },
+          "verification": "visual-review"
         },
         {
           "type": "source-note",
@@ -5286,7 +5346,17 @@
           "pages": [
             187
           ],
-          "language": "Latin"
+          "language": "Latin",
+          "english": "II. The form In Advent is said:",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              187
+            ],
+            "review": "editorial-review-complete"
+          },
+          "verification": "visual-review"
         },
         {
           "type": "source-note",
@@ -5294,7 +5364,17 @@
           "pages": [
             187
           ],
-          "language": "Latin"
+          "language": "Latin",
+          "english": "a) From Vespers before the First Sunday of Advent through None on the Vigil of the Nativity, inclusive; and b) on the Feast of the Annunciation.",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              187
+            ],
+            "review": "editorial-review-complete"
+          },
+          "verification": "visual-review"
         },
         {
           "type": "source-note",
@@ -5302,7 +5382,17 @@
           "pages": [
             187
           ],
-          "language": "Latin"
+          "language": "Latin",
+          "english": "III. The form After the Nativity is said:",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              187
+            ],
+            "review": "editorial-review-complete"
+          },
+          "verification": "visual-review"
         },
         {
           "type": "source-note",
@@ -5310,7 +5400,17 @@
           "pages": [
             187
           ],
-          "language": "Latin"
+          "language": "Latin",
+          "english": "From Vespers on 24 December through Compline on 2 February, inclusive.",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              187
+            ],
+            "review": "editorial-review-complete"
+          },
+          "verification": "visual-review"
         },
         {
           "type": "source-note",
@@ -5318,7 +5418,17 @@
           "pages": [
             187
           ],
-          "language": "Latin"
+          "language": "Latin",
+          "english": "IV. The form In Eastertide is said:",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              187
+            ],
+            "review": "editorial-review-complete"
+          },
+          "verification": "visual-review"
         },
         {
           "type": "source-note",
@@ -5326,7 +5436,17 @@
           "pages": [
             187
           ],
-          "language": "Latin"
+          "language": "Latin",
+          "english": "From Vespers on Holy Saturday through None on the Ember Saturday of Pentecost, inclusive.",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              187
+            ],
+            "review": "editorial-review-complete"
+          },
+          "verification": "visual-review"
         },
         {
           "type": "source-note",
@@ -5334,7 +5454,17 @@
           "pages": [
             187
           ],
-          "language": "Latin"
+          "language": "Latin",
+          "english": "2. For greater convenience, the differences occurring in Eastertide are incorporated into the body of Office I, During the Year; those occurring in Advent and After the Nativity are found after that office. 3. The parenthetical “Alleluia” and “Alleluia, alleluia” in the office During the Year are said only in Eastertide. 4. If the Feast of the Annunciation occurs in Eastertide, the office In Advent is said, as noted, but with Alleluia and the stanza “We beseech Thee, Maker of all.” 5. The Glory be is also said during the three days before Easter.",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              187
+            ],
+            "review": "editorial-review-complete"
+          },
+          "verification": "visual-review"
         }
       ],
       "variantMentions": [
@@ -5651,9 +5781,9 @@
       },
       "coverage": {
         "blocks": 530,
-        "missingEnglish": 260,
+        "missingEnglish": 248,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 192
+        "preparedEnglish": 195
       }
     },
     {
@@ -5815,7 +5945,17 @@
           "pages": [
             213
           ],
-          "language": "Latin"
+          "language": "Latin",
+          "english": "Private Office of the most glorious Mother of God. At all hours and at every season it is said exactly as described here.",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              213
+            ],
+            "review": "editorial-review-complete"
+          },
+          "verification": "visual-review"
         }
       ],
       "variantMentions": [
@@ -5950,9 +6090,9 @@
       },
       "coverage": {
         "blocks": 682,
-        "missingEnglish": 428,
+        "missingEnglish": 409,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 244
+        "preparedEnglish": 245
       }
     },
     {
@@ -6188,9 +6328,9 @@
       },
       "coverage": {
         "blocks": 292,
-        "missingEnglish": 154,
+        "missingEnglish": 142,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 71
+        "preparedEnglish": 72
       }
     },
     {
@@ -6406,7 +6546,7 @@
       },
       "coverage": {
         "blocks": 199,
-        "missingEnglish": 161,
+        "missingEnglish": 148,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 18
       }
@@ -7719,9 +7859,9 @@
       },
       "coverage": {
         "blocks": 291,
-        "missingEnglish": 225,
+        "missingEnglish": 210,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 58
+        "preparedEnglish": 59
       }
     },
     {
@@ -7875,7 +8015,17 @@
           "pages": [
             362
           ],
-          "language": "Latin"
+          "language": "Latin",
+          "english": "It is not said with any office of triple rank, nor from Vespers before the Vigil of the Lord’s Nativity, inclusive, until the Octave of Saint Stephen, exclusive; likewise not on the Vigil of the Epiphany from Matins, nor on the last three days of Holy Week, nor within the octaves of Easter, Pentecost, Corpus Christi, and the feasts of Blessed Mary, namely the Visitation, Assumption, Nativity, and Conception; nor at the feast of our holy father Norbert, the Deposition of our holy father Augustine, the principal feast of the patron, All Saints, and the Dedication of the Church. On the other days throughout the year it is said in choir as below, immediately after the canonical office. [The printed Latin has several irregular words; the clause concerning the principal patronal feast is provisional.]",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              362
+            ],
+            "review": "editorial-review-complete"
+          },
+          "verification": "source-reading-pending"
         }
       ],
       "variantMentions": [
@@ -8161,9 +8311,9 @@
       },
       "coverage": {
         "blocks": 420,
-        "missingEnglish": 300,
+        "missingEnglish": 274,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 76
+        "preparedEnglish": 78
       }
     },
     {
@@ -8673,7 +8823,17 @@
           "pages": [
             395
           ],
-          "language": "Latin"
+          "language": "Latin",
+          "english": "Do not forget the groans of thy mother. — Sirach 7:29.",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              395
+            ],
+            "review": "editorial-review-complete"
+          },
+          "verification": "visual-review"
         }
       ],
       "variantMentions": [
@@ -8704,7 +8864,7 @@
       },
       "coverage": {
         "blocks": 84,
-        "missingEnglish": 56,
+        "missingEnglish": 55,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 27
       }
@@ -10305,9 +10465,9 @@
       },
       "coverage": {
         "blocks": 123,
-        "missingEnglish": 55,
+        "missingEnglish": 52,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 68
+        "preparedEnglish": 71
       }
     },
     {
@@ -11010,7 +11170,7 @@
       },
       "coverage": {
         "blocks": 87,
-        "missingEnglish": 48,
+        "missingEnglish": 46,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 39
       }
@@ -12464,15 +12624,15 @@
         }
       ],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-prepared",
+        "verification": "source-reading-pending"
       },
       "coverage": {
         "blocks": 77,
-        "missingEnglish": 37,
+        "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 39
+        "preparedEnglish": 76
       }
     },
     {
@@ -12990,9 +13150,9 @@
       },
       "coverage": {
         "blocks": 104,
-        "missingEnglish": 62,
+        "missingEnglish": 59,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 40
+        "preparedEnglish": 41
       }
     },
     {
@@ -13305,9 +13465,9 @@
       },
       "coverage": {
         "blocks": 94,
-        "missingEnglish": 52,
+        "missingEnglish": 51,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 42
+        "preparedEnglish": 43
       }
     },
     {
@@ -13884,9 +14044,9 @@
       },
       "coverage": {
         "blocks": 72,
-        "missingEnglish": 24,
+        "missingEnglish": 22,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 47
+        "preparedEnglish": 49
       }
     },
     {
@@ -15032,9 +15192,9 @@
       },
       "coverage": {
         "blocks": 117,
-        "missingEnglish": 54,
+        "missingEnglish": 47,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 63
+        "preparedEnglish": 68
       }
     },
     {
@@ -16606,7 +16766,7 @@
       },
       "coverage": {
         "blocks": 224,
-        "missingEnglish": 102,
+        "missingEnglish": 98,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 113
       }
@@ -17403,7 +17563,17 @@
           "pages": [
             634
           ],
-          "language": "Latin"
+          "language": "Latin",
+          "english": "Here begins the office for one sick person or for several sick persons. This office is said on Friday, when there is no feast to recite, or at another time when one wishes to recite it.",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              634
+            ],
+            "review": "editorial-review-complete"
+          },
+          "verification": "visual-review"
         }
       ],
       "variantMentions": [
@@ -17455,9 +17625,9 @@
       },
       "coverage": {
         "blocks": 127,
-        "missingEnglish": 112,
+        "missingEnglish": 107,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 13
+        "preparedEnglish": 18
       }
     },
     {
@@ -17591,9 +17761,9 @@
       },
       "coverage": {
         "blocks": 276,
-        "missingEnglish": 202,
+        "missingEnglish": 193,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 72
+        "preparedEnglish": 81
       }
     },
     {
@@ -17666,15 +17836,15 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-prepared",
+        "verification": "source-reading-pending"
       },
       "coverage": {
         "blocks": 57,
-        "missingEnglish": 37,
+        "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 20
+        "preparedEnglish": 57
       }
     },
     {

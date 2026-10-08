@@ -31,7 +31,17 @@
       "pages": [
         362
       ],
-      "language": "Latin"
+      "language": "Latin",
+      "english": "It is not said with any office of triple rank, nor from Vespers before the Vigil of the Lord’s Nativity, inclusive, until the Octave of Saint Stephen, exclusive; likewise not on the Vigil of the Epiphany from Matins, nor on the last three days of Holy Week, nor within the octaves of Easter, Pentecost, Corpus Christi, and the feasts of Blessed Mary, namely the Visitation, Assumption, Nativity, and Conception; nor at the feast of our holy father Norbert, the Deposition of our holy father Augustine, the principal feast of the patron, All Saints, and the Dedication of the Church. On the other days throughout the year it is said in choir as below, immediately after the canonical office. [The printed Latin has several irregular words; the clause concerning the principal patronal feast is provisional.]",
+      "translation": {
+        "kind": "prepared",
+        "preparedFor": "Sacrum Florilegium",
+        "sourcePages": [
+          362
+        ],
+        "review": "editorial-review-complete"
+      },
+      "verification": "source-reading-pending"
     }
   ],
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
@@ -294,15 +304,28 @@
         {
           "type": "prayer",
           "source": "Laetatus sum in his quae dicta sunt mihi: In domum Domini ibimus. Stantes erant pedes nostri in atriis tuis, Jerusalem. Jerusalem, quae aedificatur ut civitas, cujus participatio ejus in idipsum. Illuc enim ascenderunt tribus, tribus Domini: testimonium Israel, ad confitendum nomini Domini. Quia illic sederunt sedes in judicio, sedes super domum David. Rogate quae ad pacem sunt Jerusalem, et abundantia diligentibus te. Fiat pax in virtute tua, et abundantia in turribus tuis. Propter fratres meos et proximos meos, loquebar pacem de te. Propter domum Domini Dei nostri, quaesivi bona tibi. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "I was glad at the things that were said unto me: We will go into the house of the Lord. Our feet were standing within thy courts, O Jerusalem. Jerusalem, which is built as a city, that is compact together. For thither the tribes went up, the tribes of the Lord: an ordinance for Israel, to give thanks to the name of the Lord. For there are setup thrones of judgment, the thrones of the house of David. Pray ye for the things that are for the peace of Jerusalem; and plenty be to them that love Thee. Let peace be in Thy stronghold, and plenty in Thy towers. For my brethren and my neighbors’ sake, I spake peace concerning thee. For the sake of the house of the Lord our God, I have sought good things for thee. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             362,
             363
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "vespers-b0015",
+            "sourcePages": [
+              152
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0015",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            152
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "rubric",
@@ -1052,14 +1075,27 @@
         {
           "type": "prayer",
           "source": "℟. Et gloriamini omnes recti corde.",
-          "english": null,
+          "english": "℣. And be joyful, all ye that are of right heart.",
           "sourcePages": [
             365
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "lauds-b0081",
+            "sourcePages": [
+              132
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0064",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            132
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Original printed-text note: English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages."
         },
         {
           "type": "rubric",
@@ -1247,14 +1283,27 @@
         {
           "type": "prayer",
           "source": "℟. Adorabo ad templum sanctum tuum, et confitebor nomini tuo.",
-          "english": null,
+          "english": "℟. I will worship facing Thy holy temple and confess Thy name.",
           "sourcePages": [
             365
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-guardian-angel",
+            "reusedFrom": "conclusion-of-the-hours-b0003",
+            "sourcePages": [
+              414
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0078",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            414
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "rubric",
@@ -1693,26 +1742,52 @@
         {
           "type": "prayer",
           "source": "℣. Laetamini in Domino, et exsultate justi.",
-          "english": null,
+          "english": "℣. Be glad in the Lord, and rejoice, ye just.",
           "sourcePages": [
             366
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "lauds-b0080",
+            "sourcePages": [
+              132
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0108",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            132
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Original printed-text note: English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages."
         },
         {
           "type": "prayer",
           "source": "℟. Et gloriamini omnes recti corde.]]",
-          "english": null,
+          "english": "℣. And be joyful, all ye that are of right heart.",
           "sourcePages": [
             366
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "lauds-b0081",
+            "sourcePages": [
+              132
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0109",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            132
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Original printed-text note: English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages."
         },
         {
           "type": "rubric",
@@ -2252,14 +2327,27 @@
         {
           "type": "prayer",
           "source": "Domine, non est exaltatum cor meum, neque elati sunt oculi mei, neque ambulavi in magnis, neque in mirabilibus super me. Si non humiliter sentiebam, sed exaltavi animam meam: sicut ablactatus est super matre sua, ita retributio in anima mea. Speret Israel in Domino, ex hoc nunc et usque in saeculum. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "O Lord, my heart is not lifted up; nor are mine eyes lofty. Neither do I walk in great matters, nor in things too wonderful me. If I had not been humbly minded, but have lifted up my soul, As a child that is weaned upon his mother’s breast, so let my reward be in my soul. Let Israel hope in the Lord, from this time forth for evermore. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             368
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "compline-b0016",
+            "sourcePages": [
+              160
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0012",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            160
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Original printed-text note: English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages."
         },
         {
           "type": "rubric",
@@ -3062,14 +3150,26 @@
         {
           "type": "prayer",
           "source": "Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "℟. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             370
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "ordo-quiete-ante-lectulo-according-to-the-mozarabic-rite",
+            "reusedFrom": "opening-prayers-b0007",
+            "sourcePages": [
+              370
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0022",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3159,14 +3259,27 @@
         {
           "type": "prayer",
           "source": "Domini est terra, et plenitudo ejus; orbis terrarum, et universi qui habitant in eo. Quia ipse super maria fundavit eum, et super flumina praeparavit eum. Quis ascendet in montem Domini? aut quis stabit in loco sancto ejus? Innocens manibus et mundo corde, qui non accepit in vano animam suam, nec juravit in dolo proximo suo. Hic accipiet benedictionem a Domino, et misericordiam a Deo salutari suo. Haec est generatio quaerentium eum, quaerentium faciem Dei Jacob. Attollite portas, principes, vestras, et elevamini, portae aeternales, et introibit rex gloriae. Quis est iste rex gloriae? Dominus fortis et potens, Dominus potens in praelio. Attollite portas, principes, vestras, et elevamini, portae aeternales, et introibit rex gloriae. Quis est iste rex gloriae? Dominus virtutum ipse est rex gloriae. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "The earth is the Lord’s, and the fullness thereof: the world and all they that dwell therein. For He hath founded it upon the seas; and hath prepared it upon the rivers. Who shall go up to the mountain of the Lord? or who shall stand in His holy place? He that hath clean hands and a pure heart: who hath not taken his soul in vain, nor sworn deceitfully to his neighbour. He shall receive a blessing from the Lord, and mercy from God his Saviour. This is the generation of them that seek Him: of them that seek the face of the God of Jacob. Lift up your gates, O ye princes, and be ye lifted up, O eternal gates: and the King of glory shall enter in. Who is this King of glory? The Lord strong and mighty: the Lord mighty in battle. Lift up your gates, O ye princes, and be ye lifted up, O eternal gates; and the King of glory shall enter in. Who is this King of glory? The Lord of hosts, He is the King of glory. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             371
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "matins-b0031",
+            "sourcePages": [
+              109
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0028",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            109
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Original printed-text note: English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages."
         },
         {
           "type": "prayer",
@@ -3492,14 +3605,27 @@
         {
           "type": "prayer",
           "source": "Cantate Domino canticum novum; cantate Domino omnis terra. Cantate Domino, et benedicite nomini ejus; annuntiate de die in diem salutare ejus. Annuntiate inter gentes gloriam ejus; in omnibus populis mirabilia ejus. Quoniam magnus Dominus, et laudabilis nimis: terribilis est super omnes deos. Quoniam omnes dii gentium daemonia; Dominus autem caelos fecit. Confessio et pulchritudo in conspectu ejus; sanctimonia et magnificentia in sanctificatione ejus. Afferte Domino, patriae gentium, afferte Domino gloriam et honorem. Afferte Domino gloriam nomini ejus. Tollite hostias, et introite in atria ejus. Adorate Dominum in atrio sancto ejus. Commoveatur a facie ejus universa terra. Dicite in gentibus, quia Dominus regnavit. Etenim correxit orbem terrae, qui non commovebitur; judicabit populos in aequitate. Laetentur caeli, et exsultet terra; commoveatur mare et plenitudo ejus. Gaudebunt campi, et omnia quae in eis sunt. Tunc exsultabunt omnia ligna silvarum. A facie Domini, quia venit, quoniam venit judicare terram. Judicabit orbem terrae in aequitate, et populos in veritate sua. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "O sing unto the Lord a new song: sing unto the Lord, all the earth. Sing unto the Lord, and bless His name: tell forth His salvation from day to day. Tell forth His glory among the gentiles: His wonders amongst all peoples. For the Lord is great, and highly to be praised: He is to be feared above all gods. For all the gods of the Gentiles are devils; but the Lord made the heavens. Praise and beauty are before Him; holiness and majesty are in His sanctuary. Bring unto the Lord, O ye kindred of the Gentiles, bring unto the Lord glory and honor: bring unto the Lord glory unto His name. Bring sacrifices, and come into His courts: adore ye the Lord in His holy court. Let all the earth be moved at His presence: tell ye among the Gentiles that the Lord hath reigned. For He hath established the world, and it shall not be moved: He will judge the peoples with equity. Let the heavens rejoice and let the earth be glad: let the sea be moved, and the fuless thereof; the fields shall be joyful, and all things that are therein. Then shall all the trees of the woods rejoice before the face of the Lord, for He cometh: for He cometh to judge the earth. He shall judge the world with equity, and the peoples in His truth. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             372
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "matins-b0057",
+            "sourcePages": [
+              113
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0051",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            113
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Original printed-text note: English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages."
         },
         {
           "type": "prayer",
@@ -3540,15 +3666,30 @@
         {
           "type": "prayer",
           "source": "Dominus regnavit: exsultet terra; laetentur insulae multae. Nubes et caligo in circuitu ejus; justitia et judicium correctio sedis ejus. Ignis ante ipsum praecedet, et inflammabit in circuitu inimicos ejus. Illuxerunt fulgura ejus orbi terrae; vidit, et commota est terra. Montes sicut cera fluxerunt a facie Domini; a facie Domini omnis terra. Annuntiaverunt caeli justitiam ejus, et viderunt omnes populi gloriam ejus. Confundantur omnes qui adorant sculptilia, et qui gloriantur in simulacris suis. Adorate eum omnes angeli ejus. Audivit, et laetata est Sion, et exsultaverunt filiae Judae propter judicia tua, Domine. Quoniam tu Dominus altissimus super omnem terram; nimis exaltatus es super omnes deos. Qui diligitis Dominum, odite malum: custodit Dominus animas sanctorum suorum; de manu peccatoris liberabit eos. Lux orta est justo, et rectis corde laetitia. Laetamini, justi, in Domino, et confitemini memoriae sanctificationis ejus. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "The Lord doth reign; let the earth rejoice: let the multitude of the isles be glad. Clouds and darkness are round about Him: justice and judgment are the foundation of His throne. Fire shall go forth before Him, and shall burn up His enemies on every side. His lightnings shone upon the world: the earth saw, and was moved. The mountains melted like wax before the face of the Lord; yea, all the earth, at the presence of the Lord. The heavens declared His justice; and all the peoples saw His glory. Let them all be confounded that adore graven things; and that glory in their idols. Adore Him, all ye His angels; Sion heard, and was glad. And the daughters of Juda rejoiced, because of Thy judgments, O Lord. For Thou art Lord most high over all the earth: Thou art exalted exceedingly above all gods. Ye that love the Lord, hate evil: the Lord keepeth the souls of His saints; He will deliver them out of the hand of the sinner. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             372,
             373
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "matins-b0060",
+            "sourcePages": [
+              113,
+              114
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0054",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            113,
+            114
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Original printed-text note: English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages."
         },
         {
           "type": "prayer",
@@ -3667,14 +3808,27 @@
         {
           "type": "prayer",
           "source": "℣. Pater noster.",
-          "english": null,
+          "english": "Our Father.",
           "sourcePages": [
             373
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-holy-name-of-god",
+            "reusedFrom": "matins-b0001",
+            "sourcePages": [
+              26
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0062",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            26
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3793,14 +3947,27 @@
         {
           "type": "rubric",
           "source": "Lectio ii.",
-          "english": null,
+          "english": "Lesson II",
           "sourcePages": [
             374
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "matins-b0042",
+            "sourcePages": [
+              285
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0071",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            285
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3817,14 +3984,27 @@
         {
           "type": "prayer",
           "source": "℟. Ave Maria gratia plena Dominus tecum: Spiritus sanctus superveniet in te, et virtus Altissimi obumbrabit tibi: quod enim ex te nascetur sanctum, vocabitur filius Dei.",
-          "english": null,
+          "english": "℟. Hail, Mary, full of grace, the Lord is with thee. The Holy Ghost shall come upon thee, and the power of the Most High shall overshadow thee; for the Holy which shall be born of thee shall be called the Son of God.",
           "sourcePages": [
             374
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "matins-b0130",
+            "sourcePages": [
+              119
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0073",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            119
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Original printed-text note: English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages."
         },
         {
           "type": "prayer",
@@ -3865,14 +4045,27 @@
         {
           "type": "prayer",
           "source": "℟. Suscipe verbum virgo Maria, quod tibi a Domino per Angelum transmissum est, concipies et paries Deum pariter et hominem: Ut benedicta dicaris inter omnes mulieres.",
-          "english": null,
+          "english": "℟. Receive, O Virgin Mary, the word which the Lord hath sent thee through an angel: Thou shalt conceive, and shalt bring forth both God and man, that thou mayest be called blessed amongst all women.",
           "sourcePages": [
             374
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "matins-b0142",
+            "sourcePages": [
+              120
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0077",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            120
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Original printed-text note: English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages."
         },
         {
           "type": "prayer",
@@ -3949,14 +4142,27 @@
         {
           "type": "rubric",
           "source": "Lectio ii.",
-          "english": null,
+          "english": "Lesson II",
           "sourcePages": [
             374
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "matins-b0042",
+            "sourcePages": [
+              285
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0084",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            285
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3997,14 +4203,27 @@
         {
           "type": "rubric",
           "source": "Lectio iii.",
-          "english": null,
+          "english": "Lesson III",
           "sourcePages": [
             374
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "matins-b0049",
+            "sourcePages": [
+              285
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0088",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            285
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -4033,14 +4252,27 @@
         {
           "type": "prayer",
           "source": "℣. Quia ex te ortus est sol justitiae Christus Deus noster.",
-          "english": null,
+          "english": "℟. For out of thee arose the Sun of righteousness, Christ our God.",
           "sourcePages": [
             374
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "matins-b0106",
+            "sourcePages": [
+              117
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0091",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            117
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Original printed-text note: English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages."
         },
         {
           "type": "rubric",
@@ -4211,14 +4443,27 @@
         {
           "type": "prayer",
           "source": "Dominus regnavit, decorem indutus est: indutus est Dominus fortitudinem, et praecinxit se. Etenim firmavit orbem terrae, qui non commovebitur. Parata sedes tua ex tunc; a saeculo tu es. Elevaverunt flumina, Domine, elevaverunt flumina vocem suam; elevaverunt flumina fluctus suos. A vocibus aquarum multarum. Mirabiles elationes maris; mirabilis in altis Dominus. Testimonia tua credibilia facta sunt nimis; domum tuam decet sanctitudo, Domine, in longitudinem dierum. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "The Lord reigneth: He is clothed with beauty: the Lord is clothed with strength, and hath girded Himself. For He hath established the world, which shall not be moved. Thy throne is prepared of old: Thou art from everlasting. The floods have lifted up, O Lord: the floods have lifted up their voice. The floods have lifted up their waves, with the noise of many waters. Wonderful are the surges of the sea: wonderful is the Lord on high. Thy testimonies are made exceedingly trustworthy: holiness becometh Thy house, O Lord, unto length of days. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             375
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "lauds-b0011",
+            "sourcePages": [
+              123
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0007",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            123
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "rubric",
@@ -4711,15 +4956,30 @@
         {
           "type": "prayer",
           "source": "Benedictus Dominus Deus Israel, quia visitavit et fecit redemptionem plebis suae. Et erexit cornu salutis nobis, in domo David pueri sui. Sicut locutus est per os sanctorum, qui a saeculo sunt, prophetarum ejus. Salutem ex inimicis nostris, et de manu omnium qui oderunt nos. Ad faciendam misericordiam cum patribus nostris, et memorari testamenti sui sancti. Jusjurandum quod juravit ad Abraham patrem nostrum, daturum se nobis. Ut sine timore, de manu inimicorum nostrorum liberati, serviamus illi. In sanctitate et justitia coram ipso, omnibus diebus nostris. Et tu puer propheta Altissimi vocaberis: praeibis enim ante faciem Domini parare vias ejus. Ad dandam scientiam salutis plebi ejus: in remissionem peccatorum eorum. Per viscera misericordiae Dei nostri: in quibus visitavit nos Oriens ex alto. Illuminare his qui in tenebris et in umbra mortis sedent: ad dirigendos pedes nostros in viam pacis. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "Blessed be the Lord ✠God of Israel, because He hath visited and wrought the redemption of His people. And hath raised up a horn of salvation to us in the house of David His servant; As He spoke by the mouth of His holy prophets, who are from the beginning: Salvation from our enemies, and from the hand of all that hate us. To perform mercy to our fathers, and to remember His holy testament. The oath which He swore to Abraham our father, that He would grant to us, That being delivered from the hand of our enemies, we may serve Him without fear, In holiness and justice before Him all our days. And thou, child, shalt be called the prophet of the Highest; for thou shalt go before the face of the Lord to prepare His ways: To give knowledge of salvation to His people, unto the remission of their sins; Through the bowels of the mercy of our God, in which the Orient from on high hath visited us. To enlighten them that sit in darkness and in the shadow of death; to direct our feet into the way of peace. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             377,
             378
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "lauds-b0059",
+            "sourcePages": [
+              130,
+              131
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0039",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            130,
+            131
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -5105,14 +5365,26 @@
         {
           "type": "prayer",
           "source": "Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "℟. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             379
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "ordo-quiete-ante-lectulo-according-to-the-mozarabic-rite",
+            "reusedFrom": "opening-prayers-b0007",
+            "sourcePages": [
+              379
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0014",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "rubric",
@@ -5437,14 +5709,29 @@
         {
           "type": "prayer",
           "source": "Levavi oculos meos in montes, unde veniet auxilium mihi. Auxilium meum a Domino, qui fecit caelum et terram. Non det in commotionem pedem tuum, neque dormitet qui custodit te. Ecce non dormitabit neque dormiet qui custodit Israel. Dominus custodit te; Dominus protectio tua super manum dexteram tuam. Per diem sol non uret te, neque luna per noctem. Dominus custodit te ab omni malo; custodiat animam tuam Dominus. Dominus custodiat introitum tuum et exitum tuum, ex hoc nunc et usque in saeculum. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "I have lifted up mine eyes unto the hills, from whence my help shall come. My help is from the Lord, Who made heaven and earth. Let Him not suffer thy foot to be moved; neither let Him slumber that keepeth thee. Behold, He that keepeth Israel, shall neither slumber nor sleep. The Lord is thy keeper: the Lord is thy defence upon thy right hand. The sun shall not burn thee by day, nor the moon by night. The Lord keepeth thee from all evil: may the Lord keep thy soul. May the Lord keep thy coming in, and thy going out, from this time forth for evermore. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             380
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "terce-b0010",
+            "sourcePages": [
+              140,
+              141
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0013",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            140,
+            141
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Original printed-text note: English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages."
         },
         {
           "type": "rubric",
@@ -5751,14 +6038,27 @@
         {
           "type": "prayer",
           "source": "Laetatus sum in his quae dicta sunt mihi: In domum Domini ibimus. Stantes erant pedes nostri in atriis tuis, Jerusalem. Jerusalem, quae aedificatur ut civitas, cujus participatio ejus in idipsum. Illuc enim ascenderunt tribus, tribus Domini: testimonium Israel, ad confitendum nomini Domini. Quia illic sederunt sedes in judicio, sedes super domum David. Rogate quae ad pacem sunt Jerusalem, et abundantia diligentibus te. Fiat pax in virtute tua, et abundantia in turribus tuis. Propter fratres meos et proximos meos, loquebar pacem de te. Propter domum Domini Dei nostri, quaesivi bona tibi. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "I was glad at the things that were said unto me: We will go into the house of the Lord. Our feet were standing within thy courts, O Jerusalem. Jerusalem, which is built as a city, that is compact together. For thither the tribes went up, the tribes of the Lord: an ordinance for Israel, to give thanks to the name of the Lord. For there are setup thrones of judgment, the thrones of the house of David. Pray ye for the things that are for the peace of Jerusalem; and plenty be to them that love Thee. Let peace be in Thy stronghold, and plenty in Thy towers. For my brethren and my neighbors’ sake, I spake peace concerning thee. For the sake of the house of the Lord our God, I have sought good things for thee. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             381
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "vespers-b0015",
+            "sourcePages": [
+              152
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0010",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            152
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "rubric",
@@ -5787,14 +6087,27 @@
         {
           "type": "prayer",
           "source": "Nisi quia Dominus erat in nobis, dicat nunc Israel. Nisi quia Dominus erat in nobis: cum exsurgerent homines in nos. Forte vivos deglutissent nos; cum irasceretur furor eorum in nos. Forsitan aqua absorbuisset nos. Torrentem pertransivit anima nostra; forsitan pertransisset anima nostra aquam intolerabilem. Benedictus Dominus, qui non dedit nos in captionem dentibus eorum. Anima nostra sicut passer erepta est de laqueo venantium; laqueus contritus est, et nos liberati sumus. Adjutorium nostrum in nomine Domini, qui fecit caelum et terram. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "If the Lord had not been with us, now may Israel say: If the Lord had not been with us, When men rose up against us, peradventure they had swallowed us up alive; When their fury was enkindled against us, perchance the waters had swallowed us up. Our soul hath passed through a torrent: peradventure our soul would have passed through overwhelming waters. Blessed be the Lord, Who hath not given us up to be a prey unto their teeth. Our soul hath been delivered as a sparrow out of the snare of the fowlers. The snare is broken, and we are delivered. Our help is in the name of the Lord, Who made heaven and earth. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             381
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "sext-b0010",
+            "sourcePages": [
+              144
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0012",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            144
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Original printed-text note: English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages."
         },
         {
           "type": "rubric",
@@ -5823,14 +6136,29 @@
         {
           "type": "prayer",
           "source": "Qui confidunt in Domino, sicut mons Sion: non commovebitur in aeternum, qui habitat in Jerusalem. Montes in circuitu ejus; et Dominus in circuitu populi sui, ex hoc nunc et usque in saeculum. Quia non relinquet Dominus virgam peccatorum super sortem justorum: ut non extendant justi ad iniquitatem manus suas. Benefac, Domine, bonis, et rectis corde. Declinantes autem in obligationes, adducet Dominus cum operantibus iniquitatem. Pax super Israel. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "They that trust in the Lord shall be as Mount Sion: he shall not be moved for ever that dwelleth in Jerusalem. The hills stand round about her: even so is the Lord round about His people from this time forth for evermore. For the Lord will not leave the rod of sinners over the lot of the just: that the just may not stretch forth their hands unto wickedness. Do well, O Lord, unto those that are good, and unto them that are right of heart. But such as turn aside unto deceits, the Lord shall number with the workers of iniquity; but peace shall be upon Israel. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             381
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "sext-b0012",
+            "sourcePages": [
+              144,
+              145
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0014",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            144,
+            145
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Original printed-text note: English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages."
         },
         {
           "type": "rubric",
@@ -6122,14 +6450,27 @@
         {
           "type": "prayer",
           "source": "In convertendo Dominus captivitatem Sion, facti sumus sicut consolati. Tunc repletum est gaudio os nostrum, et lingua nostra exsultatione. Tunc dicent inter gentes: Magnificavit Dominus facere cum eis. Magnificavit Dominus facere nobiscum; facti sumus laetantes. Converte, Domine, captivitatem nostram, sicut torrens in austro. Qui seminant in lacrimis, in exsultatione metent. Euntes ibant et flebant, mittentes semina sua. Venientes autem venient cum exsultatione, portantes manipulos suos. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "When the Lord turned again the captivity of Sion, we became like men consoled. Then was our mouth filled with gladness, and our tongue with joy. Then shall they say among the Gentiles: The Lord hath done great things for them. The Lord hath done great, things for us: we are become joyful. Turn again our captivity, O Lord, as a river in the south. They that sow in tears, shall reap in joy. They went forth on their way and wept, scattering their seed. But returning they shall come with joy, bringing their sheaves with them. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             382
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "none-b0008",
+            "sourcePages": [
+              147
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "none-b0010",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            147
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Original printed-text note: English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages."
         },
         {
           "type": "rubric",
@@ -6194,14 +6535,27 @@
         {
           "type": "prayer",
           "source": "Beati omnes qui timent Dominum, qui ambulant in viis ejus. Labores manuum tuarum quia manducabis: beatus es, et bene tibi erit. Uxor tua sicut vitis abundans in lateribus domus tuae; filii tui sicut novellae olivarum in circuitu mensae tuae. Ecce sic benedicetur homo qui timet Dominum. Benedicat tibi Dominus ex Sion, et videas bona Jerusalem omnibus diebus vitae tuae. Et videas filios filiorum tuorum: pacem super Israel. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "Blessed are all they that fear the Lord, that walk in His ways. For thou shalt eat the labours of thy hands: blessed art thou, and it shall be well with thee. Thy wife shall be as a fruitful vine on the walls of thy house. Thy children as olive plants, round about thy table. Behold, thus shall the man be blessed that feareth the Lord. May the Lord bless thee out of Sion, and mayest thou see the good things of Jerusalem all the days of thy life. Mayest thou see thy children’s children, and peace upon Israel. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             382
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "none-b0013",
+            "sourcePages": [
+              148
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "none-b0014",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            148
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "rubric",
@@ -6414,5 +6768,13 @@
     }
   ],
   "unpairedEnglish": [],
-  "translationScope": "marked"
+  "translationScope": "marked",
+  "editorialNotes": [
+    {
+      "text": "The translated opening note preserves the printed exclusions without applying a calendar. Its malformed “eribus” is provisionally understood as three, and “Principalisoris Fasti Patroni” as the principal patronal feast. The original Latin remains visible; this source reading requires editorial resolution.",
+      "pages": [
+        362
+      ]
+    }
+  ]
 }

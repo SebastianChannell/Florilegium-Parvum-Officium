@@ -615,26 +615,52 @@
         {
           "type": "prayer",
           "source": "℣. Justum deduxit Dominus per vias rectas,",
-          "english": null,
+          "english": "℣. The Lord led the just through right ways.",
           "sourcePages": [
             447
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "lauds-b0033",
+            "sourcePages": [
+              619
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0009",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            619
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
           "source": "℟. Et ostendit illi Regnum Dei.",
-          "english": null,
+          "english": "℟. And showed him the kingdom of God.",
           "sourcePages": [
             447
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "lauds-b0034",
+            "sourcePages": [
+              619
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0010",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            619
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1523,5 +1549,6 @@
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "translationScope": "marked"
 }

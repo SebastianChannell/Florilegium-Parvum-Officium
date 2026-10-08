@@ -31,7 +31,17 @@
       "pages": [
         164
       ],
-      "language": "Latin"
+      "language": "Latin",
+      "english": "This one and the same office is said at all seasons of the year, according to the rite of the Holy Church of Milan.",
+      "translation": {
+        "kind": "prepared",
+        "preparedFor": "Sacrum Florilegium",
+        "sourcePages": [
+          164
+        ],
+        "review": "editorial-review-complete"
+      },
+      "verification": "visual-review"
     }
   ],
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
@@ -1886,14 +1896,27 @@
         {
           "type": "rubric",
           "source": "Lectio II",
-          "english": null,
+          "english": "Lesson II",
           "sourcePages": [
             171
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "matins-b0042",
+            "sourcePages": [
+              285
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0123",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            285
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1979,14 +2002,27 @@
         {
           "type": "rubric",
           "source": "Lectio III",
-          "english": null,
+          "english": "Lesson III",
           "sourcePages": [
             171
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "matins-b0049",
+            "sourcePages": [
+              285
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0130",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            285
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2313,14 +2349,27 @@
         {
           "type": "rubric",
           "source": "Canticum Zachariae Luc 1",
-          "english": null,
+          "english": "Canticle of Zachary",
           "sourcePages": [
             172
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0032",
+            "sourcePages": [
+              293
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0006",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            293
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2502,14 +2551,27 @@
         {
           "type": "rubric",
           "source": "Canticum trium puerorum. Dan. 3.",
-          "english": null,
+          "english": "Canticle of the Three Youths",
           "sourcePages": [
             172
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0009",
+            "sourcePages": [
+              290
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0018",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            290
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3259,14 +3321,27 @@
         {
           "type": "prayer",
           "source": "Pater noster...",
-          "english": null,
+          "english": "Our Father.",
           "sourcePages": [
             175
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-holy-name-of-god",
+            "reusedFrom": "matins-b0001",
+            "sourcePages": [
+              26
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0069",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            26
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -3880,14 +3955,27 @@
         {
           "type": "prayer",
           "source": "℣. Benedicamus Domino:",
-          "english": null,
+          "english": "℣. Let us bless the Lord.",
           "sourcePages": [
             176
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates-alternative-version",
+            "reusedFrom": "opening-prayers-b0008",
+            "sourcePages": [
+              633
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0033",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            633
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -4452,14 +4540,27 @@
         {
           "type": "prayer",
           "source": "℣. Benedicamus Domino:",
-          "english": null,
+          "english": "℣. Let us bless the Lord.",
           "sourcePages": [
             178
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates-alternative-version",
+            "reusedFrom": "opening-prayers-b0008",
+            "sourcePages": [
+              633
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0031",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            633
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -5479,14 +5580,27 @@
         {
           "type": "prayer",
           "source": "℟. Elegit eam Deus, Et praeelegit eam.",
-          "english": null,
+          "english": "℣. God elected her, and pre-elected her.",
           "sourcePages": [
             180
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-immaculate-conception",
+            "reusedFrom": "matins-b0006",
+            "sourcePages": [
+              384
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "sext-2-b0022",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            384
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "rubric",
@@ -5632,14 +5746,27 @@
         {
           "type": "prayer",
           "source": "℣. Benedicamus Domino:",
-          "english": null,
+          "english": "℣. Let us bless the Lord.",
           "sourcePages": [
             180
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates-alternative-version",
+            "reusedFrom": "opening-prayers-b0008",
+            "sourcePages": [
+              633
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "sext-2-b0031",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            633
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -6598,14 +6725,27 @@
         {
           "type": "prayer",
           "source": "Pater noster...",
-          "english": null,
+          "english": "Our Father.",
           "sourcePages": [
             183
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-holy-name-of-god",
+            "reusedFrom": "matins-b0001",
+            "sourcePages": [
+              26
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0060",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            26
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -7292,14 +7432,27 @@
         {
           "type": "prayer",
           "source": "℣. Benedicamus Domino:",
-          "english": null,
+          "english": "℣. Let us bless the Lord.",
           "sourcePages": [
             184
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates-alternative-version",
+            "reusedFrom": "opening-prayers-b0008",
+            "sourcePages": [
+              633
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0036",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            633
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -7325,14 +7478,27 @@
         {
           "type": "prayer",
           "source": "Pater noster...",
-          "english": null,
+          "english": "Our Father.",
           "sourcePages": [
             184
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-holy-name-of-god",
+            "reusedFrom": "matins-b0001",
+            "sourcePages": [
+              26
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0038",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            26
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -7358,14 +7524,27 @@
         {
           "type": "prayer",
           "source": "℟. Sed libera nos a malo",
-          "english": null,
+          "english": "℟. But deliver us from evil.",
           "sourcePages": [
             184
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "matins-b0025",
+            "sourcePages": [
+              616
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0040",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            616
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -7575,14 +7754,27 @@
         {
           "type": "prayer",
           "source": "℣. Ora pro nobis sancta Dei Genitrix.",
-          "english": null,
+          "english": "℣. Pray for us, O holy Mother of God.",
           "sourcePages": [
             185
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "lauds-b0119",
+            "sourcePages": [
+              302
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0054",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            302
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Original printed-text note: English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages."
         },
         {
           "type": "prayer",
@@ -7923,14 +8115,27 @@
         {
           "type": "prayer",
           "source": "Regina caeli, laetare. Alleluia. Quia quem meruisti portare. Alleluia. Resurrexit, sicut dixit. Alleluia. Ora pro nobis Deum, Alleluia.",
-          "english": null,
+          "english": "O Queen of heaven rejoice, Alleluia, For He Whom thou wast to bear, Alleluia, Hath risen, as He said, Alleluia. Pray for us to God, Alleluia.",
           "sourcePages": [
             185
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "lauds-b0111",
+            "sourcePages": [
+              134
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0077",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            134
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Original printed-text note: English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages."
         },
         {
           "type": "prayer",
@@ -7959,14 +8164,27 @@
         {
           "type": "prayer",
           "source": "℟. Quia surrexit Dominus vere. Alleluia.",
-          "english": null,
+          "english": "℟. For the Lord hath risen indeed, Alleluia.",
           "sourcePages": [
             185
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+            "reusedFrom": "lauds-b0113",
+            "sourcePages": [
+              134
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0079",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            134
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Original printed-text note: English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages."
         },
         {
           "type": "rubric",

@@ -227,14 +227,26 @@
         {
           "type": "prayer",
           "source": "Ant. Sap. 4. 1. O quam pulchra est casta generatio cum claritate! immortalis est enim memoria illius, quoniam et apud Deum nota est, et apud homines.",
-          "english": null,
+          "english": "Ant. Wisdom 4:1. O how beautiful is the chaste generation with glory! For its memory is immortal, since it is known both with God and with men.",
           "sourcePages": [
             527
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-s-barbara-virgin-and-martyr-for-the-purpose-of-asking-for-a-blessed-death",
+            "reusedFrom": "sext-b0006",
+            "sourcePages": [
+              527
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -537,14 +549,26 @@
         {
           "type": "prayer",
           "source": "Ant. Cant 8.7 Aquae multae non potuerunt extinguere charitatem, nec flumina obruent illam.",
-          "english": null,
+          "english": "Ant. Canticles 8:7. Many waters have not been able to extinguish charity, neither shall rivers overwhelm it.",
           "sourcePages": [
             527
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-s-barbara-virgin-and-martyr-for-the-purpose-of-asking-for-a-blessed-death",
+            "reusedFrom": "prime-b0006",
+            "sourcePages": [
+              527
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0006",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",

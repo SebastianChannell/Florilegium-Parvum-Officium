@@ -363,14 +363,26 @@
         {
           "type": "prayer",
           "source": "℟. Domine ad adjuvandum me festina. Gloria Patri et Filio et Spiritui Sancto.",
-          "english": null,
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, and to the Son, and to the Holy Ghost.",
           "sourcePages": [
             555
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-s-aloysius-gonzaga-of-the-society-of-jesus",
+            "reusedFrom": "prime-b0002",
+            "sourcePages": [
+              555
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0002",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "rubric",
@@ -593,14 +605,26 @@
         {
           "type": "prayer",
           "source": "℟. Domine ad adjuvandum me festina. Gloria Patri et Filio et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             556
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-against-evil-spirits",
+            "reusedFrom": "opening-prayers-b0002",
+            "sourcePages": [
+              556
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0002",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "rubric",
@@ -823,14 +847,26 @@
         {
           "type": "prayer",
           "source": "℟. Domine ad adjuvandum me festina. Gloria Patri et Filio et Spiritui Sancto.",
-          "english": null,
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, and to the Son, and to the Holy Ghost.",
           "sourcePages": [
             556
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-s-aloysius-gonzaga-of-the-society-of-jesus",
+            "reusedFrom": "prime-b0002",
+            "sourcePages": [
+              556
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0002",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "rubric",
@@ -1177,14 +1213,27 @@
         {
           "type": "prayer",
           "source": "Ecce Confessor magnus, qui quasi stella matutina in medio nebulae, et quasi luna plena in diebus suis lucet, et quasi sol refulgens: sic ille effulsit in templo Dei.",
-          "english": null,
+          "english": "Behold a great Confessor: who shone in his days as the morning star in the midst of a cloud, and as the moon at the full; and as the sun when it shineth, so did he shine in the temple of God.",
           "sourcePages": [
             557
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-s-benedict",
+            "reusedFrom": "vespers-b0015",
+            "sourcePages": [
+              467
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0010",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            467
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1306,14 +1355,26 @@
         {
           "type": "prayer",
           "source": "℟. Domine ad adjuvandum me festina. Gloria Patri et Filio et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             558
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-against-evil-spirits",
+            "reusedFrom": "opening-prayers-b0002",
+            "sourcePages": [
+              558
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0002",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "rubric",
@@ -1545,14 +1606,26 @@
         {
           "type": "prayer",
           "source": "℟. Domine ad adjuvandum me festina. Gloria Patri et Filio et Spiritui Sancto.",
-          "english": null,
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, and to the Son, and to the Holy Ghost.",
           "sourcePages": [
             558
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-s-aloysius-gonzaga-of-the-society-of-jesus",
+            "reusedFrom": "prime-b0002",
+            "sourcePages": [
+              558
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0002",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "rubric",
@@ -1647,15 +1720,28 @@
         {
           "type": "prayer",
           "source": "Ego quasi vitis fructificavi suavitatem odoris, et flores mei fructus honoris et honestatis.",
-          "english": null,
+          "english": "Like a vine, I gave forth an odor of sweetness: and my flowers are the fruits of honor and riches.",
           "sourcePages": [
             558,
             559
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "lauds-b0021",
+            "sourcePages": [
+              293
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0009",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            293
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -2108,5 +2194,6 @@
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "translationScope": "marked"
 }

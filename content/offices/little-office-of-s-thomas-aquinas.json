@@ -130,14 +130,27 @@
         {
           "type": "prayer",
           "source": "℣. Gloria Patri.",
-          "english": null,
+          "english": "℣. Glory be to the Father, and to the Son, and to the Holy Ghost. ℟. As it was in the beginning, is now, and ever shall be, world without end, Amen. Alleluia.",
           "sourcePages": [
             594
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "compline-b0006",
+            "sourcePages": [
+              315
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            315
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Original printed-text note: The supplied English expands the abbreviated Latin Glory be; the opening additionally includes Alleluia."
         },
         {
           "type": "rubric",
@@ -388,14 +401,27 @@
         {
           "type": "rubric",
           "source": "Lectio I",
-          "english": null,
+          "english": "Lesson I",
           "sourcePages": [
             594
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "matins-b0034",
+            "sourcePages": [
+              284
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0021",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            284
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -502,14 +528,27 @@
         {
           "type": "rubric",
           "source": "Lectio II",
-          "english": null,
+          "english": "Lesson II",
           "sourcePages": [
             595
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "matins-b0042",
+            "sourcePages": [
+              285
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0029",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            285
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -616,14 +655,27 @@
         {
           "type": "rubric",
           "source": "Lectio III",
-          "english": null,
+          "english": "Lesson III",
           "sourcePages": [
             595
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+            "reusedFrom": "matins-b0049",
+            "sourcePages": [
+              285
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0037",
-          "verification": "pending"
+          "verification": "pending",
+          "englishPages": [
+            285
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
