@@ -13,7 +13,7 @@ Four further Latin-only offices now have English throughout:
 
 Checks: structural validation, all 35 Node tests, Python syntax checks, and editorial preview build pass. Browser integration assertions were updated for the English-only supplement, but no browser run was performed because Chromium is not installed in this runtime.
 
-Remaining: 3,079 source passages without English, 94 unresolved reference candidates, transcription/variant structure review, and final publication acceptance. Ten offices have full visual-review status; several others have been inspected but remain pending because the PDF itself contains defects. The production gate remains intact. This is a preserved continuation, not a finished publication.
+Remaining: 2,909 source passages without English, 85 unresolved reference candidates, transcription/variant structure review, and final publication acceptance. Ten offices have full visual-review status; several others have been inspected but remain pending because the PDF itself contains defects. The production gate remains intact. This is a preserved continuation, not a finished publication.
 
 ## Further continuation
 
@@ -54,3 +54,10 @@ All 36 tests, structural validation, and the editorial preview build pass. Curre
 Seven Dolours (395–397), Dismas (476–479), Seven Joys (398–401), and Holy Innocents (523–526) now have English rows throughout after visual comparison with all 15 PDF pages. The first and third retain seven printed hours and no Lauds; Dismas and Holy Innocents retain eight. All include their concluding prayers and printed supplementary material. Seven Joys retains seven distinct collects. Printed repetitions expand only within their own office. Its final closing incipits have no complete target in that office and remain pending rather than being imported or invented. Defective printed clauses are explicitly unresolved or provisional. All four offices remain pending source reading.
 
 These four offices add 191 prepared rows and resolve 15 recorded reference candidates. Original source text, prior English, and printed section preservation fixtures now cover 25 continued offices. All 36 tests, structural validation, and the editorial preview build pass. Coverage is now 3,079 missing English rows, 4,652 prepared translations including notes, ten fully visually reviewed offices, and 94 unresolved reference candidates. Publication remains gated; no browser run or merge is claimed.
+
+
+## Ludger, Anastasia, and Niccolò Albergati
+
+Ludger (555–560), Anastasia (432–435), and Niccolò Albergati (569–572) now have English rows throughout after all 14 PDF pages were inspected. The eight Ludger hours and seven hours in the other two remain; no absent Lauds is added. Full and abbreviated closing prayers in Anastasia expand within the office, using the Prime opening response without adding Matins’ Alleluia. The later Benedicamus response signs differ from the full Matins versicle and are retained with an explicit pending discrepancy note. Printed historical names, destinations, and unusual words such as Ludger’s perfectionem and Niccolò’s Insulam and Exultat improbitas are not silently replaced. Defective hymn clauses remain provisional or unresolved. All three offices remain pending source reading.
+
+Seven additional whitespace-only exact and six word-sequence reuses became available, bringing their cumulative totals to 632 and 263 respectively. Preservation fixtures cover 28 continued offices. All 36 tests, structural validation, and the editorial preview build pass. Coverage: 2,909 empty English rows across 24 offices (64,490 source words), 4,822 prepared translations including notes, no unpaired supplied English, ten fully visually reviewed offices, and 85 unresolved reference candidates. The remaining large rite offices require extensive translation, source review, and variant assembly. This checkpoint is not a finished publication.

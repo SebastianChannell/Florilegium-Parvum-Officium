@@ -6090,9 +6090,9 @@
       },
       "coverage": {
         "blocks": 682,
-        "missingEnglish": 397,
+        "missingEnglish": 390,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 253
+        "preparedEnglish": 260
       }
     },
     {
@@ -10459,15 +10459,15 @@
         }
       ],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-prepared",
+        "verification": "source-reading-pending"
       },
       "coverage": {
         "blocks": 123,
-        "missingEnglish": 51,
+        "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 71
+        "preparedEnglish": 122
       }
     },
     {
@@ -13465,9 +13465,9 @@
       },
       "coverage": {
         "blocks": 94,
-        "missingEnglish": 50,
+        "missingEnglish": 46,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 44
+        "preparedEnglish": 48
       }
     },
     {
@@ -14392,9 +14392,9 @@
       },
       "coverage": {
         "blocks": 144,
-        "missingEnglish": 66,
+        "missingEnglish": 64,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 74
+        "preparedEnglish": 76
       }
     },
     {
@@ -15186,15 +15186,15 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-prepared",
+        "verification": "source-reading-pending"
       },
       "coverage": {
         "blocks": 117,
-        "missingEnglish": 46,
+        "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 69
+        "preparedEnglish": 115
       }
     },
     {
@@ -15729,15 +15729,15 @@
         }
       ],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-prepared",
+        "verification": "source-reading-pending"
       },
       "coverage": {
         "blocks": 91,
-        "missingEnglish": 60,
+        "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 30
+        "preparedEnglish": 90
       }
     },
     {

@@ -88,7 +88,7 @@
     },
     {
       "office": "little-office-of-the-blessed-virgin-mary-according-to-the-carthusian-usage",
-      "message": "397 source passages lack aligned English."
+      "message": "390 source passages lack aligned English."
     },
     {
       "office": "little-office-of-the-blessed-virgin-mary-according-to-the-carthusian-usage",
@@ -176,10 +176,6 @@
     },
     {
       "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
-      "message": "51 source passages lack aligned English."
-    },
-    {
-      "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
       "message": "Office awaits visual source review."
     },
     {
@@ -256,7 +252,7 @@
     },
     {
       "office": "little-office-of-s-igantius-founder-of-the-society-of-jesus",
-      "message": "50 source passages lack aligned English."
+      "message": "46 source passages lack aligned English."
     },
     {
       "office": "little-office-of-s-igantius-founder-of-the-society-of-jesus",
@@ -284,7 +280,7 @@
     },
     {
       "office": "little-office-of-s-john-nepomucene-martyr-the-singular-patron-of-penitents-and-those-in-danger-of-reputation",
-      "message": "66 source passages lack aligned English."
+      "message": "64 source passages lack aligned English."
     },
     {
       "office": "little-office-of-s-john-nepomucene-martyr-the-singular-patron-of-penitents-and-those-in-danger-of-reputation",
@@ -304,10 +300,6 @@
     },
     {
       "office": "little-office-of-s-ludger-apostle-of-the-frisians-saxons-and-westphalians",
-      "message": "46 source passages lack aligned English."
-    },
-    {
-      "office": "little-office-of-s-ludger-apostle-of-the-frisians-saxons-and-westphalians",
       "message": "Office awaits visual source review."
     },
     {
@@ -321,10 +313,6 @@
     {
       "office": "little-office-of-saint-mary-magdalene-patroness-of-penitents",
       "message": "Office awaits visual source review."
-    },
-    {
-      "office": "little-office-of-b-niccolo-albergati",
-      "message": "60 source passages lack aligned English."
     },
     {
       "office": "little-office-of-b-niccolo-albergati",
@@ -664,21 +652,6 @@
       "message": "Internal source reference awaits resolution."
     },
     {
-      "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
-      "block": "none-b0002",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
-      "block": "vespers-b0002",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
-      "block": "compline-b0004",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
       "office": "little-office-of-s-francis-of-paola-founder-of-the-order-of-minims",
       "block": "lauds-b0009",
       "message": "Internal source reference awaits resolution."
@@ -779,36 +752,6 @@
       "message": "Internal source reference awaits resolution."
     },
     {
-      "office": "little-office-of-b-niccolo-albergati",
-      "block": "prime-b0012",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-b-niccolo-albergati",
-      "block": "terce-b0012",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-b-niccolo-albergati",
-      "block": "sext-b0012",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-b-niccolo-albergati",
-      "block": "none-b0012",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-b-niccolo-albergati",
-      "block": "vespers-b0012",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-b-niccolo-albergati",
-      "block": "compline-b0012",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
       "office": "little-office-of-s-peter-prince-of-the-apostles",
       "block": "prime-b0013",
       "message": "Internal source reference awaits resolution."
@@ -873,13 +816,13 @@
     "offices": 82,
     "sections": 686,
     "blocks": 11282,
-    "missingEnglish": 3079,
-    "preparedEnglish": 4652,
+    "missingEnglish": 2909,
+    "preparedEnglish": 4822,
     "unpairedEnglish": 0,
     "reviewedOffices": 10,
     "englishOnly": 8,
     "latinOnly": 62,
     "suppliedBilingual": 12,
-    "unresolvedReferences": 94
+    "unresolvedReferences": 85
   }
 }

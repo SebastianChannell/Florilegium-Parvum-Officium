@@ -2801,5 +2801,341 @@
         }
       }
     ]
+  },
+  {
+    "office": "little-office-of-s-ludger-apostle-of-the-frisians-saxons-and-westphalians",
+    "sections": [
+      {
+        "id": "matins",
+        "sourceDigest": "40fa2ed5f07bb0fb278e3591a6e72339830dc0b6264dc2b8f5974e6f8827be4f",
+        "existingEnglish": {
+          "matins-b0001": "060e842382a94a5e9790d4b3ce6e41b0b11d3edda3c5e209979637d3298f877f",
+          "matins-b0002": "02aa4c2b0463d291f405c3f5e56be034f6a2178988148c1b540833ce956b2a73",
+          "matins-b0003": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "matins-b0004": "9d635f2e5a9afe26cfc4877a7488485ced357d379dade6363ba00c1f21b50f2c",
+          "matins-b0006": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "matins-b0010": "ec5d134ad65e20be1a560f3fdfaecd39e574fb556b2091321c6e10b832ed0fa3",
+          "matins-b0014": "608b495fa4c7400381ecbc22796861d539a36f965e74647475a9521445faf8af",
+          "matins-b0015": "26b82583e84b713174e1be5a3777aa491a66574f984b6a30ef2863d3dbd53e8e",
+          "matins-b0016": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
+          "matins-b0017": "b45e9aa62d3428e433121dba65037aebea736fe9dcf52abea75714d21e23e299"
+        }
+      },
+      {
+        "id": "lauds",
+        "sourceDigest": "001d4cf211a200bd72b20bed290b910cd52538c8fe096ae0a30a7562f493e7a9",
+        "existingEnglish": {
+          "lauds-b0001": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "lauds-b0002": "3aefe501ff77d16c6b0586038aed577928243ce1fe2c255104cb4e62114ba6b2",
+          "lauds-b0003": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "lauds-b0007": "ec5d134ad65e20be1a560f3fdfaecd39e574fb556b2091321c6e10b832ed0fa3",
+          "lauds-b0010": "608b495fa4c7400381ecbc22796861d539a36f965e74647475a9521445faf8af",
+          "lauds-b0011": "26b82583e84b713174e1be5a3777aa491a66574f984b6a30ef2863d3dbd53e8e",
+          "lauds-b0012": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
+          "lauds-b0013": "b45e9aa62d3428e433121dba65037aebea736fe9dcf52abea75714d21e23e299"
+        }
+      },
+      {
+        "id": "prime",
+        "sourceDigest": "dbe08403ec6a5f27a48282a528afe1697875237ee6c325c53c49abd7f7e123ee",
+        "existingEnglish": {
+          "prime-b0001": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "prime-b0002": "12e1f964cc3602ece91b47a9d4845f322cdea5a1363f80060e6c86972f894a44",
+          "prime-b0003": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "prime-b0007": "ec5d134ad65e20be1a560f3fdfaecd39e574fb556b2091321c6e10b832ed0fa3",
+          "prime-b0010": "608b495fa4c7400381ecbc22796861d539a36f965e74647475a9521445faf8af",
+          "prime-b0011": "26b82583e84b713174e1be5a3777aa491a66574f984b6a30ef2863d3dbd53e8e",
+          "prime-b0012": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
+          "prime-b0013": "b45e9aa62d3428e433121dba65037aebea736fe9dcf52abea75714d21e23e299"
+        }
+      },
+      {
+        "id": "terce",
+        "sourceDigest": "088b455cac996f799d26302e95f4fc0b288eaf9086f0a36a3c52f461bd8c2e58",
+        "existingEnglish": {
+          "terce-b0001": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "terce-b0002": "3aefe501ff77d16c6b0586038aed577928243ce1fe2c255104cb4e62114ba6b2",
+          "terce-b0003": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "terce-b0007": "ec5d134ad65e20be1a560f3fdfaecd39e574fb556b2091321c6e10b832ed0fa3",
+          "terce-b0010": "608b495fa4c7400381ecbc22796861d539a36f965e74647475a9521445faf8af",
+          "terce-b0011": "26b82583e84b713174e1be5a3777aa491a66574f984b6a30ef2863d3dbd53e8e",
+          "terce-b0012": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
+          "terce-b0013": "b45e9aa62d3428e433121dba65037aebea736fe9dcf52abea75714d21e23e299"
+        }
+      },
+      {
+        "id": "sext",
+        "sourceDigest": "f6fa19da5d244aebd8c0e2da65d94d91daa2415f902c19452819ded34b12c7ca",
+        "existingEnglish": {
+          "sext-b0001": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "sext-b0002": "24cb25255e69959d396bd4cd17c56e950f1359bdb867c5d01ef52e28cbeaca79",
+          "sext-b0004": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "sext-b0008": "ec5d134ad65e20be1a560f3fdfaecd39e574fb556b2091321c6e10b832ed0fa3",
+          "sext-b0010": "32871826c52cfa22e086af308a3f73b2f282ccaf27051894e65aae5369b1053c",
+          "sext-b0011": "608b495fa4c7400381ecbc22796861d539a36f965e74647475a9521445faf8af",
+          "sext-b0012": "26b82583e84b713174e1be5a3777aa491a66574f984b6a30ef2863d3dbd53e8e",
+          "sext-b0013": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
+          "sext-b0014": "b45e9aa62d3428e433121dba65037aebea736fe9dcf52abea75714d21e23e299"
+        }
+      },
+      {
+        "id": "none",
+        "sourceDigest": "28018975a490da295edf4e6122409dc8fc67f85c8aa29d75293564e1f00f2dcf",
+        "existingEnglish": {
+          "none-b0001": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "none-b0002": "12e1f964cc3602ece91b47a9d4845f322cdea5a1363f80060e6c86972f894a44",
+          "none-b0003": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "none-b0007": "ec5d134ad65e20be1a560f3fdfaecd39e574fb556b2091321c6e10b832ed0fa3",
+          "none-b0008": "7804561d4a4d0f3b2c196e2213644d2f83622a86d3caab8ac5f837f0bb438dcc",
+          "none-b0010": "608b495fa4c7400381ecbc22796861d539a36f965e74647475a9521445faf8af",
+          "none-b0011": "26b82583e84b713174e1be5a3777aa491a66574f984b6a30ef2863d3dbd53e8e",
+          "none-b0012": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
+          "none-b0013": "b45e9aa62d3428e433121dba65037aebea736fe9dcf52abea75714d21e23e299"
+        }
+      },
+      {
+        "id": "vespers",
+        "sourceDigest": "8a2b43912fda76526e81a54b070b38a531279a47d928d5f1a675433e5205134d",
+        "existingEnglish": {
+          "vespers-b0001": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "vespers-b0002": "3aefe501ff77d16c6b0586038aed577928243ce1fe2c255104cb4e62114ba6b2",
+          "vespers-b0003": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "vespers-b0007": "ec5d134ad65e20be1a560f3fdfaecd39e574fb556b2091321c6e10b832ed0fa3",
+          "vespers-b0009": "5403b1ba5d37257d083dc1fa97cee6f1c9103675a1aed946774a011827c98a0a",
+          "vespers-b0010": "608b495fa4c7400381ecbc22796861d539a36f965e74647475a9521445faf8af",
+          "vespers-b0011": "26b82583e84b713174e1be5a3777aa491a66574f984b6a30ef2863d3dbd53e8e",
+          "vespers-b0012": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
+          "vespers-b0013": "b45e9aa62d3428e433121dba65037aebea736fe9dcf52abea75714d21e23e299"
+        }
+      },
+      {
+        "id": "compline",
+        "sourceDigest": "b4a55ddc11d2a3cb0331a60df31d565bbc91d3ae453cd7c921a1c2ab4be6a61d",
+        "existingEnglish": {
+          "compline-b0001": "adeb1efff3740e45011ad8dcea950803f1f180b834e573a7b1adb5100c10e724",
+          "compline-b0002": "9ca66d40d2df89fa9c75d15a229696a2779de17588f87c5bfc83c73572720807",
+          "compline-b0003": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "compline-b0004": "24cb25255e69959d396bd4cd17c56e950f1359bdb867c5d01ef52e28cbeaca79",
+          "compline-b0005": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "compline-b0009": "ec5d134ad65e20be1a560f3fdfaecd39e574fb556b2091321c6e10b832ed0fa3",
+          "compline-b0012": "608b495fa4c7400381ecbc22796861d539a36f965e74647475a9521445faf8af",
+          "compline-b0013": "26b82583e84b713174e1be5a3777aa491a66574f984b6a30ef2863d3dbd53e8e",
+          "compline-b0014": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
+          "compline-b0015": "b45e9aa62d3428e433121dba65037aebea736fe9dcf52abea75714d21e23e299"
+        }
+      },
+      {
+        "id": "commendatio",
+        "sourceDigest": "112f9f044b399cac95ff8f1b118441cb09a58f39014df171e22446a2e3775343",
+        "existingEnglish": {}
+      }
+    ]
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "sections": [
+      {
+        "id": "matins",
+        "sourceDigest": "1af08a135061856595c4f9c761b33d0483ba49280532a9f0f8e6521a30d1ed06",
+        "existingEnglish": {
+          "matins-b0001": "060e842382a94a5e9790d4b3ce6e41b0b11d3edda3c5e209979637d3298f877f",
+          "matins-b0002": "02aa4c2b0463d291f405c3f5e56be034f6a2178988148c1b540833ce956b2a73",
+          "matins-b0003": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "matins-b0004": "9d635f2e5a9afe26cfc4877a7488485ced357d379dade6363ba00c1f21b50f2c",
+          "matins-b0006": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "matins-b0008": "7804561d4a4d0f3b2c196e2213644d2f83622a86d3caab8ac5f837f0bb438dcc",
+          "matins-b0012": "9db18c537f8404274fc5298e744b87da9e9a50c61bfcd47fd27e254d2b49f3f4",
+          "matins-b0013": "1e90bc63773822bfbef446cbc8f414cf7181b52002668a97dad0c816a5178a71",
+          "matins-b0014": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
+          "matins-b0016": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21",
+          "matins-b0017": "9db18c537f8404274fc5298e744b87da9e9a50c61bfcd47fd27e254d2b49f3f4",
+          "matins-b0018": "1e90bc63773822bfbef446cbc8f414cf7181b52002668a97dad0c816a5178a71",
+          "matins-b0019": "942f1ab51a4d32e2fd32bdb08326b1c62201a79ddaee7b5fb9145b7244fb0cb7",
+          "matins-b0020": "f5a08ee0e91a17650d17f2822d76f9c7348091d3dbc48746c33601a108416a22",
+          "matins-b0021": "3d4aae4b977fc96983a53970904427c6332cf438f5da9aa35e1b620b66f24cd8",
+          "matins-b0022": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        }
+      },
+      {
+        "id": "prime",
+        "sourceDigest": "14e46a685aa0f1a0ca718f7653df23b2f5c6de5bd839fda61f5bb92eb6926ac5",
+        "existingEnglish": {
+          "prime-b0001": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "prime-b0002": "12e1f964cc3602ece91b47a9d4845f322cdea5a1363f80060e6c86972f894a44",
+          "prime-b0003": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "prime-b0005": "7804561d4a4d0f3b2c196e2213644d2f83622a86d3caab8ac5f837f0bb438dcc",
+          "prime-b0009": "9db18c537f8404274fc5298e744b87da9e9a50c61bfcd47fd27e254d2b49f3f4",
+          "prime-b0010": "1e90bc63773822bfbef446cbc8f414cf7181b52002668a97dad0c816a5178a71",
+          "prime-b0011": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
+          "prime-b0013": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21",
+          "prime-b0014": "9db18c537f8404274fc5298e744b87da9e9a50c61bfcd47fd27e254d2b49f3f4",
+          "prime-b0015": "1e90bc63773822bfbef446cbc8f414cf7181b52002668a97dad0c816a5178a71",
+          "prime-b0016": "942f1ab51a4d32e2fd32bdb08326b1c62201a79ddaee7b5fb9145b7244fb0cb7",
+          "prime-b0017": "f5a08ee0e91a17650d17f2822d76f9c7348091d3dbc48746c33601a108416a22",
+          "prime-b0018": "3d4aae4b977fc96983a53970904427c6332cf438f5da9aa35e1b620b66f24cd8",
+          "prime-b0019": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        }
+      },
+      {
+        "id": "terce",
+        "sourceDigest": "9332b2bf30aac85fb04f2d4a1f288bb1278543f15d190b49d08cd7a53ed42656",
+        "existingEnglish": {
+          "terce-b0001": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "terce-b0002": "12e1f964cc3602ece91b47a9d4845f322cdea5a1363f80060e6c86972f894a44",
+          "terce-b0003": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "terce-b0005": "7804561d4a4d0f3b2c196e2213644d2f83622a86d3caab8ac5f837f0bb438dcc",
+          "terce-b0009": "9db18c537f8404274fc5298e744b87da9e9a50c61bfcd47fd27e254d2b49f3f4",
+          "terce-b0010": "1e90bc63773822bfbef446cbc8f414cf7181b52002668a97dad0c816a5178a71",
+          "terce-b0011": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
+          "terce-b0013": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21",
+          "terce-b0014": "9db18c537f8404274fc5298e744b87da9e9a50c61bfcd47fd27e254d2b49f3f4",
+          "terce-b0015": "1e90bc63773822bfbef446cbc8f414cf7181b52002668a97dad0c816a5178a71",
+          "terce-b0016": "942f1ab51a4d32e2fd32bdb08326b1c62201a79ddaee7b5fb9145b7244fb0cb7",
+          "terce-b0017": "f5a08ee0e91a17650d17f2822d76f9c7348091d3dbc48746c33601a108416a22",
+          "terce-b0018": "3d4aae4b977fc96983a53970904427c6332cf438f5da9aa35e1b620b66f24cd8",
+          "terce-b0019": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        }
+      },
+      {
+        "id": "sext",
+        "sourceDigest": "8d97371b34042761cf8d5abaeee0907f4ca538f9009f626bb8bd87a4d0766bbf",
+        "existingEnglish": {
+          "sext-b0001": "0206c3334cf3b908997297ea1295ebbd0c44ef40d8886e4d45be78cbe4376604",
+          "sext-b0002": "1e9c04765534d32bd345d53a8ac86f7f798a0e71a191b4ecc25bec99d0f8696b",
+          "sext-b0003": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "sext-b0005": "7804561d4a4d0f3b2c196e2213644d2f83622a86d3caab8ac5f837f0bb438dcc",
+          "sext-b0009": "634b77617f8b539e86aa8cabcf5f907619d0b0f4ca4cc19790538560b60b349b",
+          "sext-b0010": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
+          "sext-b0012": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        }
+      },
+      {
+        "id": "none",
+        "sourceDigest": "772623edda7be5220e49a72c22f05959a1e0e0901c013d355ac93af81eb0c727",
+        "existingEnglish": {
+          "none-b0001": "0206c3334cf3b908997297ea1295ebbd0c44ef40d8886e4d45be78cbe4376604",
+          "none-b0003": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "none-b0005": "7804561d4a4d0f3b2c196e2213644d2f83622a86d3caab8ac5f837f0bb438dcc",
+          "none-b0009": "634b77617f8b539e86aa8cabcf5f907619d0b0f4ca4cc19790538560b60b349b",
+          "none-b0010": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
+          "none-b0012": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        }
+      },
+      {
+        "id": "vespers",
+        "sourceDigest": "231fa229d7a6a5468e64a8875a6dd24926b0efc5ba8f78f97034145309762fc8",
+        "existingEnglish": {
+          "vespers-b0001": "0206c3334cf3b908997297ea1295ebbd0c44ef40d8886e4d45be78cbe4376604",
+          "vespers-b0003": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "vespers-b0005": "7804561d4a4d0f3b2c196e2213644d2f83622a86d3caab8ac5f837f0bb438dcc",
+          "vespers-b0009": "634b77617f8b539e86aa8cabcf5f907619d0b0f4ca4cc19790538560b60b349b",
+          "vespers-b0010": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
+          "vespers-b0012": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        }
+      },
+      {
+        "id": "compline",
+        "sourceDigest": "b774b7c7f464b429136d7bb5d0c46529ecb5bc3f8fd196ff59f68e820e70b43a",
+        "existingEnglish": {
+          "compline-b0001": "adeb1efff3740e45011ad8dcea950803f1f180b834e573a7b1adb5100c10e724",
+          "compline-b0002": "9ca66d40d2df89fa9c75d15a229696a2779de17588f87c5bfc83c73572720807",
+          "compline-b0003": "0206c3334cf3b908997297ea1295ebbd0c44ef40d8886e4d45be78cbe4376604",
+          "compline-b0005": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "compline-b0007": "7804561d4a4d0f3b2c196e2213644d2f83622a86d3caab8ac5f837f0bb438dcc",
+          "compline-b0009": "9321b5cfb64845a70cee8d3049106f7e7eb7ee2d6d27cb20cea66d7e752eff38",
+          "compline-b0011": "634b77617f8b539e86aa8cabcf5f907619d0b0f4ca4cc19790538560b60b349b",
+          "compline-b0012": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
+          "compline-b0014": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        }
+      },
+      {
+        "id": "commendatio",
+        "sourceDigest": "1951f8d647c03c7550cd5fe22d79069235d57d0a93123e4cfca0879dbd722f36",
+        "existingEnglish": {}
+      }
+    ]
+  },
+  {
+    "office": "little-office-of-b-niccolo-albergati",
+    "sections": [
+      {
+        "id": "matins",
+        "sourceDigest": "b2133d421ce4176dcf7a83e2a4a211c1e548c1649a8a7ca406ca290ab6b52c66",
+        "existingEnglish": {
+          "matins-b0001": "060e842382a94a5e9790d4b3ce6e41b0b11d3edda3c5e209979637d3298f877f",
+          "matins-b0002": "02aa4c2b0463d291f405c3f5e56be034f6a2178988148c1b540833ce956b2a73",
+          "matins-b0003": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "matins-b0004": "12e1f964cc3602ece91b47a9d4845f322cdea5a1363f80060e6c86972f894a44",
+          "matins-b0005": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d"
+        }
+      },
+      {
+        "id": "prime",
+        "sourceDigest": "cff030710b94d716d31466162877640bb69c67472a33f79b43620b38eeab560e",
+        "existingEnglish": {
+          "prime-b0001": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "prime-b0002": "24cb25255e69959d396bd4cd17c56e950f1359bdb867c5d01ef52e28cbeaca79",
+          "prime-b0003": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "prime-b0012": "ad84e6016718505335315f998e337b74bb32499603b6d1a20027e9bda014b393"
+        }
+      },
+      {
+        "id": "terce",
+        "sourceDigest": "6f6b6b83d1462680a4f946cc07db06a707708276dd690f9b1ce655ca0aec6c4f",
+        "existingEnglish": {
+          "terce-b0001": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "terce-b0002": "12e1f964cc3602ece91b47a9d4845f322cdea5a1363f80060e6c86972f894a44",
+          "terce-b0003": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "terce-b0012": "ad84e6016718505335315f998e337b74bb32499603b6d1a20027e9bda014b393"
+        }
+      },
+      {
+        "id": "sext",
+        "sourceDigest": "d0b694b1053edd3b141d1db87a5c6056d0919e7397f3fbdce95aeb82c1bbc666",
+        "existingEnglish": {
+          "sext-b0001": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "sext-b0002": "12e1f964cc3602ece91b47a9d4845f322cdea5a1363f80060e6c86972f894a44",
+          "sext-b0003": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "sext-b0012": "ad84e6016718505335315f998e337b74bb32499603b6d1a20027e9bda014b393"
+        }
+      },
+      {
+        "id": "none",
+        "sourceDigest": "edf51522cbc362f1b95eefed3a61db15485b9c5943cea5fa4995dab86bb4b65c",
+        "existingEnglish": {
+          "none-b0001": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "none-b0002": "12e1f964cc3602ece91b47a9d4845f322cdea5a1363f80060e6c86972f894a44",
+          "none-b0003": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "none-b0012": "ad84e6016718505335315f998e337b74bb32499603b6d1a20027e9bda014b393"
+        }
+      },
+      {
+        "id": "vespers",
+        "sourceDigest": "7510a2a505bd12dbbc9808c7aa9038905c7a454e7c78c0c131c085a03cad8030",
+        "existingEnglish": {
+          "vespers-b0001": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "vespers-b0002": "12e1f964cc3602ece91b47a9d4845f322cdea5a1363f80060e6c86972f894a44",
+          "vespers-b0003": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "vespers-b0012": "ad84e6016718505335315f998e337b74bb32499603b6d1a20027e9bda014b393"
+        }
+      },
+      {
+        "id": "compline",
+        "sourceDigest": "bb693e4158807d7557781be56901926e0589417db7f974ac8bbf8077ef30d4d1",
+        "existingEnglish": {
+          "compline-b0001": "adeb1efff3740e45011ad8dcea950803f1f180b834e573a7b1adb5100c10e724",
+          "compline-b0002": "9ca66d40d2df89fa9c75d15a229696a2779de17588f87c5bfc83c73572720807",
+          "compline-b0003": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "compline-b0008": "d974fc6161c936f13fb065948b23f8ddba48918eb0e1db56d921253c7b79fae5",
+          "compline-b0011": "003b77f85ee72ad8eb975a9b3424eec29f4ddcaa3872f4e623abbf611a52ab2c",
+          "compline-b0012": "ad84e6016718505335315f998e337b74bb32499603b6d1a20027e9bda014b393"
+        }
+      },
+      {
+        "id": "commendatio",
+        "sourceDigest": "a0a4dd3249c215c06681756d07fe9d712ebbbcf5c66f74eb8ebf87b80a9526f0",
+        "existingEnglish": {}
+      }
+    ]
   }
 ]

@@ -189,14 +189,26 @@
         {
           "type": "rubric",
           "source": "Antiphona Jerem. 1.",
-          "english": null,
+          "english": "Antiphon (Jerem. 1)",
           "sourcePages": [
             516
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-b-niccolo-albergati",
+            "reusedFrom": "none-b0008",
+            "sourcePages": [
+              516
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0009",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -213,14 +225,26 @@
         {
           "type": "prayer",
           "source": "℣. Inveni filium Jesse virum secundum cor meum.",
-          "english": null,
+          "english": "℣. I have found the son of Jesse, a man according to My heart,",
           "sourcePages": [
             516
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-b-niccolo-albergati",
+            "reusedFrom": "none-b0010",
+            "sourcePages": [
+              516
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1136,26 +1160,50 @@
         {
           "type": "rubric",
           "source": "Antiphona Agg. 2.",
-          "english": null,
+          "english": "Antiphon (Agg. 2)",
           "sourcePages": [
             518
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-b-niccolo-albergati",
+            "reusedFrom": "terce-b0008",
+            "sourcePages": [
+              518
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
           "source": "Assumam te Zorobabel serve meus, et ponam te quasi signaculum: quia te elegi.",
-          "english": null,
+          "english": "I shall take thee, Zorobabel My servant, and make thee as a signet, for I have chosen thee.",
           "sourcePages": [
             518
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-b-niccolo-albergati",
+            "reusedFrom": "terce-b0009",
+            "sourcePages": [
+              518
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0008",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",

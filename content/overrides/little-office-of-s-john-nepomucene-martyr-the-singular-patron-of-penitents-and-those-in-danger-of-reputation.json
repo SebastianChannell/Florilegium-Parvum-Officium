@@ -234,14 +234,26 @@
         {
           "type": "prayer",
           "source": "Dominus ab utero vocavit me: de ventre matris meae recordatus est nominis mei.",
-          "english": null,
+          "english": "The Lord called me from the womb; from my mother’s womb He remembered my name.",
           "sourcePages": [
             536
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-s-ludger-apostle-of-the-frisians-saxons-and-westphalians",
+            "reusedFrom": "matins-b0013",
+            "sourcePages": [
+              536
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0012",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -629,14 +641,25 @@
         {
           "type": "rubric",
           "source": "Antiphona (Jerem. 1)",
-          "english": null,
+          "english": "Antiphon (Jerem. 1)",
           "sourcePages": [
             537
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-b-niccolo-albergati",
+            "reusedFrom": "none-b0008",
+            "sourcePages": [
+              537
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0009",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
