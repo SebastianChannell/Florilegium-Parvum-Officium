@@ -28,9 +28,9 @@
   ],
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
-    "extraction": "candidate",
-    "translation": "incomplete",
-    "verification": "pending"
+    "extraction": "reviewed",
+    "translation": "complete-prepared",
+    "verification": "source-reading-pending"
   },
   "sections": [
     {
@@ -60,7 +60,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -81,7 +81,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -102,7 +102,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -123,7 +123,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -144,7 +144,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -165,7 +165,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -185,7 +185,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0007",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             54
           ],
@@ -210,19 +210,27 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O bina conjugalis Exempla foederis! O Joachim, qualis Mariae conjugis! O Anna, quem nepotem, Quam nacta filiam! O Joachim, dotem Quis optet alteram!",
-          "english": null,
+          "english": "O two examples of the marriage covenant! [Unclear printed address: “O Joachim, qualis / Mariae conjugis!”] O Anne, what a grandson, what a daughter thou hast obtained! O Joachim, who would desire another dowry!",
           "sourcePages": [
             527
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              527
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0009",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints “Mariae conjugis” in an address to Joachim. That clause is marked unclear in English; Mary is not silently replaced with Anne."
         },
         {
           "type": "prayer",
@@ -245,20 +253,27 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "pending",
+          "verification": "visual-review",
           "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
           "source": "℣. Orate pro nobis, sancti Joachim et Anna.",
-          "english": null,
+          "english": "℣. Pray for us, Saints Joachim and Anne.",
           "sourcePages": [
             527
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              527
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -279,7 +294,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0012",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -300,19 +315,27 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0013",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Deus, qui prae omnibus Sanctis tuis beatos Joachim et Annam genitrices Filii tui parentes esse voluisti: concede, quaesumus; ut quos devoto cultu veneramur in terris, eorum quoque patrocinia sentiamus in caelis. Per eundem Dominum nostrum.",
-          "english": null,
+          "english": "O God, who didst will that, above all Thy saints, Blessed Joachim and Anne should be the parents of the Mother of Thy Son, grant, we beseech Thee, that we who venerate them with devout worship upon earth may also experience their protection in heaven. Through the same our Lord.",
           "sourcePages": [
             527
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              527
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0014",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed “genitrices Filii tui parentes” has irregular case endings. The English provisionally understands parents of the Mother of Thy Son; the Latin remains."
         },
         {
           "type": "prayer",
@@ -333,7 +356,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0015",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -354,7 +377,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0016",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -375,7 +398,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0017",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -396,7 +419,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0018",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -417,7 +440,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0019",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -438,7 +461,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0020",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -469,7 +492,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -490,7 +513,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -511,7 +534,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -532,19 +555,27 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Connubii quieta Levre tempora, Diems mansit usque laeta Vel inter aspera. Est visa purpurae Sed inde nidi remotum Cor est ab aethere.",
-          "english": null,
+          "english": "Peaceful times of marriage; [the printed “Levre” is unclear]. The day remained joyful even amid hardships. Purple was seen; [the printed “Sed inde nidi remotum” is unclear]; the heart is far from heaven.",
           "sourcePages": [
             527
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              527
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "Several printed lines, including “Levre tempora,” “Diems,” and “Sed inde nidi remotum,” are defective. The intelligible words are translated and the unclear lines explicitly marked; this stanza is unresolved."
         },
         {
           "type": "prayer",
@@ -567,7 +598,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0006",
-          "verification": "pending",
+          "verification": "visual-review",
           "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
@@ -589,7 +620,19 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014"
+            ],
+            "sourcePages": [
+              527
+            ],
+            "note": "Versicle, response, and collect printed at Matins in this same office."
+          }
         }
       ]
     },
@@ -621,7 +664,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -642,7 +685,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -663,7 +706,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -684,31 +727,46 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Tandem serenoiori Lux vexat phosphoro Explevit ampliiori Utrumque gaudio. Concepit Anna prolem Stupente conjuge, Cum vidit axe solem Plaudente surgere.",
-          "english": null,
+          "english": "At last a light with a more serene morning star filled both with greater joy. Anne conceived a child, her spouse amazed, when he saw the sun rise in the rejoicing heavens.",
           "sourcePages": [
             528
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              528
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed “Lux vexat phosphoro” has uncertain syntax. The English provisionally renders a dawn/light image and the subsequent joy; the Latin remains."
         },
         {
           "type": "prayer",
           "source": "Ant. Prov.31. 28 Surrexerunt filii ejus, et beatissimam praedicaverunt.",
-          "english": null,
+          "english": "Ant. Proverbs 31:28. Her children rose up and proclaimed her most blessed.",
           "sourcePages": [
             528
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              528
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -729,7 +787,19 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014"
+            ],
+            "sourcePages": [
+              528
+            ],
+            "note": "Versicle, response, and collect printed at Matins in this same office."
+          }
         }
       ]
     },
@@ -760,7 +830,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -781,7 +851,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -802,7 +872,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -823,31 +893,45 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Mox numini sacratur Vix facta trimula, Araque dedicatur Tenella victima; Et praevolat parentum Jam vota filia, Et multa se sequentum Invitat agmina.",
-          "english": null,
+          "english": "Soon, scarcely three years old, she is consecrated to God, and a tender victim is dedicated at the altar. Already the daughter outstrips her parents’ prayers and invites many hosts to follow her.",
           "sourcePages": [
             528
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              528
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Ps. 65. 12. Introibo in domum tuam in holocaustis: reddam tibi vota mea, quae distinxerunt labia mea.",
-          "english": null,
+          "english": "Ant. Psalm 65:12. I shall enter Thy house with burnt offerings; I shall pay Thee my vows, which my lips have uttered.",
           "sourcePages": [
             528
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              528
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -868,7 +952,19 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014"
+            ],
+            "sourcePages": [
+              528
+            ],
+            "note": "Versicle, response, and collect printed at Matins in this same office."
+          }
         }
       ]
     },
@@ -899,7 +995,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -920,7 +1016,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -941,7 +1037,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -962,31 +1058,46 @@
           },
           "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Exinde quo labore Educta Filia! Quo coelitum favore Nutrita parvula! Industriae parentum Fit axis aemulus, Virginumque coaetum Servit cohortibus.",
-          "english": null,
+          "english": "With what labour thereafter the daughter was brought up! With what favour of heaven’s citizens the little one was nourished! Heaven rivals the parents’ diligence, and hosts attend the company of virgins.",
           "sourcePages": [
             528
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              528
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed “Virginumque coaetum / Servit cohortibus” has uncertain agreement and agency. The English provisionally understands heavenly attendance; the Latin remains."
         },
         {
           "type": "prayer",
           "source": "Ant. Rom 8. 28. Scimus quoniam diligentibus Deum omnia cooperantur in bonum.",
-          "english": null,
+          "english": "Ant. Romans 8:28. We know that all things work together unto good for those who love God.",
           "sourcePages": [
             528
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              528
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1007,7 +1118,19 @@
           },
           "alignment": "reviewed",
           "id": "none-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014"
+            ],
+            "sourcePages": [
+              528
+            ],
+            "note": "Versicle, response, and collect printed at Matins in this same office."
+          }
         }
       ]
     },
@@ -1039,7 +1162,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1060,7 +1183,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1081,7 +1204,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1102,31 +1225,45 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O Joachim, fidelis Minister aetheris! O Anna, nota coelis A Matre Numinis! Uterque sanctitatis Exemplar integrae: Et me beatitatis Donate lumine.",
-          "english": null,
+          "english": "O Joachim, faithful minister of heaven! O Anne, known to heaven through the Mother of God! Each an example of perfect holiness: grant me also the light of blessedness.",
           "sourcePages": [
             528
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              528
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ant. Prov. 4. 18. Justorum semita, quasi lux splendens, procedit et crescit usque ad perfectam diem.",
-          "english": null,
+          "english": "Ant. Proverbs 4:18. The path of the righteous, like a shining light, advances and grows until the perfect day.",
           "sourcePages": [
             528
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              528
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1147,7 +1284,19 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014"
+            ],
+            "sourcePages": [
+              529
+            ],
+            "note": "Versicle, response, and collect printed at Matins in this same office."
+          }
         }
       ]
     },
@@ -1178,7 +1327,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1199,7 +1348,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1220,7 +1369,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1241,7 +1390,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1262,7 +1411,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1283,31 +1432,46 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Obtutibus sacratis Jam nata cernitur, Complexibus beatis Perenne jungitur: Reciproce tenentur, Tenetque undique Duo parva pars daretur Ex hocce gaudio!",
-          "english": null,
+          "english": "Now the daughter is beheld with holy gazes and joined for ever in blessed embraces. They hold one another, and she holds them on every side. O that a little share of this joy might be given!",
           "sourcePages": [
             529
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              529
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed “Duo parva pars daretur” is grammatically defective. The English provisionally understands a wish for a small share in their joy; the Latin remains."
         },
         {
           "type": "prayer",
           "source": "Ant. Eccl. 44. 13. 14. Semen eorum et gloria eorum non derelinquetur. Corpora ipsorum in pace sepulta sunt, et nomen eorum vivit in generationem et generationem.",
-          "english": null,
+          "english": "Ant. Sirach 44:13–14. Their descendants and their glory shall not be forsaken. Their bodies are buried in peace, and their name lives from generation to generation.",
           "sourcePages": [
             529
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              529
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1328,7 +1492,19 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014"
+            ],
+            "sourcePages": [
+              529
+            ],
+            "note": "Versicle, response, and collect printed at Matins in this same office."
+          }
         }
       ]
     },
@@ -1344,103 +1520,175 @@
         {
           "type": "prayer",
           "source": "Vectigal nocte amoris, O bina sidera, Pensum precantis oris, O clara lumina, Consigno dedicatum Vestris amoribus, Optoque consecratum Vestris honoribus.",
-          "english": null,
+          "english": "O twin stars, O bright lights, I set down this tribute of love by night, this task of a praying mouth, dedicated to your love, and desire it consecrated to your honour.",
           "sourcePages": [
             529
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              529
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "oblatio-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Amabo vos, amabo, Amita haec permanent, Magisque tunc amabo, Cum vestra me levabit In astra dextera, Et mecum sociabit Aetherea gloria. Amen.",
-          "english": null,
+          "english": "I shall love you, I shall love you; [the printed “Amita haec permanent” is unclear]. I shall love you still more when your right hand lifts me to the stars and joins me to heavenly glory. Amen.",
           "sourcePages": [
             529
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              529
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "oblatio-b0002",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed “Amita haec permanent” is not intelligible in this verse and is explicitly marked untranslated in English."
         },
         {
           "type": "rubric",
           "source": "Oratio ad S. Joachim.",
-          "english": null,
+          "english": "Prayer to Saint Joachim.",
           "sourcePages": [
             529
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              529
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "oblatio-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O sancte Joachim, cui nomen esse est inditum, quod praeparationem Domini significat. Tu enim ad vivum Dei templum praeparandum a Deo electus es, in quo Filio ejus Unigenito habitare placuit. O beatissime Pater, a quo suscepta est illa filia, quae in Dei Matrem, ac coeli terraeque Reginam est assumpta! O quanto illum amore et reverentia excepisti! qua cura et sollicitudine enutrivisti! quam praeclaro humilitatis, religionis ac pietatis exemplo, proli tuae clarissimae, cunctisque mortalibus prae luxisti! Tuis me precibus, o S. Joachim, adjuva, ut et ego gratum Deo domicilium in corde meo prae parem, constantiique pietatis affectu illud exornem. Amen.",
-          "english": null,
+          "english": "O Saint Joachim, to whom a name was given signifying preparation of the Lord, thou wast chosen by God to prepare the living temple of God in which His only-begotten Son was pleased to dwell. O most blessed father, from whom was born that daughter raised to be the Mother of God and Queen of heaven and earth! With what love and reverence thou didst receive her, with what care and solicitude thou didst nourish her! With what splendid example of humility, religion, and devotion thou didst shine before thy most illustrious child and all mortals! Help me with thy prayers, O Saint Joachim, that I too may prepare in my heart a dwelling pleasing to God and adorn it with a steadfast spirit of devotion. Amen.",
           "sourcePages": [
             529
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              529
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "oblatio-b0004",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF uses masculine “illum” for the daughter in one clause. The English provisionally uses her in context; the Latin remains."
         },
         {
           "type": "rubric",
           "source": "Oratio ad S. Matrem Annam.",
-          "english": null,
+          "english": "Prayer to the Holy Mother Anne.",
           "sourcePages": [
             529
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              529
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "oblatio-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O gratiosa Domina, o benedicta Mater Anna! bene Anna, hoc est gratia, tibi nomen obtigit; quia tibi coelum vivum, omnibus coelis majus, in benedicto utero tuo portare, et in hanc lucem edere a Deo concessum est! O quanta felicitas, quae coelum capere non potuerat, Filia tua immaculato gremio clausa fuit! O coelestis Mater, radix vitae illustris, flos pulcherrimus, fructusque vitae nostrae dulcissimus Christus Jesus ascendit. Laetare, o Anna sterilis! quoniam ex Filia tua Filius natus est nobis, cujus nomen vocatum est magni consilii, hoc est, salutis totius mundi, Angelus. Fac me, o Mater benedicta, gratia, quam ex gratiarum fonte abunde hausisti, participem, ut in amore dilectissimi Nepotis tui Jesu, et protectione dulcissimae Fili ae tuae Mariae vivam et moriar. Amen.",
-          "english": null,
+          "english": "O gracious lady, O blessed Mother Anne! Well did the name Anne, that is grace, fall to thee, for God granted thee to carry in thy blessed womb and bring into this world the living heaven, greater than all the heavens! O what happiness: He whom heaven could not contain was enclosed in thy daughter’s immaculate womb! O heavenly mother, illustrious root of life, from whom arose the fairest flower and sweetest fruit of our life, Christ Jesus. Rejoice, O barren Anne, for from thy daughter a Son was born to us whose name was called Angel of great counsel, that is, of the salvation of the whole world. Make me, O blessed mother, a sharer in the grace which thou hast drawn abundantly from the fountain of graces, that I may live and die in the love of thy most beloved grandson Jesus and under the protection of thy sweetest daughter Mary. Amen.",
           "sourcePages": [
             529
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              529
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "oblatio-b0006",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The clauses concerning the daughter’s womb and the root/flower/fruit image have irregular, incomplete grammar. The English provisionally follows their devotional context; the Latin remains."
         },
         {
           "type": "rubric",
           "source": "Oratio ad Ambos SS. Joachim et Annam.",
-          "english": null,
+          "english": "Prayer to Both Saints Joachim and Anne.",
           "sourcePages": [
             529
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              529
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "oblatio-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O castum ac beatum parturturum, Joachim et Anna, vobis omnis creatura obstricta est; per vos enim donum omnium donorum praestantissimum Creatori obtulit, nempe castam matrem, quae sola Creatore digna erat. Vestra dignitas ex meritu cognoscitur, quem Dei perpetuo obsequio prompte consecrastis; coniuro vos, obsecro, junctam huic sacrificio hostiam manibus vestris Deo omnipotenti offerte omnesque hujus in me miseris defectus vestra, quam apud Deum invenistis, gratia compensate.",
-          "english": null,
+          "english": "O chaste and blessed parents, Joachim and Anne, every creature is indebted to you; for through you it offered the Creator the most excellent gift of all gifts, the chaste Mother who alone was worthy of the Creator. Your dignity is known from the merit which you readily consecrated to God’s perpetual service. I implore and beseech you: with your hands offer to almighty God the victim joined to this sacrifice, and through the grace you have found with God make up all its deficiencies in miserable me.",
           "sourcePages": [
             529,
             530
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              529,
+              530
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "oblatio-b0008",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints malformed “parturturum,” “meritu,” and “hu jus in me miseris defectus.” The English provisionally renders parents, merit, and deficiencies; the Latin remains."
         }
       ]
     }
   ],
   "unpairedEnglish": [],
-  "translationScope": "marked"
+  "translationScope": "marked",
+  "editorialNotes": [
+    {
+      "text": "English prepared after visual comparison with PDF pages 527–530. The seven printed hours and Offering, including all three concluding prayers, are retained; the six abbreviated versicle/collect groups expand from Matins. Defective printed hymn clauses remain explicitly unresolved rather than being assigned invented meanings. No Lauds or calendar is added.",
+      "pages": [
+        527,
+        528,
+        529,
+        530
+      ]
+    }
+  ]
 }

@@ -906,14 +906,26 @@
         {
           "type": "prayer",
           "source": "Mihi autem absit gloriari, nisi in cruce Domini nostri Jesu Christi: per quem mihi mundus crucifixus est, et ego mundo.",
-          "english": null,
+          "english": "But far be it from me to glory except in the cross of our Lord Jesus Christ, through whom the world is crucified to me and I to the world.",
           "sourcePages": [
             537
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-s-alexius-confessor",
+            "reusedFrom": "none-b0008",
+            "sourcePages": [
+              537
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0010",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",

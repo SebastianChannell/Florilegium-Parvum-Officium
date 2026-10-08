@@ -1331,14 +1331,26 @@
         {
           "type": "rubric",
           "source": "Antiphona (2 Cor. 5)",
-          "english": null,
+          "english": "Antiphon. 2 Corinthians 5.",
           "sourcePages": [
             572
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-s-francis-xavier-of-the-society-of-jesus",
+            "reusedFrom": "vespers-b0005",
+            "sourcePages": [
+              572
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0008",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",

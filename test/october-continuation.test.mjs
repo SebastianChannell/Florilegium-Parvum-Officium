@@ -7,7 +7,7 @@ import {sectionBlocks,resolveVariants} from '../public/reader-model.js';
 const {documents}=readContent();
 const expected=JSON.parse(fs.readFileSync(new URL('./fixtures/october-continuation-source-digests.json',import.meta.url)));
 const digest=t=>createHash('sha256').update(t.replace(/\s+/g,' ').trim()).digest('hex');
-test('twelve continued offices conserve source text, existing English, and printed hours',()=>{
+test('eighteen continued offices conserve source text, existing English, and printed hours',()=>{
  for(const entry of expected){
   const office=documents.get(entry.office);
   assert.deepEqual(office.sections.map(s=>s.id),entry.sections.map(s=>s.id));

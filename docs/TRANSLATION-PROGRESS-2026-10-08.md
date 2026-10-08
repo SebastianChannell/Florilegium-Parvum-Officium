@@ -13,7 +13,7 @@ Four further Latin-only offices now have English throughout:
 
 Checks: structural validation, all 35 Node tests, Python syntax checks, and editorial preview build pass. Browser integration assertions were updated for the English-only supplement, but no browser run was performed because Chromium is not installed in this runtime.
 
-Remaining: 3,692 source passages without English, 147 unresolved reference candidates, Latin source notes, transcription/variant structure review, and final publication acceptance. Nine offices have full visual-review status; several others have been inspected but remain pending because the PDF itself contains defects. The production gate remains intact. This is a preserved continuation, not a finished publication.
+Remaining: 3,494 source passages without English, 123 unresolved reference candidates, Latin source notes, transcription/variant structure review, and final publication acceptance. Nine offices have full visual-review status; several others have been inspected but remain pending because the PDF itself contains defects. The production gate remains intact. This is a preserved continuation, not a finished publication.
 
 ## Further continuation
 
@@ -32,3 +32,9 @@ All 17 previously untranslated Latin introductory notes now have prepared Englis
 Two more offices have English throughout: Francis Borgia (498–500) and the Mozarabic bedtime prayer (651–652). Both were compared visually with all their PDF pages and preserve their original contents. Their malformed printed passages remain flagged, including an ambiguous Creed phrase; no clauses are added from a standard Creed. The bedtime office retains its single non-hour section. Source-preservation fixtures now cover twelve continued offices.
 
 After the two new translations, a further 19 complete-word-sequence matches became available; the next pass adds zero, with all 35 tests still passing.
+
+## Six further source-reviewed continuations
+
+Francis Xavier (505–507), Lawrence (552–554), Alexius (440–442), Joachim and Anne (527–530), Philip Neri (586–589), and Bruno (472–475) now have English rows throughout. All relevant PDF pages were visually inspected. Their seven printed hours and non-hour concluding material remain; none adds Lauds. Distinct Philip Neri collects remain distinct. Repeated prayer groups in the other five offices expand from their own Matins. Defective grammatical constructions and unintelligible printed clauses are explicitly provisional or marked unresolved in English, keeping source-review status pending.
+
+Seven more complete-word-sequence reuses became available after the first three offices, bringing that mode to 161 cumulative reuses. The next pass adds zero. Source-preservation fixtures now cover eighteen continued offices and protect their original Latin, existing English, and printed sections. All 35 tests, the structural check, and the editorial preview build pass. No browser integration run, production publication, or merge is claimed.

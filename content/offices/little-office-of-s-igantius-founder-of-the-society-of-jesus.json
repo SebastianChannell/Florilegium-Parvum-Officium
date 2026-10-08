@@ -1414,14 +1414,26 @@
         {
           "type": "prayer",
           "source": "Oremus, Deus, qui, etc.",
-          "english": null,
+          "english": "Let us pray. O God, who, etc.",
           "sourcePages": [
             518
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-s-francis-xavier-of-the-society-of-jesus",
+            "reusedFrom": "prime-b0009",
+            "sourcePages": [
+              518
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0013",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         }
       ]
     },
