@@ -36,7 +36,7 @@ HOURS = {
     'praefatio': 'Praefatio',
 }
 SECTION_PREFIX = re.compile(r'^(?:[IVX]+\s*[-–]|Kontakion\s+\d|Ikos\s+\d|Trisagion Prayers|Prayer (?:for|in |to |Before|After)|Closing Prayer|Formula S\.|Devota Oratio|Commendatio ad)', re.I)
-REFERENCE = re.compile(r'\but supra\b|\b(?:as above|see page|vide supra|supra in)\b|\b(?:pag\.|p\.)\s*\d', re.I)
+REFERENCE = re.compile(r'\but supra\b|\b(?:as above|see page|vide supra|supra in)\b|\bas at (?:the end of )?(?:Matins|Lauds|Prime|Terce|Sext|None|Vespers|Compline)\b|\b(?:pag\.|p\.)\s*\d', re.I)
 
 def clean(text):
     return text.replace('>V.', '℣.').replace('=R.', '℟.').replace('\u00ad', '').replace('\ufb01', 'fi').replace('\ufb02', 'fl')

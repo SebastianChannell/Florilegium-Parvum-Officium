@@ -105,14 +105,17 @@ function renderSection(focus = false) {
     row.append(cell(b.source, office.sourceLanguage, `source-cell${englishSource ? ' english-source' : ''}`));
     if (!englishSource && b.english) row.append(cell(b.english, 'English', 'english-cell', b.translation?.kind === 'prepared'));
     $('prayerBlocks').append(row);
+    if (b.editorialNote) $('prayerBlocks').append(el('p', `Source note: ${b.editorialNote}`, 'editorial-note'));
   }
   const missing = englishSource ? 0 : blocks.filter(b => !b.english).length;
   const uncertain = blocks.some(b => b.alignment === 'candidate');
-  const sourceUncertain = blocks.some(b => b.verification === 'source-reading-pending');
+  const sourceUncertain = blocks.some(b => b.verification === 'source-reading-pending' && b.alignment !== 'source-discrepancy');
+  const sourceDiscrepancy = blocks.some(b => b.alignment === 'source-discrepancy');
   const messages = [];
   if (missing) messages.push(mode === 'english' ? 'English is not yet complete for this section. Choose Source only to read the source text.' : 'English is not yet complete for this section. Passages without English appear in a single source column.');
   if (uncertain) messages.push('Bilingual correspondence in this section is awaiting editorial review.');
   if (sourceUncertain) messages.push('This section contains an uncertain reading in the source PDF. See the editorial notes before using its provisional English.');
+  if (sourceDiscrepancy) messages.push('The PDF’s Latin and supplied English differ in this section. See the notes beside the affected passages; the printed texts are retained pending editorial resolution.');
   message('sectionStatus', messages.join(' '));
   const unpaired = (office.unpairedEnglish || []).filter(s => s.section === section.id);
   $('unpairedDetails').hidden = !unpaired.length;

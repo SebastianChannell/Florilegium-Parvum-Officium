@@ -36,6 +36,7 @@ export function validateContent({ inventory, documents, boundaries, references =
         if (doc.sourceLanguage !== 'English' && !b.english?.trim()) { missing++; missingEnglish++; }
         if (doc.sourceLanguage === 'English' && b.english) add(`English-only office duplicates its source: ${b.id}`,office.id);
         if (b.english && !b.translation?.kind) add(`English lacks provenance: ${b.id}`,office.id);
+        if (b.alignment === 'source-discrepancy' && (!b.editorialNote?.trim() || b.verification !== 'source-reading-pending')) add(`Source discrepancy lacks a visible note or pending review status: ${b.id}`,office.id);
         if (b.translation?.kind === 'prepared') { prepared++; preparedEnglish++; if (!b.english) add(`Prepared translation is empty: ${b.id}`,office.id); }
         if (/\b(?:TODO|TBD|LOREM IPSUM)\b/i.test(b.source+' '+(b.english || ''))) add(`Placeholder content: ${b.id}`,office.id);
         if (release && b.verification !== 'visual-review') pending.push({office:office.id,block:b.id,message:'Passage awaits visual review.'});

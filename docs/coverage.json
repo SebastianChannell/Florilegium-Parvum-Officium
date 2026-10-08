@@ -88,14 +88,6 @@
     },
     {
       "office": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
-      "message": "566 source passages lack aligned English."
-    },
-    {
-      "office": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
-      "message": "557 supplied English passages await pairing."
-    },
-    {
-      "office": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
       "message": "Office awaits visual source review."
     },
     {
@@ -570,6 +562,16 @@
     },
     {
       "office": "little-office-of-the-holy-tear-of-our-lord-jesus-christ",
+      "block": "terce-b0007",
+      "message": "Internal source reference awaits resolution."
+    },
+    {
+      "office": "little-office-of-the-holy-tear-of-our-lord-jesus-christ",
+      "block": "sext-b0008",
+      "message": "Internal source reference awaits resolution."
+    },
+    {
+      "office": "little-office-of-the-holy-tear-of-our-lord-jesus-christ",
       "block": "vespers-b0007",
       "message": "Internal source reference awaits resolution."
     },
@@ -640,7 +642,22 @@
     },
     {
       "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
+      "block": "prime-b0001",
+      "message": "Internal source reference awaits resolution."
+    },
+    {
+      "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
+      "block": "terce-b0001",
+      "message": "Internal source reference awaits resolution."
+    },
+    {
+      "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
       "block": "terce-b0041",
+      "message": "Internal source reference awaits resolution."
+    },
+    {
+      "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
+      "block": "sext-b0001",
       "message": "Internal source reference awaits resolution."
     },
     {
@@ -650,7 +667,17 @@
     },
     {
       "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
+      "block": "none-b0001",
+      "message": "Internal source reference awaits resolution."
+    },
+    {
+      "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
       "block": "none-b0038",
+      "message": "Internal source reference awaits resolution."
+    },
+    {
+      "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
+      "block": "vespers-b0001",
       "message": "Internal source reference awaits resolution."
     },
     {
@@ -706,6 +733,56 @@
     {
       "office": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-lyon",
       "block": "vespers-b0029",
+      "message": "Internal source reference awaits resolution."
+    },
+    {
+      "office": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+      "block": "prime-b0001",
+      "message": "Internal source reference awaits resolution."
+    },
+    {
+      "office": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+      "block": "terce-b0001",
+      "message": "Internal source reference awaits resolution."
+    },
+    {
+      "office": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+      "block": "terce-b0031",
+      "message": "Internal source reference awaits resolution."
+    },
+    {
+      "office": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+      "block": "sext-b0001",
+      "message": "Internal source reference awaits resolution."
+    },
+    {
+      "office": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+      "block": "sext-b0031",
+      "message": "Internal source reference awaits resolution."
+    },
+    {
+      "office": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+      "block": "none-b0001",
+      "message": "Internal source reference awaits resolution."
+    },
+    {
+      "office": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+      "block": "none-b0035",
+      "message": "Internal source reference awaits resolution."
+    },
+    {
+      "office": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+      "block": "vespers-b0001",
+      "message": "Internal source reference awaits resolution."
+    },
+    {
+      "office": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+      "block": "vespers-b0076",
+      "message": "Internal source reference awaits resolution."
+    },
+    {
+      "office": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+      "block": "compline-b0059",
       "message": "Internal source reference awaits resolution."
     },
     {
@@ -1552,14 +1629,14 @@
   "totals": {
     "offices": 82,
     "sections": 686,
-    "blocks": 11348,
-    "missingEnglish": 5951,
+    "blocks": 11316,
+    "missingEnglish": 5385,
     "preparedEnglish": 3451,
-    "unpairedEnglish": 951,
+    "unpairedEnglish": 394,
     "reviewedOffices": 8,
     "englishOnly": 8,
     "latinOnly": 62,
     "suppliedBilingual": 12,
-    "unresolvedReferences": 202
+    "unresolvedReferences": 219
   }
 }

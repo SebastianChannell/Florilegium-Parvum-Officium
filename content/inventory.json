@@ -3280,7 +3280,9 @@
             117,
             118,
             119,
-            120
+            120,
+            121,
+            122
           ]
         },
         {
@@ -3299,7 +3301,8 @@
             131,
             132,
             133,
-            134
+            134,
+            135
           ]
         },
         {
@@ -3320,7 +3323,8 @@
             139,
             140,
             141,
-            142
+            142,
+            143
           ]
         },
         {
@@ -4713,14 +4717,14 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed-with-source-discrepancies",
+        "translation": "complete-supplied-reading-pending",
+        "verification": "source-reading-pending"
       },
       "coverage": {
-        "blocks": 566,
-        "missingEnglish": 566,
-        "unpairedEnglishBlocks": 557,
+        "blocks": 534,
+        "missingEnglish": 0,
+        "unpairedEnglishBlocks": 0,
         "preparedEnglish": 0
       }
     },
