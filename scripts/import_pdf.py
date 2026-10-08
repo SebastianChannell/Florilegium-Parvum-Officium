@@ -247,7 +247,9 @@ def main():
             for b in s['blocks']:
                 if REFERENCE.search(b['source']):
                     review.append({'office':doc['id'], 'section':s['id'], 'block':b['id'], 'pages':b['sourcePages'],
-                                   'kind':'internal-reference', 'text':b['source'], 'status':'unresolved'})
+                                   'kind':'internal-reference', 'text':b['source'],
+                                   'status':'resolved' if b.get('referenceExpansion') else 'unresolved',
+                                   **({'resolution':b['referenceExpansion']} if b.get('referenceExpansion') else {})})
     inv_path.write_text(json.dumps(inv,ensure_ascii=False,indent=2)+'\n')
     (ROOT/'content/references.json').write_text(json.dumps(review,ensure_ascii=False,indent=2)+'\n')
     print(f'Extracted all {len(inv["offices"])} offices. Candidates require review; {len(review)} reference candidates recorded.')

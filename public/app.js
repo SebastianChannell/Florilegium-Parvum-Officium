@@ -108,7 +108,12 @@ function renderSection(focus = false) {
   }
   const missing = englishSource ? 0 : blocks.filter(b => !b.english).length;
   const uncertain = blocks.some(b => b.alignment === 'candidate');
-  message('sectionStatus', missing ? (mode === 'english' ? 'English is not yet complete for this section. Choose Source only to read the source text.' : 'English is not yet complete for this section. Passages without English appear in a single source column.') : uncertain ? 'Bilingual correspondence in this section is awaiting editorial review.' : '');
+  const sourceUncertain = blocks.some(b => b.verification === 'source-reading-pending');
+  const messages = [];
+  if (missing) messages.push(mode === 'english' ? 'English is not yet complete for this section. Choose Source only to read the source text.' : 'English is not yet complete for this section. Passages without English appear in a single source column.');
+  if (uncertain) messages.push('Bilingual correspondence in this section is awaiting editorial review.');
+  if (sourceUncertain) messages.push('This section contains an uncertain reading in the source PDF. See the editorial notes before using its provisional English.');
+  message('sectionStatus', messages.join(' '));
   const unpaired = (office.unpairedEnglish || []).filter(s => s.section === section.id);
   $('unpairedDetails').hidden = !unpaired.length;
   $('unpairedEnglish').replaceChildren();

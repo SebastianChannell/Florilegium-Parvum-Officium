@@ -410,15 +410,15 @@
         }
       ],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-prepared-reading-pending",
+        "verification": "source-reading-pending"
       },
       "coverage": {
         "blocks": 47,
-        "missingEnglish": 47,
+        "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 47
       }
     },
     {
@@ -771,9 +771,9 @@
       },
       "coverage": {
         "blocks": 105,
-        "missingEnglish": 105,
+        "missingEnglish": 53,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 52
       }
     },
     {
@@ -1146,9 +1146,9 @@
       },
       "coverage": {
         "blocks": 81,
-        "missingEnglish": 81,
+        "missingEnglish": 42,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 39
       }
     },
     {
@@ -1307,9 +1307,9 @@
       },
       "coverage": {
         "blocks": 54,
-        "missingEnglish": 54,
+        "missingEnglish": 26,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 28
       }
     },
     {
@@ -1508,14 +1508,14 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "supplied",
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 25,
-        "missingEnglish": 18,
-        "unpairedEnglishBlocks": 18,
+        "missingEnglish": 0,
+        "unpairedEnglishBlocks": 0,
         "preparedEnglish": 0
       }
     },
@@ -1784,15 +1784,15 @@
         }
       ],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-prepared-reading-pending",
+        "verification": "source-reading-pending"
       },
       "coverage": {
         "blocks": 71,
-        "missingEnglish": 71,
+        "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 71
       }
     },
     {
@@ -2102,9 +2102,9 @@
       },
       "coverage": {
         "blocks": 94,
-        "missingEnglish": 94,
+        "missingEnglish": 52,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 42
       }
     },
     {
@@ -2412,9 +2412,9 @@
       },
       "coverage": {
         "blocks": 105,
-        "missingEnglish": 105,
+        "missingEnglish": 59,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 46
       }
     },
     {
@@ -2629,9 +2629,9 @@
       },
       "coverage": {
         "blocks": 98,
-        "missingEnglish": 98,
+        "missingEnglish": 88,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 10
       }
     },
     {
@@ -3000,9 +3000,9 @@
       },
       "coverage": {
         "blocks": 206,
-        "missingEnglish": 206,
+        "missingEnglish": 121,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 85
       }
     },
     {
@@ -3158,15 +3158,15 @@
       "variantMentions": [],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-prepared-reading-pending",
+        "verification": "source-reading-pending"
       },
       "coverage": {
         "blocks": 75,
-        "missingEnglish": 75,
+        "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 75
       }
     },
     {
@@ -4915,9 +4915,9 @@
       },
       "coverage": {
         "blocks": 507,
-        "missingEnglish": 507,
+        "missingEnglish": 327,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 180
       }
     },
     {
@@ -5630,9 +5630,9 @@
       },
       "coverage": {
         "blocks": 530,
-        "missingEnglish": 530,
+        "missingEnglish": 340,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 190
       }
     },
     {
@@ -5929,9 +5929,9 @@
       },
       "coverage": {
         "blocks": 682,
-        "missingEnglish": 682,
+        "missingEnglish": 438,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 244
       }
     },
     {
@@ -6167,9 +6167,9 @@
       },
       "coverage": {
         "blocks": 292,
-        "missingEnglish": 292,
+        "missingEnglish": 230,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 62
       }
     },
     {
@@ -6385,9 +6385,9 @@
       },
       "coverage": {
         "blocks": 199,
-        "missingEnglish": 199,
+        "missingEnglish": 181,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 18
       }
     },
     {
@@ -7565,9 +7565,9 @@
       },
       "coverage": {
         "blocks": 559,
-        "missingEnglish": 559,
+        "missingEnglish": 404,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 155
       }
     },
     {
@@ -7664,9 +7664,9 @@
       },
       "coverage": {
         "blocks": 291,
-        "missingEnglish": 291,
+        "missingEnglish": 233,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 58
       }
     },
     {
@@ -8106,9 +8106,9 @@
       },
       "coverage": {
         "blocks": 420,
-        "missingEnglish": 420,
+        "missingEnglish": 347,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 73
       }
     },
     {
@@ -8318,14 +8318,14 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "supplied",
+        "verification": "visual-review"
       },
       "coverage": {
-        "blocks": 71,
-        "missingEnglish": 24,
-        "unpairedEnglishBlocks": 21,
+        "blocks": 68,
+        "missingEnglish": 0,
+        "unpairedEnglishBlocks": 0,
         "preparedEnglish": 0
       }
     },
@@ -8649,9 +8649,9 @@
       },
       "coverage": {
         "blocks": 84,
-        "missingEnglish": 84,
+        "missingEnglish": 58,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 26
       }
     },
     {
@@ -8792,9 +8792,9 @@
       },
       "coverage": {
         "blocks": 86,
-        "missingEnglish": 86,
+        "missingEnglish": 51,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 35
       }
     },
     {
@@ -9474,9 +9474,9 @@
       },
       "coverage": {
         "blocks": 96,
-        "missingEnglish": 96,
+        "missingEnglish": 50,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 46
       }
     },
     {
@@ -9905,9 +9905,9 @@
       },
       "coverage": {
         "blocks": 118,
-        "missingEnglish": 118,
+        "missingEnglish": 65,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 53
       }
     },
     {
@@ -10082,9 +10082,9 @@
       },
       "coverage": {
         "blocks": 55,
-        "missingEnglish": 55,
+        "missingEnglish": 27,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 28
       }
     },
     {
@@ -10250,9 +10250,9 @@
       },
       "coverage": {
         "blocks": 123,
-        "missingEnglish": 123,
+        "missingEnglish": 55,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 68
       }
     },
     {
@@ -10402,9 +10402,9 @@
       },
       "coverage": {
         "blocks": 88,
-        "missingEnglish": 88,
+        "missingEnglish": 21,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 67
       }
     },
     {
@@ -10586,9 +10586,9 @@
       },
       "coverage": {
         "blocks": 85,
-        "missingEnglish": 85,
+        "missingEnglish": 39,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 46
       }
     },
     {
@@ -10955,9 +10955,9 @@
       },
       "coverage": {
         "blocks": 87,
-        "missingEnglish": 87,
+        "missingEnglish": 48,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 39
       }
     },
     {
@@ -11143,9 +11143,9 @@
       },
       "coverage": {
         "blocks": 65,
-        "missingEnglish": 65,
+        "missingEnglish": 19,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 46
       }
     },
     {
@@ -11699,9 +11699,9 @@
       },
       "coverage": {
         "blocks": 55,
-        "missingEnglish": 55,
+        "missingEnglish": 21,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 34
       }
     },
     {
@@ -11900,9 +11900,9 @@
       },
       "coverage": {
         "blocks": 97,
-        "missingEnglish": 97,
+        "missingEnglish": 43,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 54
       }
     },
     {
@@ -12247,9 +12247,9 @@
       },
       "coverage": {
         "blocks": 153,
-        "missingEnglish": 153,
+        "missingEnglish": 82,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 71
       }
     },
     {
@@ -12409,9 +12409,9 @@
       },
       "coverage": {
         "blocks": 77,
-        "missingEnglish": 77,
+        "missingEnglish": 38,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 39
       }
     },
     {
@@ -12612,9 +12612,9 @@
       },
       "coverage": {
         "blocks": 85,
-        "missingEnglish": 85,
+        "missingEnglish": 46,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 39
       }
     },
     {
@@ -12759,9 +12759,9 @@
       },
       "coverage": {
         "blocks": 70,
-        "missingEnglish": 70,
+        "missingEnglish": 43,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 27
       }
     },
     {
@@ -12929,9 +12929,9 @@
       },
       "coverage": {
         "blocks": 104,
-        "missingEnglish": 104,
+        "missingEnglish": 65,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 39
       }
     },
     {
@@ -13244,9 +13244,9 @@
       },
       "coverage": {
         "blocks": 94,
-        "missingEnglish": 94,
+        "missingEnglish": 54,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 40
       }
     },
     {
@@ -13431,9 +13431,9 @@
       },
       "coverage": {
         "blocks": 75,
-        "missingEnglish": 75,
+        "missingEnglish": 23,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 52
       }
     },
     {
@@ -13639,9 +13639,9 @@
       },
       "coverage": {
         "blocks": 81,
-        "missingEnglish": 81,
+        "missingEnglish": 43,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 38
       }
     },
     {
@@ -13823,9 +13823,9 @@
       },
       "coverage": {
         "blocks": 72,
-        "missingEnglish": 72,
+        "missingEnglish": 25,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 47
       }
     },
     {
@@ -14019,9 +14019,9 @@
       },
       "coverage": {
         "blocks": 104,
-        "missingEnglish": 104,
+        "missingEnglish": 57,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 47
       }
     },
     {
@@ -14171,9 +14171,9 @@
       },
       "coverage": {
         "blocks": 144,
-        "missingEnglish": 144,
+        "missingEnglish": 73,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 71
       }
     },
     {
@@ -14314,9 +14314,9 @@
       },
       "coverage": {
         "blocks": 92,
-        "missingEnglish": 92,
+        "missingEnglish": 26,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 66
       }
     },
     {
@@ -14461,9 +14461,9 @@
       },
       "coverage": {
         "blocks": 61,
-        "missingEnglish": 61,
+        "missingEnglish": 23,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 38
       }
     },
     {
@@ -14628,9 +14628,9 @@
       },
       "coverage": {
         "blocks": 82,
-        "missingEnglish": 82,
+        "missingEnglish": 40,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 42
       }
     },
     {
@@ -14806,9 +14806,9 @@
       },
       "coverage": {
         "blocks": 79,
-        "missingEnglish": 79,
+        "missingEnglish": 45,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 34
       }
     },
     {
@@ -14971,9 +14971,9 @@
       },
       "coverage": {
         "blocks": 117,
-        "missingEnglish": 117,
+        "missingEnglish": 55,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 62
       }
     },
     {
@@ -15147,9 +15147,9 @@
       },
       "coverage": {
         "blocks": 151,
-        "missingEnglish": 151,
+        "missingEnglish": 71,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 80
       }
     },
     {
@@ -15336,9 +15336,9 @@
       },
       "coverage": {
         "blocks": 68,
-        "missingEnglish": 68,
+        "missingEnglish": 24,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 44
       }
     },
     {
@@ -15514,9 +15514,9 @@
       },
       "coverage": {
         "blocks": 91,
-        "missingEnglish": 91,
+        "missingEnglish": 62,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 29
       }
     },
     {
@@ -15810,9 +15810,9 @@
       },
       "coverage": {
         "blocks": 104,
-        "missingEnglish": 104,
+        "missingEnglish": 70,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 34
       }
     },
     {
@@ -16010,9 +16010,9 @@
       },
       "coverage": {
         "blocks": 62,
-        "missingEnglish": 62,
+        "missingEnglish": 32,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 30
       }
     },
     {
@@ -16153,9 +16153,9 @@
       },
       "coverage": {
         "blocks": 73,
-        "missingEnglish": 73,
+        "missingEnglish": 25,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 48
       }
     },
     {
@@ -16348,9 +16348,9 @@
       },
       "coverage": {
         "blocks": 70,
-        "missingEnglish": 70,
+        "missingEnglish": 24,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 46
       }
     },
     {
@@ -16545,9 +16545,9 @@
       },
       "coverage": {
         "blocks": 224,
-        "missingEnglish": 224,
+        "missingEnglish": 111,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 113
       }
     },
     {
@@ -16687,9 +16687,9 @@
       },
       "coverage": {
         "blocks": 75,
-        "missingEnglish": 75,
+        "missingEnglish": 37,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 38
       }
     },
     {
@@ -16741,15 +16741,15 @@
       "variantMentions": [],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-prepared-reading-pending",
+        "verification": "source-reading-pending"
       },
       "coverage": {
         "blocks": 13,
-        "missingEnglish": 13,
+        "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 13
       }
     },
     {
@@ -16961,9 +16961,9 @@
       },
       "coverage": {
         "blocks": 65,
-        "missingEnglish": 65,
+        "missingEnglish": 28,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 37
       }
     },
     {
@@ -17248,14 +17248,14 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "supplied",
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 11,
-        "missingEnglish": 11,
-        "unpairedEnglishBlocks": 10,
+        "missingEnglish": 0,
+        "unpairedEnglishBlocks": 0,
         "preparedEnglish": 0
       }
     },
@@ -17392,9 +17392,9 @@
       },
       "coverage": {
         "blocks": 127,
-        "missingEnglish": 127,
+        "missingEnglish": 114,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 13
       }
     },
     {
@@ -17528,9 +17528,9 @@
       },
       "coverage": {
         "blocks": 276,
-        "missingEnglish": 276,
+        "missingEnglish": 204,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 72
       }
     },
     {
@@ -17609,9 +17609,9 @@
       },
       "coverage": {
         "blocks": 57,
-        "missingEnglish": 57,
+        "missingEnglish": 37,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 20
       }
     },
     {

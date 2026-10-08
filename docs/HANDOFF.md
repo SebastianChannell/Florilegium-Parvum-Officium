@@ -1,5 +1,7 @@
 # Handoff — 8 October 2026
 
+**Updated work:** See [CONTINUATION-2026-10-08.md](CONTINUATION-2026-10-08.md) for the subsequent translation and pairing pass. The counts below describe the earlier checkpoint.
+
 The user requested: **“Push all current work, including unfinished translations and progress notes, to a branch in Florilegium-Parvum-Officium so another session can continue.”** This is preserved partial work, not a completed bilingual edition.
 
 ## Repository and source

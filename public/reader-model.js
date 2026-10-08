@@ -16,7 +16,16 @@ export function sectionBlocks(office, sectionId, variants = {}) {
   const assembly = section.assembly || {};
   const blocks = [...(assembly.before || []).map(id => index.get(id)), ...section.blocks,
     ...(assembly.after || []).map(id => index.get(id))];
-  return blocks.filter(b => {
+  function expand(block, ancestors = []) {
+    if (!block) throw new Error('Unresolved prayer reference.');
+    const targets = block.referenceExpansion?.targets;
+    if (!targets) return [block];
+    if (ancestors.includes(block.id)) throw new Error('Circular prayer reference.');
+    return [{ ...block, type: 'rubric' }, ...targets.flatMap(id =>
+      expand(index.get(id), [...ancestors, block.id]).map(b => ({ ...b,
+        id: `${block.id}--${b.id}`, expandedFrom: b.expandedFrom || b.id })))];
+  }
+  return blocks.flatMap(b => expand(b)).filter(b => {
     if (!b) throw new Error('Unresolved prayer reference.');
     return !b.when || Object.entries(b.when).every(([id, values]) => values.includes(variants[id]));
   }).map(block => {

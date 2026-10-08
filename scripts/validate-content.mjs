@@ -42,6 +42,18 @@ export function validateContent({ inventory, documents, boundaries, references =
       }
     }
     for (const sid of inventorySections) if (!sections.has(sid)) add(`Inventory section is absent from content: ${sid}`,office.id);
+    const blockMap = new Map(doc.sections.flatMap(s => s.blocks.map(b => [b.id,b])));
+    function checkExpansion(id, chain = []) {
+      const b = blockMap.get(id);
+      if (!b) { add(`Unresolved inline prayer reference: ${id}`,office.id); return; }
+      if (chain.includes(id)) { add(`Circular inline prayer reference: ${id}`,office.id); return; }
+      if (!b.referenceExpansion) return;
+      if (!b.referenceExpansion.targets?.length || !b.referenceExpansion.sourcePages?.length) {
+        add(`Inline prayer reference lacks targets or source provenance: ${id}`,office.id); return;
+      }
+      for (const target of b.referenceExpansion.targets) checkExpansion(target,[...chain,id]);
+    }
+    for (const b of blockMap.values()) if (b.referenceExpansion) checkExpansion(b.id);
     for (const s of doc.sections) {
       for (const ref of [...(s.assembly?.before || []), ...(s.assembly?.after || [])]) if (!blockIds.has(ref)) add(`Unresolved assembly reference: ${ref}`,office.id);
     }
@@ -67,7 +79,13 @@ export function validateContent({ inventory, documents, boundaries, references =
   }
   for (const id of expected) if (!ids.has(id)) add('Missing office compared with source boundaries.',id);
   for (const id of documents.keys()) if (!ids.has(id)) add('Content document is absent from inventory.',id);
-  for (const ref of references) if (ref.status !== 'resolved') pending.push({office:ref.office,block:ref.block,message:'Internal source reference awaits resolution.'});
+  for (const ref of references) {
+    if (ref.status !== 'resolved') pending.push({office:ref.office,block:ref.block,message:'Internal source reference awaits resolution.'});
+    else {
+      const b = documents.get(ref.office)?.sections.flatMap(s=>s.blocks).find(b=>b.id===ref.block);
+      if (!b?.referenceExpansion || JSON.stringify(b.referenceExpansion)!==JSON.stringify(ref.resolution)) add(`Resolved reference has no matching content expansion: ${ref.block}`,ref.office);
+    }
+  }
   return { complete:!errors.length && !pending.length, errors, pending,
     totals:{ offices:ids.size, sections:[...documents.values()].reduce((n,o)=>n+o.sections.length,0),blocks,missingEnglish,preparedEnglish,unpairedEnglish,reviewedOffices,
       englishOnly:inventory.offices.filter(o=>o.originalLanguages.length===1 && o.originalLanguages[0]==='English').length,

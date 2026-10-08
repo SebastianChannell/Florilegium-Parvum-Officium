@@ -47,3 +47,20 @@ npm run coverage
 Structural checks cover missing offices/sections/blocks, duplicate IDs, source pages, English-only duplication, translation provenance/notices, variants, and assembly links. The strict gate also requires visual review, complete English, paired supplied text, and resolved references. Preview remains visibly incomplete while the gate fails.
 
 Record suspected source errors separately from extraction errors in `docs/SOURCE-REVIEW.md`, with office/page/literal reading/disposition. Preserve historical statements as source claims, not present-day approval.
+
+## Exact translation memory
+
+`content/translations/exact-memory.json` contains prepared English keyed to the **complete exact source string**. Apply with:
+
+```sh
+python3 scripts/editorial/apply_translation_memory.py
+python3 scripts/import_pdf.py
+```
+
+Application is limited to offices inventoried as Latin-only. It never replaces existing English, never operates on supplied bilingual offices, never normalizes different Latin readings into one key, and never certifies a passage's source transcription or an office's visual review. Each applied translation records its memory ID and that passage's own PDF pages. The operation is idempotent; curated overrides remain authoritative.
+
+## Inline source references
+
+A manually reviewed `block.referenceExpansion` contains `targets` (same-office block IDs), `sourcePages`, and an explanatory `note`. The reader retains the original abbreviated reference as a rubric and follows it with the referenced text. Nested expansions reject missing targets and cycles. Validation requires the reference manifest and content expansion to agree; a bare `resolved` status is insufficient.
+
+`source-reading-pending` passages remain pending even when provisional English exists. The reader displays a section warning in addition to the office's detailed editorial notes. Do not remove that warning or promote an office's status merely because all its English fields are populated.
