@@ -3137,5 +3137,104 @@
         "existingEnglish": {}
       }
     ]
+  },
+  {
+    "office": "little-office-of-saint-augustine-for-true-and-sincere-conversion-to-god",
+    "sections": [
+      {
+        "id": "invocation",
+        "sourceDigest": "f55641afa1c5b3388d4a8ba2d71cac94afdb9fb7696c90ac29367d208a8d98b1",
+        "existingEnglish": {}
+      },
+      {
+        "id": "matins",
+        "sourceDigest": "12e4e64b0b87068b4dd18916d933bed1b7423f29a72d8c68d74067dd860cbe5a",
+        "existingEnglish": {
+          "matins-b0001": "88d5bd5d97ea416257f775c79982920dd2f2eb3c1d18865ea98a005494fc821d",
+          "matins-b0002": "060e842382a94a5e9790d4b3ce6e41b0b11d3edda3c5e209979637d3298f877f",
+          "matins-b0003": "02aa4c2b0463d291f405c3f5e56be034f6a2178988148c1b540833ce956b2a73",
+          "matins-b0004": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "matins-b0005": "d1792424a7bb95fc61d548cef68347aa7c027164286f7e00b0ebecf30dbfbc07",
+          "matins-b0006": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "matins-b0012": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e"
+        }
+      },
+      {
+        "id": "prime",
+        "sourceDigest": "2f389925896ae92b8999aa078bf2216cc9eae161bc38af6cc3de482c67a89407",
+        "existingEnglish": {
+          "prime-b0001": "88d5bd5d97ea416257f775c79982920dd2f2eb3c1d18865ea98a005494fc821d",
+          "prime-b0002": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "prime-b0003": "d1792424a7bb95fc61d548cef68347aa7c027164286f7e00b0ebecf30dbfbc07",
+          "prime-b0004": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "prime-b0010": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e"
+        }
+      },
+      {
+        "id": "terce",
+        "sourceDigest": "4dfbf8d68b203991abce10d9f27f76f858fa7ca02f3f4ab9161d6f5b30afa3a1",
+        "existingEnglish": {
+          "terce-b0001": "88d5bd5d97ea416257f775c79982920dd2f2eb3c1d18865ea98a005494fc821d",
+          "terce-b0002": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "terce-b0003": "d1792424a7bb95fc61d548cef68347aa7c027164286f7e00b0ebecf30dbfbc07",
+          "terce-b0004": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "terce-b0009": "39783f2031f2b849cbc2b4a2272d03880c34ce02d3b008e02628998ef13f7e6e",
+          "terce-b0010": "b286e56d3bf2111f77bd4ec549e20d26b558ce7d00dc8b2a941de134de46283e",
+          "terce-b0011": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e"
+        }
+      },
+      {
+        "id": "sext",
+        "sourceDigest": "f55667ead10222efb409cb254739e07aa613f4279681864730f7c8e7a643d9b4",
+        "existingEnglish": {
+          "sext-b0001": "88d5bd5d97ea416257f775c79982920dd2f2eb3c1d18865ea98a005494fc821d",
+          "sext-b0002": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "sext-b0003": "d1792424a7bb95fc61d548cef68347aa7c027164286f7e00b0ebecf30dbfbc07",
+          "sext-b0004": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d"
+        }
+      },
+      {
+        "id": "none",
+        "sourceDigest": "dea9411457feaaa51083757ab1746ac455b6123a3d460549d6c7aa2b3739c201",
+        "existingEnglish": {
+          "none-b0001": "88d5bd5d97ea416257f775c79982920dd2f2eb3c1d18865ea98a005494fc821d",
+          "none-b0002": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "none-b0003": "d1792424a7bb95fc61d548cef68347aa7c027164286f7e00b0ebecf30dbfbc07",
+          "none-b0004": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "none-b0011": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e"
+        }
+      },
+      {
+        "id": "vespers",
+        "sourceDigest": "935a4d474693a07e8815d9232f2118b351cc681c2b06f7a6fd2d802e47d4b8f8",
+        "existingEnglish": {
+          "vespers-b0001": "88d5bd5d97ea416257f775c79982920dd2f2eb3c1d18865ea98a005494fc821d",
+          "vespers-b0002": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "vespers-b0003": "d1792424a7bb95fc61d548cef68347aa7c027164286f7e00b0ebecf30dbfbc07",
+          "vespers-b0004": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "vespers-b0011": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e"
+        }
+      },
+      {
+        "id": "compline",
+        "sourceDigest": "b5b6b676c7311cce70a43b4904fbb4eb941c8a5135504abb1f7f3f7a796eeec9",
+        "existingEnglish": {
+          "compline-b0001": "88d5bd5d97ea416257f775c79982920dd2f2eb3c1d18865ea98a005494fc821d",
+          "compline-b0002": "adeb1efff3740e45011ad8dcea950803f1f180b834e573a7b1adb5100c10e724",
+          "compline-b0003": "9ca66d40d2df89fa9c75d15a229696a2779de17588f87c5bfc83c73572720807",
+          "compline-b0004": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
+          "compline-b0005": "d1792424a7bb95fc61d548cef68347aa7c027164286f7e00b0ebecf30dbfbc07",
+          "compline-b0006": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
+          "compline-b0013": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e"
+        }
+      },
+      {
+        "id": "commendatio",
+        "sourceDigest": "703cc00a4d51123a20d50f5edf6232f75e9e429126d87938ad9bc07838280744",
+        "existingEnglish": {
+          "commendatio-b0004": "d07a178bc193c1910055e2cfd1e2c19eece00b6cd3368d5e96308f79539eaad3"
+        }
+      }
+    ]
   }
 ]

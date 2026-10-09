@@ -11164,15 +11164,15 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-prepared-reading-pending",
+        "verification": "source-reading-pending"
       },
       "coverage": {
         "blocks": 87,
-        "missingEnglish": 46,
+        "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 39
+        "preparedEnglish": 85
       }
     },
     {
