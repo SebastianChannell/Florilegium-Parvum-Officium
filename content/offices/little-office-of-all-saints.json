@@ -28,9 +28,9 @@
   ],
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
-    "extraction": "candidate",
-    "translation": "incomplete",
-    "verification": "pending"
+    "extraction": "reviewed",
+    "translation": "complete-prepared-reading-pending",
+    "verification": "source-reading-pending"
   },
   "sections": [
     {
@@ -195,50 +195,80 @@
         {
           "type": "rubric",
           "source": "Hymnus ad B. Virginem Reginam Sanctorum omnium.",
-          "english": null,
+          "english": "Hymn to the Blessed Virgin, Queen of All Saints.",
           "sourcePages": [
             424
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              424
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O Mater! O senatus Regina coelicolae, Thronusque praeparatus In orbe Numini! Te nominat parentem Creator omnium; Te praedicat potentem Caterva supplicum.",
-          "english": null,
+          "english": "O Mother! Queen of the assembly\nOf the dwellers in heaven,\nThrone prepared on earth\nFor the Godhead!\nThe Creator of all things\nCalls you his mother;\nThe throng of suppliants\nProclaims your power.",
           "sourcePages": [
             424
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              424
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "prayer",
           "source": "Te, Mater, opto mille Laudare vocibus, Et mille, mille, mille Amore cordibus. Cor millies renatum Si, Mater, imples, Cor millies dicatum, O Mater, auferes.",
-          "english": null,
+          "english": "Mother, I long to praise you\nWith a thousand voices,\nAnd to love you with a thousand,\nA thousand, a thousand hearts.\nIf you fill a heart\nA thousand times reborn, Mother,\nTake that heart, O Mother,\nA thousand times dedicated to you.",
           "sourcePages": [
             424
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              424
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "prayer",
           "source": "Ant. Luc. 1, 48, 49. Beatum te dicent omnes generationes: quia fecit tibi magna, qui potens est, et sanctum nomen ejus.",
-          "english": null,
+          "english": "Antiphon. Luke 1:48–49. All generations shall call you blessed, for he who is mighty has done great things for you, and holy is his name.",
           "sourcePages": [
             424
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              424
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -285,14 +315,22 @@
         {
           "type": "prayer",
           "source": "Oremus, Omnipotens aeterne Deus, qui beatissimam Virginem Mariam innumeris donis et gratiis exornatam, in Matrem unigeniti Filii tui elegisti, et super omnes Angelos et electos in regno tuo exaltasti: concede propitius ut qui eam interitus colimus, ejusdem patrocinio aeternam gloriam consequamur. Per eundem Christum Dominum nostrum.",
-          "english": null,
+          "english": "Let us pray. Almighty, eternal God, you chose the most blessed Virgin Mary, adorned with countless gifts and graces, to be the Mother of your only-begotten Son, and exalted her above all the angels and the elect in your kingdom. Mercifully grant that we who honor her [the word interitus is unresolved] may attain eternal glory through her protection. Through the same Christ our Lord.",
           "sourcePages": [
             424
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              424
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0014",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "Printed interitus is unresolved in this clause. The English explicitly marks the gap rather than replacing it with an assumed reading."
         },
         {
           "type": "prayer",
@@ -518,75 +556,120 @@
         {
           "type": "rubric",
           "source": "Hymnus ad SS. Angelos.",
-          "english": null,
+          "english": "Hymn to the Holy Angels.",
           "sourcePages": [
             424
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              424
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O candidae cohortes Stellantum aetheris! Prompte fertis sortes Et lata Numini: Vos ore triplicato, Ternoque carmine, Ter Sanctum ordinato Cantatis agmine.",
-          "english": null,
+          "english": "O radiant companies\nOf the starry heavens!\nReadily you bring your appointed service\nAnd gifts to God.\nWith threefold voice\nAnd threefold song,\nIn ordered ranks you sing\nThe thrice-holy praise.",
           "sourcePages": [
             424
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              424
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "prayer",
           "source": "Ah! possit esse mima Vox nostra coelitum, Ut summa vox optima Det suave canticum! Fovete mille corda, Ut inde concinat Fiat vel una chorda Aptanda musica.",
-          "english": null,
+          "english": "Ah, may our voice imitate\nThe dwellers in heaven,\nThat its finest, fullest sound\nMay offer a sweet song!\nCherish a thousand hearts,\nThat from them may sound\nEven one string\nSuited to that music.",
           "sourcePages": [
             424,
             425
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              424,
+              425
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0006",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "prayer",
           "source": "Ant. Ps. 137. 2. In conspectu Angelorum psallam tibi, Deus meus: adorabo ad templum sanctum tuum, et confitebor Nomini tuo.",
-          "english": null,
+          "english": "Antiphon. Psalm 137:2. In the sight of the angels I will sing to you, my God; I will worship toward your holy temple and give thanks to your name.",
           "sourcePages": [
             425
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              425
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Angelis suis Deus mandavit de te.",
-          "english": null,
+          "english": "℣. God has given his angels charge over you.",
           "sourcePages": [
             425
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              425
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Ut custodiant te in omnibus viis tuis.",
-          "english": null,
+          "english": "℟. To keep you in all your ways.",
           "sourcePages": [
             425
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              425
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -612,26 +695,54 @@
         {
           "type": "prayer",
           "source": "Omnipotens aeterne Deus, qui et majestatem tuam in numero et sanctitate Angelorum ostendis; et nobis eosdem Custodes, et Magistros tribuisti: concede propitius, ut eorum exemplo tibi ita serviamus in terris, ut aeternum cum iisdem te laudare mereamur in coelis. Per Dominum nostrum.",
-          "english": null,
+          "english": "Almighty, eternal God, you display your majesty in the number and holiness of the angels, and have given them to us as guardians and teachers. Mercifully grant that, following their example, we may serve you on earth so as to be worthy to praise you eternally with them in heaven. Through our Lord.",
           "sourcePages": [
             425
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              425
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Domine, exaudi, supra.",
-          "english": null,
+          "english": "℣. Lord, hear, as above.",
           "sourcePages": [
             425
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              425
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0012",
-          "verification": "pending"
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0016",
+              "matins-b0017",
+              "matins-b0018",
+              "matins-b0019",
+              "matins-b0020",
+              "matins-b0021"
+            ],
+            "sourcePages": [
+              425
+            ],
+            "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+          }
         }
       ]
     },
@@ -709,74 +820,120 @@
         {
           "type": "rubric",
           "source": "Hymnus ad SS. Patriarchas.",
-          "english": null,
+          "english": "Hymn to the Holy Patriarchs.",
           "sourcePages": [
             425
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              425
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Spectabilis senecta, Salvete, principes, Quos vita mensque recta Fecere coelites. Vos terra Patriarchas Duceque nuncupat; Sed rectius monarchas Vos aether praedicat.",
-          "english": null,
+          "english": "Hail, princes, venerable in age,\nWhose upright life and mind\nMade you citizens of heaven.\nEarth calls you patriarchs\nAnd leaders;\nBut heaven more truly\nProclaims you kings.",
           "sourcePages": [
             425
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              425
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "Prepared English is provisional: the printed Latin has an irregular or defective reading; no Latin emendation has been made."
         },
         {
           "type": "prayer",
           "source": "Spes vera nascitur Parente Virgine, Cui firmiore muro Est visa surgere. Et nostra spes in isto Suspensa cardine, Uniquae nixa Christo Stat firma numine.",
-          "english": null,
+          "english": "True hope is born\nOf the Virgin Mother;\nIt was seen to rise\nWith a stronger wall.\nOur hope, too, hangs\nUpon this hinge,\nResting on Christ alone,\nFirm in his divine power.",
           "sourcePages": [
             425
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              425
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0006",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "Prepared English is provisional: the printed Latin has an irregular or defective reading; no Latin emendation has been made."
         },
         {
           "type": "prayer",
           "source": "Ant. Ps. 21, 4, 5. In te speraverunt Patres nostri: speraverunt et liberasti eos; ad te clamaverunt et salvi facti sunt.",
-          "english": null,
+          "english": "Antiphon. Psalm 21:4–5. In you our fathers hoped; they hoped, and you delivered them. To you they cried, and they were saved.",
           "sourcePages": [
             425
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              425
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Notas mihi fecisti vias vitae.",
-          "english": null,
+          "english": "℣. You have made known to me the ways of life.",
           "sourcePages": [
             425
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              425
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Adimplebis me laetitia cum vultu tuo.",
-          "english": null,
+          "english": "℟. You will fill me with joy in your presence.",
           "sourcePages": [
             425
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              425
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -802,14 +959,22 @@
         {
           "type": "prayer",
           "source": "Omnipotens aeterne Deus, qui sanctos Veteris Testamenti Patriarchas propter constantem mandatorum tuorum observationem, et fidem in promissum Unigeniti tui mundi Redemptoris venturi praemia beatitudinis aeternae tribuisti: praesta, quaesumus, ut illorum exemplo in tui participationem consortii mereamur concedi. Per eundem Christum Dominum nostrum.",
-          "english": null,
+          "english": "Almighty, eternal God, you granted the holy patriarchs of the Old Testament the rewards of eternal blessedness for their steadfast observance of your commandments and their faith in your promised only-begotten Son, the Redeemer of the world who was to come. Grant, we pray, that through their example we may be admitted to share in fellowship with you. Through the same Christ our Lord.",
           "sourcePages": [
             425
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              425
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0011",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "Prepared English is provisional: the printed Latin has an irregular or defective reading; no Latin emendation has been made."
         },
         {
           "type": "prayer",
@@ -830,7 +995,21 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0012",
-          "verification": "pending"
+          "verification": "pending",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0016",
+              "matins-b0017",
+              "matins-b0018",
+              "matins-b0019",
+              "matins-b0020",
+              "matins-b0021"
+            ],
+            "sourcePages": [
+              425
+            ],
+            "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+          }
         }
       ]
     },
@@ -909,74 +1088,120 @@
         {
           "type": "rubric",
           "source": "Hymnus ad SS. Prophetas.",
-          "english": null,
+          "english": "Hymn to the Holy Prophets.",
           "sourcePages": [
             425
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              425
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O sancta turba Patrum, Quae mente provida Producis in theatrum Ventura tempora, Arcana multa pandens De prole Numins, Per dura multa scandens Ad limen aetheris!",
-          "english": null,
+          "english": "O holy company of fathers,\nWith your foresight\nYou bring the times to come\nUpon the stage,\nUnfolding many mysteries\nOf the divine offspring,\nClimbing through many hardships\nTo the threshold of heaven!",
           "sourcePages": [
             425
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              425
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "Prepared English is provisional: the printed Latin has an irregular or defective reading; no Latin emendation has been made."
         },
         {
           "type": "prayer",
           "source": "In orbe vos labores Pressere feri: In aevum nunc honores Redundant aurei. Juvate, sic fideli Sequermur orbita, Domne superna caeli Intermus atria.",
-          "english": null,
+          "english": "Fierce labors pressed upon you\nIn this world;\nNow golden honors\nAbound for you forever.\nHelp us to follow\nIn your faithful path,\nAnd to enter\nThe courts above in heaven.",
           "sourcePages": [
             425
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              425
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0006",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "Prepared English is provisional: the printed Latin has an irregular or defective reading; no Latin emendation has been made."
         },
         {
           "type": "prayer",
           "source": "Ant. Matth. 23, 37. Jerusalem, Jerusalem, quae occidis Prophetas, et lapidas eos, qui ad te missi sunt! quoties volui congregare filios tuos, quemadmodum gallina congregat pullos sub alas, et noluisti!",
-          "english": null,
+          "english": "Antiphon. Matthew 23:37. Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you! How often I wished to gather your children as a hen gathers her chicks beneath her wings, and you would not!",
           "sourcePages": [
             426
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              426
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Da mercedem sustinentibus te.",
-          "english": null,
+          "english": "℣. Give a reward to those who wait for you.",
           "sourcePages": [
             426
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              426
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Ut prophetae tui fideles inveniantur.",
-          "english": null,
+          "english": "℟. That your prophets may be found faithful.",
           "sourcePages": [
             426
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              426
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1002,14 +1227,22 @@
         {
           "type": "prayer",
           "source": "Omnipotens sempiterne Deus, qui Prophetas tuos sancti Spiritus gratia illuminatos et confortatos, per plurimas hujus vitae adversitates ad aeternam gloriam luce lumen perduxisti: concede propitius; ut nos eodem sancti Spiritus lumine illustrati, te Deum verum, et quem misisti, Dominum Jesum Christum, ita in terris agnoscamus et colamus, ut in coelis clare intueri, et perfecte possidere mereamur. Per eundem Christum Dominum nostrum.",
-          "english": null,
+          "english": "Almighty, everlasting God, you enlightened and strengthened your prophets by the grace of the Holy Spirit and led them through the many adversities of this life to eternal glory [the printed phrase about light is defective]. Mercifully grant that, enlightened by the same Holy Spirit, we may know and worship you, the true God, and Jesus Christ our Lord, whom you sent, on earth, so as to be worthy to behold you clearly and possess you perfectly in heaven. Through the same Christ our Lord.",
           "sourcePages": [
             426
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              426
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0011",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "Prepared English is provisional: the printed Latin has an irregular or defective reading; no Latin emendation has been made."
         },
         {
           "type": "prayer",
@@ -1030,7 +1263,21 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0012",
-          "verification": "pending"
+          "verification": "pending",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0016",
+              "matins-b0017",
+              "matins-b0018",
+              "matins-b0019",
+              "matins-b0020",
+              "matins-b0021"
+            ],
+            "sourcePages": [
+              426
+            ],
+            "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+          }
         }
       ]
     },
@@ -1108,86 +1355,139 @@
         {
           "type": "rubric",
           "source": "Hymnus Ad SS. Apostolos.",
-          "english": null,
+          "english": "Hymn to the Holy Apostles.",
           "sourcePages": [
             426
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              426
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O ordo nuntiorum, O clara luminaria, Et orbis est polorum Bis sena sidera! Vobis ad astra clavis Est certa tradita, Ecclesiaeque navis In orbe credita.",
-          "english": null,
+          "english": "O order of messengers,\nO shining lights,\nTwelve stars\nOf earth and heaven!\nTo you was surely given\nThe key to the heavens,\nAnd entrusted on earth\nThe ship of the Church.",
           "sourcePages": [
             426
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              426
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "Prepared English is provisional: the printed Latin has an irregular or defective reading; no Latin emendation has been made."
         },
         {
           "type": "prayer",
           "source": "Quae sacra seminastis Ubique semina, Et voces praedicastis Factisque dogmata.",
-          "english": null,
+          "english": "What sacred seeds\nYou sowed everywhere,\nWhat words you proclaimed,\nAnd teachings by your deeds!",
           "sourcePages": [
             426
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              426
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0006",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "prayer",
           "source": "Ah! imperate lumen, Ut corde impleam; Ah! invocate Numen, Factis ut exprimam.",
-          "english": null,
+          "english": "Ah, obtain light for me,\nThat I may fulfill them in my heart;\nAh, invoke the Godhead,\nThat I may express them in my deeds.",
           "sourcePages": [
             426
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              426
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "rubric",
           "source": "Ant. Matth. 19. 28.",
-          "english": null,
+          "english": "Antiphon. Matthew 19:28.",
           "sourcePages": [
             426
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              426
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Amen. dico vobis, quod vos, qui secuti estis me, in regeneratione, cum sederit Filius hominis in sede Majestatis suae, sedebitis et vos super sedes duodecim, judicantes duodecim tribus Israel.",
-          "english": null,
+          "english": "Amen, I say to you: you who have followed me, at the renewal, when the Son of Man sits upon the throne of his majesty, shall also sit upon twelve thrones, judging the twelve tribes of Israel.",
           "sourcePages": [
             426
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              426
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Nimis honorificati sunt amici tui, Deus.",
-          "english": null,
+          "english": "℣. Your friends, O God, are greatly honored.",
           "sourcePages": [
             426
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              426
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1237,14 +1537,22 @@
         {
           "type": "prayer",
           "source": "Domine Jesu Christe, qui novam charitatis legem pectoribus nostris per beatos Apostolos tuos infudisti: horum nobis, quaesumus, intercessione concede; ut jugum Novae Legis ista jugum prompta voluntate amplectamur, et opere perfecto expleamus. Qui vivis et regnas in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "Lord Jesus Christ, through your blessed apostles you poured the new law of charity into our hearts. Through their intercession grant, we pray, that we may embrace the yoke of the New Law with a ready will and fulfill it by perfect action [the printed wording repeats and disrupts the phrase about the yoke]. You live and reign forever and ever. Amen.",
           "sourcePages": [
             426
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              426
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0013",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "Prepared English is provisional: the printed Latin has an irregular or defective reading; no Latin emendation has been made."
         },
         {
           "type": "prayer",
@@ -1265,7 +1573,21 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0014",
-          "verification": "pending"
+          "verification": "pending",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0016",
+              "matins-b0017",
+              "matins-b0018",
+              "matins-b0019",
+              "matins-b0020",
+              "matins-b0021"
+            ],
+            "sourcePages": [
+              426
+            ],
+            "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+          }
         }
       ]
     },
@@ -1344,50 +1666,80 @@
         {
           "type": "rubric",
           "source": "Hymnus Ad SS. Martyres.",
-          "english": null,
+          "english": "Hymn to the Holy Martyrs.",
           "sourcePages": [
             426
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              426
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O turba laureata, O agmen inclytum, Christique purpurata Caterva Martyrum! Athletico duella Agressa robore, Et gloriosa bella Edocta vincere.",
-          "english": null,
+          "english": "O company crowned with laurel,\nO illustrious host,\nO band of Christ’s martyrs\nClothed in purple!\nYou entered contests\nWith an athlete’s strength,\nAnd learned to conquer\nIn glorious battles.",
           "sourcePages": [
             426
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              426
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "prayer",
           "source": "Da bella sic capessam, Quae semper ingruunt, Hostesque sic lacessam, Qui semper impetunt, Ut victor in superna Theatra transferar, Lauroque sempiterna Tecum revincier!",
-          "english": null,
+          "english": "Grant that I may engage\nThe battles that always assail me,\nAnd challenge the enemies\nWho always attack,\nSo that, victorious, I may be borne\nTo the theaters above,\nAnd with you be crowned\nWith everlasting laurel!",
           "sourcePages": [
             427
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              427
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0006",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "prayer",
           "source": "Ant. Apoc. 7. 14. 15. Hi sunt qui venerunt de tribulatione magna, et laverunt stolas suas, et dealbaverunt eas in sanguine Agni. Ideo sunt ante thronum Dei, et serviunt ei die ac nocte in templo ejus.",
-          "english": null,
+          "english": "Antiphon. Revelation 7:14–15. These are they who came out of great tribulation and washed their robes and made them white in the blood of the Lamb. Therefore they are before the throne of God and serve him day and night in his temple.",
           "sourcePages": [
             427
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              427
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1461,14 +1813,22 @@
         {
           "type": "prayer",
           "source": "Domine Jesu Christe, cujus acerbissima passio et justorum Martyrum constantia, martyres abundantem gratiam concessit sunt, ut pro confessione nominis tui sanguinem suum fuderiut: concede propitius; ut et nos eorum meritorum abundantia, et Martyrum tuorum intercessione, constantem fidem tuam profiteamur, et semper mortificationem tuam, Jesu, in corpore nostro circumferre valeamus. Qui vivis et regnas in saecula saeculorum.",
-          "english": null,
+          "english": "Lord Jesus Christ, through your most bitter Passion and the steadfastness of the righteous martyrs, abundant grace was granted to the martyrs to shed their blood in confession of your name [the printed clause is grammatically defective]. Mercifully grant that, through the abundance of their merits and the intercession of your martyrs, we too may steadfastly profess your faith and always be able to carry your dying, Jesus, in our bodies. You live and reign forever and ever.",
           "sourcePages": [
             427
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              427
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0011",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "Prepared English is provisional: the printed Latin has an irregular or defective reading; no Latin emendation has been made."
         },
         {
           "type": "prayer",
@@ -1510,7 +1870,21 @@
           },
           "alignment": "reviewed",
           "id": "none-b0013",
-          "verification": "pending"
+          "verification": "pending",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0016",
+              "matins-b0017",
+              "matins-b0018",
+              "matins-b0019",
+              "matins-b0020",
+              "matins-b0021"
+            ],
+            "sourcePages": [
+              427
+            ],
+            "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+          }
         }
       ]
     },
@@ -1588,74 +1962,120 @@
         {
           "type": "rubric",
           "source": "Hymnus ad SS. Confessores.",
-          "english": null,
+          "english": "Hymn to the Holy Confessors.",
           "sourcePages": [
             427
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              427
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O casibus probati Heroes arduis, Ad multa dura nati In rebus asperis! Vos mille activitati Sors dura fluctibus, Orbibus crebro probavit Tentator ictibus.",
-          "english": null,
+          "english": "O heroes tested\nBy difficult trials,\nBorn to many hardships\nIn adversity!\nHard fortune tossed you\nUpon a thousand waves [wording defective],\nAnd the tempter often tested you\nWith blows.",
           "sourcePages": [
             427
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              427
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "Prepared English is provisional: the printed Latin has an irregular or defective reading; no Latin emendation has been made."
         },
         {
           "type": "prayer",
           "source": "Tullistis illa laeto Firmoque pectore, Dum staret inquieto Carina litore. Cor imperate forte, Ut dura perferam, Contentus esse sorte Quacumque queadam.",
-          "english": null,
+          "english": "You bore these things\nWith a joyful, steadfast heart,\nWhile your ship stood\nUpon a restless shore.\nObtain a courageous heart for me,\nThat I may bear hardships,\nContent with whatever lot\nMay fall to me.",
           "sourcePages": [
             427
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              427
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0006",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "Prepared English is provisional: the printed Latin has an irregular or defective reading; no Latin emendation has been made."
         },
         {
           "type": "prayer",
           "source": "Ant. Sap. 5. 1. Stabant justi in magna constantia adversus eos, qui se angustiaverunt, et qui abstulerunt labores eorum.",
-          "english": null,
+          "english": "Antiphon. Wisdom 5:1. The righteous shall stand with great constancy against those who afflicted them and took away their labors.",
           "sourcePages": [
             427
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              427
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Ecce quomodo computati sunt inter filios Dei.",
-          "english": null,
+          "english": "℣. Behold how they are numbered among the children of God.",
           "sourcePages": [
             427
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              427
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Et inter Sanctos sors illorum est.",
-          "english": null,
+          "english": "℟. And their lot is among the saints.",
           "sourcePages": [
             427
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              427
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1681,14 +2101,22 @@
         {
           "type": "prayer",
           "source": "Domine Jesu Christe, cujus doctrina et exemplo Confessores tui mites et humiles facit, et requiem animabus suis in hac et in altera vita consecuti sunt: da nobis gratiam eorumdem vestigiis devote ita hic investire; ut demum ad aeternae quietis locum pervenire feliciter mereamur. Qui vivis et regnas in saecula saeculorum.",
-          "english": null,
+          "english": "Lord Jesus Christ, by your teaching and example your confessors became meek and humble and obtained rest for their souls in this life and the next. Give us grace to follow their footsteps devoutly here, so that at last we may happily reach the place of eternal rest. You live and reign forever and ever.",
           "sourcePages": [
             427
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              427
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0011",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "Prepared English is provisional: the printed Latin has an irregular or defective reading; no Latin emendation has been made."
         },
         {
           "type": "prayer",
@@ -1730,7 +2158,21 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0013",
-          "verification": "pending"
+          "verification": "pending",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0016",
+              "matins-b0017",
+              "matins-b0018",
+              "matins-b0019",
+              "matins-b0020",
+              "matins-b0021"
+            ],
+            "sourcePages": [
+              427
+            ],
+            "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+          }
         }
       ]
     },
@@ -1851,75 +2293,122 @@
         {
           "type": "rubric",
           "source": "Hymnus ad SS. Virgines.",
-          "english": null,
+          "english": "Hymn to the Holy Virgins.",
           "sourcePages": [
             427
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              427
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O digna lilietis Caterva coelicis! Quae vivis in viretis, Sponsisque pascuis! Nix cana liliorum Alberte vellere, Et lac eburneum florum Te vestit undique.",
-          "english": null,
+          "english": "O company worthy\nOf heaven’s lily beds!\nYou live in green meadows\nAnd the Bridegroom’s pastures.\nThe white snow of lilies\n[The printed line is unresolved],\nAnd the ivory milk of flowers\nClothe you on every side.",
           "sourcePages": [
             427,
             428
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              427,
+              428
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "Prepared English is provisional: the printed Latin has an irregular or defective reading; no Latin emendation has been made."
         },
         {
           "type": "prayer",
           "source": "Tu carmen innocentii Scis ore fundere, Quod colites silentii Mirantur aethere. Valete, vah! valete, Impura basia, Mihi nec invidete Haec casta gaudia.",
-          "english": null,
+          "english": "You know how to pour forth\nThe song of innocence,\nWhich heaven’s dwellers\nAdmire in silent wonder.\nFarewell, ah, farewell,\nImpure kisses!\nDo not envy me\nThese chaste delights.",
           "sourcePages": [
             428
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              428
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0008",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "Prepared English is provisional: the printed Latin has an irregular or defective reading; no Latin emendation has been made."
         },
         {
           "type": "prayer",
           "source": "Ant. Apoc. 14. 3. 4. Cantabant quasi canticum novum, et nemo poterat dicere canticum, nisi illa centum quadraginta quatuor millia, qui empti sunt de terra. Hi sunt qui cum mulieribus non sunt coinquinati; Virgines enim sunt; hi sequuntur Agnum quocumque ierit.",
-          "english": null,
+          "english": "Antiphon. Revelation 14:3–4. They sang as it were a new song, and no one could sing the song except those hundred and forty-four thousand who were purchased from the earth. These are they who were not defiled with women, for they are virgins; these follow the Lamb wherever he goes.",
           "sourcePages": [
             428
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              428
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Hi empti sunt ex hominibus primitiae Deo et Agno.",
-          "english": null,
+          "english": "℣. These were purchased from among men as firstfruits to God and to the Lamb.",
           "sourcePages": [
             428
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              428
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Et in ore eorum non est inventum mendacium.",
-          "english": null,
+          "english": "℟. And in their mouth no lie was found.",
           "sourcePages": [
             428
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              428
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1945,14 +2434,22 @@
         {
           "type": "prayer",
           "source": "Domine Jesu Christe, sponse et singularis amator animarum, quas prae ceteris Sanctis in regno tuo peculiari laureola coronas, largire nobis gratiam ut eandem vestigiis insistentes, eadem quoque praemia consequamur. Qui vivis.",
-          "english": null,
+          "english": "Lord Jesus Christ, Bridegroom and especial lover of souls, whom you crown above the other saints in your kingdom with a particular wreath: bestow grace upon us, that, following their footsteps, we may obtain the same rewards. You live.",
           "sourcePages": [
             428
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              428
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0013",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "Prepared English is provisional: the printed Latin has an irregular or defective reading; no Latin emendation has been made."
         },
         {
           "type": "prayer",
@@ -1973,7 +2470,21 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0014",
-          "verification": "pending"
+          "verification": "pending",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0016",
+              "matins-b0017",
+              "matins-b0018",
+              "matins-b0019",
+              "matins-b0020",
+              "matins-b0021"
+            ],
+            "sourcePages": [
+              428
+            ],
+            "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+          }
         }
       ]
     },
@@ -1988,90 +2499,156 @@
         {
           "type": "prayer",
           "source": "O coelici quirites Tonantis aulici, Post bella postque lites In axe fulgidi!",
-          "english": null,
+          "english": "O citizens of heaven,\nCourtiers of the Thunderer,\nShining in the heavens\nAfter wars and strife!",
           "sourcePages": [
             428
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              428
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "oblatio-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "prayer",
           "source": "Clientuli precantis Ne vota spernite, Servique vos vocantis Ne verba temnite.",
-          "english": null,
+          "english": "Do not spurn the prayers\nOf your little client,\nNor despise the words\nOf the servant who calls upon you.",
           "sourcePages": [
             428
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              428
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "oblatio-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "prayer",
           "source": "Adeste quando vitae Est lapsa clepsydra, Ad vota tunc venite, O viva sidera! Tunc transitum parate Ad celsa limina, Terrisque me vocate Ad vestra gaudia.",
-          "english": null,
+          "english": "Be present when life’s\nWater clock has run out;\nCome then to my prayers,\nO living stars!\nThen prepare my passage\nTo the lofty thresholds,\nAnd call me from earth\nTo your joys.",
           "sourcePages": [
             428
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              428
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "oblatio-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "rubric",
           "source": "Oratio S. Augustini ad Omnes Sanctos.",
-          "english": null,
+          "english": "Prayer of Saint Augustine to All the Saints.",
           "sourcePages": [
             428
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              428
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "oblatio-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O felices Sancti Dei omnes, qui jam transistis hujus mortalitatis plagam, et pervenire meruistis ad portum perpetuae quietis, et aeternae pacis: securi constituti, semperque felicissimi, semperque gaudentes, et a nobis alieni. Obsecro vos per vestram charitatem, qui securi estis de vobis, solliciti estote de nobis; securi estis de vestra immarcescibili gloria, solliciti estote de nostra multiplici miseria. Per ipsum vos rogo, qui vos elegit, qui vos tales fecit, de cujus pulchritudine laetaminari, de cujus immortalitate jam immortales facti estis, de cujus beatissima visione semper gaudetis. Amen.",
-          "english": null,
+          "english": "O happy saints of God, all of you who have now passed through the region of this mortal life and have been worthy to reach the harbor of perpetual rest and eternal peace! Established in safety, always most blessed, always rejoicing, and separated from us: I beseech you by your charity, you who are secure about yourselves, be concerned for us. You are secure in your unfading glory; be concerned for our manifold misery. I ask you by him who chose you, who made you what you are, in whose beauty you rejoice, by whose immortality you have now been made immortal, and in whose most blessed vision you always rejoice. Amen.",
           "sourcePages": [
             428
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              428
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "oblatio-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "Prepared English is provisional: the printed Latin has an irregular or defective reading; no Latin emendation has been made."
         },
         {
           "type": "rubric",
           "source": "Oratio ad S. Patronum, cujus quis nomen habet.",
-          "english": null,
+          "english": "Prayer to the Patron Saint whose name one bears.",
           "sourcePages": [
             428
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              428
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "oblatio-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "O sancte N., qui in sacro baptismatis fonte mihi in Patronum datus es, in te singularum auxilii spem colloco. Dirige, obsecro, pedes meos in viam virtutis; ut ad vitae tuae regulam digne conversatione mea ambulem. Doce, et guberna me in puritate animi, tum corporis; et intercessione tua contra mortis articulos et adversus diabolum, et cum omnibus Sanctis, pariter animae aeternam gloriam obtinere merear in caelis. Per Dominum.",
-          "english": null,
+          "english": "O Saint N., given to me as patron at the sacred font of baptism, in you I place my hope of special help. Direct my feet, I beseech you, along the way of virtue, that I may walk worthily in my conduct according to the pattern of your life. Teach and govern me in purity of soul and body; and through your intercession, at the hour of death and against the devil, may I be worthy, together with all the saints, to obtain eternal glory for my soul in heaven. Through the Lord.",
           "sourcePages": [
             428
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              428
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "oblatio-b0007",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "Prepared English is provisional: the printed Latin has an irregular or defective reading; no Latin emendation has been made."
         }
       ]
     }
   ],
   "unpairedEnglish": [],
-  "translationScope": "marked"
+  "translationScope": "marked",
+  "editorialNotes": [
+    {
+      "text": "All printed pages of this office were visually compared. Original Latin, existing English, printed hours and abbreviated conclusions are retained. Prepared English hymn stanzas preserve meaningful line divisions. Defective source readings remain explicitly provisional or unresolved. ",
+      "pages": [
+        424,
+        425,
+        426,
+        427,
+        428
+      ]
+    }
+  ]
 }

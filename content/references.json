@@ -949,7 +949,16 @@
     ],
     "kind": "internal-reference",
     "text": "℟. Contremuerunt omnia ossa mea. Jerem. 23. v. 9. Oratio Domine Jesu Christe etc. ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "beginning-b0002"
+      ],
+      "sourcePages": [
+        86
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-the-suffering-christ-the-finding-and-the-exaltation-of-the-holy-cross",
@@ -960,7 +969,16 @@
     ],
     "kind": "internal-reference",
     "text": "℟. Cum Dominus ad judicandum venerit, Alleluia. Oratio Deus! qui praeclara etc. ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "beginning-b0004"
+      ],
+      "sourcePages": [
+        86
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-the-suffering-christ-the-finding-and-the-exaltation-of-the-holy-cross",
@@ -971,7 +989,16 @@
     ],
     "kind": "internal-reference",
     "text": "℟. Salva praesentem coetervam in tuis hodie laudibus congregatam. Oratio Deus, qui nos etc. ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "beginning-b0006"
+      ],
+      "sourcePages": [
+        86
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-the-suffering-christ-the-finding-and-the-exaltation-of-the-holy-cross",
@@ -982,7 +1009,16 @@
     ],
     "kind": "internal-reference",
     "text": "Oratio Domine Jesu Christe ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "beginning-b0002"
+      ],
+      "sourcePages": [
+        86
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-the-suffering-christ-the-finding-and-the-exaltation-of-the-holy-cross",
@@ -993,7 +1029,16 @@
     ],
     "kind": "internal-reference",
     "text": "Oratio Domine Jesu Christe ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "beginning-b0002"
+      ],
+      "sourcePages": [
+        87
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-the-suffering-christ-the-finding-and-the-exaltation-of-the-holy-cross",
@@ -1004,7 +1049,16 @@
     ],
     "kind": "internal-reference",
     "text": "Oratio Domine Jesu Christe, ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "beginning-b0002"
+      ],
+      "sourcePages": [
+        87
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-the-suffering-christ-the-finding-and-the-exaltation-of-the-holy-cross",
@@ -1015,7 +1069,16 @@
     ],
     "kind": "internal-reference",
     "text": "Oratio Domine Jesu Christe, ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "beginning-b0002"
+      ],
+      "sourcePages": [
+        88
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-the-suffering-christ-the-finding-and-the-exaltation-of-the-holy-cross",
@@ -1026,7 +1089,16 @@
     ],
     "kind": "internal-reference",
     "text": "Oratio Domine Jesu Christe, ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "beginning-b0002"
+      ],
+      "sourcePages": [
+        88
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-the-holy-ghost-according-to-the-order-of-the-most-holy-saviour",
@@ -1037,7 +1109,22 @@
     ],
     "kind": "internal-reference",
     "text": "Veni Creator Spiritus ut supra in Vesperis.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "vespers-b0010",
+        "vespers-b0011",
+        "vespers-b0012",
+        "vespers-b0013",
+        "vespers-b0014",
+        "vespers-b0015",
+        "vespers-b0016"
+      ],
+      "sourcePages": [
+        99
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
@@ -1994,7 +2081,21 @@
     ],
     "kind": "internal-reference",
     "text": "℣. Domine, exaudi. ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0016",
+        "matins-b0017",
+        "matins-b0018",
+        "matins-b0019",
+        "matins-b0020",
+        "matins-b0021"
+      ],
+      "sourcePages": [
+        425
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-all-saints",
@@ -2005,7 +2106,21 @@
     ],
     "kind": "internal-reference",
     "text": "℣. Domine, exaudi. ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0016",
+        "matins-b0017",
+        "matins-b0018",
+        "matins-b0019",
+        "matins-b0020",
+        "matins-b0021"
+      ],
+      "sourcePages": [
+        426
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-all-saints",
@@ -2016,7 +2131,21 @@
     ],
     "kind": "internal-reference",
     "text": "℣. Domine, exaudi. ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0016",
+        "matins-b0017",
+        "matins-b0018",
+        "matins-b0019",
+        "matins-b0020",
+        "matins-b0021"
+      ],
+      "sourcePages": [
+        426
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-all-saints",
@@ -2027,7 +2156,21 @@
     ],
     "kind": "internal-reference",
     "text": "℣. Domine, exaudi. ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0016",
+        "matins-b0017",
+        "matins-b0018",
+        "matins-b0019",
+        "matins-b0020",
+        "matins-b0021"
+      ],
+      "sourcePages": [
+        427
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-all-saints",
@@ -2038,7 +2181,21 @@
     ],
     "kind": "internal-reference",
     "text": "℣. Domine, exaudi. ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0016",
+        "matins-b0017",
+        "matins-b0018",
+        "matins-b0019",
+        "matins-b0020",
+        "matins-b0021"
+      ],
+      "sourcePages": [
+        427
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-all-saints",
@@ -2049,7 +2206,21 @@
     ],
     "kind": "internal-reference",
     "text": "℣. Domine, exaudi. ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0016",
+        "matins-b0017",
+        "matins-b0018",
+        "matins-b0019",
+        "matins-b0020",
+        "matins-b0021"
+      ],
+      "sourcePages": [
+        428
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-s-aloysius-gonzaga-of-the-society-of-jesus",
@@ -3857,7 +4028,17 @@
     ],
     "kind": "internal-reference",
     "text": "Oratio ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0014",
+        "matins-b0015"
+      ],
+      "sourcePages": [
+        532
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-s-john-the-baptist",
@@ -3868,7 +4049,17 @@
     ],
     "kind": "internal-reference",
     "text": "Oratio ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0014",
+        "matins-b0015"
+      ],
+      "sourcePages": [
+        532
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-s-john-the-baptist",
@@ -3879,7 +4070,17 @@
     ],
     "kind": "internal-reference",
     "text": "Oratio ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0014",
+        "matins-b0015"
+      ],
+      "sourcePages": [
+        533
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-s-john-the-baptist",
@@ -3890,7 +4091,17 @@
     ],
     "kind": "internal-reference",
     "text": "Oratio ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0014",
+        "matins-b0015"
+      ],
+      "sourcePages": [
+        533
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-s-john-the-baptist",
@@ -3901,7 +4112,17 @@
     ],
     "kind": "internal-reference",
     "text": "Oratio ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0014",
+        "matins-b0015"
+      ],
+      "sourcePages": [
+        533
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-s-john-the-baptist",
@@ -3912,7 +4133,17 @@
     ],
     "kind": "internal-reference",
     "text": "Oratio ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0014",
+        "matins-b0015"
+      ],
+      "sourcePages": [
+        534
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-s-john-the-baptist",
@@ -3923,7 +4154,17 @@
     ],
     "kind": "internal-reference",
     "text": "Oratio ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0014",
+        "matins-b0015"
+      ],
+      "sourcePages": [
+        534
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-s-john-nepomucene-martyr-the-singular-patron-of-penitents-and-those-in-danger-of-reputation",
@@ -3934,7 +4175,17 @@
     ],
     "kind": "internal-reference",
     "text": "Oremus, Omnipotens sempiterne Deus, ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0017",
+        "matins-b0018"
+      ],
+      "sourcePages": [
+        537
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-s-liborius-bishop-great-miracle-worker-and-special-patron-against-kidney-stones",
@@ -4511,7 +4762,19 @@
     ],
     "kind": "internal-reference",
     "text": "Vers. et Oratio ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0016",
+        "matins-b0017",
+        "matins-b0018",
+        "matins-b0019"
+      ],
+      "sourcePages": [
+        579
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-s-peter-prince-of-the-apostles",
@@ -4522,7 +4785,19 @@
     ],
     "kind": "internal-reference",
     "text": "Vers. et Oratio ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0016",
+        "matins-b0017",
+        "matins-b0018",
+        "matins-b0019"
+      ],
+      "sourcePages": [
+        579
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-s-peter-prince-of-the-apostles",
@@ -4533,7 +4808,19 @@
     ],
     "kind": "internal-reference",
     "text": "Vers. et Oratio ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0016",
+        "matins-b0017",
+        "matins-b0018",
+        "matins-b0019"
+      ],
+      "sourcePages": [
+        580
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-s-peter-prince-of-the-apostles",
@@ -4544,7 +4831,19 @@
     ],
     "kind": "internal-reference",
     "text": "Vers. et Oratio ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0016",
+        "matins-b0017",
+        "matins-b0018",
+        "matins-b0019"
+      ],
+      "sourcePages": [
+        580
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-s-peter-prince-of-the-apostles",
@@ -4555,7 +4854,19 @@
     ],
     "kind": "internal-reference",
     "text": "Vers. et Oratio ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0016",
+        "matins-b0017",
+        "matins-b0018",
+        "matins-b0019"
+      ],
+      "sourcePages": [
+        581
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-s-paul-the-apostle-doctor-to-the-gentiles",
@@ -4902,7 +5213,16 @@
     ],
     "kind": "internal-reference",
     "text": "Laus Patri, etc., ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012"
+      ],
+      "sourcePages": [
+        596
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-s-thomas-aquinas",
@@ -4913,7 +5233,16 @@
     ],
     "kind": "internal-reference",
     "text": "Laus Patri, etc., ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012"
+      ],
+      "sourcePages": [
+        597
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-s-thomas-aquinas",
@@ -4924,7 +5253,16 @@
     ],
     "kind": "internal-reference",
     "text": "Laus Patri, etc., ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012"
+      ],
+      "sourcePages": [
+        598
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-s-thomas-aquinas",
@@ -4935,7 +5273,16 @@
     ],
     "kind": "internal-reference",
     "text": "Laus Patri, etc., ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012"
+      ],
+      "sourcePages": [
+        599
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-s-thomas-aquinas",
@@ -4946,7 +5293,16 @@
     ],
     "kind": "internal-reference",
     "text": "Elegit eum, etc., ut supra ad Laudes.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "lauds-b0009"
+      ],
+      "sourcePages": [
+        600
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-s-thomas-aquinas",
@@ -4957,7 +5313,16 @@
     ],
     "kind": "internal-reference",
     "text": "Laus Patri, etc., ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012"
+      ],
+      "sourcePages": [
+        600
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-s-thomas-aquinas",
@@ -4968,7 +5333,16 @@
     ],
     "kind": "internal-reference",
     "text": "Laus Patri, etc., ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012"
+      ],
+      "sourcePages": [
+        601
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
   },
   {
     "office": "little-office-of-the-dead",
