@@ -1,0 +1,47 @@
+{
+  "baselineCommit": "3a3a1fb94f333a671973b55690cfedcc20018c6e",
+  "office": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+  "normalization": "Whitespace and printed line-end divisions of following only. Reused translations are excluded, and the Latin Hail Mary originally printed in the right column is captured via printedParallelText.",
+  "sections": [
+    {
+      "id": "matins",
+      "sourceDigest": "d677ce529bf6f484c359fa01debf0e4923c316156a0c582ef43e5c00e707b387",
+      "printedRightDigest": "d81836b3636f7eff10a5cdab84b0cd175e45c69bdeb2efbd92a0d555796e98a0"
+    },
+    {
+      "id": "lauds",
+      "sourceDigest": "fa36b266fdde91c018e18919cc672ff87f646377be21c06590fcafd84c59482d",
+      "printedRightDigest": "17fae0fd5c5498fbbaf4262086936497c5dd4c58293cd8f844d711bdf3417469"
+    },
+    {
+      "id": "prime",
+      "sourceDigest": "e0632593cfd827814f3754ab5299e3d8d2d5d38ccebf638a328dd0b8d15f5103",
+      "printedRightDigest": "daceed3b608baa7a11e59a9077fd237e4c436370f6eacbe9b1e02cb0ae4f3fac"
+    },
+    {
+      "id": "terce",
+      "sourceDigest": "382652ad53d931f2fa7a4e1722ba0e9a1251efbe5344fb29fc6b66387de4c670",
+      "printedRightDigest": "eb753b1571c99e0f82c73ed7c5552a5f1e081206867f0fd0d6570486413dfba3"
+    },
+    {
+      "id": "sext",
+      "sourceDigest": "4f6a5a057b9e378c6401c19f57e56e703fcdf0c25238d313a0cd343ceff7890d",
+      "printedRightDigest": "731d4141179dc64d169234440a5e44871a9d1a999843dc95bac69f849ac64c6a"
+    },
+    {
+      "id": "none",
+      "sourceDigest": "136c5b1216f6f864dbfc7fb90c34b61031d804ae32a84eb6533250b4b1cd08ac",
+      "printedRightDigest": "f64e6321bb64ad47e4099ff726fd69d0900d1bf071d1489b213ce4b8d4e09e4b"
+    },
+    {
+      "id": "vespers",
+      "sourceDigest": "67d660a7d0034d4df70538c8c8f82517e07755851eaab7decb54125fb2ff61f1",
+      "printedRightDigest": "f775e45e37b1f1bcf75811fa490f6b8ee7ad7c8a0867295c9238a7354c8e77b9"
+    },
+    {
+      "id": "compline",
+      "sourceDigest": "9f6a300ca013b732812bd77b8983adbae7293d6b046e8843fc42457e5ee62822",
+      "printedRightDigest": "e239e9c078b70762a477ec10df618e535108e4dbc7a0c858c1d34a5d1de8a519"
+    }
+  ]
+}

@@ -1,0 +1,1257 @@
+{
+  "schemaVersion": 1,
+  "id": "little-office-of-the-most-amiable-child-jesus",
+  "title": "Little Office of the Most Amiable Child Jesus",
+  "category": "Divine Mysteries",
+  "source": {
+    "pdfPages": [
+      52,
+      53
+    ],
+    "printedPages": [
+      "52",
+      "53"
+    ],
+    "file": "book.pdf",
+    "pageNumberConvention": "1-based; printed and PDF pages coincide"
+  },
+  "sourceLanguage": "Latin",
+  "introductoryNotes": [
+    {
+      "type": "source-note",
+      "text": "From a book of the same name published in 1719.",
+      "pages": [
+        52
+      ],
+      "language": "English"
+    }
+  ],
+  "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
+  "status": {
+    "extraction": "reviewed",
+    "translation": "complete-prepared",
+    "verification": "source-reading-pending"
+  },
+  "sections": [
+    {
+      "id": "matins",
+      "title": "Matins",
+      "sourceHeading": "Matins",
+      "pages": [
+        52
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Mea o Domine labia pandas,",
+          "english": "℣. Open my lips, O Lord,",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Tuas ad laudes digne cantandas.",
+          "english": "℟. That I may worthily sing Thy praises.",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Meas ad preces te Deus inclina,",
+          "english": "℣. Incline Thyself, O God, unto my prayers,",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "2bde8145c0218897"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et ope mihi succurre divina.",
+          "english": "℟. And succour me with Thy divine aid.",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "b76becb226b45848"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Jesu puer dulcissime, ter millies ave to: cor moerens tu suavissime unguento mulces lato: qui amat te, prosentitur dulcedinum in mare; tuus dum amor cernitur, quis nollet te amare? qui meum te fraterculum nasci fecit pauperculum.",
+          "english": "Jesus, sweetest Child, three thousand times hail to Thee!\nWith Thy balm Thou most sweetly soothest the sorrowing heart.\nWhoever loves Thee plunges into a sea of sweetness.\nWhen Thy love is seen, who would not wish to love Thee,\nWhom it made to be born poor, as my little Brother?",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0006",
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed “ave to” and “prosentitur” are irregular. The provisional English understands an address to the Child and immersion in sweetness; the printed Latin is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Qui Deus erat in principio,",
+          "english": "℣. Who was God in the beginning,",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et factus par mancipio.",
+          "english": "℟. And was made equal to a servant.",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0008",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0009",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "O Deus, cujus tam fortis amor est, ut te parvum fieri infantulum compulerit, tanti nobis tui amoris cognitionem concede, ut ad reciprocum amorem animati, te aeternum amare, laudare, et benedicere valeamus. Amen.",
+          "english": "O God, whose love is so strong that it moved Thee to become a little infant, grant us the knowledge of Thy great love, that, stirred to love Thee in return, we may be able to love, praise, and bless Thee eternally. Amen.",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0010",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "prime",
+      "title": "Prime",
+      "sourceHeading": "Prime",
+      "pages": [
+        52
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Meas ad preces te Deus inclina,",
+          "english": "℣. Incline Thyself, O God, unto my prayers,",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "2bde8145c0218897"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et ope mihi succurre divina.",
+          "english": "℟. And succour me with Thy divine aid.",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "b76becb226b45848"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Deus ingens infantulum induere volebat, parvum, tenellum, blandulum se terris exhibebat: ut cunctis sic amabilis foret, praesertim reis, non esset formidabilis, culpas indulgens eis: ridens blande nos aspicit suavi nos spe sic afficit.",
+          "english": "The mighty God wished to put on the form of a little infant;\nHe showed Himself on earth little, tender, and gentle,\nThat He might thus be lovable to all, especially to sinners,\nAnd not dreadful, granting them pardon for their sins.\nSmiling gently, He looks upon us\nAnd thus fills us with sweet hope.",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Infans, Deus peccator te",
+          "english": "℣. O sinner, the infant God",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ade funibus trahit ad se.",
+          "english": "℟. Draws thee to Himself with human cords.",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0006",
+          "verification": "source-reading-pending",
+          "editorialNote": "The source prints “Ade funibus”. The provisional translation “human cords” understands the phrase as a reference to the cords of Adam; this reading awaits editorial resolution."
+        },
+        {
+          "type": "rubric",
+          "source": "Oratio ut supra.",
+          "english": "Prayer as above.",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "91d6a9789d4966a8"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0007",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0010"
+            ],
+            "sourcePages": [
+              52
+            ],
+            "note": "The repeated prayer is the complete prayer printed at Matins."
+          }
+        }
+      ]
+    },
+    {
+      "id": "terce",
+      "title": "Terce",
+      "sourceHeading": "Terce",
+      "pages": [
+        52
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Meas ad preces te Deus inclina,",
+          "english": "℣. Incline Thyself, O God, unto my prayers,",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "2bde8145c0218897"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et ope mihi succurre divina.",
+          "english": "℟. And succour me with Thy divine aid.",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "b76becb226b45848"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Puer in quo mirifice divinitas se celat, formae tamen deificae venustas te revelat: lucis divinae radius ex oculis dimanat, cor meum velut gladius amoris ictu tranat: amore quis det moriari, hac morte caelis oriar!",
+          "english": "O Child, in whom the Godhead wondrously hides itself,\nYet the beauty of Thy divine form reveals Thee:\nA ray of divine light streams from Thine eyes\nAnd, like a sword, pierces my heart with the stroke of love.\nWho will grant that I may die of love,\nAnd through this death rise to heaven?",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Natum amemus Dominum",
+          "english": "℣. Let us love the Lord who is born,",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Decorum pra natis hominum.",
+          "english": "℟. Fairer than the sons of men.",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Oratio ut supra.",
+          "english": "Prayer as above.",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "91d6a9789d4966a8"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0007",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0010"
+            ],
+            "sourcePages": [
+              52
+            ],
+            "note": "The repeated prayer is the complete prayer printed at Matins."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sext",
+      "title": "Sext",
+      "sourceHeading": "Sext",
+      "pages": [
+        52,
+        53
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Meas ad preces te Deus inclina,",
+          "english": "℣. Incline Thyself, O God, unto my prayers,",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "2bde8145c0218897"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et ope mihi succurre divina.",
+          "english": "℟. And succour me with Thy divine aid.",
+          "sourcePages": [
+            52
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "b76becb226b45848"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Fleo puer ac rideo, ridens cogor plorare tuisdum stellas video in oculis micare: candor ostrum eximitum rosarum genis nectit, ac lux corusca nivium se artubus implectit: auro dant crispo splendicant crines, cor sibi vindicant.",
+          "english": "O Child, I weep and smile; smiling, I am moved to weep\nWhen I see stars shining in Thine eyes.\nThy fair beauty sets the exquisite crimson of roses upon Thy cheeks,\nAnd the gleaming brightness of snow enfolds Thy limbs.\nThy curling hair shines like gold\nAnd claims the heart for itself.",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0004",
+          "verification": "source-reading-pending",
+          "editorialNote": "Several phrases in the source hymn are irregular, including “tuisdum” and “auro dant crispo splendicant”. The provisional English gives the apparent sense of stars in the eyes and curling golden hair; the Latin is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Quia ergo tam suavis es,",
+          "english": "℣. Since therefore Thou art so sweet,",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Praecunctis charus favis es.",
+          "english": "℟. Thou art dearer than all honeycombs.",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Oratio ut supra.",
+          "english": "Prayer as above.",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "91d6a9789d4966a8"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0007",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0010"
+            ],
+            "sourcePages": [
+              53
+            ],
+            "note": "The repeated prayer is the complete prayer printed at Matins."
+          }
+        }
+      ]
+    },
+    {
+      "id": "none",
+      "title": "None",
+      "sourceHeading": "None",
+      "pages": [
+        53
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Meas ad preces te Deus inclina,",
+          "english": "℣. Incline Thyself, O God, unto my prayers,",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "2bde8145c0218897"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et ope mihi succurre divina.",
+          "english": "℟. And succour me with Thy divine aid.",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "b76becb226b45848"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Dum lachrymis tam bellulos aspicio natare tuos Jesu ocellulos, queis culpas vis lavare: latis cor meum gestibus exultans tenerescit, et sic amoris aestibus ut cera colliquescit: amorem hunc perpendere, cor suum est accendere.",
+          "english": "When I behold Thy lovely little eyes, O Jesus, swimming in tears,\nWith which Thou dost will to wash away sins,\nMy heart grows tender, exulting with abundant gladness,\nAnd thus melts like wax in the heat of love.\nTo ponder this love\nIs to kindle one’s heart.",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus, dum flet ut pusio,",
+          "english": "℣. When God weeps as a little child,",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Amoris est effusio.",
+          "english": "℟. It is an outpouring of love.",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Oratio ut supra.",
+          "english": "Prayer as above.",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "91d6a9789d4966a8"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0007",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0010"
+            ],
+            "sourcePages": [
+              53
+            ],
+            "note": "The repeated prayer is the complete prayer printed at Matins."
+          }
+        }
+      ]
+    },
+    {
+      "id": "vespers",
+      "title": "Vespers",
+      "sourceHeading": "Vespers",
+      "pages": [
+        53
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Meas ad preces te Deus inclina,",
+          "english": "℣. Incline Thyself, O God, unto my prayers,",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "2bde8145c0218897"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et ope mihi succurre divina.",
+          "english": "℟. And succour me with Thy divine aid.",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "b76becb226b45848"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Saepe cor meum angitur, sua volvens delicta. Vix non desperans frangitur, mens metu jacet icta: sed dum infantis cogito mei blandum amorem, dimitti culpas, rogito exutiens timorem. A se me non projiciet, propitius aspiciet.",
+          "english": "Often my heart is distressed as it considers its sins.\nAlmost despairing, it is broken; my mind lies struck with fear.\nBut when I think upon the gentle love of my Infant,\nI ask that my sins be forgiven, casting away fear.\nHe will not cast me away from Himself;\nHe will look upon me graciously.",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Nolo mortem peccatoris,",
+          "english": "℣. “I desire not the death of the sinner,”",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Infans inquit, fons amoris.",
+          "english": "℟. Says the Infant, the fountain of love.",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Oratio ut supra.",
+          "english": "Prayer as above.",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "91d6a9789d4966a8"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0007",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0010"
+            ],
+            "sourcePages": [
+              53
+            ],
+            "note": "The repeated prayer is the complete prayer printed at Matins."
+          }
+        }
+      ]
+    },
+    {
+      "id": "compline",
+      "title": "Compline",
+      "sourceHeading": "Compline",
+      "pages": [
+        53
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Converte nos o puer chare,",
+          "english": "℣. Convert us, O dear Child,",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ut sic possimus te amare.",
+          "english": "℟. That thus we may be able to love Thee.",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Meas ad preces te Deus inclina,",
+          "english": "℣. Incline Thyself, O God, unto my prayers,",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "2bde8145c0218897"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et ope mihi succurre divina.",
+          "english": "℟. And succour me with Thy divine aid.",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "b76becb226b45848"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Dum frigore constringeris, qui ignis es divinus: totus rigore cingeris, meos veni in sinus. Cor meum ardens flammulis amoris te fovebit, a tuis nunquam famulis me ullus dimovebit: tenebo, nec dimittam te, donec mors advocabit me.",
+          "english": "While Thou art bound by cold, Thou who art divine fire,\nAnd art wholly surrounded by freezing chill, come into my bosom.\nMy heart, burning with little flames of love, will warm Thee.\nNo one shall ever remove me from among Thy servants.\nI shall hold Thee and not let Thee go\nUntil death calls me.",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Versans in terra finibus,",
+          "english": "℣. Dwelling within the bounds of the earth,",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Est lubens cum hominibus.",
+          "english": "℟. He gladly abides with men.",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0008",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Oratio ut supra.",
+          "english": "Prayer as above.",
+          "sourcePages": [
+            53
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "91d6a9789d4966a8"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0009",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0010"
+            ],
+            "sourcePages": [
+              53
+            ],
+            "note": "The repeated prayer is the complete prayer printed at Matins."
+          }
+        }
+      ]
+    }
+  ],
+  "unpairedEnglish": [],
+  "editorialNotes": [
+    {
+      "pages": [
+        52,
+        53
+      ],
+      "text": "Both pages have been visually compared. English is prepared from the printed Latin. The recurring “Prayer as above” displays the prayer printed at Matins. The source gives seven hours without Lauds. Three irregular hymn or versicle readings retain their printed Latin and have explicitly provisional English."
+    }
+  ]
+}

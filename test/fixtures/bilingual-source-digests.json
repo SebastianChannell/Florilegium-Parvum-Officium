@@ -1,0 +1,141 @@
+{
+  "baselineCommit": "e95a8506ef6785cd159b29b6beedc3217283292f",
+  "normalization": "Whitespace and visually verified line-end divisions of Alleluia and Tempore only. Digests capture all pre-pairing source and supplied-English text.",
+  "offices": [
+    {
+      "office": "little-office-of-the-holy-name-of-god",
+      "sections": [
+        {
+          "id": "matins",
+          "sourceDigest": "f05ee5915dd3e5fe80ea273d9b7c0103a4cb5ddf28c3bb68d634493926eb6bda",
+          "suppliedEnglishDigest": "5605b254eb1cce195c17ea2193f09ee80af3fee83131124b6cce8b0fafff5f92"
+        },
+        {
+          "id": "lauds",
+          "sourceDigest": "6511b2922743a68f433525ba1ed10cdcb2971ac6007b726b70ae07600fce6eab",
+          "suppliedEnglishDigest": "75361bb68684c1587d9739964782fc5bd755f3876909c8127f6de67ea20685bf"
+        },
+        {
+          "id": "prime",
+          "sourceDigest": "d951685c151df2a07640de75e5433c8da3e1f0d5650f568ff28daec496be742c",
+          "suppliedEnglishDigest": "1620cd9ae48e8570804780f09b033e9e5286ee5dd7a1f23c2965b763c8e129fd"
+        },
+        {
+          "id": "terce",
+          "sourceDigest": "6d32caa1e23fbcd1904e0e8cee673561a0912aa12bb3b1d9aa94ff2d76f6b49b",
+          "suppliedEnglishDigest": "e1ebe15315d3d7aab2eff93ad66631f9e4e2438ce264ced2a06e8a17e412eac2"
+        },
+        {
+          "id": "sext",
+          "sourceDigest": "df86a7b1dcb21167973fda97ccb67e594f65194b072f5f323de0e9661bc19ec2",
+          "suppliedEnglishDigest": "35f646c1c718f282b32dfb787c5098445cbf42d50fc03735553bb3a252ba4fb1"
+        },
+        {
+          "id": "none",
+          "sourceDigest": "080e747ecdd7360f6f9977b2979fb9506997beeab1aaff03f64c8ceb3bc9083a",
+          "suppliedEnglishDigest": "e109b9a1827a3c1347706e9d77d94b06ad89919ed9ce09dfd6d8c56fca4258f8"
+        },
+        {
+          "id": "vespers",
+          "sourceDigest": "79aeea3eee772da18097204412201e09956bfbe3d92a326a360e28df32c310f2",
+          "suppliedEnglishDigest": "93cbc12246e897e59a815069223725ec6191df4dd062216a82574b5f441aee1b"
+        },
+        {
+          "id": "compline",
+          "sourceDigest": "66bcf67394fade4d8794467399d8cf2c22a6ead8e7bcf66b8e484706a6eb285f",
+          "suppliedEnglishDigest": "2757fb9bcb3409e61ea04cf6d799ec243774e4a61168b398eb7ab7b57b807294"
+        }
+      ]
+    },
+    {
+      "office": "little-office-of-s-benedict",
+      "sections": [
+        {
+          "id": "matins",
+          "sourceDigest": "5e91d8353c09502f61eea4ccc756a5749e4d185d60400047c817e8ae6f9cc9dc",
+          "suppliedEnglishDigest": "e2af7766a780a2d662f52ba257c67339d6402dbdd004f343bbfbcb54272aaa8d"
+        },
+        {
+          "id": "lauds",
+          "sourceDigest": "bdac64d13facfca1f4c4e637f83849986d2ef35f44fd034efe8c6865804fc280",
+          "suppliedEnglishDigest": "0c1924e1818e12a5c9b4dc94e31e81a2531d891bbc7cb36b0feff2ab2f34163c"
+        },
+        {
+          "id": "prime",
+          "sourceDigest": "5b1c0d13ccec01aea4f3ce73a597ed0f9d433363a3cf9807f4f3939869e45e2c",
+          "suppliedEnglishDigest": "977402ae31d524613e70703fac1935da2aa80e9624b92a82642c1f9cf9a3e873"
+        },
+        {
+          "id": "terce",
+          "sourceDigest": "77f18cf0619b917076912c285fdeaa4bb56ffe9cc27ec1695408a85618e8a137",
+          "suppliedEnglishDigest": "e87d1215a3d5b5db384b6e9d5d1f8f66022a4ab148416556182a918fba679144"
+        },
+        {
+          "id": "sext",
+          "sourceDigest": "6a63a5adac1ed66ffba8be78c3aec8360de128ec3047e63adb102195ee124d44",
+          "suppliedEnglishDigest": "3de8092825ecac6f71343c14b2b3978c6d7aa1aac9b97bbf952d0b86a8ba7e59"
+        },
+        {
+          "id": "none",
+          "sourceDigest": "9ec12b4497b369d407d5274b403c98e370a4e73d72054057aec62f6de78ee4e6",
+          "suppliedEnglishDigest": "a2f8c2b308f9f9b34053db5f97f5c8edb5b3b17ed7107ac49ff10607e72e0dc2"
+        },
+        {
+          "id": "vespers",
+          "sourceDigest": "eb9d7c841db2183285f81f5a351c9df146a732172244b945f3239d0a18cc7b28",
+          "suppliedEnglishDigest": "3d57f09da6b414aef3673e804d139e2f5c5eff01741920fd8395072b42a6ae1a"
+        },
+        {
+          "id": "compline",
+          "sourceDigest": "d081a3351041db278f5a2fcb928c9dd7dfce614e6c07d75ee1c2f1d164aa8f83",
+          "suppliedEnglishDigest": "73d4d9f665dfeed6818ac18c29091b26e8b511ba4fefbab60b95f6fd0e3819ca"
+        }
+      ]
+    },
+    {
+      "office": "little-office-for-benedictine-oblates",
+      "sections": [
+        {
+          "id": "matins",
+          "sourceDigest": "9ddfd3fb7e3662a52b33036fda6b6e847a24c45c05a0ad610a3dae5a9354d3fd",
+          "suppliedEnglishDigest": "0a8ceffbf3144de10e348f1ba0706245de042f7f97d54adb656149e6db00f912"
+        },
+        {
+          "id": "lauds",
+          "sourceDigest": "26230b1890dbaa92e21bc4f20556044ad2aa789430a68693190db44c379f358a",
+          "suppliedEnglishDigest": "d5b74e99fbaffe144d74ed50cebc87599152616e5938a6066b41dbd07244ddbd"
+        },
+        {
+          "id": "prime",
+          "sourceDigest": "c888a8e6c14fbf7a0e9606a2d2192220b5c7854f5ce2fbe8cba9b9e6076feea9",
+          "suppliedEnglishDigest": "dc5199c8f84c8e7e65c5e872a2e4de874d0324cde1cf73b34efccac04208f90a"
+        },
+        {
+          "id": "terce",
+          "sourceDigest": "fd9c23a294c2a3c7242507ce4df7f9083476e0d33f0a5f5e389f3f4785765394",
+          "suppliedEnglishDigest": "ab366eb356880df0965a17e137bed0351e684ae8497f296f9cd32321cd67d182"
+        },
+        {
+          "id": "sext",
+          "sourceDigest": "1b2b2f4e964a7917ceb0666460d49efb1038a179da24efb1b63cf14bb06c4814",
+          "suppliedEnglishDigest": "bd35f3e000b3dad0ba5f64e53360f439a2e7ede89a6dad1057e470c9d14ce959"
+        },
+        {
+          "id": "none",
+          "sourceDigest": "6787226f0e227370b4b6767e432c2b3c630dc10901a20727aa1dc3722214364b",
+          "suppliedEnglishDigest": "a2cf60f8a33a9678c5414855e8d01eee504a80830751e27a47d73bb147ae1408"
+        },
+        {
+          "id": "vespers",
+          "sourceDigest": "a7be4e31ca977f2024c8b1cc4b848cfa5d49c6d3dd42dfe54bf4653fbf9f1538",
+          "suppliedEnglishDigest": "4340ed88c58ab593457e2ea9da66f464b6577e88233c87e30112e7f4f6fad6e2"
+        },
+        {
+          "id": "compline",
+          "sourceDigest": "e3b4e007143d5061e49b72c69c281045710f159d67fe98e3df45d38ea940c011",
+          "suppliedEnglishDigest": "28ce712088f4c6b51bbe30fee8a8dc16574a4b818fd7ed48e13ac582a9dac445"
+        }
+      ]
+    }
+  ]
+}

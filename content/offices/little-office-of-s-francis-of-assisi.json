@@ -1,0 +1,3295 @@
+{
+  "schemaVersion": 1,
+  "id": "little-office-of-s-francis-of-assisi",
+  "title": "Little Office of S. Francis of Assisi",
+  "category": "Angels and Saints",
+  "source": {
+    "pdfPages": [
+      491,
+      497
+    ],
+    "printedPages": [
+      "491",
+      "497"
+    ],
+    "file": "book.pdf",
+    "pageNumberConvention": "1-based; printed and PDF pages coincide"
+  },
+  "sourceLanguage": "Latin",
+  "introductoryNotes": [
+    {
+      "type": "source-note",
+      "text": "From Elenchus vitae",
+      "pages": [
+        491
+      ],
+      "language": "English"
+    }
+  ],
+  "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
+  "status": {
+    "extraction": "reviewed",
+    "translation": "complete-prepared-reading-pending",
+    "verification": "source-reading-pending"
+  },
+  "sections": [
+    {
+      "id": "matins",
+      "title": "Matins",
+      "sourceHeading": "Matins",
+      "pages": [
+        491
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Amor Seraphicus accendat sensus, et corda nostra.",
+          "english": "℣. May seraphic love enkindle our senses and our hearts.",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "4d1492c611d9c190"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Amen.",
+          "english": "℟. Amen.",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "4bbe43df75951d63"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine labia mea aperies.",
+          "english": "℣. O Lord, Thou shalt open my lips.",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "ee1b777e1f871f9b"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et os meum annuntiabit laudem tuam.",
+          "english": "℟. And my mouth shall declare Thy praise.",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "f146351e0f90e0c9"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "78d50448807aeaa9"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Venite omnes pie mentes, Venite sinceri clientes, Franciscum Filii laudemus, Eique nunc honorem demus.",
+          "english": "Come, all devout minds;\nCome, sincere clients;\nLet us, his sons, praise Francis [Filii is ambiguous],\nAnd now give him honor.",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0008",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed Latin has an irregular or defective reading, explicitly retained in the prepared English as provisional or unresolved; no Latin emendation is made."
+        },
+        {
+          "type": "prayer",
+          "source": "Quem humilitas exaltavit, Veraque sanctitas beavit, Qui in angeli altam sedem Lectus per luciferi caedem.",
+          "english": "Whom humility exalted\nAnd true holiness made blessed,\nChosen for the angel’s lofty seat\nThrough Lucifer’s fall [printed Lectus is uncertain].",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0009",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed Latin has an irregular or defective reading, explicitly retained in the prepared English as provisional or unresolved; no Latin emendation is made."
+        },
+        {
+          "type": "prayer",
+          "source": "Lucifer enim superbiit, Franciscus se exinanivit.",
+          "english": "For Lucifer became proud; Francis emptied himself.",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0010",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained."
+        },
+        {
+          "type": "rubric",
+          "source": "Antiphona",
+          "english": "Antiphon",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "f58840f289b693da"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0011",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "O Francisce! O speculum verae humilitatis! omnem a nostris cordibus abjice superbiam, nobis que veram cordibus impera humilitatem.",
+          "english": "O Francis, mirror of true humility, cast all pride from our hearts and obtain true humility for our hearts.",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0012",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Ora pro nobis S. Francisce Seraphice.",
+          "english": "℣. Pray for us, Saint Francis the Seraphic.",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0013",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ut digni efficiamur promissionibus Christi.",
+          "english": "℟. That we may be made worthy of the promises of Christ.",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "6bc7298fc082f2a2"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0014",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0015",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Deus, qui ad demonstrandam tuam potestatem servum tuum Franciscum, ob profundam ejusdem humilitatem in thronum luciferi collocasti, dejectum vero angelum ob superbiam humiliasti: concede propitius, ut ejusdem exemplo hic in terris semper humiles, in aeterna dein gloria exaltari mereamur. Per Christum Dominum nostrum. Amen.",
+          "english": "O God, to manifest Thy power Thou didst place Thy servant Francis, because of his deep humility, upon Lucifer’s throne, but didst humble the fallen angel because of his pride. Mercifully grant that, always humble here on earth after his example, we may afterwards be worthy to be exalted in eternal glory. Through Christ our Lord. Amen.",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0016",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "lauds",
+      "title": "Lauds",
+      "sourceHeading": "Lauds",
+      "pages": [
+        491,
+        492
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Amor Seraphicus accendat sensus, et corda nostra.",
+          "english": "℣. May seraphic love enkindle our senses and our hearts.",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "4d1492c611d9c190"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Amen.",
+          "english": "℟. Amen.",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "4bbe43df75951d63"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "78d50448807aeaa9"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "A Deo eras confirmatus, Tu ut Seraphim inflammatus; Votum insuper emisisti, Ut qui petunt amore Christi,",
+          "english": "Thou wast strengthened by God,\nInflamed like a seraph;\nMoreover thou didst make a vow\nThat to those who ask for Christ’s love,",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0006",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Omnia per Christum dabis, Nihil illis denegabis. Licet petant vestimenta, Corporisque lenimenta,",
+          "english": "Through Christ thou wilt give all things,\nDenying them nothing,\nEven if they ask for clothing\nAnd comforts for the body,",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0007",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained.",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Opem nemini negabis, Cuncta nobis impetrabis.",
+          "english": "Thou wilt deny help to no one;\nThou wilt obtain all things for us.",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0008",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained.",
+          "poetry": true
+        },
+        {
+          "type": "rubric",
+          "source": "Antiphona",
+          "english": "Antiphon",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "f58840f289b693da"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "O Francisce! O Seraphim divini amoris! accende etiam tepida nostra, et frigida corda igne divini amoris.",
+          "english": "O Francis, seraph of divine love, kindle also our lukewarm and cold hearts with the fire of divine love.",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0010",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Ora pro nobis Sancte Francisce Seraphice.",
+          "english": "℣. Pray for us, Saint Francis the Seraphic.",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0011",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ut digni efficiamur promissionibus Christi.",
+          "english": "℟. That we may be made worthy of the promises of Christ.",
+          "sourcePages": [
+            491
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "6bc7298fc082f2a2"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0012",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0013",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Deus, qui cor sinceri tui servi Francisci in tuo amore ita inflammasti, ut se votis obstrinxerit nulli quidquam amore tui petenti denegandi: fac ut pariter in nomine Christi postulantibus nihil denegemus. Per Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in saecula saeculorum. Amen.",
+          "english": "O God, Thou didst so inflame the heart of Thy sincere servant Francis in Thy love that he bound himself by vows to deny nothing to anyone asking for love of Thee. Grant that we likewise may deny nothing to those who ask in Christ’s name. Through our Lord Jesus Christ Thy Son, who lives and reigns with Thee forever and ever. Amen.",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0014",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "prime",
+      "title": "Prime",
+      "sourceHeading": "Prime",
+      "pages": [
+        492
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Amor Seraphicus accendat sensus, et corda nostra.",
+          "english": "℣. May seraphic love enkindle our senses and our hearts.",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "4d1492c611d9c190"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Amen.",
+          "english": "℟. Amen.",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "4bbe43df75951d63"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "78d50448807aeaa9"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Patris e domo ejectus, Dei filius adlectus, Patrem nostrum invocasti, Es expertus, quod optasti.",
+          "english": "Cast out of thy father’s house,\nChosen as a son of God,\nThou didst invoke our Father\nAnd experience what thou desired.",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0006",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Dulci eundem amplexu, Coluisti novo nexu; Inquiebas: Pater mi! Audiebas: Fili mi!",
+          "english": "In a sweet embrace\nThou didst honor Him with a new bond;\nThou didst say, “My Father!”\nThou didst hear, “My son!”",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0007",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained.",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Deus meus, et omnia, Caetera mundi somnia.",
+          "english": "My God and my all;\nThe rest of the world is dreams.",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0008",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained.",
+          "poetry": true
+        },
+        {
+          "type": "rubric",
+          "source": "Antiphona",
+          "english": "Antiphon",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "f58840f289b693da"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "O Francisce! O vere Fili divinae providentiae! obtine nobis constantem filialem erga Deum confidentiam.",
+          "english": "O Francis, true son of divine providence, obtain for us steadfast filial confidence toward God.",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0010",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Ora pro nobis S. Francisce Seraphice.",
+          "english": "℣. Pray for us, Saint Francis the Seraphic.",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0011",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ut digni efficiamur promissionibus Christi.",
+          "english": "℟. That we may be made worthy of the promises of Christ.",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "6bc7298fc082f2a2"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0012",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0013",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Deus, qui desertum a parente Franciscum, et teque sincere et filiali invocantem in patronum tuum praesidium recipere dignatus es: concede nobis filiis tuis, tibi filiali confidentia semper adhaerere, atque sub paterno tuo praesidio secure vivere. Per Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in saecula saeculorum. Amen.",
+          "english": "O God, Thou didst deign to receive Francis, forsaken by his parent and invoking Thee sincerely and as a son, into Thy fatherly protection [the printed clause is defective]. Grant us, Thy children, always to cling to Thee with filial confidence and to live securely beneath Thy paternal protection. Through our Lord Jesus Christ Thy Son, who lives and reigns with Thee forever and ever. Amen.",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0014",
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed Latin has an irregular or defective reading, explicitly retained in the prepared English as provisional or unresolved; no Latin emendation is made."
+        }
+      ]
+    },
+    {
+      "id": "terce",
+      "title": "Terce",
+      "sourceHeading": "Terce",
+      "pages": [
+        492,
+        493
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Amor Seraphicus accendat sensus, et corda nostra.",
+          "english": "℣. May seraphic love enkindle our senses and our hearts.",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "4d1492c611d9c190"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Amen.",
+          "english": "℟. Amen.",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "4bbe43df75951d63"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "78d50448807aeaa9"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Te Deo plene dedicasti, Animam totam consecrasti, Postquam corpus cruciasti, Sanguineque sauciasti.",
+          "english": "Thou didst dedicate thyself fully to God,\nConsecrating thy whole soul,\nAfter afflicting thy body\nAnd wounding it with blood.",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0006",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained.",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Ordinis novi fundator Factus es, et propagator, E coelis qui mundo natus, Seraphicus appellatus.",
+          "english": "Thou wast made the founder\nAnd propagator of a new order,\nBorn to the world from heaven\nAnd called Seraphic.",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0007",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Tu quas leges praescripsisti, Ipse ad unguem implevisti.",
+          "english": "The laws thou didst prescribe,\nThou thyself fulfilled exactly.",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0008",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained.",
+          "poetry": true
+        },
+        {
+          "type": "rubric",
+          "source": "Antiphona",
+          "english": "Antiphon",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "f58840f289b693da"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "O Francisce! O magister mortificationis et abnegationis! propriae doce nos exemplo tuo carnem domare, atque spiritui subjicere.",
+          "english": "O Francis, master of mortification and self-denial, teach us by thine example to tame the flesh and subject it to the spirit.",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0010",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Ora pro nobis S. Francisce Seraphice.",
+          "english": "℣. Pray for us, Saint Francis the Seraphic.",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0011",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ut digni efficiamur promissionibus Christi.",
+          "english": "℟. That we may be made worthy of the promises of Christ.",
+          "sourcePages": [
+            492
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "6bc7298fc082f2a2"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0012",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0013",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Concede nobis Omnipotens ac Benigne Deus, per austeram vivendi normam et magnamque zelosi servi tui Francisci poenitentiam, auxilium ac gratiam, ut hic in terris nostrae conformiter vocationi in mortificatione corporis constanter nos exerceamus. Per Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in saecula saeculorum. Amen.",
+          "english": "Almighty and kindly God, through the austere way of life and great penance of Thy zealous servant Francis, grant us help and grace to practice bodily mortification steadfastly here on earth according to our vocation. Through our Lord Jesus Christ Thy Son, who lives and reigns with Thee forever and ever. Amen.",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0014",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "sext",
+      "title": "Sext",
+      "sourceHeading": "Sext",
+      "pages": [
+        493
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Amor Seraphicus accendat sensus, et corda nostra.",
+          "english": "℣. May seraphic love enkindle our senses and our hearts.",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "4d1492c611d9c190"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Amen.",
+          "english": "℟. Amen.",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "4bbe43df75951d63"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "78d50448807aeaa9"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Paupertati desponsatus, Et inopia dotatus, Hanc reginam nominasti, Factis tuis decorasti.",
+          "english": "Espoused to poverty\nAnd endowed with want,\nThou didst call her queen\nAnd adorn her by thy deeds.",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0006",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained.",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Dei opes solas veras, Praeter illas nugas meras, Agnovisti, et dixisti, Dives, pauper dum vixisti.",
+          "english": "Thou didst recognize and proclaim\nGod’s riches alone as true,\nAll else as mere trifles,\nRich while thou didst live poor.",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0007",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Te virtutes adornarunt, Caeli cives honorarunt.",
+          "english": "Virtues adorned thee;\nThe citizens of heaven honored thee.",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0008",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained.",
+          "poetry": true
+        },
+        {
+          "type": "rubric",
+          "source": "Antiphona",
+          "english": "Antiphon",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "f58840f289b693da"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "O Patriarcha pauperum! fac, ut pauperes spiritu divitias regni coelestis possidere mereamur.",
+          "english": "O patriarch of the poor, grant that, poor in spirit, we may be worthy to possess the riches of the heavenly kingdom.",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0010",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Ora pro nobis S. Francisce Seraphice.",
+          "english": "℣. Pray for us, Saint Francis the Seraphic.",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0011",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ut digni efficiamur promissionibus Christi.",
+          "english": "℟. That we may be made worthy of the promises of Christ.",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "6bc7298fc082f2a2"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0012",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0013",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Deus, qui Sancto Francisco Seraphico pauperi quidem in hoc mundo, diviti vero in gratia tua thesaurum verae evangelicae paupertatis indicasti: tribue nobis veram heroicam spiritus paupertatem, ut cujus terrena omnia despicamus, et non aliam quam in coelis haereditatem devote suspiremus, atque glorioso obtineamus. Per Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in saecula saeculorum. Amen.",
+          "english": "O God, to Saint Francis the Seraphic, poor indeed in this world but rich in Thy grace, Thou didst reveal the treasure of true evangelical poverty. Grant us true and heroic poverty of spirit, that we may despise all earthly things [the printed cujus is irregular], devoutly long for no inheritance except in heaven, and obtain it gloriously [the printed glorioso is irregular]. Through our Lord Jesus Christ Thy Son, who lives and reigns with Thee forever and ever. Amen.",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0014",
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed Latin has an irregular or defective reading, explicitly retained in the prepared English as provisional or unresolved; no Latin emendation is made."
+        }
+      ]
+    },
+    {
+      "id": "none",
+      "title": "None",
+      "sourceHeading": "None",
+      "pages": [
+        493,
+        494
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Amor Seraphicus accendat sensus, et corda nostra.",
+          "english": "℣. May seraphic love enkindle our senses and our hearts.",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "4d1492c611d9c190"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Amen.",
+          "english": "℟. Amen.",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "4bbe43df75951d63"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "78d50448807aeaa9"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Orans noctes consumebas, Orto sole mox legebas, Sacra Patrum volumina, Delapsa coelo lumina.",
+          "english": "Thou didst spend nights in prayer;\nAt sunrise thou wouldst read\nThe sacred volumes of the Fathers,\nLights descended from heaven.",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0006",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Deo laudes decantabas, Et canendo plus amabas; Exclamabas: O mi Deus! Et omnia totus meus.",
+          "english": "Thou didst sing praises to God,\nAnd in singing love Him more;\nThou didst cry, “O my God!\nAnd my all, wholly mine.”",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0007",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "En te cor meum diligit, Teque in patrem eligit.",
+          "english": "Behold, my heart loves Thee,\nAnd chooses Thee as Father.",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0008",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained.",
+          "poetry": true
+        },
+        {
+          "type": "rubric",
+          "source": "Antiphona",
+          "english": "Antiphon",
+          "sourcePages": [
+            493
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "f58840f289b693da"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "O Francisce! qui in Deo omnia invenisti, impetra nobis etiam, ut Deus sit nobis omnia in omnibus.",
+          "english": "O Francis, who didst find all things in God, obtain also for us that God may be all in all to us.",
+          "sourcePages": [
+            493,
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493,
+              494
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0010",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Ora pro nobis Sancte Francisce Seraphice.",
+          "english": "℣. Pray for us, Saint Francis the Seraphic.",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0011",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ut digni efficiamur promissionibus Christi.",
+          "english": "℟. That we may be made worthy of the promises of Christ.",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "6bc7298fc082f2a2"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0012",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0013",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Deus, immensum mare omnium gratiarum et perfectionum, qui electo tuo servo Francisco omnia in omnibus fuisti, dum amore succensus exclamaret: Deus meus, et omnia! concede etiam servis tuis, ut in te unicum nostrum cordis lenimen reperiamus. Per Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in saecula saeculorum. Amen.",
+          "english": "O God, immeasurable sea of all graces and perfections, Thou wast all in all to Thy chosen servant Francis when, aflame with love, he cried, “My God and my all!” Grant also to Thy servants that we may find in Thee the sole comfort of our hearts. Through our Lord Jesus Christ Thy Son, who lives and reigns with Thee forever and ever. Amen.",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0014",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "vespers",
+      "title": "Vespers",
+      "sourceHeading": "Vespers",
+      "pages": [
+        494
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Amor Seraphicus accendat sensus, et corda nostra.",
+          "english": "℣. May seraphic love enkindle our senses and our hearts.",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "4d1492c611d9c190"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Amen.",
+          "english": "℟. Amen.",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "4bbe43df75951d63"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "78d50448807aeaa9"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Seraphicae mentis ardor, Puritatis vitae candor, Deo semper eras gratus, Et ab angelis amatus.",
+          "english": "The ardor of thy seraphic mind,\nThe brightness of thy pure life:\nThou wast always pleasing to God\nAnd beloved by angels.",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0006",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Te calefasti parvum mundum, Abjecisti in profundum; Nosti quod sit caro coenum, Quo delectat, sit venenum.",
+          "english": "[The printed Te calefasti parvum mundum is unresolved.]\nThou didst cast into the depths;\nThou knewest that the flesh is mire,\nAnd that in what it delights is poison [construction uncertain].",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0007",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed Latin has an irregular or defective reading, explicitly retained in the prepared English as provisional or unresolved; no Latin emendation is made."
+        },
+        {
+          "type": "prayer",
+          "source": "Mundum ergo debellasti, Felix victor triumphasti.",
+          "english": "Thus thou didst conquer the world,\nAnd triumph as a happy victor.",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0008",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained.",
+          "poetry": true
+        },
+        {
+          "type": "rubric",
+          "source": "Antiphona",
+          "english": "Antiphon",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "f58840f289b693da"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Francisce castitate et morum innocentia angele! impetra nobis incorruptibilem animae puritatem.",
+          "english": "Francis, angel in chastity and innocence of conduct, obtain for us incorruptible purity of soul.",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0010",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Ora pro nobis Sancte Francisce Seraphice.",
+          "english": "℣. Pray for us, Saint Francis the Seraphic.",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0011",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ut digni efficiamur promissionibus Christi.",
+          "english": "℟. That we may be made worthy of the promises of Christ.",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "6bc7298fc082f2a2"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0012",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0013",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Concede nobis Domine per merita et intercessionem tui maxime in angelica puritate excellentis servi tui Francisci illibatam animae et corporis puritatem, ut mundo corde Agnum Immaculatum aeternum aspicere mereamur. Per Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in saecula saeculorum. Amen.",
+          "english": "Lord, through the merits and intercession of Thy servant Francis, most excellent in angelic purity, grant us undefiled purity of soul and body, that with a clean heart we may be worthy to behold the Immaculate Lamb forever. Through our Lord Jesus Christ Thy Son, who lives and reigns with Thee forever and ever. Amen.",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0014",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "compline",
+      "title": "Compline",
+      "sourceHeading": "Compline",
+      "pages": [
+        494,
+        495
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Amor Seraphicus accendat sensus, et corda nostra.",
+          "english": "℣. May seraphic love enkindle our senses and our hearts.",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "4d1492c611d9c190"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Amen.",
+          "english": "℟. Amen.",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "4bbe43df75951d63"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Converte nos Deus salutaris noster.",
+          "english": "℣. Convert us, O God our Saviour.",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "547f9b0e1be48dfe"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et averte iram tuam a nobis.",
+          "english": "℟. And turn away Thine anger from us.",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "bc693d4a2c9bc2c3"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "78d50448807aeaa9"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Tibi Jesus vult uniri, Cor amore vult muniri, In dulce amoris signum Miat tibi crucis lignum.",
+          "english": "Jesus wills to be united to thee,\nWills thy heart to be fortified with love;\nAs a sweet sign of love\n[The printed Miat concerning the wood of the Cross is unresolved.]",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0008",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed Latin has an irregular or defective reading, explicitly retained in the prepared English as provisional or unresolved; no Latin emendation is made."
+        },
+        {
+          "type": "prayer",
+          "source": "Signa imprimit doloris, Mutui testes amoris; Ut capias coeli bona, Purpurea confert dona.",
+          "english": "He imprints the signs of suffering,\nWitnesses of mutual love;\nThat thou mayest receive heaven’s goods,\nHe bestows purple gifts.",
+          "sourcePages": [
+            494
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0009",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Te sibi facit similem, Quem novit esse humilem.",
+          "english": "He makes thee like Himself,\nWhom He knows to be humble.",
+          "sourcePages": [
+            495
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0010",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained.",
+          "poetry": true
+        },
+        {
+          "type": "rubric",
+          "source": "Antiphona",
+          "english": "Antiphon",
+          "sourcePages": [
+            495
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "f58840f289b693da"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0011",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Francisce! vivum Jesu Crucifixi speculum! impetra nobis gratiam quinque sacra Christi vulnera in cordibus nostris semper impressa circumferre.",
+          "english": "Francis, living mirror of Jesus crucified, obtain for us the grace always to carry Christ’s five sacred wounds imprinted upon our hearts.",
+          "sourcePages": [
+            495
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0012",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Ora pro nobis Sancte Francisce Seraphice.",
+          "english": "℣. Pray for us, Saint Francis the Seraphic.",
+          "sourcePages": [
+            495
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0013",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ut digni efficiamur promissionibus Christi.",
+          "english": "℟. That we may be made worthy of the promises of Christ.",
+          "sourcePages": [
+            495
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "6bc7298fc082f2a2"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0014",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            495
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0015",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Jesu Christe, qui frigescente mundo ad inflammandum corda nostra tui amoris igne, in carne Beatissimi Patris Francisci passionis tuae sacra stigmata renovasti: concede propitius, ut ejus meritis et precibus crucem jugiter feramus, et dignos fructus poenitentiae faciamus. Qui vivis et regnas cum Deo Patre in unitate Spiritus Sancti Deus, per omnia saecula saeculorum. Amen.",
+          "english": "Lord Jesus Christ, as the world grew cold, to inflame our hearts with the fire of Thy love Thou didst renew the sacred stigmata of Thy Passion in the flesh of the most blessed Father Francis. Mercifully grant that through his merits and prayers we may continually carry the cross and bring forth worthy fruits of penance. Thou livest and reignest with God the Father in the unity of the Holy Spirit, God, forever and ever. Amen.",
+          "sourcePages": [
+            495
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0016",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "commendatio",
+      "title": "Commendatio",
+      "sourceHeading": "Commendatio",
+      "pages": [
+        495
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Qui odisti sublimia, Amasti vero vilia, Francisce hoc munus cape, Et ad te cor meum rape.",
+          "english": "Francis, thou who hated lofty things\nAnd loved lowly things,\nReceive this gift\nAnd draw my heart to thee.",
+          "sourcePages": [
+            495
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0001",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Fac ut ardeat cor meum, In amando verum Deum; Quo plus mundo sum abjectus, Hoc plus Deo sum adlectus.",
+          "english": "Make my heart burn\nIn loving the true God;\nThe more I am cast off by the world,\nThe more I am chosen by God.",
+          "sourcePages": [
+            495
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0002",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            495
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Iste confessor Domini, relicto Orbe terrarum meruit beatos Exinde laetus penetrare portus Atrium coeli.",
+          "english": "This confessor of the Lord, leaving\nThe earthly world, was worthy\nThence joyfully to enter the blessed harbors\nOf heaven’s courts.",
+          "sourcePages": [
+            495
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0004",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Nam pius, prudens, humilis, pudicus, Nobilem duxit sine labe vitam, Et Dei mansit pietate plenus Semper amicus.",
+          "english": "For devout, prudent, humble, and chaste,\nHe led a noble, unblemished life;\nAnd, filled with devotion, remained\nAlways God’s friend.",
+          "sourcePages": [
+            495
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0005",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Inter electos sine fine gaudet, Osculum sanctae recipitque pacis, Sortis aeternae meruitque salutis Exsultat in aevum.",
+          "english": "Among the elect he rejoices without end,\nReceives the kiss of holy peace,\nAnd, worthy of the lot of eternal salvation,\nExults forever [printed syntax irregular].",
+          "sourcePages": [
+            495
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0006",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed Latin has an irregular or defective reading, explicitly retained in the prepared English as provisional or unresolved; no Latin emendation is made."
+        },
+        {
+          "type": "prayer",
+          "source": "Propter ingentis meriti valorem, Hactenus multi potitiuntur aegri Viribus morbi domitis, salute Suppeditata.",
+          "english": "By the power of his great merit,\nMany sick have since received,\nThe forces of disease subdued,\nHealth supplied [potitiuntur is irregular].",
+          "sourcePages": [
+            495
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0007",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed Latin has an irregular or defective reading, explicitly retained in the prepared English as provisional or unresolved; no Latin emendation is made."
+        },
+        {
+          "type": "prayer",
+          "source": "Reddit hinc illi chorus iste noster Omne per vitae viridantis aevum Maximas laudes celebresque palmas Exhilaratus.",
+          "english": "Therefore this choir of ours, gladdened,\nThroughout the whole span of flourishing life,\nRenders him greatest praises\nAnd celebrated palms.",
+          "sourcePages": [
+            495
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0008",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Rector immensi Dominusque coeli, Spiritus Sanctus, Pater atque Natus, Trinus ac unus tibi sint honores, Gloria, virtus.",
+          "english": "Ruler and Lord of boundless heaven,\nHoly Spirit, Father, and Son,\nThree and One, to Thee be honors,\nGlory and power.",
+          "sourcePages": [
+            495
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0009",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Ora pro nobis Sancte Francisce Seraphice.",
+          "english": "℣. Pray for us, Saint Francis the Seraphic.",
+          "sourcePages": [
+            495
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0010",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ut digni efficiamur promissionibus Christi.",
+          "english": "℟. That we may be made worthy of the promises of Christ.",
+          "sourcePages": [
+            495
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "6bc7298fc082f2a2"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0011",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            495
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0012",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Deus, qui Ecclesiam tuam Beati Francisci meritis foetu novae prolis amplificas: tribue nobis ex ejus imitatione terrena despicere, et coelestium donorum semper participatione gaudere. Per Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in saecula saeculorum. Amen.",
+          "english": "O God, through the merits of blessed Francis Thou dost enlarge Thy Church by the birth of new offspring. Grant us, in imitation of him, to despise earthly things and always rejoice in sharing heavenly gifts. Through our Lord Jesus Christ Thy Son, who lives and reigns with Thee forever and ever. Amen.",
+          "sourcePages": [
+            495
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0013",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "formula-s-franciscum-seraphicum-in",
+      "title": "Formula S. Franciscum Seraphicum in",
+      "sourceHeading": "Formula S. Franciscum Seraphicum in",
+      "pages": [
+        495,
+        496
+      ],
+      "blocks": [
+        {
+          "type": "heading",
+          "source": "Patronum eligendi",
+          "english": "For choosing a patron",
+          "sourcePages": [
+            495
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "formula-s-franciscum-seraphicum-in-b0001",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "Me lecte Patrone S. Francisce Seraphice, protector omnium te invocantium, praeprimis clientum tuorum, Ecce ego N. N. eligo te in praesentia Sanctissimae Trinitatis, S. Mariae, S. Josephi, totiusque coelestis curiae in dilectissimum meum patrem, patronum, et advocatum. Rogoque, impetra mihi a Deo gratiam, ut constanter in virtutibus ad imitationem tuam maxime in profundissima humilitate, abnegatione propria in serventi erga Deum amore me exerceam, et per intercessionem tuam felicem vitae finem obtineam.",
+          "english": "My chosen patron, Saint Francis the Seraphic, protector of all who invoke thee, especially thy clients: behold, I, N. N., choose thee in the presence of the most holy Trinity, Saint Mary, Saint Joseph, and the entire heavenly court as my most beloved father, patron, and advocate. I ask thee to obtain for me from God grace to practice virtues steadfastly in imitation of thee, especially deepest humility, self-denial, and fervent love toward God [serventi is an irregular printed form], and through thy intercession to obtain a happy end of life.",
+          "sourcePages": [
+            495,
+            496
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495,
+              496
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "formula-s-franciscum-seraphicum-in-b0002",
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed Latin has an irregular or defective reading, explicitly retained in the prepared English as provisional or unresolved; no Latin emendation is made."
+        },
+        {
+          "type": "prayer",
+          "source": "Propono mihi etiam te nunquam derelicturum, neque contra te aliquid dicturum aut facturum neque permittendum: ut a meis subditis contra te unquam aliquid agatur.",
+          "english": "I also resolve never to forsake thee, nor say or do anything against thee, nor permit anything against thee ever to be done by those subject to me.",
+          "sourcePages": [
+            496
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              496
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "formula-s-franciscum-seraphicum-in-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Obsecro te igitur, suscipe me in servum perpetuum, et commenda me divinae misericordiae, sanguineisque vulneribus Crucifixi Jesu. Adjuva me etiam amantissime pater non solum omni momento vitae meae, sed et quam maxime in articulo mortis.",
+          "english": "Therefore I beseech thee, receive me as thy perpetual servant and commend me to divine mercy and to the bloody wounds of Jesus crucified. Help me also, most loving father, not only at every moment of my life but especially at the hour of death.",
+          "sourcePages": [
+            496
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              496
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "formula-s-franciscum-seraphicum-in-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Ah! tunc ne deseras me, o Sancte Pater Francisce, verum protege tunc anxium sub paterno tuo praesidio, et quidquid infirmitas mea non poterit, id mihi impetra per tuam potentem intercessionem: ut omnis sciat ac agnoscat, quam vere tuorum clientum recordaris.",
+          "english": "Ah, then do not forsake me, holy Father Francis, but protect me in my distress beneath thy paternal shelter. Whatever my weakness cannot do, obtain it for me by thy powerful intercession, that everyone may know and acknowledge how truly thou rememberest thy clients.",
+          "sourcePages": [
+            496
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              496
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "formula-s-franciscum-seraphicum-in-b0005",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "devota-oratio-ad-s-patrem-franciscum",
+      "title": "Devota Oratio ad S. Patrem Franciscum",
+      "sourceHeading": "Devota Oratio ad S. Patrem Franciscum",
+      "pages": [
+        496,
+        497
+      ],
+      "blocks": [
+        {
+          "type": "heading",
+          "source": "Seraphicum",
+          "english": "Seraphic",
+          "sourcePages": [
+            496
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              496
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "devota-oratio-ad-s-patrem-franciscum-b0001",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "Beatissime ac Seraphice Pater Francisce, vere imitator Crucifixi Jesu, qui te prae omnibus aliis sanctis singulari amoris honorisque gratia ornavit, tuam enim animam lumine amoris replevit, atque in corpore sacratissima vulnera sua renovavit: per eundem amorem benignissimi Salvatoris nostri Jesu Christi supplices rogamus, velis semper apud Deum esse adjutor noster, protector, pater, et advocatus.",
+          "english": "Most blessed and seraphic Father Francis, true imitator of Jesus crucified, who adorned thee above all other saints with a special grace of love and honor: He filled thy soul with the light of love and renewed His most sacred wounds in thy body. Through this same love of our most kindly Savior Jesus Christ we humbly ask thee always to be our helper, protector, father, and advocate before God.",
+          "sourcePages": [
+            496
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              496
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "devota-oratio-ad-s-patrem-franciscum-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "O coelestis Seraphim, humillime Francisce, ora pro nobis, ut passio et mors acerbissima Domini nostri Jesu Christi non sit nobis reatus ad poenam, sed intercessio salutaris ad vitam aeternam.",
+          "english": "O heavenly seraph, most humble Francis, pray for us that the Passion and most bitter death of our Lord Jesus Christ may not be for us guilt unto punishment, but saving intercession unto eternal life.",
+          "sourcePages": [
+            496
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              496
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "devota-oratio-ad-s-patrem-franciscum-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Benignissime Seraphim Sancte Pater Francisce! nos miseri peccatores fugimus ad te, et coram te genua flectimus, nos totos tibi tradimus, commonefque magni illius amoris quem erga peccatores miseros habuisti, ita ut a Christo nihil aliud quam peccatorum alienorum remissionem petieris, vi cujus innumerabiles animae aeterna beatitudine perfruuntur.",
+          "english": "Most kindly seraph, holy Father Francis, we miserable sinners flee to thee and bend our knees before thee, giving ourselves wholly to thee. Remember that great love thou hadst for miserable sinners [the printed commonefque is defective], so that thou didst ask Christ for nothing other than the forgiveness of others’ sins, through which countless souls enjoy eternal blessedness.",
+          "sourcePages": [
+            496
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              496
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "devota-oratio-ad-s-patrem-franciscum-b0004",
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed Latin has an irregular or defective reading, explicitly retained in the prepared English as provisional or unresolved; no Latin emendation is made."
+        },
+        {
+          "type": "prayer",
+          "source": "Misericordissime Seraphim Sancte Pater Francisce! miserere omnium morientium, et ora pro illis ut ante obitum plenariam indulgentiam omnium suorum peccatorum obtinere, et aeterna gaudia consequi mereantur.",
+          "english": "Most merciful seraph, holy Father Francis, have mercy upon all the dying and pray for them, that before death they may obtain the plenary remission of all their sins and be worthy to attain eternal joys.",
+          "sourcePages": [
+            496
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              496
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "devota-oratio-ad-s-patrem-franciscum-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Zelotissime Seraphim Sancte Pater Francisce! ora pro omnibus in purgatorio animabus existentibus, ut aspectu Dei quam primum frui queant.",
+          "english": "Most zealous seraph, holy Father Francis, pray for all souls in purgatory, that they may enjoy the sight of God as soon as possible.",
+          "sourcePages": [
+            496
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              496
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "devota-oratio-ad-s-patrem-franciscum-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Beatissime Seraphim Sancte Pater Francisce! non admitte, ut nos miseri peccatores in peccatis nostris moriamur, verum intercede pro nobis apud Deum, et impetra indulgentiam plenariam omnium nostrorum peccatorum: ut a poena liberati ex hac misera vita transitum faciamus ad vitam aeternam, ubi inter choros angelorum collocati tecum, et cum illis hunc gaudiosum Deo accinamus applausum: Sanctus, Sanctus, Sanctus Dominus Deus Sabaoth. Amen.",
+          "english": "Most blessed seraph, holy Father Francis, do not permit us miserable sinners to die in our sins, but intercede for us with God and obtain the plenary remission of all our sins. Freed from punishment, may we pass from this miserable life to eternal life, where, placed among the choirs of angels, with thee and with them we may sing this joyful acclamation to God: Holy, Holy, Holy, Lord God of hosts. Amen.",
+          "sourcePages": [
+            496
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              496
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "devota-oratio-ad-s-patrem-franciscum-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Devotio brevis de quinque Vulneribus Christi Quae dilecto servo tuo Francisco impressisti, per quinque dies Veneris peragenda; quibus diebus sacra confessio et communio requiritur, additis (expansis manibus) septem Pater noster et septem Ave.",
+          "english": "A short devotion to the five wounds of Christ which Thou didst imprint upon Thy beloved servant Francis, to be performed over five Fridays. On these days sacramental confession and Communion are required, adding, with outstretched hands, seven Our Fathers and seven Hail Marys.",
+          "sourcePages": [
+            496
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              496
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "devota-oratio-ad-s-patrem-franciscum-b0008",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Jesu Christe! per vulnus sacratissimum manus dexterae, quod sincero servo tuo Francisco in signum singularis gratiae voluisti imprimere: rogo te, colloca me tandem etiam ad dexteram tuam. Amen.",
+          "english": "Lord Jesus Christ, through the most sacred wound of Thy right hand, which Thou didst will to imprint upon Thy sincere servant Francis as a sign of special grace: I ask Thee to place me at last also at Thy right hand. Amen.",
+          "sourcePages": [
+            496,
+            497
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              496,
+              497
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "devota-oratio-ad-s-patrem-franciscum-b0009",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Pater noster, et Ave Maria, etc.",
+          "english": "Our Father and Hail Mary, etc.",
+          "sourcePages": [
+            497
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              497
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "devota-oratio-ad-s-patrem-franciscum-b0010",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Jesu Christe! per sacratissimum vulnus manus sinistrae, quod sincero tuo servo Francisco in signum singularis gratiae voluisti imprimere: quaeso, tribue mihi verum filialem timorem, et gratiam superandi omnes tentationes. Amen.",
+          "english": "Lord Jesus Christ, through the most sacred wound of Thy left hand, which Thou didst will to imprint upon Thy sincere servant Francis as a sign of special grace: I beseech Thee, grant me true filial fear and grace to overcome all temptations. Amen.",
+          "sourcePages": [
+            497
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              497
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "devota-oratio-ad-s-patrem-franciscum-b0011",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Pater noster, et Ave Maria, etc.",
+          "english": "Our Father and Hail Mary, etc.",
+          "sourcePages": [
+            497
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              497
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "devota-oratio-ad-s-patrem-franciscum-b0012",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Jesu Christe! per sacratum vulnus dexteri pedis, quod sincero tuo servo Francisco in signum singularis gratiae voluisti imprimere: rogo te, concede mihi verum et perfectum dolorem de peccatis meis, et duce me recta via ad Patriam coelestem. Amen.",
+          "english": "Lord Jesus Christ, through the sacred wound of Thy right foot, which Thou didst will to imprint upon Thy sincere servant Francis as a sign of special grace: I ask Thee, grant me true and perfect sorrow for my sins and lead me by a straight path to the heavenly homeland. Amen.",
+          "sourcePages": [
+            497
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              497
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "devota-oratio-ad-s-patrem-franciscum-b0013",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Pater noster, et Ave Maria, etc.",
+          "english": "Our Father and Hail Mary, etc.",
+          "sourcePages": [
+            497
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              497
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "devota-oratio-ad-s-patrem-franciscum-b0014",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Jesu Christe! per sacratum vulnus sinistri pedis, quod sincero tuo servo Francisco in signum singularis gratiae voluisti imprimere: rogo te, custodi et libera me ab omni gravi peccato, omnibusque peccandi occasionibus, ut per gratiam tuam inferni fauces effugere valeam. Amen.",
+          "english": "Lord Jesus Christ, through the sacred wound of Thy left foot, which Thou didst will to imprint upon Thy sincere servant Francis as a sign of special grace: I ask Thee, guard and deliver me from every grievous sin and all occasions of sin, that through Thy grace I may escape the jaws of hell. Amen.",
+          "sourcePages": [
+            497
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              497
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "devota-oratio-ad-s-patrem-franciscum-b0015",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Pater noster, et Ave Maria, etc.",
+          "english": "Our Father and Hail Mary, etc.",
+          "sourcePages": [
+            497
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              497
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "devota-oratio-ad-s-patrem-franciscum-b0016",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Jesu Christe! per vulnus sacratissimi lateris tui, quod sincero tuo servo Francisco in signum singularis gratiae imprimere voluisti: rogo te, concede mihi purum, heroicum, atque Seraphicum erga Deum amorem. Amen.",
+          "english": "Lord Jesus Christ, through the wound of Thy most sacred side, which Thou didst will to imprint upon Thy sincere servant Francis as a sign of special grace: I ask Thee, grant me pure, heroic, and seraphic love toward God. Amen.",
+          "sourcePages": [
+            497
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              497
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "devota-oratio-ad-s-patrem-franciscum-b0017",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Pater noster, et Ave Maria, etc.",
+          "english": "Our Father and Hail Mary, etc.",
+          "sourcePages": [
+            497
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              497
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "devota-oratio-ad-s-patrem-franciscum-b0018",
+          "verification": "visual-review",
+          "editorialNote": "The printed passage was visually compared with this office’s source pages; its abbreviated form is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "Omnes hae devotionis possint per quinque dies Veneris addita sacra confessione et communione ante altare, vel saltem imaginem Sancti Patris Francisci peragi, ad obtinendas varias a Deo gratias per intercessionem ejusdem.",
+          "english": "All these devotions may be performed over five Fridays, with sacramental confession and Communion added, before an altar or at least an image of holy Father Francis, to obtain various graces from God through his intercession [printed agreement irregular].",
+          "sourcePages": [
+            497
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              497
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "devota-oratio-ad-s-patrem-franciscum-b0019",
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed Latin has an irregular or defective reading, explicitly retained in the prepared English as provisional or unresolved; no Latin emendation is made."
+        }
+      ]
+    }
+  ],
+  "unpairedEnglish": [],
+  "editorialNotes": [
+    {
+      "text": "All printed pages of this office were visually compared. Original Latin, existing English, printed hours and abbreviated conclusions are retained. Prepared English hymn stanzas preserve meaningful line divisions. Defective source readings remain explicitly provisional or unresolved. The eight hours, distinct collects, commendation, patronage formula and supplementary Five Wounds devotion remain. Printed historical devotional instructions are translated, without creating calendar rules or certifying present indulgence claims.",
+      "pages": [
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497
+      ]
+    }
+  ]
+}

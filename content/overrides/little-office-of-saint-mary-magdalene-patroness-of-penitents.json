@@ -1,0 +1,1622 @@
+{
+  "schemaVersion": 1,
+  "id": "little-office-of-saint-mary-magdalene-patroness-of-penitents",
+  "title": "Little Office of Saint Mary Magdalene, Patroness of Penitents",
+  "category": "Angels and Saints",
+  "source": {
+    "pdfPages": [
+      566,
+      568
+    ],
+    "printedPages": [
+      "566",
+      "568"
+    ],
+    "file": "book.pdf",
+    "pageNumberConvention": "1-based; printed and PDF pages coincide"
+  },
+  "sourceLanguage": "Latin",
+  "introductoryNotes": [
+    {
+      "type": "source-note",
+      "text": "From Sulamittis Officiosa (1714)",
+      "pages": [
+        566
+      ],
+      "language": "English"
+    }
+  ],
+  "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
+  "status": {
+    "extraction": "reviewed",
+    "translation": "complete-prepared",
+    "verification": "source-reading-pending"
+  },
+  "sections": [
+    {
+      "id": "matins",
+      "title": "Matins",
+      "sourceHeading": "Matins",
+      "pages": [
+        566
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per gemitus et lachrymas beatae Magdalenae.",
+          "english": "℣. Through the sighs and tears of blessed Magdalene.",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "47fbbc42e75c9865"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Remittat nobis Dominus peccata nostra plene.",
+          "english": "℟. May the Lord fully forgive us our sins.",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "de6574a2ab6769d7"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine labia mea aperies.",
+          "english": "℣. O Lord, Thou shalt open my lips.",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "ee1b777e1f871f9b"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et os meum annuntiabit laudem tuam.",
+          "english": "℟. And my mouth shall declare Thy praise.",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "f146351e0f90e0c9"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "54b6bad3c5540e26"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Dum Christo pedes lavera O pia Magdalena! Jam abs reatu fueras Favore Jesu plena, Tot ergo adhuc gemitus Cur edis? Eequid vultus Cum lachrymarum fluctibus Tot exprimit singultus?",
+          "english": "When thou didst wash Christ’s feet, O devout Magdalene, thou wast already free from guilt, filled with Jesus’ favour. Why then dost thou still utter so many groans? Why does thy face, amid floods of tears, express so many sobs?",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0008",
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints “lavera” in the opening clause. The prepared English provisionally understands a past washing of Christ’s feet; the printed Latin remains."
+        },
+        {
+          "type": "prayer",
+          "source": "Antiph. Quoniam iniquitatem meam ego cognosco: et peccatum meum contra me est semper.",
+          "english": "Ant. For I know my iniquity, and my sin is always before me.",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0009",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Ora pro nobis S. M. Magdalena.",
+          "english": "℣. Pray for us, Saint Mary Magdalene.",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0010",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ut digni efficiamur promissionibus Christi.",
+          "english": "℟. That we may be made worthy of the promises of Christ.",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "6bc7298fc082f2a2"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0011",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0012",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Beatae Mariae Magdalenae quaesumus Domine, suffragiis adjuvemur, ut quam fides et dilectio sua salvam fecit, ejus quoque meritis ab omnibus malis salvemur in corpore, et a peccatis nostris per veram poenitentiam mundati in mente, aeternum tibi collaetemur in coelis; Qui vivis etc. Amen.",
+          "english": "May we be helped, we beseech Thee, O Lord, by the prayers of Blessed Mary Magdalene, so that, as her faith and love saved her, through her merits we too may be saved from all bodily evils and, cleansed in mind from our sins through true repentance, may rejoice with Thee for ever in heaven; who livest, etc. Amen.",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0013",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "lauds",
+      "title": "Lauds",
+      "sourceHeading": "Lauds",
+      "pages": [
+        566
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per gemitus et lachrymas beatae Magdalenae.",
+          "english": "℣. Through the sighs and tears of blessed Magdalene.",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "47fbbc42e75c9865"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Remittat nobis Dominus peccata nostra plene.",
+          "english": "℟. May the Lord fully forgive us our sins.",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "de6574a2ab6769d7"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "54b6bad3c5540e26"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Nonne in signum gratiae Dum Christus mox passurus Parabat valedicere Matri, non rediturus, Is tibi quoque dixerat Vale! o Magdalena! Cur ergo adhuc fluiaat, Turgetque fletu gena?",
+          "english": "Did not Christ, as a sign of favour, when He was soon to suffer and prepared to bid farewell to His Mother, not to return, also say to thee, “Farewell, O Magdalene”? Why then does thy cheek still stream and swell with weeping?",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0006",
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints the malformed verb “fluiaat.” The English provisionally renders a cheek streaming with tears; the printed Latin remains."
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Dereliquit me Virtus mea, et lumen oculorum meorum et ipsum non est mecum. Vers. et Oratio cum seqq. ut supra.",
+          "english": "Ant. My strength hath forsaken me, and the light of my eyes itself is no longer with me. Versicle and prayer with what follows, as above.",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0007",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0010",
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              566
+            ],
+            "note": "Versicle, response, and prayer printed at Matins in this same office."
+          }
+        }
+      ]
+    },
+    {
+      "id": "prime",
+      "title": "Prime",
+      "sourceHeading": "Prime",
+      "pages": [
+        566,
+        567
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per gemitus et lachrymas beatae Magdalenae.",
+          "english": "℣. Through the sighs and tears of blessed Magdalene.",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "47fbbc42e75c9865"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Remittat nobis Dominus peccata nostra plene.",
+          "english": "℟. May the Lord fully forgive us our sins.",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "de6574a2ab6769d7"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "54b6bad3c5540e26"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            566
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Quam suaviter respexerit In te ex Cruce pendens, Quam Christus te dilexerit, Et brachia extendens Vocaverit ad oscula? Hoc Magdalena noscis! Quid ergo adhuc tristia, Et lachrymas exposcis?",
+          "english": "How tenderly Christ looked upon thee as He hung upon the cross, how He loved thee and, stretching out His arms, called thee to His kisses! This thou knowest, Magdalene. Why then dost thou still seek sadness and tears?",
+          "sourcePages": [
+            566,
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566,
+              567
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Antiph. Quoniam erectus est inimicus, manum suam misit hostis ad omnia desiderabilia mea. Vers. et Oratio ut supra cum seqq.",
+          "english": "Ant. For the enemy hath risen up; the foe hath stretched out his hand upon all my precious things. Versicle and prayer as above, with what follows.",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0007",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0010",
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              567
+            ],
+            "note": "Versicle, response, and prayer printed at Matins in this same office."
+          }
+        }
+      ]
+    },
+    {
+      "id": "terce",
+      "title": "Terce",
+      "sourceHeading": "Terce",
+      "pages": [
+        567
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per gemitus et lachrymas beatae Magdalenae.",
+          "english": "℣. Through the sighs and tears of blessed Magdalene.",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "47fbbc42e75c9865"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Remittat nobis Dominus peccata nostra plene.",
+          "english": "℟. May the Lord fully forgive us our sins.",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "de6574a2ab6769d7"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "54b6bad3c5540e26"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Tu inter primas nuntium Laetissimum audisti, Resurrexisse Dominum, Tu prima meruisti Sub Hortulani specie Jesum tuum videre, Quid ergo adhuc gemere, Quid movet adhuc flere?",
+          "english": "Among the first thou didst hear the most joyful news that the Lord had risen; thou first wast found worthy to see thy Jesus under the appearance of a gardener. Why then dost thou still groan? What still moves thee to weep?",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Liquefacta est anima mea, et locutus est mihi dilectus meus. Vers. et Oratio ut supra cum seqq.",
+          "english": "Ant. My soul melted, and my beloved spoke to me. Versicle and prayer as above, with what follows.",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0007",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0010",
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              567
+            ],
+            "note": "Versicle, response, and prayer printed at Matins in this same office."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sext",
+      "title": "Sext",
+      "sourceHeading": "Sext",
+      "pages": [
+        567
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per gemitus et lachrymas beatae Magdalenae.",
+          "english": "℣. Through the sighs and tears of blessed Magdalene.",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "47fbbc42e75c9865"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Remittat nobis Dominus peccata nostra plene.",
+          "english": "℟. May the Lord fully forgive us our sins.",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "de6574a2ab6769d7"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "54b6bad3c5540e26"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Sed, inquis, pia Magdala Haud fletuum est satis; Plus sunt ploranda crimina Quo gratia ingratis A Deo major data est; Quo laeditur plus Deus, Acerbior, ut dignum est, Hoc sit et dolor meus!",
+          "english": "But, thou sayest, devout Magdalene, there are not enough tears. Sins must be mourned the more, the greater the grace God has given to the ungrateful. The more God is offended, the sharper, as is fitting, shall my sorrow be!",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Quis dabit capiti meo aquam, et oculis meis fontem lachrymarum, ut fleam die ac nocte! Vers. et Oratio ut supra cum seqq.",
+          "english": "Ant. Who will give water to my head and a fountain of tears to my eyes, that I may weep day and night! Versicle and prayer as above, with what follows.",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0007",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0010",
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              567
+            ],
+            "note": "Versicle, response, and prayer printed at Matins in this same office."
+          }
+        }
+      ]
+    },
+    {
+      "id": "none",
+      "title": "None",
+      "sourceHeading": "None",
+      "pages": [
+        567
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per gemitus et lachrymas beatae Magdalenae.",
+          "english": "℣. Through the sighs and tears of blessed Magdalene.",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "47fbbc42e75c9865"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Remittat nobis Dominus peccata nostra plene.",
+          "english": "℟. May the Lord fully forgive us our sins.",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "de6574a2ab6769d7"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "54b6bad3c5540e26"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Hinc plorans solitaria Sylvarum tesqua quaeris, Humana fugis otia, Associans te feris; Ut Christo, sine arbitro, Maria jam gaudere, Et planctu possis sedulo Commissa porro flere.",
+          "english": "Hence, weeping and alone, thou seekest the woodland wilderness, fleeing human ease and joining the wild beasts, so that, Mary, thou mayest now rejoice in Christ with no witness and continue diligently to mourn thy past deeds.",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. A voce gemitus mei adhaesit os meum carni meae: similis facta sum pelicano solitudinis. Vers. et Oratio ut supra cum seqq.",
+          "english": "Ant. At the voice of my groaning my bone hath cleaved to my flesh; I am become like a pelican of the wilderness. Versicle and prayer as above, with what follows.",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0007",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0010",
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              567
+            ],
+            "note": "Versicle, response, and prayer printed at Matins in this same office."
+          }
+        }
+      ]
+    },
+    {
+      "id": "vespers",
+      "title": "Vespers",
+      "sourceHeading": "Vespers",
+      "pages": [
+        567,
+        568
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per gemitus et lachrymas beatae Magdalenae.",
+          "english": "℣. Through the sighs and tears of blessed Magdalene.",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "47fbbc42e75c9865"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Remittat nobis Dominus peccata nostra plene.",
+          "english": "℟. May the Lord fully forgive us our sins.",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "de6574a2ab6769d7"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "54b6bad3c5540e26"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            567
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Hic lympha, crudae herbululae Dant vitae nutrimentum, Quies flagra, planctus, lacrymae Adsunt in condimentum; Sed dura haec, et aspera Aligerum beata Frequens dulcat praesentia Et Musica ter grata.",
+          "english": "Here water and raw herbs nourish thy life; rest, scourges, lamentation, and tears serve as seasoning. Yet the frequent blessed presence of winged beings and thrice-pleasing music sweeten these hard and bitter things.",
+          "sourcePages": [
+            567,
+            568
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              567,
+              568
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0006",
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints “Quies flagra” without a clear conjunction. The English retains rest, scourges, lamentation, and tears as a provisional list; the printed Latin remains."
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Secundum multitudinem dolorum meorum in corde meo, consolationes ipsius laetificaverunt animam meam. Vers. et Oratio ut supra cum seqq.",
+          "english": "Ant. According to the multitude of sorrows in my heart, His consolations have gladdened my soul. Versicle and prayer as above, with what follows.",
+          "sourcePages": [
+            568
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              568
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0007",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0010",
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              568
+            ],
+            "note": "Versicle, response, and prayer printed at Matins in this same office."
+          }
+        }
+      ]
+    },
+    {
+      "id": "compline",
+      "title": "Compline",
+      "sourceHeading": "Compline",
+      "pages": [
+        568
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per gemitus et lachrymas beatae Magdalenae.",
+          "english": "℣. Through the sighs and tears of blessed Magdalene.",
+          "sourcePages": [
+            568
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              568
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "47fbbc42e75c9865"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Remittat nobis Dominus peccata nostra plene.",
+          "english": "℟. May the Lord fully forgive us our sins.",
+          "sourcePages": [
+            568
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              568
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "de6574a2ab6769d7"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            568
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              568
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            568
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              568
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "54b6bad3c5540e26"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            568
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              568
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Tandem terdenos Magdala Cum annos hic egisti, Amore Jesu saucia, Amplexus inter Christi, Laeta in coelum evolas; Habens, quem diligebas, Nobis relinquens lachrymas, Quas prius tu fundebas.",
+          "english": "At last, Magdalene, when thou hast spent thirty years here, wounded by the love of Jesus, thou fliest joyfully to heaven amid Christ’s embraces, possessing Him whom thou didst love and leaving us the tears thou formerly didst shed.",
+          "sourcePages": [
+            568
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              568
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Qui seminant in lachrymis, in exultatione metent: euntes ibant et flebant, mittentes semina sua, venientes autem venient cum exultatione.",
+          "english": "Ant. They who sow in tears shall reap in rejoicing. Going, they went and wept, casting their seed; but returning, they shall come with rejoicing.",
+          "sourcePages": [
+            568
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              568
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Vers. et Oratio ut supra cum seqq.",
+          "english": "Versicle and prayer as above, with what follows.",
+          "sourcePages": [
+            568
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              568
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0008",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0010",
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              568
+            ],
+            "note": "Versicle, response, and prayer printed at Matins in this same office."
+          }
+        }
+      ]
+    },
+    {
+      "id": "commendatio",
+      "title": "Commendatio",
+      "sourceHeading": "Commendation",
+      "pages": [
+        568
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Exemplar Poenitentium O Magdalena diva! Piarum norma meritum, Martyr Amoris viva! Has Preces, quaeso, suscipe, Veraque nos gubern a Per viam Poenitentiae Ad gaudia aeterna.",
+          "english": "O holy Magdalene, example of penitents, model of devout merit, living martyr of love! Receive these prayers, I beseech thee, and guide us by the true path of repentance to eternal joys.",
+          "sourcePages": [
+            568
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              568
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0001",
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed “Piarum norma meritum” has irregular grammar. The English provisionally gives “model of devout merit”; the printed Latin remains."
+        },
+        {
+          "type": "prayer",
+          "source": "Antiph. Remittuntur ei peccata multa, quoniam dilexit multum.",
+          "english": "Ant. Her many sins are forgiven, because she hath loved much.",
+          "sourcePages": [
+            568
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              568
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Ora pro nobis S. M. Magdalena.",
+          "english": "℣. Pray for us, Saint Mary Magdalene.",
+          "sourcePages": [
+            568
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              568
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ut digni efficiamur etc.",
+          "english": "℟. That we may be made worthy, etc.",
+          "sourcePages": [
+            568
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              568
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0004",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0011"
+            ],
+            "sourcePages": [
+              568
+            ],
+            "note": "Complete response printed at Matins in this same office."
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus, O Benignissime Domine Jesu Christe! tutissimum poenitentium asylum, qui beatae Mariae Magdalenae Poenitentiam ita placitam tibi, gratamque habuisti, ut non solum peccata sua ei dimitteres, verum etiam Cor ejus tanta dulcedine perfunderes, ut pedes tuos ferventissimis irrigaret lachrymis, vitamque suam inter asperrima poenitentiae opera terminarer. Concede quaesumus, ut et nos peccatorum nostrorum multitudinem perfecte agnoscentes turpitudinem, tuaque offensa ingemiscere graviter tecum serio contemplemur, easque animi conversionis et spiritus contritionis actiones fideliter prosequamur illa dulcissima: Remittuntur tibi peccata tua, gratiam tuam plene consequamur, teque bonorum omnium complemento, in coelestibus quondam gaudiis aeternum perfrui mereamur. Qui vivis etc.",
+          "english": "Let us pray. O most gracious Lord Jesus Christ, safest refuge of penitents, who didst find the repentance of Blessed Mary Magdalene so pleasing and acceptable that Thou didst not only forgive her sins, but also fill her heart with such sweetness that she watered Thy feet with most fervent tears and ended her life amid the severest works of penance: grant, we beseech Thee, that we too, fully acknowledging the multitude and ugliness of our sins, may earnestly ponder with Thee and deeply lament the offence given to Thee; and faithfully practise those acts of conversion of heart and contrition of spirit, that through those sweetest words, “Thy sins are forgiven thee,” we may fully obtain Thy grace and be found worthy one day to enjoy Thee for ever, the fulfilment of all good things, in heavenly joys. Who livest, etc.",
+          "sourcePages": [
+            568
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              568
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0005",
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints “terminarer” and has irregular, incomplete syntax around the acknowledgement of sins and “illa dulcissima.” The English provisionally gives a coherent petition around the intelligible clauses; the source requires editorial resolution."
+        }
+      ]
+    }
+  ],
+  "unpairedEnglish": [],
+  "editorialNotes": [
+    {
+      "text": "English prepared after visual comparison with PDF pages 566–568. All eight printed hours and the Commendation are retained. Abbreviated versicles and prayers expand from Matins in this same office. The hymn’s narrative and ascetic imagery remain as printed; uncertain grammar is identified inline.",
+      "pages": [
+        566,
+        567,
+        568
+      ]
+    }
+  ]
+}

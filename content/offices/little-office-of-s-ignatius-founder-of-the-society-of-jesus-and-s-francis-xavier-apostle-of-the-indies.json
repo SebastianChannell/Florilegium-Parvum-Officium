@@ -1,0 +1,1783 @@
+{
+  "schemaVersion": 1,
+  "id": "little-office-of-s-ignatius-founder-of-the-society-of-jesus-and-s-francis-xavier-apostle-of-the-indies",
+  "title": "Little Office of S. Ignatius, Founder of the Society of Jesus, and S. Francis Xavier, Apostle of the Indies",
+  "category": "Angels and Saints",
+  "source": {
+    "pdfPages": [
+      520,
+      522
+    ],
+    "printedPages": [
+      "520",
+      "522"
+    ],
+    "file": "book.pdf",
+    "pageNumberConvention": "1-based; printed and PDF pages coincide"
+  },
+  "sourceLanguage": "Latin",
+  "introductoryNotes": [
+    {
+      "type": "source-note",
+      "text": "From the Officium Rakoczianum (1783 edition)",
+      "pages": [
+        520
+      ],
+      "language": "English"
+    }
+  ],
+  "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
+  "status": {
+    "extraction": "reviewed",
+    "translation": "complete-prepared",
+    "verification": "source-reading-pending"
+  },
+  "sections": [
+    {
+      "id": "matins",
+      "title": "Matins",
+      "sourceHeading": "Matins",
+      "pages": [
+        520
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Laudemus viros gloriosos, et parentes nostros in generatione sua.",
+          "english": "Let us praise glorious men, and our fathers in their generation.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "958093f60a38ea57"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Eccli. 44. 1.",
+          "english": "Sirach 44:1.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine, labia mea aperies.",
+          "english": "℣. O Lord, Thou shalt open my lips.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "05d94e2fa44ca4d5"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et os meum annuntiabit laudem tuam.",
+          "english": "℟. And my mouth shall declare Thy praise.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "f146351e0f90e0c9"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus, in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "d30a202719583580"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine, ad adjuvandum me festina.",
+          "english": "℟. O Lord, make haste to help me.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "eca2b63b89251015"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Gloria Patri. Alleluia.",
+          "english": "℣. Glory be to the Father. Alleluia.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "48d12ed6271ebe3a"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "A Septuagesima usque ad Pascha, loco Alleluia, dicitur: Laus tibi, Domine, Rex aeternae gloriae.",
+          "english": "During Lent until Easter, instead of the alleluia the following is said: Praise to Thee, O Lord, King of everlasting glory.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-sacrament",
+            "reusedFrom": "ordinary-b0013",
+            "sourcePages": [
+              54
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0008",
+          "verification": "visual-review",
+          "englishPages": [
+            54
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages. The original Latin says Septuagesima; the supplied English says Lent. These differing printed terms are retained."
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0009",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "O Ignati, militantis Clara fax Ecclesiae! O Xaveri, daventis Sidus et lux Indiae! Vos honorent, quotquot ambit Phoebus orbis climata, Quaqua pontum sero lambit, Quaqua tollit lumina.",
+          "english": "O Ignatius, bright torch of the Church militant! O Xavier, star and light of India [unclear printed adjective: “daventis”]! May all the regions of the world encompassed by Phoebus honour you, wherever at evening he touches the sea, wherever he lifts his light.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0010",
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints the unclear adjective “daventis” before India. The English leaves that adjective unresolved while translating the remaining address; the printed Latin is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Sapientiam ipsorum narrent populi, et laudem eorum nuntiet Ecclesia. Eccli. 44. 15.",
+          "english": "Ant. Let the peoples tell of their wisdom, and let the Church proclaim their praise. Sirach 44:15.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0011",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. In omnem terram exivit sonus eorum.",
+          "english": "℣. Their sound hath gone forth into all the earth,",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0012",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et in fines orbis terrae verba eorum.",
+          "english": "℟. And their words unto the ends of the world.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0013",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0014",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Deus, qui glorificantes te glorificas, et in Sanctorum tuorum honoribus honoraris: concede propitius, ut qui beatorum Ignatii et Xaverii Confessorum tuorum merita veneramur, eorum pia apud te patrocinia sentiamus. Per Dominum nostrum.",
+          "english": "O God, who glorifiest those who glorify Thee, and art honoured in the honours of Thy saints, mercifully grant that we who venerate the merits of Thy blessed confessors Ignatius and Xavier may experience their loving protection with Thee. Through our Lord.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0015",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine, exaudi orationem meam.",
+          "english": "℣. O Lord, hear my prayer.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "79d0f6715c8b2a54"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0016",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et clamor meus ad te veniat.",
+          "english": "℟. And let my cry come unto Thee.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "9513c2fe582d0c1a"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0017",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Benedicamus Domino.",
+          "english": "℣. Let us bless the Lord.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "404deca50f8c4a84"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0018",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Deo gratias.",
+          "english": "℟. Thanks be to God.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "5f5730b38e99e405"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0019",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Fidelium animae per misericordiam Dei requiescant in pace.",
+          "english": "℣. May the souls of the faithful departed, through the mercy of God, rest in peace.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "df8e2bbd00646f2a"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0020",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Amen.",
+          "english": "℟. Amen.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "4bbe43df75951d63"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0021",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "prime",
+      "title": "Prime",
+      "sourceHeading": "Prime",
+      "pages": [
+        520
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Laudemus viros gloriosos, et parentes nostros in generatione sua.",
+          "english": "Let us praise glorious men, and our fathers in their generation.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "958093f60a38ea57"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus, in adjutorium.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "adac5b04e1be4415"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Gloria Patri. Alleluia.",
+          "english": "℣. Glory be to the Father. Alleluia.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "48d12ed6271ebe3a"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Vera virtus cum ruebat Pressa pravo dogmate, Hanc Loyola fulciebat Nixus uno Numine. Sic, Xaveri, te docente, Credit orbis Indicus: Inde natum cum parente Tollit aether laudibus.",
+          "english": "When true virtue was falling, oppressed by false doctrine, Loyola upheld it, relying on God alone. Thus, Xavier, through thy teaching the Indian world believes; hence heaven raises the Son with the Father in praise.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Sit memoria illorum in benedictione: et ossa eorum pullulent de loco suo, et nomen eorum permaneat in aeternum. Eccli. 46.",
+          "english": "Ant. May their memory be blessed; may their bones spring forth from their resting place, and may their name endure for ever. Sirach 46.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. In omnem terram, etc.",
+          "english": "℣. Into all the earth, etc.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "dedd0ccbc58dd716"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0007",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              520
+            ],
+            "note": "Complete versicle and response printed at Matins in this same office."
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "cum Oratione, ut supra.",
+          "english": "with the prayer, as above.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "5ae228868ef55203"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0008",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0015"
+            ],
+            "sourcePages": [
+              520
+            ],
+            "note": "Collect printed at Matins in this same office."
+          }
+        }
+      ]
+    },
+    {
+      "id": "terce",
+      "title": "Terce",
+      "sourceHeading": "Terce",
+      "pages": [
+        520,
+        521
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Laudemus viros gloriosos, et parentes nostros in generatione sua.",
+          "english": "Let us praise glorious men, and our fathers in their generation.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "958093f60a38ea57"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus, in adjutorium.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "adac5b04e1be4415"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Gloria Patri. Alleluia.",
+          "english": "℣. Glory be to the Father. Alleluia.",
+          "sourcePages": [
+            520
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "48d12ed6271ebe3a"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Vos cubile solis orti Et cadentis respicit; Vestra dura cura sorti Quot clientes eripit! Nos fovete, nos tenete, Ne cadamus noxii, Tramitemque nos docete, Quem premamus integri.",
+          "english": "The resting place of the rising and setting sun looks upon you. How many clients your earnest care rescues from a hard lot! Cherish us, hold us fast, lest we fall into guilt; and teach us the path we may tread in integrity.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Quasi stella matutina in medio nebulae, et quasi luna plena in diebus suis lucet, et quasi sol refulgens: sic illi effulserunt in templo Dei.",
+          "english": "Ant. As the morning star amid a cloud, as the full moon shining in her days, and as the resplendent sun, so they shone in the temple of God.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Eccli. 50. 6.",
+          "english": "Sirach 50:6.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. In omnem terram, etc.",
+          "english": "℣. Into all the earth, etc.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "dedd0ccbc58dd716"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0008",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              521
+            ],
+            "note": "Complete versicle and response printed at Matins in this same office."
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "cum Oratione, ut supra.",
+          "english": "with the prayer, as above.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "5ae228868ef55203"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0009",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0015"
+            ],
+            "sourcePages": [
+              521
+            ],
+            "note": "Collect printed at Matins in this same office."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sext",
+      "title": "Sext",
+      "sourceHeading": "Sext",
+      "pages": [
+        521
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Laudemus viros gloriosos, et parentes nostros in generatione sua.",
+          "english": "Let us praise glorious men, and our fathers in their generation.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "958093f60a38ea57"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus, in adjutorium.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "adac5b04e1be4415"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Gloria Patri. Alleluia.",
+          "english": "℣. Glory be to the Father. Alleluia.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "48d12ed6271ebe3a"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Sol nitente cum sorore Jungat etsi lumina, Aureoque clarus ore Vibret axe spicula; Cedit illi, quo sedetis Inclyti subsellio, Regique, quem tenetis Axis in palatio.",
+          "english": "Though the sun joins its rays with its shining sister, and, bright with golden face, shoots its shafts from the sky, it yields to the glorious throne where you sit, and to the King whom you possess in the palace of heaven.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Qui docti fuerunt, fulgebunt quasi splendor firmamenti; et qui ad justitiam erudiunt multos, quasi stellae in perpetuas aeternitates.",
+          "english": "Ant. They who are learned shall shine like the brightness of the firmament; and they who instruct many unto righteousness, like stars for ever and ever.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Dan. 12. 3.",
+          "english": "Daniel 12:3.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. In omnem terram, etc.",
+          "english": "℣. Into all the earth, etc.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "dedd0ccbc58dd716"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0008",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              521
+            ],
+            "note": "Complete versicle and response printed at Matins in this same office."
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "cum Oratione, ut supra.",
+          "english": "with the prayer, as above.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "5ae228868ef55203"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0009",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0015"
+            ],
+            "sourcePages": [
+              521
+            ],
+            "note": "Collect printed at Matins in this same office."
+          }
+        }
+      ]
+    },
+    {
+      "id": "none",
+      "title": "None",
+      "sourceHeading": "None",
+      "pages": [
+        521
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Laudemus viros gloriosos, et parentes nostros in generatione sua.",
+          "english": "Let us praise glorious men, and our fathers in their generation.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "958093f60a38ea57"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus, in adjutorium.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "adac5b04e1be4415"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Gloria Patri. Alleluia.",
+          "english": "℣. Glory be to the Father. Alleluia.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "48d12ed6271ebe3a"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Nulla dura tela sortis, Nulla fati vulnera, Ipsa nec pericula mortis, Nulla mundi munera, Vos amore separarunt Proximi vel Numinis, Vos beatis advocarunt Coelitum commerciis.",
+          "english": "No harsh weapons of fortune, no wounds of fate, not even the dangers of death, nor any gifts of the world, separated you from the love of neighbour or of God; they called you to the blessed fellowship of heaven’s citizens.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. In pace vis vexati, in multis bene disponentur; quoniam Deus tentavit eos, et invenit illos dignos se. Sap. 3. 5.",
+          "english": "Ant. Though troubled, they are in peace; in many things they shall be well provided for, for God hath tested them and found them worthy of Himself. Wisdom 3:5.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0006",
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints the malformed phrase “In pace vis vexati.” The English provisionally understands the intended sense as “though troubled, they are in peace”; no Latin emendation is made."
+        },
+        {
+          "type": "prayer",
+          "source": "℣. In omnem terram, etc.",
+          "english": "℣. Into all the earth, etc.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "dedd0ccbc58dd716"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0007",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              521
+            ],
+            "note": "Complete versicle and response printed at Matins in this same office."
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "cum Oratione, ut supra.",
+          "english": "with the prayer, as above.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "5ae228868ef55203"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0008",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0015"
+            ],
+            "sourcePages": [
+              521
+            ],
+            "note": "Collect printed at Matins in this same office."
+          }
+        }
+      ]
+    },
+    {
+      "id": "vespers",
+      "title": "Vespers",
+      "sourceHeading": "Vespers",
+      "pages": [
+        521,
+        522
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Laudemus viros gloriosos, et parentes nostros in generatione sua.",
+          "english": "Let us praise glorious men, and our fathers in their generation.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "958093f60a38ea57"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus, in adjutorium.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "adac5b04e1be4415"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Gloria Patri. Alleluia.",
+          "english": "℣. Glory be to the Father. Alleluia.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "48d12ed6271ebe3a"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Quot nefandis explicastis Criminum exemplibus! Quot beatis aligastis Sanctitatis nexibus! Trado hostes me regendum, Ad salutem ducite Corpus et corda tuendum, Oro, me defende.",
+          "english": "How many have you freed from wicked examples of sin! How many have you bound with the blessed bonds of holiness! I entrust myself to your guidance against enemies; lead me to salvation. Guard my body and heart; I beseech you, defend me.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0005",
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF’s closing lines, including “Trado hostes me regendum” and “Corpus et corda tuendum,” have irregular grammar. The English provisionally renders a prayer for guidance and protection; the printed text remains."
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Illi viri misericordiae sunt, quorum pietates non defuerunt: cum semine eorum permanent bona. Eccli. 44. 10. 11.",
+          "english": "Ant. These are men of mercy whose deeds of piety have not failed; with their descendants good things endure. Sirach 44:10–11.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. In omnem terram, etc.",
+          "english": "℣. Into all the earth, etc.",
+          "sourcePages": [
+            521
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              521
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "dedd0ccbc58dd716"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0007",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              521
+            ],
+            "note": "Complete versicle and response printed at Matins in this same office."
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "cum Oratione, ut supra.",
+          "english": "with the prayer, as above.",
+          "sourcePages": [
+            522
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              522
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "5ae228868ef55203"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0008",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0015"
+            ],
+            "sourcePages": [
+              522
+            ],
+            "note": "Collect printed at Matins in this same office."
+          }
+        }
+      ]
+    },
+    {
+      "id": "compline",
+      "title": "Compline",
+      "sourceHeading": "Compline",
+      "pages": [
+        522
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Laudemus viros gloriosos, et parentes nostros in generatione sua.",
+          "english": "Let us praise glorious men, and our fathers in their generation.",
+          "sourcePages": [
+            522
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              522
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "958093f60a38ea57"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Converte nos, Deus salutaris noster.",
+          "english": "℣. Convert us, O God our Saviour.",
+          "sourcePages": [
+            522
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              522
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "7de34c62add91c68"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et averte iram tuam a nobis.",
+          "english": "℟. And turn away Thine anger from us.",
+          "sourcePages": [
+            522
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              522
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "bc693d4a2c9bc2c3"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus, in adjutorium.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            522
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              522
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "adac5b04e1be4415"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Gloria Patri. Alleluia.",
+          "english": "℣. Glory be to the Father. Alleluia.",
+          "sourcePages": [
+            522
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              522
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "48d12ed6271ebe3a"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            522
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              522
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Vos polique, vos solique Bina luminaria, Infinique, maximique Sicut exemplaria Lutuentur obstruptentes: Lumen, oro, spargite; Ne premantur forte mentes Criminum caligine.",
+          "english": "You, twin lights of heaven and earth, are as images of the Infinite and Most High. [Unintelligible printed line: “Lutuentur obstruptentes.”] Pour forth your light, I pray, lest minds be oppressed by the darkness of sins.",
+          "sourcePages": [
+            522
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              522
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0007",
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints the unintelligible line “Lutuentur obstruptentes.” It is not assigned an invented English meaning; the intelligible surrounding lines are translated. This verse requires source resolution before publication."
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Corpora eorum in pace sepulta sunt, et nomen eorum vivit in generationem et generationem. Eccli. 44. 14.",
+          "english": "Ant. Their bodies are buried in peace, and their name lives from generation to generation. Sirach 44:14.",
+          "sourcePages": [
+            522
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              522
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0008",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. In omnem terram, etc.",
+          "english": "℣. Into all the earth, etc.",
+          "sourcePages": [
+            522
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              522
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "dedd0ccbc58dd716"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0009",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              522
+            ],
+            "note": "Complete versicle and response printed at Matins in this same office."
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "cum Oratione, ut supra.",
+          "english": "with the prayer, as above.",
+          "sourcePages": [
+            522
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              522
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "5ae228868ef55203"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0010",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0015"
+            ],
+            "sourcePages": [
+              522
+            ],
+            "note": "Collect printed at Matins in this same office."
+          }
+        }
+      ]
+    },
+    {
+      "id": "oblatio",
+      "title": "Oblatio",
+      "sourceHeading": "Oblatio",
+      "pages": [
+        522
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "O patroni, vos amore, Vos honore prosequor: Corde laudo vos et ore, Voce, mente comprecor. Vos faventis verba vultu Comprecatem cernite, Proque vestro vota cultu Ne clientem spernite.",
+          "english": "O patrons, I follow you with love and honour; I praise you with heart and lips, and implore you with voice and mind. Look with a gracious countenance upon the words of your suppliant; for the devotion offered you, do not spurn your client’s prayers.",
+          "sourcePages": [
+            522
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              522
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "oblatio-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Vestra nobis impetrate Nosse nos vestigia, Vestra (Numen invocate) Nos videre lumina. O nitenti quando sole Illa lux se proferet, Corporisque quando mole Illa sors nos eximet! Amen.",
+          "english": "Obtain for us that we may know your footsteps and behold your light; invoke God for us. O when, with the sun shining, shall that light appear? And when shall that blessed lot free us from the burden of the body? Amen.",
+          "sourcePages": [
+            522
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              522
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "oblatio-b0002",
+          "verification": "visual-review"
+        }
+      ]
+    }
+  ],
+  "unpairedEnglish": [],
+  "translationScope": "marked",
+  "editorialNotes": [
+    {
+      "text": "English prepared after visual comparison with PDF pages 520–522. Repeated “In omnem terram” versicles and collects expand from Matins in this office. The source prints no Lauds. Unclear printed hymn lines and antiphon grammar are explicitly marked; they remain unresolved rather than silently emended.",
+      "pages": [
+        520,
+        521,
+        522
+      ]
+    }
+  ]
+}

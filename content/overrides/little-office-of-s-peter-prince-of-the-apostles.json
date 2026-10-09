@@ -1,0 +1,2305 @@
+{
+  "schemaVersion": 1,
+  "id": "little-office-of-s-peter-prince-of-the-apostles",
+  "title": "Little Office of S. Peter, Prince of the Apostles",
+  "category": "Angels and Saints",
+  "source": {
+    "pdfPages": [
+      578,
+      582
+    ],
+    "printedPages": [
+      "578",
+      "582"
+    ],
+    "file": "book.pdf",
+    "pageNumberConvention": "1-based; printed and PDF pages coincide"
+  },
+  "sourceLanguage": "Latin",
+  "introductoryNotes": [
+    {
+      "type": "source-note",
+      "text": "From the Sulamittis Officiosa (1714).",
+      "pages": [
+        578
+      ],
+      "language": "English"
+    }
+  ],
+  "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
+  "status": {
+    "extraction": "reviewed",
+    "translation": "complete-prepared-reading-pending",
+    "verification": "source-reading-pending"
+  },
+  "sections": [
+    {
+      "id": "matins",
+      "title": "Matins",
+      "sourceHeading": "Matins",
+      "pages": [
+        578
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Domine labia mea aperies.",
+          "english": "℣. O Lord, Thou shalt open my lips.",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "ee1b777e1f871f9b"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et os meum annuntiabit laudem tuam.",
+          "english": "℟. And my mouth shall declare Thy praise.",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "f146351e0f90e0c9"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "54b6bad3c5540e26"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Petri laudes extollamus, Nos romanae quotquot stamus Castris sub ecclesiae,",
+          "english": "Let us exalt the praises of Peter,\nAll of us who stand\nBeneath the camp of the Roman Church,",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0006",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Alme claviger coelorum, Rudem ne despexeris chorum Rhytmo textum simplice!",
+          "english": "Kindly bearer of the keys of heaven,\nDespise not our rough choir,\nWoven in simple rhythm!",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0007",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Nam sic belle concordantes Qui virtutes tam praestantes Sat laudari valeant!",
+          "english": "For how could virtues so excellent,\nSo beautifully in harmony,\nBe praised enough?",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0008",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed “Qui ... valeant” is grammatically compressed; the question about praising the harmonious virtues is provisional."
+        },
+        {
+          "type": "prayer",
+          "source": "Amor, timor, mens sincera, Zelus, fides, spesque vera Pari melo consonant;",
+          "english": "Love, fear, a sincere mind,\nZeal, faith and true hope\nSound together in equal melody;",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0009",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Est in Petro, quam addidicit Princeps, quae in servo gliscat, Adest et humilitas,",
+          "english": "In Peter there is humility also,\nWhich the prince learned\nThat it might flourish in the servant,",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0010",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "“quam addidicit Princeps, quae in servo gliscat” is compressed; the relation of prince, servant and humility is provisional."
+        },
+        {
+          "type": "prayer",
+          "source": "Christum sequi hic cunctator, Ab hoc fundere peccator Justas discet lachrymas.",
+          "english": "Here the hesitant learns to follow Christ;\nFrom him the sinner shall learn\nTo shed righteous tears.",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0011",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed “hic cunctator ... Ab hoc” is compressed; its exhortation is rendered provisionally."
+        },
+        {
+          "type": "prayer",
+          "source": "Illic proximum juvare, Deum unice amare: Et, quos mundus detinet,",
+          "english": "There, to help his neighbour,\nTo love God alone;\nAnd us whom the world holds fast",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0012",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Fluxa quaevís aspernari, Nudos Christum insectari Petrus nos erudit.",
+          "english": "Peter teaches to despise all passing things,\nAnd stripped of them\nTo follow Christ.",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0013",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Simon Joannis, diligis me? etiam.",
+          "english": "℣. Simon, son of John, dost thou love Me? Yea.",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0014",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine, tu scis, quia amo te.",
+          "english": "℟. Lord, Thou knowest that I love Thee.",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0015",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Ora pro nobis s. Petre apostole,",
+          "english": "℣. Pray for us, Saint Peter the Apostle,",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0016",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ut digni efficiamur promissionibus Christi.",
+          "english": "℟. That we may be made worthy of the promises of Christ.",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "6bc7298fc082f2a2"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0017",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0018",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Deus qui b. Petro apostolo tuo, collatis clavibus regni coelestis, ligandi atque solvendi pontificium tradidisti: concede, ut intercessionis ejus auxilio a peccatorum nostrorum nexibus liberemur. Qui vivis et regnas cum Deo Patre etc.",
+          "english": "O God, who, bestowing the keys of the heavenly kingdom upon blessed Peter Thy Apostle, didst entrust to him the pontifical power of binding and loosing, grant that through the help of his intercession we may be freed from the bonds of our sins. Who livest and reignest with God the Father, etc.",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0019",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "prime",
+      "title": "Prime",
+      "sourceHeading": "Ad Primam",
+      "pages": [
+        578,
+        579
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Tu es Petrus, et super etc.",
+          "english": "Thou art Peter, and upon, etc.",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0001",
+          "verification": "source-reading-pending",
+          "editorialNote": "The opening “Tu es Petrus, et super etc.” is abbreviated in this office. No full counterpart is printed here; no external text is imported."
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri, etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "4a214600b631db80"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Hunc piscantem, Piscatoris Ad capturae dignioris Opus traxit Gratia;",
+          "english": "As he fished, grace drew him\nTo the work of a fisher\nOf a more worthy catch;",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0005",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Nam qui iubet sic piscari, Pisces vitae vult servari, Quos prehendant retia,",
+          "english": "For He who commands fishing thus\nWills that the fish whom the nets take\nBe preserved for life;",
+          "sourcePages": [
+            578
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0006",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Unde Petrus se vocantis Nullum Christi tunc patrantis Signum vel prodigium, Voci cedit, verbo credit, Sequi iussus, mox obedit, Quo vocaret servulum,",
+          "english": "Hence Peter yields to the voice\nOf Christ who calls him,\nThough then working no sign or wonder;\nHe believes the word,\nCommanded to follow, he soon obeys,\nWherever He would call His little servant,",
+          "sourcePages": [
+            578,
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578,
+              579
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0007",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed relative clauses about Christ’s calling are compressed; no omitted miracle is added."
+        },
+        {
+          "type": "prayer",
+          "source": "Vanis praefert veritatem, Linquit rete, linquit ratem, Quin relinquit omnia;",
+          "english": "He prefers truth to vanities,\nLeaves the net, leaves the boat,\nIndeed leaves everything;",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0008",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Et, o felix Bar-Jona Pro his Christus tibi bona, Regna spondet supera:",
+          "english": "And, O happy Bar-Jona,\nFor these things Christ promises thee\nGood things, the kingdoms above;",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0009",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Dumque calcas undas maris, Te nutantem, ne mergaris, Fida manu detinet,",
+          "english": "And while thou dost tread the waves of the sea,\nHe holds thee, wavering, with a faithful hand,\nThat thou mayest not sink;",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0010",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Fidem quatit dum tempestas Ejus alma vim potestas Procellarum cohibet.",
+          "english": "While the tempest shakes faith,\nHis kindly power restrains\nThe force of the storms.",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0011",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Clamavit Petrus: Domine salvum me fac; et JESUS extendens manum apprehendit eum.",
+          "english": "Ant. Peter cried: Lord, save me; and Jesus, stretching forth His hand, took hold of him.",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0012",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Vers. et Oratio ut supra.",
+          "english": "Verse and prayer as above.",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "01c95b874fd5d4d5"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0013",
+          "verification": "pending",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0016",
+              "matins-b0017",
+              "matins-b0018",
+              "matins-b0019"
+            ],
+            "sourcePages": [
+              579
+            ],
+            "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+          }
+        }
+      ]
+    },
+    {
+      "id": "terce",
+      "title": "Terce",
+      "sourceHeading": "Ad Tertiam",
+      "pages": [
+        579
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Tu es Petrus, et super etc.",
+          "english": "Thou art Peter, and upon, etc.",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0001",
+          "verification": "source-reading-pending",
+          "editorialNote": "The opening “Tu es Petrus, et super etc.” is abbreviated in this office. No full counterpart is printed here; no external text is imported."
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri, etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "4a214600b631db80"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Mota Christi quaestione, Brevi claudit sub sermone Fidem necessariam;",
+          "english": "When Christ’s question is raised,\nHe encloses in a brief utterance\nThe necessary faith;",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0005",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Hunc personam dicit unam, Sed naturae opportunam Simul dat distantiam, Carni scire, quod negatum, Sibi Cephas revelatum Dia profert diphthera",
+          "english": "He declares Him one Person,\nBut at the same time gives\nThe fitting distinction of nature;\nWhat flesh is denied to know,\nCephas, to whom it was revealed, declares\n[The printed “Dia ... diphthera” is uncertain.]",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0006",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed “Dia profert diphthera” is uncertain. The two-nature distinction is retained as printed, without supplying a missing formula."
+        },
+        {
+          "type": "prayer",
+          "source": "Super quo, perennatura, Petra tanquam super dura Conditur Ecclesia,",
+          "english": "Upon whom the Church,\nDestined to endure, is founded\nAs upon a hard rock,",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0007",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Quin et sorte, ut miranda Petre liges, quae liganda, Rata sint, quae solveris",
+          "english": "Nay, by a wondrous lot,\nPeter, thou shalt bind what is to be bound,\nAnd what thou shalt loose shall be ratified;",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0008",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Christus claves tibi credit, Quibus Coeli porta cedit, Pandas, vel occluseris,",
+          "english": "Christ entrusts thee with the keys\nTo which the gate of heaven yields,\nWhether thou open or close it;",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0009",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Quodque hic est implicatum, Summus Judex et ligatum Super astra voluit;",
+          "english": "And what is bound here\nThe supreme Judge willed\nTo be bound above the stars;",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0010",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Quae haec dignitas dicenda? Alta plane et tremenda, Quam vix sensus percipit.",
+          "english": "What must this dignity be called?\nTruly lofty and dreadful,\nWhich understanding scarcely grasps.",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0011",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Quodcunque ligaveris super terram, erit ligatum et in caelis, et quodcunque solveris super terram, erit solutum et in caelis.",
+          "english": "Ant. Whatsoever thou shalt bind upon earth shall be bound also in heaven, and whatsoever thou shalt loose upon earth shall be loosed also in heaven.",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0012",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Vers. et Oratio ut supra.",
+          "english": "Verse and prayer as above.",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "01c95b874fd5d4d5"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0013",
+          "verification": "pending",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0016",
+              "matins-b0017",
+              "matins-b0018",
+              "matins-b0019"
+            ],
+            "sourcePages": [
+              579
+            ],
+            "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sext",
+      "title": "Sext",
+      "sourceHeading": "Ad Sextam",
+      "pages": [
+        579,
+        580
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Tu es Petrus, et super etc.",
+          "english": "Thou art Peter, and upon, etc.",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0001",
+          "verification": "source-reading-pending",
+          "editorialNote": "The opening “Tu es Petrus, et super etc.” is abbreviated in this office. No full counterpart is printed here; no external text is imported."
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "54b6bad3c5540e26"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            579
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Transformantis se Messiae, Moysis simul, et Eliae Frueris colloquio, Censens hic manere gratum, Semper hoc si foret datum Esse in consortio;",
+          "english": "Thou dost enjoy the converse\nOf the transfigured Messiah,\nAnd of Moses and Elias together;\nThinking it sweet to remain here,\nIf only it were always granted\nTo be in this company;",
+          "sourcePages": [
+            579,
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              579,
+              580
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0005",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "At, quid erit, Majestatem, Quid aeternis Deitatem Contemplari gaudiis?",
+          "english": "But what shall it be\nTo contemplate the Majesty and the Godhead\nIn everlasting joys?",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0006",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Ubi, junctis tot Beatis, Una dies claritatis Mille praestat saeculis,",
+          "english": "Where, joined to so many blessed ones,\nOne day of brightness\nSurpasses a thousand ages,",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0007",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Petrus posthac Salvatori Fidus comes, optat mori Pariter cum Domino;",
+          "english": "Peter afterwards, a faithful companion\nOf the Saviour, desires to die\nTogether with the Lord;",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0008",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Zelus calcar est amoris, Sed et casus est timoris Jugis admonitio,",
+          "english": "Zeal is the spur of love;\nBut a fall is also\nA continual reminder of fear,",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0009",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Tibi Christus eventurum Quem praedixit, ne securum Obruat fiducia,",
+          "english": "Which Christ foretold would happen to thee,\nLest confidence should overwhelm thee\nIn thy security;",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0010",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Sed prostratum Patientis Anxiumque Resurgentis Erigat memoria.",
+          "english": "But that the memory of Him who suffered\nMay raise thee when cast down,\nAnd of Him who rose again when anxious.",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0011",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Simon, Simon, Satanas expetivit vos, ut cribraret sicut triticum: Ego autem rogavi pro te, ut non deficiat fides tua.",
+          "english": "Ant. Simon, Simon, Satan has sought you that he might sift you like wheat; but I have prayed for thee, that thy faith fail not.",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0012",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Vers. et Oratio ut supra.",
+          "english": "Verse and prayer as above.",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "01c95b874fd5d4d5"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0013",
+          "verification": "pending",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0016",
+              "matins-b0017",
+              "matins-b0018",
+              "matins-b0019"
+            ],
+            "sourcePages": [
+              580
+            ],
+            "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+          }
+        }
+      ]
+    },
+    {
+      "id": "none",
+      "title": "None",
+      "sourceHeading": "Ad Nonam",
+      "pages": [
+        580
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Tu es Petrus, et super etc.",
+          "english": "Thou art Peter, and upon, etc.",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0001",
+          "verification": "source-reading-pending",
+          "editorialNote": "The opening “Tu es Petrus, et super etc.” is abbreviated in this office. No full counterpart is printed here; no external text is imported."
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "54b6bad3c5540e26"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Ter negavit quod peccavit, Kursus Amor expiavit, Triplex et Confessio:",
+          "english": "What he sinned in denying thrice,\nLove again expiated,\nAnd a threefold confession;",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0005",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The PDF prints “Kursus”; “again” is a conjectural reading."
+        },
+        {
+          "type": "prayer",
+          "source": "Hinc sequutos delinquentem Iam et Petrum poenitentem Sequi iubet ratio.",
+          "english": "Hence reason bids those who followed\nThe sinner now also\nTo follow Peter penitent.",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0006",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Sed quam Christus carum gregem Det pascendum, prius legem Charitatis ponderat,",
+          "english": "But before Christ gives him\nHis dear flock to feed,\nHe weighs the law of charity;",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0007",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Amat Petrus, contestatur, Amat: Sed haec tremens satur, Galli dum meminerat,",
+          "english": "Peter loves; he bears witness that he loves,\nBut speaks these things trembling,\nAs he remembers the cock.",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0008",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed “haec tremens satur” is defective; the trembling/confession reading is provisional."
+        },
+        {
+          "type": "prayer",
+          "source": "Auro carens et argento, Posthac claudum in momento Membris donat validis,",
+          "english": "Lacking gold and silver,\nAfterwards in a moment he gives\nStrong limbs to the lame man;",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0009",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Dat Aeneae sanitatem, Hinc et inde sospitatem Aegis fert, et miseris,",
+          "english": "He gives Aeneas health,\nAnd here and there bears deliverance\nTo the sick and miserable;",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0010",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed “Aegis” is irregular; “to the sick” is provisional."
+        },
+        {
+          "type": "prayer",
+          "source": "Quin ad funus dum Tabithae Venit, suis reddit vitae Precibus officia.",
+          "english": "Nay, when he comes to Tabitha’s burial,\nBy his prayers he restores\nThe functions of life.",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0011",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Sola umbra decumbentes Porro sanat, et languentes Ope curat coelica.",
+          "english": "His shadow alone further heals\nThose who lie sick,\nAnd cures the languishing with heavenly help.",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0012",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Augebatur credentium multitudo, ut in plateas ejicerent infirmos, qui veniente Petro saltem umbra illius liberantur ab infirmitatibus suis.",
+          "english": "Ant. The multitude of believers increased, so that they carried the sick into the streets, who, as Peter came, were delivered from their infirmities by at least his shadow.",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0013",
+          "verification": "source-reading-pending",
+          "editorialNote": "The relative construction “qui ... liberantur” is defective; the printed shadow narrative is retained in sense."
+        },
+        {
+          "type": "rubric",
+          "source": "Vers. et Oratio ut supra.",
+          "english": "Verse and prayer as above.",
+          "sourcePages": [
+            580
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "01c95b874fd5d4d5"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0014",
+          "verification": "pending",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0016",
+              "matins-b0017",
+              "matins-b0018",
+              "matins-b0019"
+            ],
+            "sourcePages": [
+              580
+            ],
+            "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+          }
+        }
+      ]
+    },
+    {
+      "id": "vespers",
+      "title": "Vespers",
+      "sourceHeading": "Ad Vesperas",
+      "pages": [
+        581
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Tu es Petrus, et super te.",
+          "english": "Thou art Peter, and upon thee.",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0001",
+          "verification": "source-reading-pending",
+          "editorialNote": "The source prints the short “Tu es Petrus, et super te.” It is translated as printed rather than silently completing it."
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri, etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "4a214600b631db80"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Strictam gregis curam gerit, Defraudantes gravi ferit Coniuges supplicio,",
+          "english": "He exercises strict care of the flock,\nAnd strikes the defrauding spouses\nWith a heavy punishment;",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0005",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Fraudes damnant et fallaces, Quo Divina in mendaces Mox descendit ultio.",
+          "english": "They condemn frauds and deceivers,\nWhereby divine vengeance\nSoon descends upon liars.",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0006",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Sed et capto dans custodes Iners fallitur Herodes Suo cum satellite,",
+          "english": "But idle Herod, who gives guards\nTo the captive, is deceived\nTogether with his attendant;",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0007",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Quippe vincis relaxatus, Jam it Petrus liberatus, Fido cinctus Comite,",
+          "english": "For, released from his bonds,\nPeter now goes free,\nSurrounded by a faithful companion;",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0008",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed “vincis” is irregular; “bonds” is provisional."
+        },
+        {
+          "type": "prayer",
+          "source": "Magus utque Petrum odit, Sic Simonem Petrus prodit Turpi de flagitio;",
+          "english": "As the magician hates Peter,\nSo Peter exposes Simon\nFor his shameful crime;",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0009",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Nam volare hic dum quaerit, Gravi palam lapsu perit Asfectante Populo;",
+          "english": "For while he seeks to fly,\nHe perishes openly by a grievous fall,\nWith the people looking on;",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0010",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The source prints “Asfectante”; the crowd looking on is a conjectural reading."
+        },
+        {
+          "type": "prayer",
+          "source": "Unde Nero insfendescens, Magi lapsum miserescens Petro fert judicium,",
+          "english": "Hence Nero, growing angry\nAnd pitying the magician’s fall,\nPasses judgment upon Peter,",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0011",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed “insfendescens” is defective; the angry Nero reading is provisional."
+        },
+        {
+          "type": "prayer",
+          "source": "Ut in Crucem sublevetur, Quo Magistrum imitetur Pari trabe pendulum.",
+          "english": "That he be raised upon a cross,\nSo as to imitate his Master,\nHanging upon a like beam.",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0012",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Cum esses junior cingebas te, et ambulabas, ubi volebas: Cum autem senueris, extendes manus tuas, et alius te cinget et ducet, quo tu non vis.",
+          "english": "Ant. When thou wast younger, thou didst gird thyself and walk where thou wouldst; but when thou shalt grow old, thou shalt stretch forth thy hands, and another shall gird thee and lead thee where thou wouldst not.",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0013",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Vers. et Oratio ut supra.",
+          "english": "Verse and prayer as above.",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "01c95b874fd5d4d5"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0014",
+          "verification": "pending",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0016",
+              "matins-b0017",
+              "matins-b0018",
+              "matins-b0019"
+            ],
+            "sourcePages": [
+              581
+            ],
+            "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+          }
+        }
+      ]
+    },
+    {
+      "id": "compline",
+      "title": "Compline",
+      "sourceHeading": "Ad Completorium",
+      "pages": [
+        581,
+        582
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Tu es Petrus, et super te.",
+          "english": "Thou art Peter, and upon thee.",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0001",
+          "verification": "source-reading-pending",
+          "editorialNote": "The source prints the short “Tu es Petrus, et super te.” It is translated as printed rather than silently completing it."
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Converte nos Deus salutaris noster.",
+          "english": "℣. Convert us, O God our Saviour.",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "547f9b0e1be48dfe"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et averte iram tuam a nobis.",
+          "english": "℟. And turn away Thine anger from us.",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "bc693d4a2c9bc2c3"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "54b6bad3c5540e26"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Dumque Petro Crux paratur, Crucifigi hic laetatur Equidem cum Domino,",
+          "english": "And while the cross is prepared for Peter,\nHe rejoices indeed to be crucified\nWith the Lord;",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0007",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Sed eodem situ lignum Haud subire censens dignum Nisu rogat ultimo:",
+          "english": "But judging himself unworthy\nTo undergo the wood in the same position,\nWith a final effort he asks",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0008",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Pedibus ut elevatis, Inque terram declinatis Vertice et manibus",
+          "english": "That with his feet raised,\nAnd his head and hands\nTurned down toward the earth,",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0009",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Cruci suae alligetur, Ne Magistro par tractetur Servus et Discipulus,",
+          "english": "He be bound to his cross,\nLest the servant and disciple\nBe treated as equal to the Master.",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0010",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Sic mi Petre! versa cruce Coelum scandis; Isthac duce Fac et nos id scandere,",
+          "english": "Thus, my Peter, by an inverted cross\nThou dost ascend to heaven; by its guidance\nGrant that we too may ascend there.",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0011",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Tuo gregi fores pande Gnaro, clavium hoc grande Tibi jus competere,",
+          "english": "Open the doors to thy flock,\nWhich knows that this great right\nOf the keys belongs to thee;",
+          "sourcePages": [
+            581
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0012",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Oves, tuo quas ovili Hic in terris haud exili Cura enutviveras, Christo tandem Redemptori Primo redditas Pastori, Duc ad Agni nuptias,",
+          "english": "The sheep whom in thine earthly fold\nThou didst nourish with no small care,\nAt length restored to Christ the Redeemer,\nThe first Shepherd,\nLead to the marriage of the Lamb.",
+          "sourcePages": [
+            581,
+            582
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581,
+              582
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0013",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed “enutviveras” is irregular; “didst nourish” is provisional."
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Amen, Amen dico vobis, quia ego sum ostium ovium, per me si quis introiverit, salvabitur, ingredietur et egredietur, et pascua inveniet.",
+          "english": "Ant. Amen, amen, I say to you: I am the door of the sheep; if anyone enters through Me, he shall be saved, and shall go in and go out, and find pastures.",
+          "sourcePages": [
+            582
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              582
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0014",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Ora pro nobis S. Petre Apostole.",
+          "english": "℣. Pray for us, Saint Peter the Apostle.",
+          "sourcePages": [
+            582
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              582
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0015",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ut digni efficiamur promissionibus Christi.",
+          "english": "℟. That we may be made worthy of the promises of Christ.",
+          "sourcePages": [
+            582
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              582
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "6bc7298fc082f2a2"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0016",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            582
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              582
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0017",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Mitissime ac Clementissime Deus, qui S. Petrum ex pauperculo piscatore, tuum in terris Vicarium, atque Apostolorum Principem constitutisti, eumque post grave negationis peccatum propitiis tamen respexisti oculis, et ad amarissimam poenitentiam commovisti. Oro te per intimum ejus amorem, et ferventissimas lachrymas, concede mihi gratiam tuam exuberantem, ut voluntati tuae me totum subternens, vocationi meae semper satisfaciam, et in petra Catholicae fidei immote persistere, Te summum Bonum meum in prosperis et adversis, super omnia amem, atque peccata mea contra Divinam Majestatem tuam commissa, vero, et profundissimo dolore plangam, donec tandem in coelis gaudio petrui merear sempiterna; Qui vivis et regnas Deus in saecula saeculorum, Amen.",
+          "english": "Most meek and most merciful God, who didst make Saint Peter, from a poor fisherman, Thy Vicar upon earth and Prince of the Apostles, and after his grievous sin of denial didst nevertheless look upon him with gracious eyes and move him to most bitter repentance, I pray Thee through his intimate love and most fervent tears: grant me Thine abundant grace, that, submitting myself wholly to Thy will, I may always fulfil my vocation, remain unmoved upon the rock of the Catholic faith, love Thee, my supreme Good, above all things in prosperity and adversity, and lament with true and deepest sorrow my sins committed against Thy divine Majesty, until at length I may deserve to enjoy everlasting joy in heaven. Who livest and reignest, God, world without end. Amen.",
+          "sourcePages": [
+            582
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              582
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0018",
+          "verification": "source-reading-pending",
+          "editorialNote": "The source prints “subternens,” an irregular infinitive “persistere,” and “petrui ... sempiterna.” The English clauses are provisional and the Latin remains unchanged."
+        }
+      ]
+    }
+  ],
+  "unpairedEnglish": [],
+  "editorialNotes": [
+    {
+      "text": "All printed pages of this office were visually compared. Original Latin, existing English, printed hours and abbreviated conclusions are retained. Prepared English hymn stanzas preserve meaningful line divisions. Defective source readings remain explicitly provisional or unresolved. Seven hours are printed, without Lauds. Five verse-and-collect references expand the Matins group. Opening “Tu es Petrus” incipits remain short because this office does not supply their full text. The different full Compline prayer remains distinct, and the source’s Simon Magus narrative is preserved.",
+      "pages": [
+        578,
+        579,
+        580,
+        581,
+        582
+      ]
+    }
+  ]
+}

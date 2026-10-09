@@ -1,0 +1,14 @@
+{
+  "name": "florilegium-parvum-officium",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "check": "node --check public/app.js && node scripts/validate-content.mjs",
+    "test": "node --test --test-isolation=none",
+    "build": "node scripts/build.mjs",
+    "build:preview": "node scripts/build.mjs --preview",
+    "coverage": "node scripts/validate-content.mjs --release",
+    "serve": "python3 -m http.server 4173 --directory public"
+  }
+}

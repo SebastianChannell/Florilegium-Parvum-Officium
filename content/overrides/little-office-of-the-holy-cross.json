@@ -1,0 +1,2125 @@
+{
+  "schemaVersion": 1,
+  "id": "little-office-of-the-holy-cross",
+  "title": "Little Office of the Holy Cross",
+  "category": "Divine Mysteries",
+  "source": {
+    "pdfPages": [
+      64,
+      67
+    ],
+    "printedPages": [
+      "64",
+      "67"
+    ],
+    "file": "book.pdf",
+    "pageNumberConvention": "1-based; printed and PDF pages coincide"
+  },
+  "sourceLanguage": "Latin",
+  "introductoryNotes": [
+    {
+      "type": "source-note",
+      "text": "From a book of the same name published in 1800.",
+      "pages": [
+        64
+      ],
+      "language": "English"
+    },
+    {
+      "type": "source-note",
+      "text": "Non dicitur Alleluia, nec Laus tibi Domine.",
+      "pages": [
+        64
+      ],
+      "language": "Latin",
+      "english": "Neither Alleluia nor Praise be to Thee, O Lord, is said.",
+      "translation": {
+        "kind": "prepared",
+        "preparedFor": "Sacrum Florilegium",
+        "sourcePages": [
+          64
+        ],
+        "review": "editorial-review-complete"
+      }
+    }
+  ],
+  "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
+  "status": {
+    "extraction": "reviewed",
+    "translation": "complete-prepared",
+    "verification": "visual-review"
+  },
+  "sections": [
+    {
+      "id": "matins",
+      "title": "Matins",
+      "sourceHeading": "Ad Matutinum",
+      "pages": [
+        64
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per signum Crucis de inimicis nostris:",
+          "english": "℣. By the sign of the Cross, from our enemies:",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Libera nos Deus noster. Ita dicitur in principio horarum.",
+          "english": "℟. Deliver us, O our God. Thus it is said at the beginning of the hours.",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine labia mea aperies.",
+          "english": "O Lord, Thou shalt open my lips.",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et os meum annuntiabit laudem tuam.",
+          "english": "℟. And my mouth shall declare Thy praise.",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "f146351e0f90e0c9"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina.",
+          "english": "℟. O Lord, make haste to help me.",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "2e0eff26a980b78a"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Gloria Patri, et Filio, et Spiritui Sancto, Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
+          "english": "Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Non dicitur Alleluia, nec Laus tibi Domine.",
+          "english": "Neither Alleluia nor Praise be to Thee, O Lord, is said.",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0008",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0009",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Patris sapientia, veritas divina: Deus homo captus est hora matutina. A notis discipulis cito derelictus: A Judaeis traditus, venditus, et afflictus.",
+          "english": "The Wisdom of the Father, the divine Truth,\nGod made man was taken captive at the hour of Matins.\nQuickly deserted by His familiar disciples,\nHe was handed over by the Jews, sold, and afflicted.",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0010",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Antiph. O Crux venerabilis, quae salutem attulisti miseris: quibus te efferam praeconis, quoniam vitam nobis caelestem praeparasti?",
+          "english": "Ant. O venerable Cross, who hast brought salvation to the wretched: with what praises shall I extol thee, since thou hast prepared heavenly life for us?",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0011",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Adoramus te Christe, et benedicimus tibi.",
+          "english": "℣. We adore Thee, O Christ, and we bless Thee.",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0012",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Quia per sanctam Crucem tuam redemisti mundum.",
+          "english": "℟. Because by Thy holy Cross Thou hast redeemed the world.",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0013",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0014",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Jesu Christe, Fili Dei vivi, pone Passionem, Crucem, et mortem tuam inter judicium tuum, et animam meam, nunc, et in hora mortis meae: et mihi largiri digneris gratiam et misericordiam: vivis et defunctis requiem et veniam: Ecclesiae tuae pacem et concordiam et nobis peccatoribus vitam et gloriam sempiternam. Qui vivis et regnas in saecula saeculorum. Amen.",
+          "english": "O Lord Jesus Christ, Son of the living God, place Thy Passion, Cross, and death between Thy judgment and my soul, now and at the hour of my death: and vouchsafe to bestow upon me grace and mercy; upon the living and the departed, rest and pardon; upon Thy Church, peace and concord; and upon us sinners, life and everlasting glory. Who livest and reignest for ever and ever. Amen.",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0015",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "prime",
+      "title": "Prime",
+      "sourceHeading": "Ad Primam",
+      "pages": [
+        64,
+        65
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per signum Crucis de inimicis nostris:",
+          "english": "℣. By the sign of the Cross, from our enemies:",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Libera nos Deus noster.",
+          "english": "℟. Deliver us, O our God.",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina.",
+          "english": "℟. O Lord, make haste to help me.",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "2e0eff26a980b78a"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Gloria Patri, et Filio, et Spiritui Sancto, Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
+          "english": "Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Hora prima Dominum ducunt ad Pilatum, Et a falsis testibus multum accusatum: Colaphis percutiunt, manibus ligatum: Vultum Dei conspuunt, lumen caeli gratum.",
+          "english": "At the first hour they lead the Lord to Pilate,\nAccused at length by false witnesses.\nThey strike Him with blows, His hands bound;\nThey spit upon the face of God, the gracious light of heaven.",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Antiph. O Crucis victoria, et admirabile signum: in caelesti curia fac nos captare triumphum.",
+          "english": "Ant. O victory of the Cross and wondrous sign: make us attain triumph in the heavenly court.",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0008",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Adoramus te Christe, et benedicimus tibi.",
+          "english": "℣. We adore Thee, O Christ, and we bless Thee.",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0009",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Quia per sanctam Crucem tuam redemisti mundum.",
+          "english": "℟. Because by Thy holy Cross Thou hast redeemed the world.",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0010",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            64
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0011",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Jesu Christe, Fili Dei vivi, pone Passionem, Crucem, et mortem tuam inter judicium tuum, et animam meam, nunc, et in hora mortis meae: et mihi largiri digneris gratiam, et misericordiam: vivis, et defunctis requiem, et veniam: Ecclesiae tuae pacem, et concordiam; et nobis peccatoribus vitam, et gloriam sempiternam. Qui vivis et regnas in saecula saeculorum. Amen.",
+          "english": "O Lord Jesus Christ, Son of the living God, place Thy Passion, Cross, and death between Thy judgment and my soul, now and at the hour of my death: and vouchsafe to bestow upon me grace and mercy; upon the living and the departed, rest and pardon; upon Thy Church, peace and concord; and upon us sinners, life and everlasting glory. Who livest and reignest for ever and ever. Amen.",
+          "sourcePages": [
+            64,
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              64,
+              65
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "9ebfd4cdf770f2ca"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0012",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "terce",
+      "title": "Terce",
+      "sourceHeading": "Ad Tertiam",
+      "pages": [
+        65
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per signum Crucis de inimicis nostris:",
+          "english": "℣. By the sign of the Cross, from our enemies:",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Libera nos Deus noster.",
+          "english": "℟. Deliver us, O our God.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina.",
+          "english": "℟. O Lord, make haste to help me.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "2e0eff26a980b78a"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Gloria Patri, et Filio, et Spiritui Sancto, Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
+          "english": "Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Crucifige, crucifige, clamitat hora tertiam: Illusus induitur veste purpuram: Caput ejus pungitur corona spinarum: Crucem portat humeris ad locum poenarum.",
+          "english": "“Crucify, crucify!” they cry at the third hour.\nMocked, He is clothed in a purple garment.\nHis head is pierced by a crown of thorns;\nHe bears the Cross upon His shoulders to the place of punishment.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Antiph. Funestae mortis damnatur supplicium, dum Christus in Cruce nostra destruxit vincula criminum.",
+          "english": "Ant. The punishment of grievous death is condemned, while Christ upon the Cross destroyed the bonds of our sins.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0008",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Adoramus te Christe, et benedicimus tibi.",
+          "english": "℣. We adore Thee, O Christ, and we bless Thee.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0009",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Quia per sanctam Crucem tuam redemisti mundum.",
+          "english": "℟. Because by Thy holy Cross Thou hast redeemed the world.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0010",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0011",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Jesu Christe, Fili Dei vivi, pone Passionem, Crucem, et mortem tuam inter judicium tuum, et animam meam, nunc, et in hora mortis meae: et mihi largiri digneris gratiam, et misericordiam: vivis, et defunctis requiem, et veniam: Ecclesiae tuae pacem, et concordiam; et nobis peccatoribus vitam, et gloriam sempiternam. Qui vivis et regnas in saecula saeculorum. Amen.",
+          "english": "O Lord Jesus Christ, Son of the living God, place Thy Passion, Cross, and death between Thy judgment and my soul, now and at the hour of my death: and vouchsafe to bestow upon me grace and mercy; upon the living and the departed, rest and pardon; upon Thy Church, peace and concord; and upon us sinners, life and everlasting glory. Who livest and reignest for ever and ever. Amen.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "9ebfd4cdf770f2ca"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0012",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "sext",
+      "title": "Sext",
+      "sourceHeading": "Ad Sextam",
+      "pages": [
+        65
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per signum, etc.",
+          "english": "℣. By the sign, etc.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0001",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "prime-b0001",
+              "prime-b0002"
+            ],
+            "sourcePages": [
+              65
+            ],
+            "note": "Printed Per signum incipit refers to the complete opening at Prime."
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina.",
+          "english": "℟. O Lord, make haste to help me.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "2e0eff26a980b78a"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Gloria Patri, et Filio, etc.",
+          "english": "Glory be to the Father, and to the Son, etc.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0004",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0007"
+            ],
+            "sourcePages": [
+              65
+            ],
+            "note": "Printed Gloria Patri abbreviation refers to the full doxology at Matins."
+          }
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Hora sexta Jesus est Cruci conclavatus. Et cum latronibus pendens est deputatus: Prae tormentis sitiens felle saturatus: Agnus crimen diluens, sic est ludificatus.",
+          "english": "At the sixth hour Jesus is nailed to the Cross,\nAnd, hanging there, is reckoned among thieves.\nThirsting amid His torments, He is given gall;\nThus is the Lamb, who washes away sin, mocked.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Antiph. Per lignum servi facti sumus, et per sanctam Crucem liberati sumus: fructus arboris seduxit nos: Filius Dei redemit nos.",
+          "english": "Ant. Through a tree we became slaves, and through the holy Cross we were set free: the fruit of a tree deceived us; the Son of God redeemed us.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Adoramus te Christe, etc.",
+          "english": "℣. We adore Thee, O Christ, etc.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0008",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              65
+            ],
+            "note": "Printed Adoramus abbreviation refers to the full versicle and response at Matins."
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0009",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Jesu Christe, Fili Dei vivi, pone Passionem, Crucem, et mortem tuam inter judicium tuum, et animam meam, nunc, et in hora mortis meae: et mihi largiri digneris gratiam, et misericordiam: vivis, et defunctis requiem, et veniam: Ecclesiae tuae pacem, et concordiam; et nobis peccatoribus vitam, et gloriam sempiternam. Qui vivis et regnas in saecula saeculorum. Amen.",
+          "english": "O Lord Jesus Christ, Son of the living God, place Thy Passion, Cross, and death between Thy judgment and my soul, now and at the hour of my death: and vouchsafe to bestow upon me grace and mercy; upon the living and the departed, rest and pardon; upon Thy Church, peace and concord; and upon us sinners, life and everlasting glory. Who livest and reignest for ever and ever. Amen.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "9ebfd4cdf770f2ca"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0010",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "none",
+      "title": "None",
+      "sourceHeading": "Ad Nonam",
+      "pages": [
+        65,
+        66
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per signum, etc.",
+          "english": "℣. By the sign, etc.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0001",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "prime-b0001",
+              "prime-b0002"
+            ],
+            "sourcePages": [
+              65
+            ],
+            "note": "Printed Per signum incipit refers to the complete opening at Prime."
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina.",
+          "english": "℟. O Lord, make haste to help me.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "2e0eff26a980b78a"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Gloria Patri, etc.",
+          "english": "Glory be to the Father, etc.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "09a75f9ba67ffc4f"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0004",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0007"
+            ],
+            "sourcePages": [
+              65
+            ],
+            "note": "Printed Gloria Patri abbreviation refers to the full doxology at Matins."
+          }
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Hora nona Dominus Jesus expiravit: Eli clamans spiritum Patri commendavit: Latus ejus lancea miles perforavit: Terra tunc contremuit, et sol se obscuravit.",
+          "english": "At the ninth hour the Lord Jesus breathed His last.\nCrying “Eli”, He commended His spirit to the Father.\nA soldier pierced His side with a lance;\nThen the earth trembled and the sun grew dark.",
+          "sourcePages": [
+            65
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              65
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Antiph. O magnum pietatis opus! mors mortua tunc est, in ligno, quando mortua vita fuit.",
+          "english": "Ant. O great work of loving mercy! Death itself died then upon the tree, when Life died.",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Adoramus te Christe, etc.",
+          "english": "℣. We adore Thee, O Christ, etc.",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0008",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              66
+            ],
+            "note": "Printed Adoramus abbreviation refers to the full versicle and response at Matins."
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0009",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Jesu Christe, Fili Dei vivi, pone Passionem, Crucem, et mortem tuam inter judicium tuum, et animam meam, nunc, et in hora mortis meae: et mihi largiri digneris gratiam, et misericordiam: vivis, et defunctis requiem, et veniam: Ecclesiae tuae pacem, et concordiam; et nobis peccatoribus vitam, et gloriam sempiternam. Qui vivis et regnas in saecula saeculorum. Amen.",
+          "english": "O Lord Jesus Christ, Son of the living God, place Thy Passion, Cross, and death between Thy judgment and my soul, now and at the hour of my death: and vouchsafe to bestow upon me grace and mercy; upon the living and the departed, rest and pardon; upon Thy Church, peace and concord; and upon us sinners, life and everlasting glory. Who livest and reignest for ever and ever. Amen.",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "9ebfd4cdf770f2ca"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0010",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "vespers",
+      "title": "Vespers",
+      "sourceHeading": "Ad Vesperas",
+      "pages": [
+        66
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per signum, etc.",
+          "english": "℣. By the sign, etc.",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0001",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "prime-b0001",
+              "prime-b0002"
+            ],
+            "sourcePages": [
+              66
+            ],
+            "note": "Printed Per signum incipit refers to the complete opening at Prime."
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina.",
+          "english": "℟. O Lord, make haste to help me.",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "2e0eff26a980b78a"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Gloria Patri, etc.",
+          "english": "Glory be to the Father, etc.",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "09a75f9ba67ffc4f"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0004",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0007"
+            ],
+            "sourcePages": [
+              66
+            ],
+            "note": "Printed Gloria Patri abbreviation refers to the full doxology at Matins."
+          }
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "De Cruce deponitur hora vespertina: Fortitudo latuit in mente divina: Talem mortem subiit vitae medicina: Heu corona gloriae jacuit supina!",
+          "english": "At the evening hour He is taken down from the Cross.\nStrength lay hidden in the divine mind.\nThe remedy of life underwent such a death;\nAlas, the crown of glory lay prostrate!",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Antiph. O Crux benedicta, quae sola fuisti digna portare talentum mundi; dulce lignum, dulces clavos, dulcia ferens pondera: super omnia ligna cedrorum tu sola excelsior, in qua mundi salus pependit; in qua Christus triumphavit, et mors mortem superavit in aeternum.",
+          "english": "Ant. O blessed Cross, who alone wast worthy to bear the ransom of the world; sweet wood, sweet nails, bearing sweet burdens: thou alone art higher than all the cedar trees, upon whom the salvation of the world hung; upon whom Christ triumphed, and death overcame death for ever.",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Adoramus te Christe, etc.",
+          "english": "℣. We adore Thee, O Christ, etc.",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0008",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              66
+            ],
+            "note": "Printed Adoramus abbreviation refers to the full versicle and response at Matins."
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0009",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Jesu Christe, Fili Dei vivi, pone Passionem, Crucem, et mortem tuam inter judicium tuum, et animam meam, nunc, et in hora mortis meae: et mihi largiri digneris gratiam, et misericordiam: vivis, et defunctis requiem, et veniam: Ecclesiae tuae pacem, et concordiam; et nobis peccatoribus vitam, et gloriam sempiternam. Qui vivis et regnas in saecula saeculorum. Amen.",
+          "english": "O Lord Jesus Christ, Son of the living God, place Thy Passion, Cross, and death between Thy judgment and my soul, now and at the hour of my death: and vouchsafe to bestow upon me grace and mercy; upon the living and the departed, rest and pardon; upon Thy Church, peace and concord; and upon us sinners, life and everlasting glory. Who livest and reignest for ever and ever. Amen.",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "9ebfd4cdf770f2ca"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0010",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "compline",
+      "title": "Compline",
+      "sourceHeading": "Ad Completorium",
+      "pages": [
+        66
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Per signum, etc.",
+          "english": "℣. By the sign, etc.",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0001",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "prime-b0001",
+              "prime-b0002"
+            ],
+            "sourcePages": [
+              66
+            ],
+            "note": "Printed Per signum incipit refers to the complete opening at Prime."
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Convertere nos Deus salutaris noster.",
+          "english": "℣. Convert us, O God our Saviour.",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "99ecc4cd6516d1e9"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et averte iram tuam a nobis.",
+          "english": "℟. And turn away Thine anger from us.",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "bc693d4a2c9bc2c3"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina.",
+          "english": "℟. O Lord, make haste to help me.",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "2e0eff26a980b78a"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Gloria Patri, etc.",
+          "english": "Glory be to the Father, etc.",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "09a75f9ba67ffc4f"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0006",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0007"
+            ],
+            "sourcePages": [
+              66
+            ],
+            "note": "Printed Gloria Patri abbreviation refers to the full doxology at Matins."
+          }
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Hora Completorii datur sepulturae Corpus Christi nobile, spes vitae futurae: Conduntur aromate: complentur Scripturae. Jugis sit memoria mortis suae dura.",
+          "english": "At the hour of Compline is given to burial\nThe noble body of Christ, the hope of future life.\nIt is laid away with spices; the Scriptures are fulfilled.\nMay the memory of His bitter death be unceasing.",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0008",
+          "verification": "visual-review",
+          "editorialNote": "The final Latin word is printed “dura”, retained here; the prepared English understands the phrase as referring to His bitter death."
+        },
+        {
+          "type": "prayer",
+          "source": "Antiph. Salvator mundi salva nos, qui per Crucem, et sanguinem tuum redemisti nos; auxiliare nobis, te deprecamur, Deus noster.",
+          "english": "Ant. Saviour of the world, save us, who by Thy Cross and blood hast redeemed us; help us, we beseech Thee, O our God.",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0009",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Adoramus te Christe, etc.",
+          "english": "℣. We adore Thee, O Christ, etc.",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0010",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0012",
+              "matins-b0013"
+            ],
+            "sourcePages": [
+              66
+            ],
+            "note": "Printed Adoramus abbreviation refers to the full versicle and response at Matins."
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0011",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Jesu Christe, Fili Dei vivi, pone Passionem, Crucem, et mortem tuam inter judicium tuum, et animam meam, nunc, et in hora mortis meae: et mihi largiri digneris gratiam, et misericordiam: vivis, et defunctis requiem, et veniam: Ecclesiae tuae pacem, et concordiam; et nobis peccatoribus vitam, et gloriam sempiternam. Qui vivis et regnas in saecula saeculorum. Amen.",
+          "english": "O Lord Jesus Christ, Son of the living God, place Thy Passion, Cross, and death between Thy judgment and my soul, now and at the hour of my death: and vouchsafe to bestow upon me grace and mercy; upon the living and the departed, rest and pardon; upon Thy Church, peace and concord; and upon us sinners, life and everlasting glory. Who livest and reignest for ever and ever. Amen.",
+          "sourcePages": [
+            66
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "9ebfd4cdf770f2ca"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0012",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "commendatio",
+      "title": "Commendatio",
+      "sourceHeading": "Commendatio",
+      "pages": [
+        66,
+        67
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Has Horas canonicas cum devotione. Tibi, Christe, recolo pia ratione: Ut qui pro me passus es amoris ardore, Sis mihi solatium mortis in agone. Amen.",
+          "english": "These canonical hours I devoutly recall\nTo Thee, O Christ, with loving reverence:\nThat Thou, who didst suffer for me with burning love,\nMayest be my consolation in the agony of death. Amen.",
+          "sourcePages": [
+            66,
+            67
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              66,
+              67
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0001",
+          "verification": "visual-review",
+          "joinedSourceBlockIds": [
+            "commendatio-b0001",
+            "commendatio-b0002"
+          ]
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            67
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              67
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Vexilla Regis prodeunt: Fulget Crucis mysterium, Qua vita mortem pertulit, Et morte vitam protulit.",
+          "english": "The banners of the King go forth;\nThe mystery of the Cross shines brightly,\nUpon which Life endured death,\nAnd by death brought forth life.",
+          "sourcePages": [
+            67
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              67
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Quae vulnerata lanceae Mucrone diro, criminum Ut nos lavaret sordibus, Manavit unda, et sanguine.",
+          "english": "Pierced by the cruel point of a lance,\nThat He might wash us from the stains of sin,\nHe poured forth water and blood.",
+          "sourcePages": [
+            67
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              67
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Impleta sunt quae concinit David fideli carmine; Dicendo nationibus: Regnavit a ligno Deus.",
+          "english": "Fulfilled are the things that David sang\nIn faithful song,\nSaying to the nations:\n“God hath reigned from the tree.”",
+          "sourcePages": [
+            67
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              67
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Arbor decora, et fulgida, Ornata Regis purpura, Electa digno stipite Tam sancta membra tangere.",
+          "english": "O fair and shining tree,\nAdorned with the purple of the King,\nChosen, with worthy trunk,\nTo touch such holy limbs.",
+          "sourcePages": [
+            67
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              67
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Beata, cujus brachiis Pretium pependit saeculi, Statera facta corporis Tulitque praedam tartari.",
+          "english": "Blessed tree, upon whose arms\nHung the ransom of the world;\nMade the balance for His body,\nThou didst bear away the spoils of hell.",
+          "sourcePages": [
+            67
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              67
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0008",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "O Crux ave spes unica, Hoc passionis tempore, Piis adauge gratiam, Reisque dele crimina.",
+          "english": "Hail, O Cross, our only hope,\nIn this season of the Passion;\nIncrease grace for the devout,\nAnd blot out the sins of the guilty.",
+          "sourcePages": [
+            67
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              67
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0009",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Te, fons salutis, Trinitas: Collaudet omnis spiritus: Quibus Crucis victoriam Largiris, adde praemium.",
+          "english": "May every spirit praise Thee together,\nO Trinity, fountain of salvation;\nTo those on whom Thou bestowest the victory of the Cross,\nAdd the reward.",
+          "sourcePages": [
+            67
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              67
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0010",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Amen.",
+          "english": "Amen.",
+          "sourcePages": [
+            67
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              67
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "d07a178bc193c191"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0011",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Temp. Pasch. dic. Paschale quae fers gaudium. Per annum dic. In hac triumphii gloria.",
+          "english": "In Eastertide say: “Who dost bear Paschal joy.” Throughout the year say: “In this glory of triumph.”",
+          "sourcePages": [
+            67
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              67
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0012",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus, Respice, quaesumus Domine, super hanc familiam tuam, pro qua Dominus noster Jesus Christus non dubitavit manibus tradi nocentium, et crucis subire tormentum. Qui tecum vivit, et regnat in saecula saeculorum. Amen.",
+          "english": "Let us pray. Look, we beseech Thee, O Lord, upon this Thy family, for whom our Lord Jesus Christ did not hesitate to be delivered into the hands of the wicked and to undergo the torment of the Cross. Who liveth and reigneth with Thee for ever and ever. Amen.",
+          "sourcePages": [
+            67
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              67
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0013",
+          "verification": "visual-review"
+        }
+      ]
+    }
+  ],
+  "unpairedEnglish": [],
+  "editorialNotes": [
+    {
+      "pages": [
+        64,
+        65,
+        66,
+        67
+      ],
+      "text": "All four pages have been visually compared. English is prepared from the printed Latin. Abbreviated opening versicles, the Glory be, and Adoramus display the complete prayers printed in this office. The source gives no Lauds. The seasonal substitutions printed below Vexilla Regis apply to its “Hoc passionis tempore” line and are retained as instructions."
+    }
+  ]
+}

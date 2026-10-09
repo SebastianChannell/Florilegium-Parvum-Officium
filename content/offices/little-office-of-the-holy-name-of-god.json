@@ -1,0 +1,3613 @@
+{
+  "schemaVersion": 1,
+  "id": "little-office-of-the-holy-name-of-god",
+  "title": "Little Office of the Holy Name of God",
+  "category": "Divine Mysteries",
+  "source": {
+    "pdfPages": [
+      26,
+      37
+    ],
+    "printedPages": [
+      "26",
+      "37"
+    ],
+    "file": "book.pdf",
+    "pageNumberConvention": "1-based; printed and PDF pages coincide"
+  },
+  "sourceLanguage": "Latin",
+  "introductoryNotes": [
+    {
+      "type": "source-note",
+      "text": "From The Manual of the Archconfraternity of the Holy Face (1887)",
+      "pages": [
+        26
+      ],
+      "language": "English"
+    },
+    {
+      "type": "source-note",
+      "text": "The Little Office of the Most Holy Name of God is largely attributed to the pen of Mr Dupont. It was originally discovered in a pamphlet entitled Association of Prayers Against Blasphemy, which went through several editions, the last known being published in 1867. Since then, it appears not to have been reissued. Given its devotional and historical significance, it seems fitting to preserve this portion. We therefore present it here as a supplement to our manual of the archconfraternity, from which it may easily be detached and issued as a separate tract.",
+      "pages": [
+        26
+      ],
+      "language": "English"
+    },
+    {
+      "type": "source-note",
+      "text": "This Office serves as an act of reparation and homage to the Most Holy and Adorable Name of God—a Name so often misunderstood and profaned in our times. It is known that many devout souls in the world have already adopted the practice of reciting this Little Office daily. Such a praiseworthy example deserves the highest commendation, and it is our earnest hope that many others will follow, so that a sacred chorus of praise may rise to counter the dreadful clamour which, in our day, is so grievously directed against God and His most awe-inspiring Name.",
+      "pages": [
+        26
+      ],
+      "language": "English"
+    }
+  ],
+  "translationNotice": null,
+  "status": {
+    "extraction": "reviewed",
+    "translation": "supplied",
+    "verification": "visual-review"
+  },
+  "sections": [
+    {
+      "id": "matins",
+      "title": "Matins",
+      "sourceHeading": "Matutinum",
+      "pages": [
+        26,
+        27
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Pater noster.",
+          "english": "Our Father.",
+          "sourcePages": [
+            26
+          ],
+          "englishPages": [
+            26
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              26
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine, labia mea aperies.",
+          "english": "℣. Lord, Thou wilt open my lips.",
+          "sourcePages": [
+            26
+          ],
+          "englishPages": [
+            26
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              26
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et os meum exaltabit Nomen tuum.",
+          "english": "℟. And my mouth shall extol Thy Name.",
+          "sourcePages": [
+            26
+          ],
+          "englishPages": [
+            26
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              26
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Usquequo, Deus, improperavit inimicus? irritat adversarius Nomen tuum in finem? Nescient quia tu ipse es Deus noster, qui conteris bella, et Dominus Nomen est tibi. Imple facies eorum ignominia, et quaerent Nomen tuum, Domine. Confiteantur Nomini tuo magno, quoniam terribile et sanctum est. Et benedicant Nomini gloriae tuae excelsi, in omni laude et benedictione. Gloria Patri.",
+          "english": "How long, O God, shall the enemy outrage Thee? Is the adversary to provoke Thy Name forever? They know not that Thou art our God, who destroyest wars from the beginning, and that the Lord is Thy Name. Fill their faces with shame, and they shall seek Thy Name, O Lord. Let them give praise to Thy great Name: because it is terrible and holy. And blessed be the great Name of Thy glory with all blessing and praise. Glory be to the Father.",
+          "sourcePages": [
+            26
+          ],
+          "englishPages": [
+            26
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              26
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Expectemus a Domino misericordiam; forsitan enim indignationem suam abscondet, et dabit gloriam Nomini suo.",
+          "english": "Ant. Let us wait for mercy from the Lord; for perhaps he will put a stop to his indignation, and he will give glory to his own Name.",
+          "sourcePages": [
+            26
+          ],
+          "englishPages": [
+            26
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              26
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "heading",
+          "source": "Capitulum",
+          "english": "Chapter",
+          "sourcePages": [
+            26
+          ],
+          "englishPages": [
+            26
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              26
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Sanctificabo Nomen meum magnum, quod pollutum est inter gentes, dicit Dominus: et assumam zelum pro Nomine sancto meo, ut sciant gentes quia ego Dominus.",
+          "english": "I will sanctify my great Name, which was profaned among the Gentiles, saith the Lord; and I will become jealous for the honour of my holy Name in order that the nations may know that I am the Lord.",
+          "sourcePages": [
+            26
+          ],
+          "englishPages": [
+            26
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              26
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Deo gratias.",
+          "english": "℟. Let us give thanks to God.",
+          "sourcePages": [
+            26
+          ],
+          "englishPages": [
+            27
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              27
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0008",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Quis non timebit te, Domine?",
+          "english": "℣. Who shall not fear Thee, O Lord?",
+          "sourcePages": [
+            27
+          ],
+          "englishPages": [
+            27
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              27
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0009",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et magnificabit Nomen tuum?",
+          "english": "℟. And who shall not magnify Thy Name?",
+          "sourcePages": [
+            27
+          ],
+          "englishPages": [
+            27
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              27
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0010",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            27
+          ],
+          "englishPages": [
+            27
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              27
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0011",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Deus, cujus sanctum et terribile Nomen jugiter tota die blasphematur, illumina oculos improperantium tibi, ut majestatem tui Nominis agnoscentes, illud nobiscum et reveraentur et ament. Per Dominum.",
+          "english": "O God, whose holy and terrible Name is unceasingly profaned by blasphemers, lighten the eyes of those who outrage Thee, that confessing the majesty of Thy Name, they may, together with us, revere and love it. Through Jesus Christ our Lord.",
+          "sourcePages": [
+            27
+          ],
+          "englishPages": [
+            27
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              27
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0012",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Sit Nomen Domini benedictum.",
+          "english": "℣. May the Name of the Lord be blessed.",
+          "sourcePages": [
+            27
+          ],
+          "englishPages": [
+            27
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              27
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0013",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ex hoc nunc, et usque in saeculum. Amen.",
+          "english": "℟. Now and for ever. Amen.",
+          "sourcePages": [
+            27
+          ],
+          "englishPages": [
+            27
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              27
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0014",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "lauds",
+      "title": "Lauds",
+      "sourceHeading": "Ad Laudes",
+      "pages": [
+        27,
+        28
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Pater noster.",
+          "english": "Our Father.",
+          "sourcePages": [
+            27
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              27
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0001",
+          "verification": "visual-review",
+          "englishPages": [
+            27
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "lauds-b0001"
+            ],
+            "suppliedEnglishIndices": [
+              0
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine, labia mea aperies.",
+          "english": "℣. Lord, Thou wilt open my lips.",
+          "sourcePages": [
+            27
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              27
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0002",
+          "verification": "visual-review",
+          "englishPages": [
+            27
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "lauds-b0002"
+            ],
+            "suppliedEnglishIndices": [
+              1
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et os meum exaltabit Nomen tuum.",
+          "english": "℟. And my mouth shall extol Thy name.",
+          "sourcePages": [
+            27
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              27
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0003",
+          "verification": "visual-review",
+          "englishPages": [
+            27
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "lauds-b0003"
+            ],
+            "suppliedEnglishIndices": [
+              2
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Laudate Dominum de caelis; laudate eum in excelsis. Laudate eum, omnes angeli ejus; laudate eum, omnes virtutes ejus. Laudate eum, sol et luna; laudate eum, omnes stellae et lumen. Laudate eum, caeli caelorum; et aquae omnes quae super caelos sunt laudent Nomen Domini. Bestiae et universa pecora, serpentes et volucres pennatae; Reges terrae et omnes populi, principes et omnes judices terrae; Juvenes et virgines, senes cum junioribus laudent Nomen Domini, quia exaltatum est Nomen ejus solius. Gloria Patri.",
+          "english": "Praise ye the Lord from the heavens: praise ye him in the high places. Praise ye him, all his angels: praise ye him, all his hosts. Praise ye him, sun and moon: praise him, all ye stars and light. Praise him, ye heavens of heavens, and let all the waters that are above the heavens praise the name of the Lord. Praise him, beasts and all cattle, serpents and feathered fowl; Kings of the earth and all people, princes and all judges of the earth; Young men and maidens: let the old with the younger, praise the name of the Lord, for his name alone is exalted. Glory to the Father.",
+          "sourcePages": [
+            27
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              27
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0004",
+          "verification": "visual-review",
+          "englishPages": [
+            27
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "lauds-b0004"
+            ],
+            "suppliedEnglishIndices": [
+              3
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Jubilate Deo, omnis terra; psalmum dicite Nomini ejus; date gloriam laudi ejus.",
+          "english": "Ant. Sing to the Lord with holy transports of joy, all ye inhabitants of the earth: sing canticles to the glory of his name: render to him, by your praises, the homage due to him.",
+          "sourcePages": [
+            27
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              27,
+              28
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0005",
+          "verification": "visual-review",
+          "englishPages": [
+            27,
+            28
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "lauds-b0005"
+            ],
+            "suppliedEnglishIndices": [
+              4
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "heading",
+          "source": "Capitulum.",
+          "english": "Chapter",
+          "sourcePages": [
+            27
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              28
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0006",
+          "verification": "visual-review",
+          "englishPages": [
+            28
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "lauds-b0006"
+            ],
+            "suppliedEnglishIndices": [
+              5
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Benedictus es, Domine Deus patrum nostrorum; et laudabilis, et gloriosus, et superexaltatus in saecula, et benedictum Nomen gloriae tuae sanctum, et laudabile, et superexaltatum in omnibus saeculis.",
+          "english": "Blessed art Thou, O Lord, God of our fathers; and worthy to be praised, and glorified, and exalted above all for ever; and blessed is the holy name of Thy glory: and worthy to be praised, and exalted above all from century to century.",
+          "sourcePages": [
+            27,
+            28
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              28
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0007",
+          "verification": "visual-review",
+          "englishPages": [
+            28
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "lauds-b0007",
+              "lauds-b0008"
+            ],
+            "suppliedEnglishIndices": [
+              6
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Deo gratias.",
+          "english": "℟. Thanks be to God.",
+          "sourcePages": [
+            28
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              28
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0009",
+          "verification": "visual-review",
+          "englishPages": [
+            28
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "lauds-b0009"
+            ],
+            "suppliedEnglishIndices": [
+              7
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. A solis ortu usque ad occasum.",
+          "english": "℣. From the rising to the setting of the sun.",
+          "sourcePages": [
+            28
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              28
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0010",
+          "verification": "visual-review",
+          "englishPages": [
+            28
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "lauds-b0010"
+            ],
+            "suppliedEnglishIndices": [
+              8
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Laudabile Nomen Domini.",
+          "english": "℟. The name of the Lord shall be blessed.",
+          "sourcePages": [
+            28
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              28
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0011",
+          "verification": "visual-review",
+          "englishPages": [
+            28
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "lauds-b0011"
+            ],
+            "suppliedEnglishIndices": [
+              9
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            28
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              28
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0012",
+          "verification": "visual-review",
+          "englishPages": [
+            28
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "lauds-b0012"
+            ],
+            "suppliedEnglishIndices": [
+              10
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Concede nobis, omnipotens Deus, ita Nomen sanctum tuum in terra venerari, ut cum angelis et sanctis tuis in caelo ipsum laudare et exaltare mereamur. Per Dominum.",
+          "english": "Grant to us, almighty God, grace so to venerate thy holy name on earth, that we may merit to praise and bless it with the angels and saints in heaven. Through our Lord Jesus Christ.",
+          "sourcePages": [
+            28
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              28
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0013",
+          "verification": "visual-review",
+          "englishPages": [
+            28
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "lauds-b0013"
+            ],
+            "suppliedEnglishIndices": [
+              11
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Sit Nomen Domini benedictum.",
+          "english": "℣. Blessed be the name of the Lord.",
+          "sourcePages": [
+            28
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              28
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0014",
+          "verification": "visual-review",
+          "englishPages": [
+            28
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "lauds-b0014"
+            ],
+            "suppliedEnglishIndices": [
+              12
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ex hoc nunc et usque in saeculum. Amen.",
+          "english": "℟. Now and evermore. Amen.",
+          "sourcePages": [
+            28
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              28
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0015",
+          "verification": "visual-review",
+          "englishPages": [
+            28
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "lauds-b0015"
+            ],
+            "suppliedEnglishIndices": [
+              13
+            ],
+            "method": "manual-source-comparison"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prime",
+      "title": "Prime",
+      "sourceHeading": "Ad Primam",
+      "pages": [
+        28,
+        29,
+        30
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Pater noster.",
+          "english": "Our Father.",
+          "sourcePages": [
+            28
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              28
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0001",
+          "verification": "visual-review",
+          "englishPages": [
+            28
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0001"
+            ],
+            "suppliedEnglishIndices": [
+              0
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine, labia mea aperies.",
+          "english": "℣. Lord, Thou wilt open my lips.",
+          "sourcePages": [
+            28
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              28
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0002",
+          "verification": "visual-review",
+          "englishPages": [
+            28
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0002"
+            ],
+            "suppliedEnglishIndices": [
+              1
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et os meum exaltabit Nomen tuum.",
+          "english": "℟. And my mouth shall extol Thy name.",
+          "sourcePages": [
+            28
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              28
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0003",
+          "verification": "visual-review",
+          "englishPages": [
+            28
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0003"
+            ],
+            "suppliedEnglishIndices": [
+              2
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Deus meus, aperi oculos, et vide desolationem nostram et civitatem super quam invocatum est Nomen tuum. Exurge; quare obdormis, Domine? Exsurge, Domine, adjuva nos, et redime nos propter Nomen tuum. Noli meminisse iniquitatem patrum nostrorum, sed memento manus tuae et Nominis tui in tempore isto. Peccavimus cum patribus nostris; injuste egimus, et iniquitatem fecimus. Si iniquitates nostrae responderint nobis, Domine, fac propter Nomen tuum; quoniam multae sunt aversiones nostrae, et tibi peccavimus. Adjuva nos, Deus salutaris noster, et propter gloriam Nominis tui libera nos, et propitius esto peccatis nostris, propter Nomen tuum. Gloria Patri.",
+          "english": "My God, open Thine eyes, and consider our desolation, and the city upon which Thy name is invoked. Arise, O Lord; why sleepest Thou? Arise, O Lord, help us and redeem us for Thy Name’s sake. Remember not the iniquities of our fathers, but think at this time upon Thy power and upon Thy Name. We confess that we have sinned with our fathers; that we have acted unjustly, and wrought iniquity. If our iniquities cry out against us, O Lord, nevertheless be merciful to us for Thy Name’s sake, for our rebellions are many, we have sinned against Thee. Help us, O God our Saviour; deliver us for the glory of Thy Name, and forgive us our sins for Thy Name’s sake. Glory be to the Father.",
+          "sourcePages": [
+            28
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              28,
+              29
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0004",
+          "verification": "visual-review",
+          "englishPages": [
+            28,
+            29
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0004"
+            ],
+            "suppliedEnglishIndices": [
+              3
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Exurge, Domine, adjuva nos, et redime nos propter Nomen tuum.",
+          "english": "Ant. Arise, O Lord, help us and redeem us for Thy Name’s sake.",
+          "sourcePages": [
+            29
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              29
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0005",
+          "verification": "visual-review",
+          "englishPages": [
+            29
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0005"
+            ],
+            "suppliedEnglishIndices": [
+              4
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "heading",
+          "source": "Capitulum",
+          "english": "Chapter",
+          "sourcePages": [
+            29
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              29
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0006",
+          "verification": "visual-review",
+          "englishPages": [
+            29
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0006"
+            ],
+            "suppliedEnglishIndices": [
+              5
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Si conversus autem populus meus, super quos invocatum est Nomen meum, deprecatus me fuerit, et exquisierit faciem meam, et egerit poenitentiam a viis suis pessimis, et ego exaudiam de caelo, et propitius ero peccatis eorum.",
+          "english": "And my people, upon whom my Name is called being converted, shall make supplication to me, and seek out my Face; and do penance for their most wicked ways: then will I hear from heaven, and will pardon their sins.",
+          "sourcePages": [
+            29
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              29
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0007",
+          "verification": "visual-review",
+          "englishPages": [
+            29
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0007"
+            ],
+            "suppliedEnglishIndices": [
+              6
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Deo gratias.",
+          "english": "℟. Let us give thanks to God.",
+          "sourcePages": [
+            29
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              29
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0008",
+          "verification": "visual-review",
+          "englishPages": [
+            29
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0008"
+            ],
+            "suppliedEnglishIndices": [
+              7
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. In eo laetabitur cor nostrum.",
+          "english": "℣. Our heart finds its joy in him.",
+          "sourcePages": [
+            29
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              29
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0009",
+          "verification": "visual-review",
+          "englishPages": [
+            29
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0009"
+            ],
+            "suppliedEnglishIndices": [
+              8
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et in Nomine sancto ejus speravimus.",
+          "english": "℟. And we hope in his holy Name.",
+          "sourcePages": [
+            29
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              29
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0010",
+          "verification": "visual-review",
+          "englishPages": [
+            29
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0010"
+            ],
+            "suppliedEnglishIndices": [
+              9
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            29
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              29
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0011",
+          "verification": "visual-review",
+          "englishPages": [
+            29
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0011"
+            ],
+            "suppliedEnglishIndices": [
+              10
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Ineffabilem nobis, Domine, propter Nomen sanctum tuum, misericordiam tuam clementer ostende, ut simul nos, et a peccatis omnibus exuas et a poenis quas pro his mereamur eripias. Per Dominum.",
+          "english": "Deign, O Lord, for Thy Name’s sake, to show to us thy mercy that we may be delivered, both from our sins and from the chastisements they have deserved. Through our Lord Jesus Christ.",
+          "sourcePages": [
+            29
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              29
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0012",
+          "verification": "visual-review",
+          "englishPages": [
+            29
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0012"
+            ],
+            "suppliedEnglishIndices": [
+              11
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Sit Nomen Domini benedictum.",
+          "english": "℣. Blessed be the Name of the Lord.",
+          "sourcePages": [
+            29
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              29
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0013",
+          "verification": "visual-review",
+          "englishPages": [
+            29
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0013"
+            ],
+            "suppliedEnglishIndices": [
+              12
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ex hoc nunc et usque in saeculum. Amen.",
+          "english": "℟. Now and for evermore. Amen.",
+          "sourcePages": [
+            29
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              29
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0014",
+          "verification": "visual-review",
+          "englishPages": [
+            29
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0014"
+            ],
+            "suppliedEnglishIndices": [
+              13
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Aspice in me, et miserere mei, secundum judicium diligentium Nomen tuum. Exultabit cor meum in salutare tuo; cantabo Domino qui bona tribuit mihi, et psallam Nomini Domini altissimi. Gloria Patri.",
+          "english": "Look upon me, O Lord, and have mercy on me, according to the judgment of them that love Thy Name. My heart will thrill with joy in Thy salvation: I will sing to the Lord, who giveth me good things: yea I will sing to the Name of the Lord the most High. Glory be to the Father.",
+          "sourcePages": [
+            29
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              29
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0015",
+          "verification": "visual-review",
+          "englishPages": [
+            29
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0015"
+            ],
+            "suppliedEnglishIndices": [
+              14
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Exaltabo te, Deus meus Rex, et benedicam Nomini tuo in saeculum, et in saeculum saeculi.",
+          "english": "Ant. I will praise Thee, O God my King, and I will bless Thy Name for ever and ever.",
+          "sourcePages": [
+            29
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              29
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0016",
+          "verification": "visual-review",
+          "englishPages": [
+            29
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0016"
+            ],
+            "suppliedEnglishIndices": [
+              15
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "heading",
+          "source": "Capitulum",
+          "english": "Chapter",
+          "sourcePages": [
+            29
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              30
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0017",
+          "verification": "visual-review",
+          "englishPages": [
+            30
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0017"
+            ],
+            "suppliedEnglishIndices": [
+              16
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Turris fortissima Nomen Domini: ad ipsum currit justus, et exaltabitur.",
+          "english": "The Name of the Lord is a strong tower: the just runneth to it, and shall be exalted.",
+          "sourcePages": [
+            29
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              30
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0018",
+          "verification": "visual-review",
+          "englishPages": [
+            30
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0018"
+            ],
+            "suppliedEnglishIndices": [
+              17
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Deo gratias.",
+          "english": "℟. Thanks be to God.",
+          "sourcePages": [
+            29
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              30
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0019",
+          "verification": "visual-review",
+          "englishPages": [
+            30
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0019"
+            ],
+            "suppliedEnglishIndices": [
+              18
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Benedic, anima mea, Domino.",
+          "english": "℣. Bless the Lord, O my soul.",
+          "sourcePages": [
+            29
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              30
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0020",
+          "verification": "visual-review",
+          "englishPages": [
+            30
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0020"
+            ],
+            "suppliedEnglishIndices": [
+              19
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et omnia quae intra me sunt, Nomini sancto ejus.",
+          "english": "℟. And let all that is within me bless his Holy Name.",
+          "sourcePages": [
+            29,
+            30
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              30
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0021",
+          "verification": "visual-review",
+          "englishPages": [
+            30
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0021"
+            ],
+            "suppliedEnglishIndices": [
+              20
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            30
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              30
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0022",
+          "verification": "visual-review",
+          "englishPages": [
+            30
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0022"
+            ],
+            "suppliedEnglishIndices": [
+              21
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Danobis, omnipotens et sempiterne Deus, Nomen sanctum tuum ita pura mente benedicere et fiducialiter invocare, ut quodcumque sic petierimus obtinere mereamur. Per Dominum.",
+          "english": "Grant us, almighty and eternal God, grace to bless Thy Name with such pure heart and to invoke it with such confidence, that we may deserve to obtain all that we have asked of Thee. Through Jesus Christ.",
+          "sourcePages": [
+            30
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              30
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0023",
+          "verification": "visual-review",
+          "englishPages": [
+            30
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0023"
+            ],
+            "suppliedEnglishIndices": [
+              22
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Sit Nomen Domini benedictum.",
+          "english": "℣. Blessed be the Name of the Lord.",
+          "sourcePages": [
+            30
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              30
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0024",
+          "verification": "visual-review",
+          "englishPages": [
+            30
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0024"
+            ],
+            "suppliedEnglishIndices": [
+              23
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ex hoc nunc et usque in saeculum. Amen.",
+          "english": "℟. From this time forth, for evermore. Amen.",
+          "sourcePages": [
+            30
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              30
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0025",
+          "verification": "visual-review",
+          "englishPages": [
+            30
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "prime-b0025"
+            ],
+            "suppliedEnglishIndices": [
+              24
+            ],
+            "method": "manual-source-comparison"
+          }
+        }
+      ]
+    },
+    {
+      "id": "terce",
+      "title": "Terce",
+      "sourceHeading": "Ad Tertiam",
+      "pages": [
+        30,
+        31
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Pater noster.",
+          "english": "Our Father.",
+          "sourcePages": [
+            30
+          ],
+          "englishPages": [
+            30
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              30
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine, labia mea aperies.",
+          "english": "℣. Lord, Thou wilt open my lips.",
+          "sourcePages": [
+            30
+          ],
+          "englishPages": [
+            30
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              30
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et os meum exaltabit Nomen tuum.",
+          "english": "℟. And my mouth shall extol Thy Name.",
+          "sourcePages": [
+            30
+          ],
+          "englishPages": [
+            30
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              30
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Exaltabo te, Deus meus Rex, et benedicam Nomen tuum in saeculum et in saeculum saeculi. Et in conspectu angelorum psallam tibi; adorabo ad templum sanctum tuum, et confitebor Nomini tuo. Per singulos dies benedicam tibi, et laudabo Nomen tuum, in saeculum et in saeculum saeculi. Sic benedicam te in vita mea, et in Nomine tuo levabo manus meas. Et tu, Domine, fac mecum propter Nomen tuum, quia suavis est misericordia tua. Aspice in me, et miserere mei, secundum judicium diligentium Nomen tuum. Exultabit cor meum in salutare tuo; cantabo Domino qui bona tribuit mihi, et psallam Nomini Domini altissimi. Gloria Patri.",
+          "english": "I will extol Thee, O God my king: and I will bless Thy Name for ever, yea for ever and ever. I will sing praise to Thee in the sight of the angels: I will worship towards Thy holy temple, and I will give glory to Thy Name. Every day I will bless Thee: and I will praise Thy Name for ever, yea for ever and ever. I will bless Thee as long as I live: and in Thy Name I will lift up my hands to heaven. And Thou, O Lord, defend me for Thy Name’s sake: because Thy mercy is sweet. Look upon me, O Lord, and have mercy on me, according to the judgment of them that love Thy Name. My heart will thrill with joy in Thy salvation: I will sing to the Lord, who giveth me good things: yea I will sing to the Name of the Lord the most High. Glory be to the Father.",
+          "sourcePages": [
+            30
+          ],
+          "englishPages": [
+            30
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              30
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Exaltabo te, Deus meus Rex, et benedicam Nomini tuo in saeculum, et in saeculum saeculi.",
+          "english": "Ant. I will praise Thee, O God my King, and I will bless Thy Name for ever and ever.",
+          "sourcePages": [
+            30
+          ],
+          "englishPages": [
+            31
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              31
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "heading",
+          "source": "Capitulum",
+          "english": "Chapter",
+          "sourcePages": [
+            30
+          ],
+          "englishPages": [
+            31
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              31
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Turris fortissima Nomen Domini: ad ipsum currit justus, et exaltabitur.",
+          "english": "The Name of the Lord is a strong tower: the just runneth to it, and shall be exalted.",
+          "sourcePages": [
+            30
+          ],
+          "englishPages": [
+            31
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              31
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Deo gratias.",
+          "english": "℟. Thanks be to God.",
+          "sourcePages": [
+            31
+          ],
+          "englishPages": [
+            31
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              31
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0008",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Benedic, anima mea, Domino.",
+          "english": "℣. Bless the Lord, O my soul.",
+          "sourcePages": [
+            31
+          ],
+          "englishPages": [
+            31
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              31
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0009",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et omnia quae intra me sunt, Nomini sancto ejus.",
+          "english": "℟. And let all that is within me bless his Holy Name.",
+          "sourcePages": [
+            31
+          ],
+          "englishPages": [
+            31
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              31
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0010",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            31
+          ],
+          "englishPages": [
+            31
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              31
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0011",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Da nobis, omnipotens et sempiterne Deus, Nomen sanctum tuum ita pura mente benedicere et fiducialiter invocare, ut quodcumque sic petierimus obtinere mereamur. Per Dominum.",
+          "english": "Grant us, almighty and eternal God, grace to bless Thy Name with such pure heart and to invoke it with such confidence, that we may deserve to obtain all that we have asked of Thee. Through Jesus Christ.",
+          "sourcePages": [
+            31
+          ],
+          "englishPages": [
+            31
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              31
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0012",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Sit Nomen Domini benedictum.",
+          "english": "℣. Blessed be the Name of the Lord.",
+          "sourcePages": [
+            31
+          ],
+          "englishPages": [
+            31
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              31
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0013",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ex hoc nunc et usque in saeculum. Amen.",
+          "english": "℟. From this time forth, for evermore. Amen.",
+          "sourcePages": [
+            31
+          ],
+          "englishPages": [
+            31
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              31
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0014",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "sext",
+      "title": "Sext",
+      "sourceHeading": "Ad Sextam",
+      "pages": [
+        31,
+        32
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Pater noster.",
+          "english": "Our Father.",
+          "sourcePages": [
+            31
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              31
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0001",
+          "verification": "visual-review",
+          "englishPages": [
+            31
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "sext-b0001"
+            ],
+            "suppliedEnglishIndices": [
+              0
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine, labia mea aperies.",
+          "english": "℣. Lord, Thou wilt open my lips.",
+          "sourcePages": [
+            31
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              31
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0002",
+          "verification": "visual-review",
+          "englishPages": [
+            31
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "sext-b0002"
+            ],
+            "suppliedEnglishIndices": [
+              1
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et os meum exaltabit Nomen tuum.",
+          "english": "℟. And my mouth shall extol Thy Name.",
+          "sourcePages": [
+            31
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              31
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0003",
+          "verification": "visual-review",
+          "englishPages": [
+            31
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "sext-b0003"
+            ],
+            "suppliedEnglishIndices": [
+              2
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Beatus vir cujus est Nomen Domini spes ejus, et non respexit in vanitates et insania falsas. Circumdantes circumdederunt me; et in Nomine Domini quia ultus sum in eos. Circumdederunt me sicut apes, et exarserunt sicut ignis in spinis; et in Nomine Domini, quia ultus sum in eos. Confitebor Nomini tuo, Domine, quoniam adjutor et protector factus es mihi. Et liberasti me, secundum multitudinem misericordiae Nominis tui, de manibus quaerentium animam meam. Sperent in te qui noverunt Nomen tuum, quoniam non dereliquisti quaerentes te, Domine. Propterea confitebor tibi in nationibus, Domine, et Nomini tuo psalmum dicam. Gloria Patri.",
+          "english": "Blessed is the man whose trust is in the Name of the Lord; and who hath not had regard to vanities, and lying follies. My enemies have surrounded me and compassed me about: and in the Name of the Lord, I have been revenged on them. They surrounded me like bees, and they burnt like fire among thorns: and in the Name of the Lord I was revenged on them. I will give glory to Thy Name, O Lord: for Thou hast been a helper and protector to me. And Thou hast delivered me, according to the multitude of the mercy of Thy Name from the hands of those who sought after my life. Let those who know Thy Name trust in Thee: for Thou hast not forsaken those who seek Thee, O Lord. Therefore, O Lord, I will confess Thee among the nations; and I will sing a psalm to the glory of Thy Name. Glory to the Father.",
+          "sourcePages": [
+            31
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              31,
+              32
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0004",
+          "verification": "visual-review",
+          "englishPages": [
+            31,
+            32
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "sext-b0004"
+            ],
+            "suppliedEnglishIndices": [
+              3,
+              4
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. In Nomine tuo spernemus insurgentes in nobis.",
+          "english": "Ant. In Thy Name we will despise those who rise up against us.",
+          "sourcePages": [
+            31
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              32
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0005",
+          "verification": "visual-review",
+          "englishPages": [
+            32
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "sext-b0005"
+            ],
+            "suppliedEnglishIndices": [
+              5
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "heading",
+          "source": "Capitulum",
+          "english": "Chapter",
+          "sourcePages": [
+            32
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              32
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0006",
+          "verification": "visual-review",
+          "englishPages": [
+            32
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "sext-b0006"
+            ],
+            "suppliedEnglishIndices": [
+              6
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Qui ambulaverit in tenebris et non est lumen ei, speret in Nomine Domini, et innitetur super Deum suum.",
+          "english": "Let him who hath walked in darkness and who hath no light, hope in the Name of the Lord, and lean upon his God.",
+          "sourcePages": [
+            32
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              32
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0007",
+          "verification": "visual-review",
+          "englishPages": [
+            32
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "sext-b0007"
+            ],
+            "suppliedEnglishIndices": [
+              7
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Deo gratias.",
+          "english": "℟. Thanks be to God.",
+          "sourcePages": [
+            32
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              32
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0008",
+          "verification": "visual-review",
+          "englishPages": [
+            32
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "sext-b0008"
+            ],
+            "suppliedEnglishIndices": [
+              8
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. In te, Domine, inimicos nostros ventilabimus cornu.",
+          "english": "℣. In Thee, O Lord, we shall have strength to fight against our enemies.",
+          "sourcePages": [
+            32
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              32
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0009",
+          "verification": "visual-review",
+          "englishPages": [
+            32
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "sext-b0009"
+            ],
+            "suppliedEnglishIndices": [
+              9
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et in Nomine tuo spernemus insurgentes in nobis.",
+          "english": "℟. And in Thy Name we will despise those who rise up against us.",
+          "sourcePages": [
+            32
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              32
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0010",
+          "verification": "visual-review",
+          "englishPages": [
+            32
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "sext-b0010"
+            ],
+            "suppliedEnglishIndices": [
+              10
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            32
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              32
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0011",
+          "verification": "visual-review",
+          "englishPages": [
+            32
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "sext-b0011"
+            ],
+            "suppliedEnglishIndices": [
+              11
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Deus, qui in Nomine tuo sperantes nunquam deseris, concede fragilitati nostrae praesidium; ut sancti Nominis tui protectione muniti, omnia salutis nostrae adversantia superare valeamus. Per Dominum.",
+          "english": "O God, who never forsakest those who hope in Thy Name, grant us Thy help in our weakness, so that under the protection of Thy holy Name we may triumph over all the obstacles which we may encounter in the way of salvation. Through Jesus Christ our Lord.",
+          "sourcePages": [
+            32
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              32
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0012",
+          "verification": "visual-review",
+          "englishPages": [
+            32
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "sext-b0012"
+            ],
+            "suppliedEnglishIndices": [
+              12
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Sit Nomen Domini benedictum.",
+          "english": "℣. May the Name of the Lord be blessed.",
+          "sourcePages": [
+            32
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              32
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0013",
+          "verification": "visual-review",
+          "englishPages": [
+            32
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "sext-b0013"
+            ],
+            "suppliedEnglishIndices": [
+              13
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ex hoc nunc et usque in saeculum. Amen.",
+          "english": "℟. Now and for evermore. Amen.",
+          "sourcePages": [
+            32
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              32
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0014",
+          "verification": "visual-review",
+          "englishPages": [
+            32
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "sext-b0014"
+            ],
+            "suppliedEnglishIndices": [
+              14
+            ],
+            "method": "manual-source-comparison"
+          }
+        }
+      ]
+    },
+    {
+      "id": "none",
+      "title": "None",
+      "sourceHeading": "Ad Nonam",
+      "pages": [
+        32,
+        33
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Pater noster.",
+          "english": "Our Father.",
+          "sourcePages": [
+            32
+          ],
+          "englishPages": [
+            32
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              32
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "none-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine, labia mea aperies.",
+          "english": "℣. Lord, Thou open wilt my lips.",
+          "sourcePages": [
+            32
+          ],
+          "englishPages": [
+            32
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              32
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "none-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et os meum exaltabit Nomen tuum.",
+          "english": "℟. And my mouth shall extol Thy Name.",
+          "sourcePages": [
+            32
+          ],
+          "englishPages": [
+            32
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              32
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "none-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Deus noster, quam admirabile est Nomen tuum in universa terra! Non est similis tui, Domine: magnus es tu, et magnum Nomen tuum in fortitudine. Quis non timebit te, et magnificabit Nomen tuum? Sit auris tua attendens adorationem servorum tuorum qui volunt timere Nomen tuum. Tu exaudies de caelo, in firmamento habitaculi tui, ut discant universi populi terrarum Nomen tuum timere, sicut populus tuus Israel. Et omnes gentes, quascumque fecisti, venient, et adorabunt coram te, et glorificabunt Nomen tuum. Secundum Nomen tuum, sic et laus tua in fines terrae. Et memores erunt Nominis tui in omni generatione et generationem. Gloria Patri.",
+          "english": "O Lord our God, how admirable is Thy Name throughout the whole earth! There is none like to Thee, O Lord: Thou art great, and great is Thy Name in might. Who shall not fear Thee, O Lord, and magnify Thy Name? Let Thy ear, Lord, be attentive to the prayer of Thy servants who desire to fear Thy Name. Thou wilt hear us from the firmament where Thou dwellest, in order that all people, throughout the whole earth, may learn to fear Thy Name, like Thy people Israel. And all the nations Thou hast made shall come and adore before Thee, O Lord: and they shall glorify Thy Name. According to Thy Name O God, so also is Thy praise unto the ends of the earth. And Thy Name shall be remembered from generation to generation. Glory to the Father.",
+          "sourcePages": [
+            32,
+            33
+          ],
+          "englishPages": [
+            32,
+            33
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              32,
+              33
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "none-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Quis non timebit te, Domine, et magnificabit Nomen tuum?",
+          "english": "Ant. Who shall not fear Thee, O Lord, and magnify Thy Name?",
+          "sourcePages": [
+            33
+          ],
+          "englishPages": [
+            33
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              33
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "none-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "heading",
+          "source": "Capitulum",
+          "english": "Chapter",
+          "sourcePages": [
+            33
+          ],
+          "englishPages": [
+            33
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              33
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "none-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Ab ortu solis usque ad occasum magnum est Nomen meum in gentibus, et in omni loco sacrificatur et offertur Nomini meo oblatio munda, quia magnum est Nomen meum in gentibus, dicit Dominus exercituum.",
+          "english": "From the rising to the setting of the sun, my Name is great among the Gentiles, and in every place there is sacrifice, and there is offered to my Name a clean oblation: for great is my Name, among the Gentiles, saith the Lord of hosts.",
+          "sourcePages": [
+            33
+          ],
+          "englishPages": [
+            33
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              33
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "none-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Deo gratias.",
+          "english": "℟. Thanks be to God.",
+          "sourcePages": [
+            33
+          ],
+          "englishPages": [
+            33
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              33
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "none-b0008",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Sanctum et terribile Nomen ejus.",
+          "english": "℣. Holy and terrible is His Name.",
+          "sourcePages": [
+            33
+          ],
+          "englishPages": [
+            33
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              33
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "none-b0009",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Initium sapientiae timor Domini.",
+          "english": "℟. The fear of the Lord is the beginning of wisdom.",
+          "sourcePages": [
+            33
+          ],
+          "englishPages": [
+            33
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              33
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "none-b0010",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            33
+          ],
+          "englishPages": [
+            33
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              33
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "none-b0011",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Sancti Nominis tui, Domine, timorem pariter et amorem fac nos habere perpetuum, quia nunquam tua gubernatione destituis, quos in soliditate tuae dilectionis instituis. Per Dominum.",
+          "english": "Make us, O Lord, to have a perpetual fear and love of Thy holy Name, for Thou never ceasest to govern those whom Thou dost solidly establish in Thy love. Through Jesus Christ our Lord.",
+          "sourcePages": [
+            33
+          ],
+          "englishPages": [
+            33
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              33
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "none-b0012",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Sit Nomen Domini benedictum.",
+          "english": "℣. May the Name of the Lord be blessed.",
+          "sourcePages": [
+            33
+          ],
+          "englishPages": [
+            33
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              33
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "none-b0013",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ex hoc nunc et usque in saeculum. Amen.",
+          "english": "℟. Now and for evermore. Amen.",
+          "sourcePages": [
+            33
+          ],
+          "englishPages": [
+            33
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              33
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "none-b0014",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "vespers",
+      "title": "Vespers",
+      "sourceHeading": "Ad Vesperas",
+      "pages": [
+        33,
+        34,
+        35
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Pater noster. Ave, Maria.",
+          "english": "Our Father. Hail, Mary.",
+          "sourcePages": [
+            33
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              34
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0001",
+          "verification": "visual-review",
+          "englishPages": [
+            34
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "vespers-b0001"
+            ],
+            "suppliedEnglishIndices": [
+              0
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine, labia mea aperies.",
+          "english": "℣. Lord, Thou wilt open my lips.",
+          "sourcePages": [
+            33
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              34
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0002",
+          "verification": "visual-review",
+          "englishPages": [
+            34
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "vespers-b0002"
+            ],
+            "suppliedEnglishIndices": [
+              1
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et os meum exaltabit Nomen tuum.",
+          "english": "℟. And my mouth shall extol Thy Name.",
+          "sourcePages": [
+            33
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              34
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0003",
+          "verification": "visual-review",
+          "englishPages": [
+            34
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "vespers-b0003"
+            ],
+            "suppliedEnglishIndices": [
+              2
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Magnificate Dominum mecum, et exaltemus Nomen ejus in idipsum. Introitte portas ejus in confessione, atria ejus in hymnis; confitemini; laudate Nomen ejus. Illuc enim ascenderunt tribus, tribus Domini, testimonium Israel ad confitendum Nomini Domini. Afferte Domino gloriam et honorem, afferte Domino gloriam Nomini ejus; adorate Dominum in atrio sancto ejus. Cantate Domino, et benedicite Nomini ejus; annuntiate de die in diem salutare ejus. Cantate Deo, psalmum dicite Nomini ejus; iter facite ei qui ascendit super occasum: Dominus Nomen illi. Modulamini illi psalmum novum; exaltate et invocate Nomen ejus. Gloria Patri.",
+          "english": "Magnify the Lord with me, and let us extol his Name together. Go ye into his temple with praise, and into his courts with hymns: glorify him: and praise ye his Name. For thither did the tribes go up, the tribes of the Lord: the testimony of Israel, to praise the Name of the Lord. Bring to the Lord glory and honour: bring to the Lord glory to his Name: adore ye the Lord in his holy court. Sing ye to the Lord and bless his Name: shew forth his salvation from day to day. Sing ye to God, sing a psalm to his Name: make a way for him who ascendeth upon the west: the Lord is his Name. Sing ye to him a new psalm, extol and call upon his Name. Glory be to the Father.",
+          "sourcePages": [
+            33,
+            34
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              34
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0004",
+          "verification": "visual-review",
+          "englishPages": [
+            34
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "vespers-b0004"
+            ],
+            "suppliedEnglishIndices": [
+              3
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Bonum est confiteri Domino et psallere Nomini tuo, Altissime.",
+          "english": "Ant. It is good to give praise to the Lord: and to sing Thy Name, O most High.",
+          "sourcePages": [
+            34
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              34
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0005",
+          "verification": "visual-review",
+          "englishPages": [
+            34
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "vespers-b0005"
+            ],
+            "suppliedEnglishIndices": [
+              4
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "heading",
+          "source": "Capitulum",
+          "english": "Chapter",
+          "sourcePages": [
+            34
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              34
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0006",
+          "verification": "visual-review",
+          "englishPages": [
+            34
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "vespers-b0006"
+            ],
+            "suppliedEnglishIndices": [
+              5
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Elegi et sanctificavi locum istum, dicit Dominus, ut sit Nomen meum ibi in sempiternum, et permaneant oculi mei et cor meum ibi cunctis diebus.",
+          "english": "I have chosen and I have sanctified this place, saith the Lord, that my Name may be there for ever, and that my eyes and my heart may remain there perpetually.",
+          "sourcePages": [
+            34
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              34
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0007",
+          "verification": "visual-review",
+          "englishPages": [
+            34
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "vespers-b0007"
+            ],
+            "suppliedEnglishIndices": [
+              6
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Deo gratias.",
+          "english": "℟. Thanks be to God.",
+          "sourcePages": [
+            34
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              34
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0008",
+          "verification": "visual-review",
+          "englishPages": [
+            34
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "vespers-b0008"
+            ],
+            "suppliedEnglishIndices": [
+              7
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Sanctum et terribile Nomen ejus.",
+          "english": "℣. Holy and terrible is His Name.",
+          "sourcePages": [
+            34
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              34
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0009",
+          "verification": "visual-review",
+          "englishPages": [
+            34
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "vespers-b0009"
+            ],
+            "suppliedEnglishIndices": [
+              8
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Initium sapientiae timor Domini.",
+          "english": "℟. The fear of the Lord is the beginning of wisdom.",
+          "sourcePages": [
+            34
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              34
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0010",
+          "verification": "visual-review",
+          "englishPages": [
+            34
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "vespers-b0010"
+            ],
+            "suppliedEnglishIndices": [
+              9
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "heading",
+          "source": "Canticum Beatae Mariae Virginis.",
+          "english": "Canticle Of the Blessed Virgin.",
+          "sourcePages": [
+            34
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              34
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0011",
+          "verification": "visual-review",
+          "englishPages": [
+            34
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "vespers-b0011"
+            ],
+            "suppliedEnglishIndices": [
+              10
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Magnificat anima mea Dominum, Et exultavit spiritus meus in Deo salutari meo. Quia respexit humilitatem ancillae suae; ecce enim ex hoc beatam me dicent omnes generationes. Quia fecit mihi magna qui potens est, et sanctum Nomen ejus. Et misericordia ejus a progenie in progenies timentibus eum. Fecit potentiam in brachio suo: dispersit superbos mente cordis sui. Deposuit potentes de sede, et exaltavit humiles. Esurientes implevit bonis, et divites dimisit inanes. Suscepit Israel puerum suum, recordatus misericordiae suae. Sicut locutus est ad patres nostros, Abraham et semini ejus in saecula. Gloria Patri.",
+          "english": "My soul doth magnify the Lord, And my spirit hath rejoiced in God my Saviour. Because he hath regarded the humility of his handmaid; for behold from henceforth all generations shall call me blessed. Because he that is mighty, hath done great things to me; and holy is his Name. And his mercy is from generation unto generation, to them that fear him. He hath showed might in his arm: he hath scattered the proud in the conceit of their heart. He hath put down the mighty from their seat, and hath exalted the humble. He hath filled the hungry with good things; and the rich he hath sent empty away. He hath received Israel his servant, being mindful of his mercy. As he spoke to our Fathers: to Abraham and to his seed for ever. Glory be to the Father.",
+          "sourcePages": [
+            34,
+            35
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              34,
+              35
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0012",
+          "verification": "visual-review",
+          "englishPages": [
+            34,
+            35
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "vespers-b0012",
+              "vespers-b0013"
+            ],
+            "suppliedEnglishIndices": [
+              11
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Fecit mihi magna qui potens est, et sanctum Nomen ejus.",
+          "english": "Ant. For he that is mighty hath done great things to me; and holy is his Name.",
+          "sourcePages": [
+            35
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              35
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0014",
+          "verification": "visual-review",
+          "englishPages": [
+            35
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "vespers-b0014"
+            ],
+            "suppliedEnglishIndices": [
+              12
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Adorabo ad templum sanctum tuum.",
+          "english": "℣. I will worship Thee towards Thy holy temple.",
+          "sourcePages": [
+            35
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              35
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0015",
+          "verification": "visual-review",
+          "englishPages": [
+            35
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "vespers-b0015"
+            ],
+            "suppliedEnglishIndices": [
+              13
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et confitebor Nomini tuo, Domine.",
+          "english": "℟. And I will give glory to Thy Name, O Lord.",
+          "sourcePages": [
+            35
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              35
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0016",
+          "verification": "visual-review",
+          "englishPages": [
+            35
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "vespers-b0016"
+            ],
+            "suppliedEnglishIndices": [
+              14
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            35
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              35
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0017",
+          "verification": "visual-review",
+          "englishPages": [
+            35
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "vespers-b0017"
+            ],
+            "suppliedEnglishIndices": [
+              15
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Respice, quaesumus, Domine, super famulos tuos in Nomine tuo congregatos, et concede illis ut operibus, et non tantum verbis, injurias sancto Nomini tuo illatas reparare vale Ant. Per Dominum.",
+          "english": "Lord, we beseech Thee, look upon Thy family which is gathered together in Thy Name and grant to them that, not only by their words, but by their actions, they may make reparation for the outrages committed against Thy holy Name. Through Jesus Christ our Lord.",
+          "sourcePages": [
+            35
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              35
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0018",
+          "verification": "visual-review",
+          "englishPages": [
+            35
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "vespers-b0018"
+            ],
+            "suppliedEnglishIndices": [
+              16
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Sit Nomen Domini benedictum.",
+          "english": "℣. May the Name of the Lord be blessed.",
+          "sourcePages": [
+            35
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              35
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0019",
+          "verification": "visual-review",
+          "englishPages": [
+            35
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "vespers-b0019"
+            ],
+            "suppliedEnglishIndices": [
+              17
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ex hoc nunc et usque in saeculum. Amen.",
+          "english": "℟. Now and for evermore. Amen.",
+          "sourcePages": [
+            35
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              35
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0020",
+          "verification": "visual-review",
+          "englishPages": [
+            35
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "vespers-b0020"
+            ],
+            "suppliedEnglishIndices": [
+              18
+            ],
+            "method": "manual-source-comparison"
+          }
+        }
+      ]
+    },
+    {
+      "id": "compline",
+      "title": "Compline",
+      "sourceHeading": "Ad Completorium",
+      "pages": [
+        35,
+        36,
+        37
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Pater noster.",
+          "english": "Our Father.",
+          "sourcePages": [
+            35
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              35
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0001",
+          "verification": "visual-review",
+          "englishPages": [
+            35
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "compline-b0001"
+            ],
+            "suppliedEnglishIndices": [
+              0
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine, labia mea aperies.",
+          "english": "℣. Lord, Thou wilt open my lips.",
+          "sourcePages": [
+            35
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              35
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0002",
+          "verification": "visual-review",
+          "englishPages": [
+            35
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "compline-b0002"
+            ],
+            "suppliedEnglishIndices": [
+              1
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et os meum exaltabit nomen tuum.",
+          "english": "℟. And my mouth shall extol Thy Name.",
+          "sourcePages": [
+            35
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              35
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0003",
+          "verification": "visual-review",
+          "englishPages": [
+            35
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "compline-b0003"
+            ],
+            "suppliedEnglishIndices": [
+              2
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Confitebor tibi in saeculum, et exspectabo Nomen tuum, quoniam bonum est in conspectu sanctorum tuorum. Gloriabuntur in te omnes qui diligunt Nomen tuum, quoniam tu benedices justo. Quoniam tu, Deus meus, exaudisti orationem meam; dedisti haereditatem timentibus Nomen tuum; Ut annuntient in Sion Nomen Domini, et laudem ejus in Jerusalem. Et laudent Nomen ejus in choro; in tympano et psalterio psallant ei. Voluntarie sacrificabo tibi, et confitebor Nomini tuo, quoniam bonum est. Sic psalmum dicam Nomini tuo in saeculum saeculi, ut reddam vota mea de die in diem. Confitebor tibi, Domine Deus meus, in toto corde meo; et glorificabo Nomen tuum in aeternum. Spiritus tuus bonus deducet me in terram rectam; propter Nomen tuum, Domine, vivificabis me in aequitate tua. Educe de custodia animam meam ad confitendum Nomini tuo: me exspectant justi donec retribuas mihi. Gloria Patri.",
+          "english": "I will praise Thee for ever, O Lord; and I will wait on Thy Name for it is good in the sight of Thy Saints. All those who love Thy Name shall glory in Thee: for Thou wilt bless the just. Because Thou hast heard the voice of my prayer, O Lord my God: Thou hast given a heritage to those who fear Thy Name. That they may declare the Name of the Lord in Sion: and publish his praise in Jerusalem. Let them praise his Name in holy songs; Let them sing to him with instruments of music. Then I will freely sacrifice to Thee, and I will give praise to Thy Name: for it is good. I will sing a psalm to Thy Name for ever and ever: that I may pay my vows from day to day. I will praise Thee, O Lord my God, with my whole heart, and I will glorify Thy Name for ever. Thy Good Spirit shall lead me into the right Land: for the sake of Thy Name, O Lord, Thou wilt quicken me in Thy justice. Bring my soul out of prison, that I may praise Thy Name: the just wait for me until Thou reward me. Glory be to the Father.",
+          "sourcePages": [
+            35,
+            36
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              36
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0004",
+          "verification": "visual-review",
+          "englishPages": [
+            36
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "compline-b0004",
+              "compline-b0005"
+            ],
+            "suppliedEnglishIndices": [
+              3
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. Non nobis, Domine, non nobis; sed Nomini tuo da gloriam.",
+          "english": "Ant. Not to us, O Lord, not to us, but to Thy Name give glory.",
+          "sourcePages": [
+            36
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              36
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0006",
+          "verification": "visual-review",
+          "englishPages": [
+            36
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "compline-b0006"
+            ],
+            "suppliedEnglishIndices": [
+              4
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "heading",
+          "source": "Capitulum",
+          "english": "Chapter",
+          "sourcePages": [
+            36
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              36
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0007",
+          "verification": "visual-review",
+          "englishPages": [
+            36
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "compline-b0007"
+            ],
+            "suppliedEnglishIndices": [
+              5
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Ecce Agnus stabat super montem Sion, et cum eo centum quadraginta quatuor millia habentes Nomen ejus, et Nomen Patris ejus scriptum in frontibus suis.",
+          "english": "Then I saw the Lamb standing upon mount Sion, and with him one hundred and forty-four thousand persons who had his Name, and the Name of his Father, written on their foreheads.",
+          "sourcePages": [
+            36
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              36
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0008",
+          "verification": "visual-review",
+          "englishPages": [
+            36
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "compline-b0008"
+            ],
+            "suppliedEnglishIndices": [
+              6
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Deo gratias.",
+          "english": "℟. Thanks be to God.",
+          "sourcePages": [
+            36
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              36
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0009",
+          "verification": "visual-review",
+          "englishPages": [
+            36
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "compline-b0009"
+            ],
+            "suppliedEnglishIndices": [
+              7
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Gloriabuntur in te omnes qui diligunt Nomen tuum.",
+          "english": "℣. Let all who love Thy Name, glorify themselves in Thee.",
+          "sourcePages": [
+            36
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              36
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0010",
+          "verification": "visual-review",
+          "englishPages": [
+            36
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "compline-b0010"
+            ],
+            "suppliedEnglishIndices": [
+              8
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Quoniam tu benedices justo.",
+          "english": "℟. Because Thou wilt bless the just.",
+          "sourcePages": [
+            36
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              36
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0011",
+          "verification": "visual-review",
+          "englishPages": [
+            36
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "compline-b0011"
+            ],
+            "suppliedEnglishIndices": [
+              9
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Let us pray,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            36
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              36
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0012",
+          "verification": "visual-review",
+          "englishPages": [
+            36
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "compline-b0012"
+            ],
+            "suppliedEnglishIndices": [
+              10
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Repleatur os nostrum laude, omnipotens Deus, ut semper benedicentes te, dum peregrinamur exules, canticum aeternum cantare mereamur in coelis, habentes scriptum in frontibus nostris Nomen sanctum tuum et Nomen Filii tui. Qui tecum vivit et regnat in unitate Spiritus sancti Deus, per omnia saecula saeculorum. Amen.",
+          "english": "Grant, O almighty God, that our mouths may not cease to celebrate Thy glory, and that having blessed Thee during our exile here on earth, we may deserve to praise Thee eternally in heaven, bearing written on our foreheads Thy holy Name, and the Name of Thy Son Jesus Christ; who liveth and reigneth with Thee, in the unity of the Holy Ghost for ever and ever. Amen.",
+          "sourcePages": [
+            36
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              36,
+              37
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0013",
+          "verification": "visual-review",
+          "englishPages": [
+            36,
+            37
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "compline-b0013"
+            ],
+            "suppliedEnglishIndices": [
+              11
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Sit Nomen Domini benedictum.",
+          "english": "℣. May the Name of the Lord be blessed.",
+          "sourcePages": [
+            36
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              37
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0014",
+          "verification": "visual-review",
+          "englishPages": [
+            37
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "compline-b0014"
+            ],
+            "suppliedEnglishIndices": [
+              12
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ex hoc nunc et usque in saeculum.",
+          "english": "℟. Now and for evermore.",
+          "sourcePages": [
+            36
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              37
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0015",
+          "verification": "visual-review",
+          "englishPages": [
+            37
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "compline-b0015"
+            ],
+            "suppliedEnglishIndices": [
+              13
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Erue nos in mirabilibus tuis.",
+          "english": "℣. Deliver us by Thy miraculous power.",
+          "sourcePages": [
+            36
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              37
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0016",
+          "verification": "visual-review",
+          "englishPages": [
+            37
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "compline-b0016"
+            ],
+            "suppliedEnglishIndices": [
+              14
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et da gloriam Nomini tuo, Domine.",
+          "english": "℟. And give glory to Thy Name, O Lord.",
+          "sourcePages": [
+            36
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              37
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0017",
+          "verification": "visual-review",
+          "englishPages": [
+            37
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "compline-b0017"
+            ],
+            "suppliedEnglishIndices": [
+              15
+            ],
+            "method": "manual-source-comparison"
+          }
+        },
+        {
+          "type": "prayer",
+          "source": "Dei Patris omnipotentis Verbum, te, Domine Jesu Christe, deprecamur ut nos in Fide Nominis tui roborees per spem perseverantiam, et caritatis excellentiam. Qui vivis et regnas cum Deo Patre in unitate Spiritus sancti Deus, per omnia saecula saeculorum. Amen.",
+          "english": "O Word of the omnipotent God, our Lord Jesus Christ, we beg of Thee to fortify us in the faith of Thy Name by the hope of perseverance and by the excellence of charity, Thou who livest and reignest with God the Father in the unity of the Holy Ghost for ever and ever. Amen.",
+          "sourcePages": [
+            36,
+            37
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              37
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0018",
+          "verification": "visual-review",
+          "englishPages": [
+            37
+          ],
+          "pairingReview": {
+            "sourceBlockIds": [
+              "compline-b0018",
+              "compline-b0019"
+            ],
+            "suppliedEnglishIndices": [
+              16
+            ],
+            "method": "manual-source-comparison"
+          }
+        }
+      ]
+    }
+  ],
+  "unpairedEnglish": [],
+  "editorialNotes": [
+    {
+      "pages": [
+        29,
+        30
+      ],
+      "text": "Prime includes an additional sequence beginning “Aspice in me” before the printed Terce heading. Both language columns include it, so it remains within Prime; no additional hour is invented."
+    },
+    {
+      "pages": [
+        30,
+        35,
+        36
+      ],
+      "text": "The PDF visibly prints “Danobis,” “vale Ant.” and “roborees.” These readings are retained alongside the supplied English; the site has not silently emended the Latin."
+    },
+    {
+      "pages": [
+        36
+      ],
+      "text": "The source column itself prints the English instruction “Let us pray,” before the Latin Compline collect. It is retained as printed."
+    }
+  ]
+}

@@ -1,0 +1,1247 @@
+{
+  "schemaVersion": 1,
+  "id": "little-office-of-the-sacred-heart-of-jesus",
+  "title": "Little Office of the Sacred Heart of Jesus",
+  "category": "Divine Mysteries",
+  "source": {
+    "pdfPages": [
+      43,
+      48
+    ],
+    "printedPages": [
+      "43",
+      "48"
+    ],
+    "file": "book.pdf",
+    "pageNumberConvention": "1-based; printed and PDF pages coincide"
+  },
+  "sourceLanguage": "Latin",
+  "introductoryNotes": [
+    {
+      "type": "source-note",
+      "text": "Courtesy of Michael Martin, www.preces-latinae.org — transcription of the original text.",
+      "pages": [
+        43
+      ],
+      "language": "English"
+    },
+    {
+      "type": "source-note",
+      "text": "There are several Little Offices of the Sacred Heart. This particular one is taken from prayer books of the 20th century and is based largely upon the Office assembled in the 17th century by Fr. Croiset. The texts of the prayers and hymns themselves originate from Fr. Eudes, Fr. Gallifet and Fr. Croiset.",
+      "pages": [
+        43
+      ],
+      "language": "English"
+    }
+  ],
+  "translationNotice": null,
+  "status": {
+    "extraction": "candidate",
+    "translation": "complete-supplied-pending-review",
+    "verification": "pending"
+  },
+  "sections": [
+    {
+      "id": "ordinary",
+      "title": "Ordinary",
+      "sourceHeading": "Ordinaria",
+      "pages": [
+        43
+      ],
+      "blocks": [
+        {
+          "type": "rubric",
+          "source": "Ad Matutinum",
+          "english": "At Matins only.",
+          "sourcePages": [
+            43
+          ],
+          "englishPages": [
+            43
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              43
+            ]
+          },
+          "alignment": "candidate",
+          "id": "ordinary-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Domine labia mea aperies.",
+          "english": "℣. O Lord, open my lips.",
+          "sourcePages": [
+            43
+          ],
+          "englishPages": [
+            43
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              43
+            ]
+          },
+          "alignment": "candidate",
+          "id": "ordinary-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et os meum annuntiabit laudem tuam.",
+          "english": "℟. And my mouth will announce Thy praise.",
+          "sourcePages": [
+            43
+          ],
+          "englishPages": [
+            43
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              43
+            ]
+          },
+          "alignment": "candidate",
+          "id": "ordinary-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Ad Horas Omnes",
+          "english": "At all the Hours.",
+          "sourcePages": [
+            43
+          ],
+          "englishPages": [
+            43
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              43
+            ]
+          },
+          "alignment": "candidate",
+          "id": "ordinary-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adiutorium meum intende.",
+          "english": "℣. O God, come to my aid.",
+          "sourcePages": [
+            43
+          ],
+          "englishPages": [
+            43
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              43
+            ]
+          },
+          "alignment": "candidate",
+          "id": "ordinary-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adiuvandum me festina.",
+          "english": "℟. O Lord, make haste to help me.",
+          "sourcePages": [
+            43
+          ],
+          "englishPages": [
+            43
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              43
+            ]
+          },
+          "alignment": "candidate",
+          "id": "ordinary-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Gloria Patri, et Filio, et Spiritui Sancto.",
+          "english": "℣. Glory be to the Father, and to the Son, and to the Holy Spirit.",
+          "sourcePages": [
+            43
+          ],
+          "englishPages": [
+            43
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              43
+            ]
+          },
+          "alignment": "candidate",
+          "id": "ordinary-b0007",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Alleluia.",
+          "english": "℟. As it was in the beginning, is now, and ever shall be, world without end. Alleluia.",
+          "sourcePages": [
+            43
+          ],
+          "englishPages": [
+            43
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              43
+            ]
+          },
+          "alignment": "candidate",
+          "id": "ordinary-b0008",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "A Septuagesima usque ad Pascha, loco Alleluia, dicitur: Laus tibi, Domine, Rex aeternae gloriae.",
+          "english": "During Lent until Easter, instead of the alleluia the following is said: Praise to Thee, O Lord, King of everlasting glory.",
+          "sourcePages": [
+            43
+          ],
+          "englishPages": [
+            43
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              43
+            ]
+          },
+          "alignment": "candidate",
+          "id": "ordinary-b0009",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Cor Iesu, flagrans amore nostri.",
+          "english": "℣. Heart of Jesus, flaming with love of us.",
+          "sourcePages": [
+            43
+          ],
+          "englishPages": [
+            43
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              43
+            ]
+          },
+          "alignment": "candidate",
+          "id": "ordinary-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Inflamma cor nostrum amore tui.",
+          "english": "℟. Inflame our hearts with love of Thee.",
+          "sourcePages": [
+            43
+          ],
+          "englishPages": [
+            43
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              43
+            ]
+          },
+          "alignment": "candidate",
+          "id": "ordinary-b0011",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "matins",
+      "title": "Matins",
+      "sourceHeading": "Ad Matutinum",
+      "pages": [
+        43,
+        44
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Caelestis aulae gaudium, splendor paternae gloriae, carnem benignus induens, nobis fores ut hostia.",
+          "english": "O joy of the court of heaven, Splendor of the Father’s glory: Graciously didst Thou put on our flesh In order to be a Victim for us.",
+          "sourcePages": [
+            43
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              43
+            ]
+          },
+          "alignment": "candidate",
+          "id": "matins-b0001",
+          "verification": "pending",
+          "englishPages": [
+            43
+          ]
+        },
+        {
+          "type": "prayer",
+          "source": "Iesu, voluptas cordium, cor ure sacris ignibus, dignis ut ornem laudibus Cordis tui sacrarium.",
+          "english": "O Jesus, all hearts’ Delight, Inflame my heart with Thy sacred fires That I may with worthy praise adorn The sanctuary of Thy Heart.",
+          "sourcePages": [
+            43
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              43
+            ]
+          },
+          "alignment": "candidate",
+          "id": "matins-b0002",
+          "verification": "pending",
+          "englishPages": [
+            43
+          ]
+        },
+        {
+          "type": "prayer",
+          "source": "Cor dulce, Cor amabile, amore nostri fervidum, amore nostri languidum, fac sis mihi placabile.",
+          "english": "Loving Heart, lovable Heart, On fire with love of us, Exhausted with love of us, Be merciful unto me.",
+          "sourcePages": [
+            43
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              43
+            ]
+          },
+          "alignment": "candidate",
+          "id": "matins-b0003",
+          "verification": "pending",
+          "englishPages": [
+            43
+          ]
+        },
+        {
+          "type": "prayer",
+          "source": "Cor Iesu, o melle dulcius, puris amicum mentibus, puris amandum cordibus, in corde regnes omnium. Amen.",
+          "english": "Heart of Jesus, sweeter than honey, Friend to pure minds, Loved by pure hearts, May Thou reignest in the hearts of all. Amen.",
+          "sourcePages": [
+            43,
+            44
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              44
+            ]
+          },
+          "alignment": "candidate",
+          "id": "matins-b0004",
+          "verification": "pending",
+          "englishPages": [
+            44
+          ]
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. O sacrum Cor Iesu, Patris voluntati obsequentissimum, inclina ad Te corda nostra, ut quae placita sunt ei faciamus semper.",
+          "english": "Ant. O sacred Heart of Jesus, most obedient to the will of the Father, incline our hearts to Thee, that we may always do what is most pleasing to Him.",
+          "sourcePages": [
+            44
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              44
+            ]
+          },
+          "alignment": "candidate",
+          "id": "matins-b0006",
+          "verification": "pending",
+          "englishPages": [
+            44
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lauds",
+      "title": "Lauds",
+      "sourceHeading": "Ad Laudes",
+      "pages": [
+        44
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Cor digna sedes Numine, Te sacra virtus Flaminis, Illapsa in alvum Virginis, Puro creavit sanguine.",
+          "english": "Heart, worthy Throne of Godhead, Thou didst the sacred power of the Holy Spirit, Coming upon the Virgin’s womb, Make of her pure blood.",
+          "sourcePages": [
+            44
+          ],
+          "englishPages": [
+            44
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              44
+            ]
+          },
+          "alignment": "candidate",
+          "id": "lauds-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Tu Trinitatis gloria, in te Patris sunt gaudia, iungit tibi se Filius, in te quiescit Spiritus.",
+          "english": "Thou art the glory of the Trinity; In Thee are all the Father’s joys; The Son united Himself to Thee; On Thee the Spirit rests.",
+          "sourcePages": [
+            44
+          ],
+          "englishPages": [
+            44
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              44
+            ]
+          },
+          "alignment": "candidate",
+          "id": "lauds-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Orbi salus tu perdito, secura pax fidelium, puris asylum mentibus, castis recessus cordibus.",
+          "english": "Thou art a lost world’s Salvation, Imperturbable Peace of the faithful, A Resting-place for minds that are pure, A Refuge for hearts that are chaste.",
+          "sourcePages": [
+            44
+          ],
+          "englishPages": [
+            44
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              44
+            ]
+          },
+          "alignment": "candidate",
+          "id": "lauds-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Cor Iesu, o melle dulcius, puris amicum mentibus, puris amandum cordibus, in corde regnes omnium. Amen.",
+          "english": "Heart of Jesus, sweeter than honey, Friend to pure minds, Loved by pure hearts, May Thou reignest in the hearts of all. Amen.",
+          "sourcePages": [
+            44
+          ],
+          "englishPages": [
+            44
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              44
+            ]
+          },
+          "alignment": "candidate",
+          "id": "lauds-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. O sacrum Cor Iesu, salutis nostrae sitientissimum, revoca nos praevaricatores ad Cor, ut non moriamur in peccatis nostris.",
+          "english": "Ant. O sacred Heart of Jesus, most eager for our salvation, draw us sinners back to Thy Heart, that we may not die in our sins.",
+          "sourcePages": [
+            44
+          ],
+          "englishPages": [
+            44
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              44
+            ]
+          },
+          "alignment": "candidate",
+          "id": "lauds-b0005",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "prime",
+      "title": "Prime",
+      "sourceHeading": "Ad Primam",
+      "pages": [
+        44,
+        45
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "O cor amoris victima, caeli perenne gaudium, mortalium solatium, mortalium spes unica.",
+          "english": "O heart, Victim of love, Everlasting Joy of heaven, Comfort of mortal man, Sole Hope of the human race.",
+          "sourcePages": [
+            44
+          ],
+          "englishPages": [
+            44
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              44
+            ]
+          },
+          "alignment": "candidate",
+          "id": "prime-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Grandi reclusum vulnere, amor dedit te pervium, amor reclusit ostium, hortatur et pervadere.",
+          "english": "With a deep wound, Love opened a pathway to Thee, Opened a door; And Love urges us to enter.",
+          "sourcePages": [
+            44
+          ],
+          "englishPages": [
+            45
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              45
+            ]
+          },
+          "alignment": "candidate",
+          "id": "prime-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Quos abluisti Sanguine, venis apertis omnibus, nos intimis recessibus semel receptos contine.",
+          "english": "With opened veins, Thou washed us in Thy blood: Do Thou, then, receive us, And keep us deep within Thee.",
+          "sourcePages": [
+            45
+          ],
+          "englishPages": [
+            45
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              45
+            ]
+          },
+          "alignment": "candidate",
+          "id": "prime-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Cor Iesu, o melle dulcius, puris amicum mentibus, puris amandum cordibus, in corde regnes omnium. Amen.",
+          "english": "Heart of Jesus, sweeter than honey, Friend to pure minds, Loved by pure hearts, May Thou reignest in the hearts of all. Amen.",
+          "sourcePages": [
+            45
+          ],
+          "englishPages": [
+            45
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              45
+            ]
+          },
+          "alignment": "candidate",
+          "id": "prime-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. O sacrum Cor Iesu, puritatis exemplar perfectissimum, fac nos corde mundo, ut secundum te inveniri mereamur.",
+          "english": "Ant. O sacred Heart of Jesus, most perfect example of purity, create a clean heart in us that we may be worthy to be found near unto Thee.",
+          "sourcePages": [
+            45
+          ],
+          "englishPages": [
+            45
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              45
+            ]
+          },
+          "alignment": "candidate",
+          "id": "prime-b0005",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "terce",
+      "title": "Terce",
+      "sourceHeading": "Ad Tertiam",
+      "pages": [
+        45
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "O cor amore saucium, amore corda saucia: vitale nectar Caelitum, amore nos inebria.",
+          "english": "O heart, wounded by love, Wound all hearts with love of Thee. O life-giving and heavenly Wine, Inebriate our hearts with love.",
+          "sourcePages": [
+            45
+          ],
+          "englishPages": [
+            45
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              45
+            ]
+          },
+          "alignment": "candidate",
+          "id": "terce-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Novo Deus mysterio, Carnem suam dat pabulum et Sanguinem dat poculum mirabili in convivio.",
+          "english": "God, in a new mystery, Gives us His Flesh to eat and, In a wondrous banquet, His Blood to drink.",
+          "sourcePages": [
+            45
+          ],
+          "englishPages": [
+            45
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              45
+            ]
+          },
+          "alignment": "candidate",
+          "id": "terce-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Quem proni adorant Angeli, sub mystico velamine, Divinitatis temperans lumen, fit esca servulis.",
+          "english": "He whom the angels, bent low, adore, Shrouds the light of His Divinity Under a mystic veil and becomes The food of little ones.",
+          "sourcePages": [
+            45
+          ],
+          "englishPages": [
+            45
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              45
+            ]
+          },
+          "alignment": "candidate",
+          "id": "terce-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Cor Iesu, o melle dulcius, puris amicum mentibus, puris amandum cordibus, in corde regnes omnium. Amen.",
+          "english": "Heart of Jesus, sweeter than honey, Friend to pure minds, Loved by pure hearts, May Thou reignest in the hearts of all. Amen.",
+          "sourcePages": [
+            45
+          ],
+          "englishPages": [
+            45
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              45
+            ]
+          },
+          "alignment": "candidate",
+          "id": "terce-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. O sacrum Cor Iesu, in hostes tuos mitissimum, exsultet pax tua in cordibus nostris, ut persequentibus et calumniantibus nos remittamus de cordibus nostris.",
+          "english": "Ant. O sacred Heart of Jesus, most gentle with Thy enemies, may Thy peace rise in our hearts that we may forgive from our hearts those persecuting us.",
+          "sourcePages": [
+            45
+          ],
+          "englishPages": [
+            45,
+            46
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              45,
+              46
+            ]
+          },
+          "alignment": "candidate",
+          "id": "terce-b0005",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "sext",
+      "title": "Sext",
+      "sourceHeading": "Ad Sextam",
+      "pages": [
+        46
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Cor ara caelo celsior, terris marique latior, quas ante non exceperis, Deus repellit hostias.",
+          "english": "Heart, Altar loftier than the heavens, Wider than land and sea: Unless they be laid upon Thee, God will accept no sacrifices.",
+          "sourcePages": [
+            46
+          ],
+          "englishPages": [
+            46
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              46
+            ]
+          },
+          "alignment": "candidate",
+          "id": "sext-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Hic sacra virtutum cohors, custos comesque candidae fidelis innocentiae, in sede regnat propria.",
+          "english": "In Thee, as on a throne, All virtues reign, And Thou art the Companion and Guardian Of fidelity and of innocence.",
+          "sourcePages": [
+            46
+          ],
+          "englishPages": [
+            46
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              46
+            ]
+          },
+          "alignment": "candidate",
+          "id": "sext-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Hoc iura quae mundum regant, volvuntur alto pectore; hoc fonte, quae mentes beent, manant fluenta gratiae.",
+          "english": "In this deep Heart are found the laws which govern the world; from this Fountain flow the streams of grace which make blessed the hearts of men.",
+          "sourcePages": [
+            46
+          ],
+          "englishPages": [
+            46
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              46
+            ]
+          },
+          "alignment": "candidate",
+          "id": "sext-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Cor Iesu, o melle dulcius, puris amicum mentibus, puris amandum cordibus, in corde regnes omnium. Amen.",
+          "english": "Heart of Jesus, sweeter than honey, Friend to pure minds, Loved by pure hearts, May Thou reignest in the hearts of all. Amen.",
+          "sourcePages": [
+            46
+          ],
+          "englishPages": [
+            46
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              46
+            ]
+          },
+          "alignment": "candidate",
+          "id": "sext-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. O sacrum Cor Iesu, pro peccatis nostris afflictissimum, da nobis cor contritum et humilitatum, ut dignos paenitentiae fructus faciamus.",
+          "english": "Ant. O sacred Heart of Jesus, most afflicted on account of our sins, grant to us a humble and contrite heart, that we may bear fruits worthy of repentance.",
+          "sourcePages": [
+            46
+          ],
+          "englishPages": [
+            46
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              46
+            ]
+          },
+          "alignment": "candidate",
+          "id": "sext-b0005",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "none",
+      "title": "None",
+      "sourceHeading": "Ad Nonam",
+      "pages": [
+        46,
+        47
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Cor sole puro purius, Templumque caelo dignius, Verbi Dei sacrarium, Opum Dei compendium.",
+          "english": "O heart, purer than the sun, Temple of more worth than the heavens, Sanctuary of the Word of God, Sum of all the riches of God.",
+          "sourcePages": [
+            46
+          ],
+          "englishPages": [
+            46
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              46
+            ]
+          },
+          "alignment": "candidate",
+          "id": "none-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Ex te quot actus prodeunt, tot digna Patre munera; quot vota fundis, tot Pater iustis rependit praemiis.",
+          "english": "Thy every act is an offering worthy of the Father; and, at Thy every prayer, the Father pours out graces on the just.",
+          "sourcePages": [
+            46
+          ],
+          "englishPages": [
+            46
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              46
+            ]
+          },
+          "alignment": "candidate",
+          "id": "none-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Vindex reis irascitur Deus, sed ut te respicit, placatus iras abiicit et fulmen obliviscitur.",
+          "english": "Justly angered by our sins, God yet puts aside His wrath, Forgets His chastisements, When He looks upon Thee.",
+          "sourcePages": [
+            46
+          ],
+          "englishPages": [
+            46,
+            47
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              46,
+              47
+            ]
+          },
+          "alignment": "candidate",
+          "id": "none-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Cor Iesu, o melle dulcius, puris amicum mentibus, puris amandum cordibus, in corde regnes omnium. Amen.",
+          "english": "Heart of Jesus, sweeter than honey, Friend to pure minds, Loved by pure hearts, May Thou reignest in the hearts of all. Amen.",
+          "sourcePages": [
+            46,
+            47
+          ],
+          "englishPages": [
+            47
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              47
+            ]
+          },
+          "alignment": "candidate",
+          "id": "none-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. O sacrum Cor Iesu, paupertatis amantissimum, pone nos ut signaculum super te, ut in te, unico thesauro nostro, totum sit cor nostrum.",
+          "english": "Ant. O sacred Heart of Jesus, most loving of the poor, place us as a seal upon Thee, that in Thee, our only treasure, may our whole heart always be.",
+          "sourcePages": [
+            47
+          ],
+          "englishPages": [
+            47
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              47
+            ]
+          },
+          "alignment": "candidate",
+          "id": "none-b0005",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "vespers",
+      "title": "Vespers",
+      "sourceHeading": "Ad Vesperas",
+      "pages": [
+        47
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "O cor, Deo par victima, altare sacratissimum, in quo perennis hostia culpas piat mortalium.",
+          "english": "O heart, Victim worthy of God, Most holy Altar On which an eternal Victim Expiates the sins of men.",
+          "sourcePages": [
+            47
+          ],
+          "englishPages": [
+            47
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              47
+            ]
+          },
+          "alignment": "candidate",
+          "id": "vespers-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Nidus gementis turturis, gratum columbis pabulum, hortus refulgens floribus, sponsae quies et lectulus.",
+          "english": "Nest of the sorrowing turtle-dove, Food desired by every dove, Garden abounding with flowers, Rest and Couch of the spouse.",
+          "sourcePages": [
+            47
+          ],
+          "englishPages": [
+            47
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              47
+            ]
+          },
+          "alignment": "candidate",
+          "id": "vespers-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Hic casta spirant lilia, quibus nitescunt Virgines, hic, unde splendent Martyres, rosae rubescit purpura.",
+          "english": "Here breathe the chaste lilies With which the virgins are brightly resplendent; Here grow the red roses Which empurple the martyrs.",
+          "sourcePages": [
+            47
+          ],
+          "englishPages": [
+            47
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              47
+            ]
+          },
+          "alignment": "candidate",
+          "id": "vespers-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Cor Iesu, o melle dulcius, puris amicum mentibus, puris amandum cordibus, in corde regnes omnium. Amen.",
+          "english": "Heart of Jesus, sweeter than honey, Friend to pure minds, Loved by pure hearts, May Thou reignest in the hearts of all. Amen.",
+          "sourcePages": [
+            47
+          ],
+          "englishPages": [
+            47
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              47
+            ]
+          },
+          "alignment": "candidate",
+          "id": "vespers-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. O sacrum Cor Iesu, diligentibus te beneficentissimum, deficiat in te caro nostra et cor nostrum, ut sis amor cordis nostri et pars nostra in aeternum.",
+          "english": "Ant. O sacred Heart of Jesus, most gracious to those who love Thee, may our heart and flesh faint in Thee, that Thou mayest be the love of our heart and our portion in eternity.",
+          "sourcePages": [
+            47
+          ],
+          "englishPages": [
+            47
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              47
+            ]
+          },
+          "alignment": "candidate",
+          "id": "vespers-b0005",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "compline",
+      "title": "Compline",
+      "sourceHeading": "Ad Completorium",
+      "pages": [
+        47,
+        48
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Cor matris ad cor Filii amoris ardens impetu, indesinente anhelitu suspirat, oblitum sui.",
+          "english": "The heart of the Mother to the heart of the Son, Burning with a rush of love, With ceaseless yearning Breathes sighs, forgetting self.",
+          "sourcePages": [
+            47
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              47,
+              48
+            ]
+          },
+          "alignment": "candidate",
+          "id": "compline-b0001",
+          "verification": "pending",
+          "englishPages": [
+            47,
+            48
+          ]
+        },
+        {
+          "type": "prayer",
+          "source": "Utrumque amoris vinculo nexu perenni iugiter: hoc ardet huius ignibus ignemque reddit aemulum.",
+          "english": "Each bound by the bond of love, Joined together eternally: Her heart burns with His heart’s flames, and returns a fire of love the same.",
+          "sourcePages": [
+            47,
+            48
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              48
+            ]
+          },
+          "alignment": "candidate",
+          "id": "compline-b0002",
+          "verification": "pending",
+          "englishPages": [
+            48
+          ]
+        },
+        {
+          "type": "prayer",
+          "source": "Cor Iesu, o melle dulcius, puris amicum mentibus, puris amandum cordibus, in corde regnes omnium. Amen.",
+          "english": "Heart of Jesus, sweeter than honey, Friend to pure minds, Loved by pure hearts, May Thou reignest in the hearts of all. Amen.",
+          "sourcePages": [
+            48
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              48
+            ]
+          },
+          "alignment": "candidate",
+          "id": "compline-b0004",
+          "verification": "pending",
+          "englishPages": [
+            48
+          ]
+        },
+        {
+          "type": "prayer",
+          "source": "Ant. O Victima caritatis, Cor amantissimum Iesu, pro peccatis nostris immolatum, ab ingratis hominibus neglectum et afflictum, converte nos, vivifica nos, accende nos.",
+          "english": "Ant. O Victim of love, most loving Heart of Jesus, sacrificed for our sins, afflicted and neglected by an ungrateful mankind, convert us, give us life, inflame us with Thy love.",
+          "sourcePages": [
+            48
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              48
+            ]
+          },
+          "alignment": "candidate",
+          "id": "compline-b0005",
+          "verification": "pending",
+          "englishPages": [
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conclusion-of-the-hours",
+      "title": "Conclusion of the Hours",
+      "sourceHeading": "Conclusio Horae",
+      "pages": [
+        48
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Paratum cor meum, Deus cordis mei, ut faciam voluntatem tuam.",
+          "english": "℣. My heart is ready, O God of my heart, that I may do Thy will.",
+          "sourcePages": [
+            48
+          ],
+          "englishPages": [
+            48
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              48
+            ]
+          },
+          "alignment": "candidate",
+          "id": "conclusion-of-the-hours-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Deus meus, volui, et legem tuam in medio cordis mei.",
+          "english": "℟. My God, I have desired Thy Law in the depths of my heart.",
+          "sourcePages": [
+            48
+          ],
+          "englishPages": [
+            48
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              48
+            ]
+          },
+          "alignment": "candidate",
+          "id": "conclusion-of-the-hours-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            48
+          ],
+          "englishPages": [
+            48
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              48
+            ]
+          },
+          "alignment": "candidate",
+          "id": "conclusion-of-the-hours-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Iesu, qui ineffabiles Cordis tui dulcedines ac divitias Ecclesiae, Sponsae tuae, singulari dilectione aperire dignatus es: concede nobis famulis tuis, ut gratiis caelestibus ex hoc dulcissimo fonte manantibus ditari et recreari mereamur. Qui vivis et regnas in saecula saeculorum. Amen.",
+          "english": "Lord Jesus, Who hast deigned to open by Thy special love the unutterable goodness and riches of Thy Heart to Thy Bride, the Church: grant to us, Thy servants, that we may merit to be enriched and refreshed by Thy heavenly graces, flowing from this sweetest of fountains. Thou who livest and reignest forever and ever. Amen.",
+          "sourcePages": [
+            48
+          ],
+          "englishPages": [
+            48
+          ],
+          "translation": {
+            "kind": "supplied",
+            "sourcePages": [
+              48
+            ]
+          },
+          "alignment": "candidate",
+          "id": "conclusion-of-the-hours-b0004",
+          "verification": "pending"
+        }
+      ]
+    }
+  ],
+  "unpairedEnglish": [],
+  "editorialNotes": [
+    {
+      "text": "On page 48 the source prints the English conclusion in the left column and the Latin conclusion in the right. The reader places Latin on the left and the supplied English on the right. The source wording is retained.",
+      "pages": [
+        48
+      ]
+    }
+  ]
+}

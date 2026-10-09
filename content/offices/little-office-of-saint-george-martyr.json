@@ -1,0 +1,2297 @@
+{
+  "schemaVersion": 1,
+  "id": "little-office-of-saint-george-martyr",
+  "title": "Little Office of Saint George, Martyr",
+  "category": "Angels and Saints",
+  "source": {
+    "pdfPages": [
+      508,
+      512
+    ],
+    "printedPages": [
+      "508",
+      "512"
+    ],
+    "file": "book.pdf",
+    "pageNumberConvention": "1-based; printed and PDF pages coincide"
+  },
+  "sourceLanguage": "Latin",
+  "introductoryNotes": [
+    {
+      "type": "source-note",
+      "text": "From Sulamittis Officiosa (1714)",
+      "pages": [
+        508
+      ],
+      "language": "English"
+    }
+  ],
+  "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
+  "status": {
+    "extraction": "reviewed",
+    "translation": "complete-prepared-reading-pending",
+    "verification": "source-reading-pending"
+  },
+  "sections": [
+    {
+      "id": "invocation",
+      "title": "Invocation",
+      "sourceHeading": "Invocatio",
+      "pages": [
+        508
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Heros Georgi maxime! Christi Ducis Commilito, Veram profuso sanguine Fidem probans martyrio;",
+          "english": "O greatest hero George,\nFellow soldier of Christ the Leader,\nProving the true faith by martyrdom\nWith blood poured forth;",
+          "sourcePages": [
+            508
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "invocation-b0001",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Te nostrae nunc amandae Depraedicent camaenae: Qui inter aulae Regulos, Et Satrapas Caesareos,",
+          "english": "Let our beloved songs\nNow proclaim thy praise,\nWho among the petty kings of the court\nAnd imperial rulers,",
+          "sourcePages": [
+            508
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "invocation-b0002",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Excelsa belli Nomina, Cessi Phoebus inter sidera Prae cunctis elucebas, Virtutibus clarebas,",
+          "english": "Exalted names in war,\n[The printed “Cessi” is unresolved.] Like Phoebus among the stars,\nThou didst shine before them all,\nResplendent in virtues,",
+          "sourcePages": [
+            508
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "invocation-b0003",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed “Cessi” is unresolved; the comparison with Phoebus among the stars is retained without inventing a conjunction."
+        },
+        {
+          "type": "prayer",
+          "source": "Fac nos perpetua, Cum Patre, Genitoque, Paraclito Sanctoque, Gaudere gloria. Amen.",
+          "english": "Grant that with the Father,\nThe Begotten Son\nAnd the Holy Paraclete,\nWe may rejoice in everlasting glory. Amen.",
+          "sourcePages": [
+            508
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "invocation-b0004",
+          "verification": "visual-review",
+          "poetry": true
+        }
+      ]
+    },
+    {
+      "id": "matins",
+      "title": "Matins",
+      "sourceHeading": "Matins",
+      "pages": [
+        508
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Domine labia mea aperies.",
+          "english": "℣. O Lord, Thou shalt open my lips.",
+          "sourcePages": [
+            508
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "ee1b777e1f871f9b"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et os meum annuntiabit laudem tuam.",
+          "english": "℟. And my mouth shall declare Thy praise.",
+          "sourcePages": [
+            508
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "f146351e0f90e0c9"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            508
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            508
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "54b6bad3c5540e26"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            508
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Martem secutus inclytum Christi pugil Georgius Ut Caesaris signiferi Exhibuit se strenuus",
+          "english": "Following glorious warfare,\nGeorge, the champion of Christ,\nShowed himself valiant\nAs Caesar’s standard-bearer",
+          "sourcePages": [
+            508
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0006",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "“Ut Caesaris signiferi ... strenuus” has irregular syntax; the standard-bearer reading is provisional."
+        },
+        {
+          "type": "prayer",
+          "source": "Aetate Juvenili: Secuta mox virili Pro milite nunc martyr sit, Ne dubium proinde sit,",
+          "english": "In his youthful years;\nManhood soon following,\nNow let the soldier become a martyr,\nThat there may be no doubt",
+          "sourcePages": [
+            508
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0007",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Sic Deo se, quae Dei sunt, Et Caesari, quae sua sunt, Dedisse: ut impleret, Quae Christus nos doceret;",
+          "english": "That thus he gave himself to God, and to God what is God’s,\nAnd to Caesar what is his,\nThat he might fulfil\nWhat Christ taught us;",
+          "sourcePages": [
+            508
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0008",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Laus sit perpetua Patrique, Filioque, Spiranti ab utroque Par sit et gloria.",
+          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "sourcePages": [
+            508
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0009",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Gloria et honore coronasti eum Domine,",
+          "english": "℣. Thou hast crowned him with glory and honour, O Lord.",
+          "sourcePages": [
+            508
+          ],
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-saint-sebastian-martyr-special-patron-against-epidemic-disease",
+            "reusedFrom": "matins-b0009",
+            "sourcePages": [
+              508
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0010",
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et constituisti eum super opera manuum tuarum.",
+          "english": "℟. And hast set him over the works of Thy hands.",
+          "sourcePages": [
+            508
+          ],
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-saint-sebastian-martyr-special-patron-against-epidemic-disease",
+            "reusedFrom": "matins-b0010",
+            "sourcePages": [
+              508
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0011",
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            508
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0012",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Deus qui nos beati Georgii Martyris tui meritis et intercessione laetificas, concede propitius, ut qui tua per eum beneficia poscimus, dono tuae gratiae consequamur. Per Dominum nostrum Jesum Christum etc.",
+          "english": "O God, who dost gladden us by the merits and intercession of blessed George, Thy Martyr, graciously grant that we who ask Thy benefits through him may obtain them by the gift of Thy grace. Through our Lord Jesus Christ, etc.",
+          "sourcePages": [
+            508
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0013",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "lauds",
+      "title": "Lauds",
+      "sourceHeading": "Lauds",
+      "pages": [
+        508,
+        509
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            508
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            508
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "54b6bad3c5540e26"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            508
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Partis trophaeis plurimis, Centumque fusis hostibus, Florebat amplis gratiis Et Caesarum favoribus,",
+          "english": "With many trophies won\nAnd a hundred enemies put to flight,\nHe flourished in abundant graces\nAnd the favour of emperors,",
+          "sourcePages": [
+            508
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0004",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Tam stemmate excellens, Quam meritis praecellens: At Christiani nominis Haud immemor nec pectoris,",
+          "english": "Excelling as much in lineage\nAs surpassing in merits;\nYet forgetful neither of the Christian name\nNor of its spirit,",
+          "sourcePages": [
+            508,
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508,
+              509
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0005",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Christum colebat integre, Multatum quamvis sanguine Id praesciabat fore, Fidem probat cruore;",
+          "english": "He worshipped Christ with integrity,\nThough he foresaw\nThat this would cost him his blood;\nHe proves his faith by bloodshed;",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0006",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Laus sit perpetua Patrique, Filioque, Spiranti ab utroque Par sit et gloria.",
+          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0007",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Posuisti Domine super caput ejus",
+          "english": "℣. Thou hast set upon his head, O Lord,",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0008",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Coronam de lapide pretioso.",
+          "english": "℟. A crown of precious stone.",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0009",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Presta quaesumus Omnipotens Deus, ut qui beati Georgii Martyris tui glorioso martyrio colimus, intercessione ejus in tui Nominis amore roboremur. Per Dominum nostrum etc.",
+          "english": "Grant, we beseech Thee, almighty God, that we who venerate the glorious martyrdom of blessed George, Thy Martyr, may through his intercession be strengthened in the love of Thy Name. Through our Lord, etc.",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "lauds-b0011",
+          "verification": "source-reading-pending",
+          "editorialNote": "The source prints “glorioso martyrio colimus”; the English follows the readable sense provisionally."
+        }
+      ]
+    },
+    {
+      "id": "prime",
+      "title": "Prime",
+      "sourceHeading": "Prime",
+      "pages": [
+        509
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "54b6bad3c5540e26"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Spontaneae solertia Occasio non desuit. Dum Caesaris saevitiae Pavore procul restitit,",
+          "english": "An opportunity was not lacking\nFor willing zeal,\nWhen, far from fear,\nHe withstood Caesar’s cruelty,",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0004",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The compressed “Spontaneae solertia” is rendered provisionally as willing zeal."
+        },
+        {
+          "type": "prayer",
+          "source": "Idola contemnendo, Sic Caesari loquendo: Christiadum cur sanguinem Quid purpuram tam nobilem",
+          "english": "Despising idols,\nAnd speaking thus to Caesar:\nWhy dost thou crave the blood of Christians?\nWhy such noble purple",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0005",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Immisit ita appetis? Crudelis ita prodigis? Si sanguis est fundendus, Ab improbis petendus.",
+          "english": "[The printed “Immisit” is unresolved.] Dost thou so desire it?\nCruel one, dost thou squander it so?\nIf blood must be shed,\nLet it be sought from the wicked.",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0006",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed “Immisit” is unresolved. The remaining questions are translated without replacing it."
+        },
+        {
+          "type": "prayer",
+          "source": "Laus sit perpetua, Patrique, Filioque, Spiranti ab utroque Par sit et gloria.",
+          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0007",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Magna est gloria ejus in salutari tuo,",
+          "english": "℣. Great is his glory in Thy salvation,",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0008",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Gloriam et magnum decorem impones super eum.",
+          "english": "℟. Glory and great beauty Thou shalt lay upon him.",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0009",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Largire, quaesumus Omnipotens Deus, ut intercedente beato Georgio Martyre tuo, et a cunctis adversitatibus liberemur in corpore, et a pravis cogitationibus mundemur in mente. Per Dominum etc.",
+          "english": "Grant, we beseech Thee, almighty God, that through the intercession of blessed George, Thy Martyr, we may be delivered in body from every adversity, and cleansed in mind from evil thoughts. Through our Lord, etc.",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0011",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "terce",
+      "title": "Terce",
+      "sourceHeading": "Terce",
+      "pages": [
+        509,
+        510
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "54b6bad3c5540e26"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "His efferatus vocibus, Spumantis instar pelagi, Caesar jubet, Georgius Arcto mandetur carcere,",
+          "english": "Made savage by these words,\nLike a foaming sea,\nCaesar commands that George\nBe consigned to a narrow prison,",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0004",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Sed hem! Tyranne audi, Non potest virtus claudi: Est carcer ut palatium, Aulae sacrae compendium,",
+          "english": "But behold, tyrant, hear:\nVirtue cannot be confined!\nPrison is as a palace,\nA compendium of the sacred court;",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0005",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Nescit ligari funibus, Catenae sunt prae torquibus, Amantis in thesauro Plus vincula valent auro.",
+          "english": "It knows not bondage by ropes;\nChains surpass necklaces;\nIn the treasure of one who loves,\nBonds are worth more than gold.",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0006",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Laus sit perpetua, Patrique, Filioque, Spiranti ab utroque Par sit et gloria.",
+          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "sourcePages": [
+            509
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0007",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Justus ut palma florebit.",
+          "english": "℣. The just shall flourish like the palm tree.",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0008",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Sicut cedrus Libani multiplicabitur.",
+          "english": "℟. Like a cedar of Lebanon he shall grow.",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-of-s-alexius-confessor",
+            "reusedFrom": "sext-b0010",
+            "sourcePages": [
+              510
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1",
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0009",
+          "verification": "pending",
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Infirmitatem nostram respice Omnipotens Deus; et quia pondus propriae actionis gravat, beati Georgii Martyris tui intercessio gloriosa nos protegat. Per Dominum nostrum etc.",
+          "english": "Look upon our weakness, almighty God; and since the burden of our own deeds weighs us down, may the glorious intercession of blessed George, Thy Martyr, protect us. Through our Lord, etc.",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0011",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "sext",
+      "title": "Sext",
+      "sourceHeading": "Sext",
+      "pages": [
+        510
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "54b6bad3c5540e26"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Isthinc famet Georgius, Conviva coeli nobilis, Fame fruens pro dapibus, Supernis satur epulis,",
+          "english": "Here George hungers,\nA noble guest of heaven,\nEnjoying hunger in place of feasts,\nSated with heavenly banquets,",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0004",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Nam qui divina noscit, Terrena non exposcit: Nunc nervis quoque vapulat Quos Miles Christi tolerat",
+          "english": "For he who knows divine things\nDoes not demand earthly things;\nNow he is beaten also with sinew lashes,\nWhich the soldier of Christ endures,",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0005",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Nervosus inter scuticaes Sartagines et ungulas; Quin saxum et molare Jam suscipit portare.",
+          "english": "Stouthearted amid scourges,\nPans and iron claws;\nNay, a stone and a millstone\nHe now undertakes to bear.",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0006",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The source prints “scuticaes” and “saxum et molare”; scourges and the stone/millstone are provisional readings."
+        },
+        {
+          "type": "prayer",
+          "source": "Laus sit perpetua Patrique, Filioque, Spiranti ab utroque Par sit et gloria.",
+          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0007",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Justum deduxit Dominus per vias rectas,",
+          "english": "℣. The Lord led the just through right ways.",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "lauds-b0033",
+            "sourcePages": [
+              619
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0008",
+          "verification": "pending",
+          "englishPages": [
+            619
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et ostendit illi regnum Dei.",
+          "english": "℟. And showed him the kingdom of God.",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "lauds-b0034",
+            "sourcePages": [
+              619
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0009",
+          "verification": "pending",
+          "englishPages": [
+            619
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Deus, qui beatum Georgium Martyrem tuum virtute constantiae in passione roborasti: tribue nobis, quaesumus, ejus imitatione pro amore tuo prospera mundi despicere, et nulla ejus adversa formidare. Per Dominum",
+          "english": "O God, who didst strengthen blessed George, Thy Martyr, with the virtue of constancy in his suffering, grant us, we beseech Thee, by imitating him, to despise the world’s prosperity for love of Thee, and to fear none of its adversities. Through our Lord",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0011",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "etc.",
+          "english": "etc.",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "41b387a9617d9ffd"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0012",
+          "verification": "pending"
+        }
+      ]
+    },
+    {
+      "id": "none",
+      "title": "None",
+      "sourceHeading": "None",
+      "pages": [
+        510
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "54b6bad3c5540e26"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Ingens tunc surgit fabrica, Quae flexili vertigine Rotunda versans machina Cultris horrescit undique",
+          "english": "Then a huge contrivance rises,\nWhich turns in a yielding whirl,\nA rounded machine\nBristling everywhere with knives,",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0004",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Falce novaculisque Plus acribus, dirisque: Innexus huic Georgius Jam carne totus saucius",
+          "english": "With a scythe and razors\nStill sharper and dreadful;\nBound to it, George,\nNow wounded throughout his flesh,",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0005",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "In frusta vix non scinditur, Et tamen non offenditur; Nam Angelus curatum Mox adest vulneratum.",
+          "english": "Is all but cut to pieces,\nYet suffers no harm;\nFor an angel is soon present\nTo heal the wounded man.",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0006",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "“curatum ... vulneratum” is compressed; the healing of the wounded man is a provisional reading."
+        },
+        {
+          "type": "prayer",
+          "source": "Laus sit perpetua Patrique, Filioque, Spiranti ab utroque Par sit et gloria.",
+          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0007",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Laetitia sempiterna super caput ejus,",
+          "english": "℣. Everlasting gladness shall be upon his head,",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0008",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Gaudium et exultationem obtinebit.",
+          "english": "℟. He shall obtain joy and exultation.",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0009",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Deus, qui nos in tantis periculis constitutos pro humana scis fragilitate non posse subsistere; da nobis intercedente beato Georgio Martyre tuo salutem mentis et corporis; ut ea, quae pro peccatis nostris patimur, te adjuvante vincamus. Per Dominum nostrum etc.",
+          "english": "O God, who knowest that we, set amid such great dangers, cannot stand firm by reason of human frailty, give us through the intercession of blessed George, Thy Martyr, health of mind and body, that with Thy help we may overcome what we suffer for our sins. Through our Lord, etc.",
+          "sourcePages": [
+            510
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0011",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "vespers",
+      "title": "Vespers",
+      "sourceHeading": "Vespers",
+      "pages": [
+        511
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "54b6bad3c5540e26"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Fornax ardet calcaria, Et saeviente Mulciber Igne quaecunque obvia Depascitur ferociter,",
+          "english": "A lime furnace burns,\nAnd raging Mulciber\nFiercely devours with fire\nWhatever lies in its way,",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0004",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Georgio illeso, Ardoris imperatos: Hinc magis Caesar aestuat Fornace quam succenderat;",
+          "english": "George being unharmed,\n[The printed “Ardoris imperatos” is unresolved.]\nHence Caesar burns more fiercely\nThan the furnace he had kindled;",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0005",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The PDF prints “Ardoris imperatos”; this clause remains unresolved."
+        },
+        {
+          "type": "prayer",
+          "source": "Sed ut in igne fortius Fit aurum, sic Georgius Robustior procedit, Fornace dum excedit.",
+          "english": "But as gold becomes stronger in fire,\nSo George comes forth\nMore robust\nWhen he leaves the furnace.",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0006",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Laus sit perpetua, Patrique, Filioque, Spiranti ab utroque Par sit et gloria.",
+          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0007",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Pretiosa in conspectu Domini",
+          "english": "℣. Precious in the sight of the Lord.",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "supplied",
+            "method": "reviewed-pdf-word-sequence-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "prime-b0025",
+            "sourcePages": [
+              621
+            ],
+            "normalizationPolicy": "unicode-letters-numbers-lowercase-v1"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0008",
+          "verification": "pending",
+          "englishPages": [
+            621
+          ],
+          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Mors Sanctorum ejus.",
+          "english": "℟. Is the death of His saints.",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-for-benedictine-oblates",
+            "reusedFrom": "prime-b0026",
+            "sourcePages": [
+              621
+            ]
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0009",
+          "verification": "pending",
+          "englishPages": [
+            621
+          ],
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0010",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Preces nostras, quaesumus, Domine clementer exaudi, ut beati Georgii Martyris tui meritis adjuvemur, cujus passione laetamur. Per Dominum nostrum etc.",
+          "english": "Mercifully hear our prayers, we beseech Thee, O Lord, that we may be helped by the merits of blessed George, Thy Martyr, in whose suffering we rejoice. Through our Lord, etc.",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0011",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "compline",
+      "title": "Compline",
+      "sourceHeading": "Compline",
+      "pages": [
+        511
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Convertere nos Deus salutaris noster.",
+          "english": "℣. Convert us, O God our Saviour.",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "99ecc4cd6516d1e9"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0001",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et averte iram tuam a nobis.",
+          "english": "℟. And turn away Thine anger from us.",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "bc693d4a2c9bc2c3"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0002",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0003",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "54b6bad3c5540e26"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0004",
+          "verification": "pending"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0005",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Demum Tyrannus impotens Nostrum jubet Georgium Post tantum, tamque insolens, Caput dare martyrium;",
+          "english": "At last the powerless tyrant commands\nOur George, after such great\nAnd extraordinary martyrdom,\nTo give his head;",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0006",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed connection of “insolens,” “Caput” and “martyrium” is compressed; the English is provisional."
+        },
+        {
+          "type": "prayer",
+          "source": "Quod lubens Ille praebet Christo, cui vitam debet; Quo facto muri concidunt, Idola passim corruunt,",
+          "english": "Which he gladly offers to Christ,\nTo whom he owes his life;\nThis done, the walls fall,\nAnd idols everywhere collapse,",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0007",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Terra connutat motibus, Orbam se quasi dotibus Georgii jam nosset, Abs quo non stare posset.",
+          "english": "The earth shakes with tremors,\nAs though it now knew itself bereft\nOf George’s gifts,\nWithout whom it could not stand.",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0008",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Laus sit perpetua Patrique, Filioque, Spiranti ab utroque Par sit et gloria.",
+          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0009",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Ora pro nobis sancte Martyr Georgi.",
+          "english": "℣. Pray for us, holy Martyr George.",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0010",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ut digni efficiamur promissionibus Christi.",
+          "english": "℟. That we may be made worthy of the promises of Christ.",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "6bc7298fc082f2a2"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0011",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0012",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Presta, quaesumus, Omnipotens Deus, ut beati Georgii Martyris tui fidem congrua devotione sequamur, qui pro ejusdem dilatione, martyrii palmam meruit obtinere. Per Dominum nostrum etc.",
+          "english": "Grant, we beseech Thee, almighty God, that we may follow with fitting devotion the faith of blessed George, Thy Martyr, who for its spreading merited to obtain the palm of martyrdom. Through our Lord, etc.",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0013",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "gratulatio",
+      "title": "Gratulatio",
+      "sourceHeading": "Gratulatio",
+      "pages": [
+        511,
+        512
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Tibi Martyr victoriam Applaudo contra Caesarem, Qui firmam per constantiam Hostem vicisti desidem;",
+          "english": "Martyr, I applaud thy victory\nAgainst Caesar,\nWho through steadfast constancy\nDidst vanquish the slothful enemy;",
+          "sourcePages": [
+            511
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "gratulatio-b0001",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Fac tecum nos certare, Hostesque superare: Fac mundum, carnem sternere, Terrena quavis spernere, Fac in adversis solidos, Pro Jesu quidquid strenuos (Quam nobis id amare Contingat) supportare.",
+          "english": "Grant that we may fight with thee\nAnd overcome our enemies;\nGrant that we may lay low the world and the flesh,\nAnd despise all earthly things;\nGrant that, steadfast in adversity,\nWe may valiantly bear anything for Jesus,\nHowever bitter\nIt may be for us.",
+          "sourcePages": [
+            511,
+            512
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511,
+              512
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "gratulatio-b0002",
+          "verification": "visual-review",
+          "poetry": true
+        },
+        {
+          "type": "prayer",
+          "source": "Divina gratia Patrique, Filioque, Paraclito Sanctoque Haec praestet munera.",
+          "english": "May divine grace grant these gifts,\nTo the Father and the Son\nAnd the Holy Paraclete\n[The printed construction is uncertain.]",
+          "sourcePages": [
+            512
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              512
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "gratulatio-b0003",
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed “Divina gratia Patrique, Filioque, Paraclito Sanctoque Haec praestet munera” has an uncertain relationship between its subjects and datives. The readable words are retained and the construction is flagged."
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Accipite armaturam Dei,",
+          "english": "℣. Take unto you the armour of God,",
+          "sourcePages": [
+            512
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              512
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "gratulatio-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ut possitis resistere in die malo.",
+          "english": "℟. That you may be able to resist in the evil day.",
+          "sourcePages": [
+            512
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              512
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "gratulatio-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            512
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              512
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "gratulatio-b0006",
+          "verification": "pending"
+        },
+        {
+          "type": "prayer",
+          "source": "Domine Jesu Christe, pro cujus amore et fidei confessione beatus Georgius Martyr et Miles tuus invictissimus diversa vicit tormenta, et ad mortem usque certando capitalem subiit sententiam; praesta, quaesumus, ut qui ad eum in angustiis nostris fiducialiter recurrere praesumimus, intercessionis ejus auxilio a diaboli laqueis, et ab omni mentis et corporis adversitate liberemur. Qui vivis et regnas etc. Amen.",
+          "english": "O Lord Jesus Christ, for whose love and confession of faith blessed George, Thy Martyr and most unconquered soldier, overcame diverse torments and, contending even unto death, underwent the sentence of beheading, grant, we beseech Thee, that we who presume confidently to have recourse to him in our distress may, by the help of his intercession, be delivered from the snares of the devil and from every adversity of mind and body. Who livest and reignest, etc. Amen.",
+          "sourcePages": [
+            512
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              512
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "gratulatio-b0007",
+          "verification": "visual-review"
+        }
+      ]
+    }
+  ],
+  "unpairedEnglish": [],
+  "translationScope": "marked",
+  "editorialNotes": [
+    {
+      "text": "All printed pages of this office were visually compared. Original Latin, existing English, printed hours and abbreviated conclusions are retained. Prepared English hymn stanzas preserve meaningful line divisions. Defective source readings remain explicitly provisional or unresolved. The eight printed hours have distinct collects, all retained. The invocation and Gratulatio remain non-hour sections. Poetic and legendary events remain source statements, without replacing them from another life of the saint.",
+      "pages": [
+        508,
+        509,
+        510,
+        511,
+        512
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1293 @@
+{
+  "schemaVersion": 1,
+  "id": "little-office-of-s-aloysius-gonzaga-of-the-society-of-jesus",
+  "title": "Little Office of S. Aloysius Gonzaga of the Society of Jesus",
+  "category": "Angels and Saints",
+  "source": {
+    "pdfPages": [
+      429,
+      431
+    ],
+    "printedPages": [
+      "429",
+      "431"
+    ],
+    "file": "book.pdf",
+    "pageNumberConvention": "1-based; printed and PDF pages coincide"
+  },
+  "sourceLanguage": "Latin",
+  "introductoryNotes": [
+    {
+      "type": "source-note",
+      "text": "From the Officium Rakoczianum (1783 edition)",
+      "pages": [
+        429
+      ],
+      "language": "English"
+    }
+  ],
+  "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
+  "status": {
+    "extraction": "reviewed",
+    "translation": "complete-prepared",
+    "verification": "source-reading-pending"
+  },
+  "sections": [
+    {
+      "id": "matins",
+      "title": "Matins",
+      "sourceHeading": "Matins",
+      "pages": [
+        429
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Domine, labia mea aperies,",
+          "english": "℣. O Lord, open my lips,",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et os meum annunciabit laudem tuam.",
+          "english": "℟. And my mouth shall declare Thy praise.",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-most-holy-sacrament-of-the-eucharist",
+            "reusedFrom": "matins-b0004",
+            "sourcePages": [
+              429
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0002",
+          "verification": "visual-review",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages."
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende. Gloria Patri, et Filio; et Spiritui Sancto.",
+          "english": "℣. O God, come to my assistance. Glory be to the Father, and to the Son, and to the Holy Spirit.",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Gonzaga, salve floscule Favore Virginali, Prognate flos tenellule De stirpe Principali Te luna Martis edidit, Te Martiale sidus; Orbique te concredidit Sol, cum teneret Idus.",
+          "english": "Hail, Gonzaga, little flower blessed by the Virgin’s favour, tender blossom born of princely stock. The moon of Mars brought thee forth, the star of Mars; and the sun entrusted thee to the world when it held the Ides.",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0005",
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed hymn uses unusual lunar, Martian, and Ides imagery. The English retains that imagery literally; no birth date or astrological explanation has been supplied."
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Dominus ab utero vocavit me.",
+          "english": "℣. The Lord called me from the womb.",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Ergo judicium meum cum Domino, et opus meum cum Deo meo.",
+          "english": "℟. Therefore my judgment is with the Lord, and my work with my God.",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus,",
+          "english": "Let us pray,",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "e4264868331a5239"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0008",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Deus, qui famulum tuum B. Aloysium ad majorem nominis tui gloriam in Societatem Filii tui vocare dignatus es: largiri quaesumus, ut, cujus angelicam puritatem veneramur in terris, ejus gloriae participes fieri mereamur in caelis. Per Dominum nostrum, etc.",
+          "english": "O God, who didst deign to call Thy servant Blessed Aloysius into the Society of Thy Son for the greater glory of Thy name, grant, we beseech Thee, that we who venerate his angelic purity upon earth may be found worthy to share his glory in heaven. Through our Lord, etc.",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0009",
+          "verification": "visual-review"
+        }
+      ]
+    },
+    {
+      "id": "prime",
+      "title": "Prime",
+      "sourceHeading": "Prime",
+      "pages": [
+        429
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri, et Filio, et Spiritui Sancto.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, and to the Son, and to the Holy Ghost.",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "5f49df381381c10d"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Quem te vocabo vernulam Num tulipam colore? Violamne, veris gemmula, Casto fragrantem odore? Uterque flos est Virginis, Flos est uterque Flora Gonzaga tu propaginis Cujus flagras amore.",
+          "english": "What spring blossom shall I call thee? A tulip for thy colour? Or a violet, little jewel of spring, fragrant with a chaste scent? Each is a flower of the Virgin, each a flower of Flora. Gonzaga, thou art a shoot of Him with whose love thou burnest.",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0004",
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed hymn’s “Flora” and “propaginis” lines have uncertain grammar. The prepared English retains Flora and provisionally understands the closing lines as a shoot of the beloved divine source."
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Ecce tu pulcher es dilecte mi, et decorus.",
+          "english": "℣. Behold, thou art fair, my beloved, and comely.",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Lectulus noster floridus.",
+          "english": "℟. Our little bed is full of flowers.",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus, Deus, qui famulum tuum, etc. ut supra.",
+          "english": "Let us pray. O God, Who Thy servant, etc., as above.",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "79388d76e5d68fe9"
+          },
+          "alignment": "reviewed",
+          "id": "prime-b0007",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0009"
+            ],
+            "sourcePages": [
+              429
+            ],
+            "note": "Collect printed at Matins in this same office."
+          }
+        }
+      ]
+    },
+    {
+      "id": "terce",
+      "title": "Terce",
+      "sourceHeading": "Terce",
+      "pages": [
+        429
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri, et Filio, et Spiritui Sancto.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, and to the Son, and to the Holy Ghost.",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "5f49df381381c10d"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Gonzaga vix hunc hortulum Orbis subis, tenellis Mox sanctiorem flosculum Fers Numini labellis: Quando Mariam, et Jesulum Sic nominas biennis, Ut orbis in miraculum Oraveris triennis.",
+          "english": "Gonzaga, scarcely dost thou enter this little garden of the world when from thy tender lips thou offerest a holier flower to God. At two years old thou namest Mary and little Jesus; at three thou prayest, to the wonder of the world.",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Iste puer meus electus.",
+          "english": "℣. This is My chosen servant.",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Posui super eum spiritum meum.",
+          "english": "℟. I have put My Spirit upon him.",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus, Deus, qui famulum tuum, etc. ut supra.",
+          "english": "Let us pray. O God, Who Thy servant, etc., as above.",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "79388d76e5d68fe9"
+          },
+          "alignment": "reviewed",
+          "id": "terce-b0007",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0009"
+            ],
+            "sourcePages": [
+              429
+            ],
+            "note": "Collect printed at Matins in this same office."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sext",
+      "title": "Sext",
+      "sourceHeading": "Sext",
+      "pages": [
+        429,
+        430
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri, et Filio, et Spiritui Sancto.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, and to the Son, and to the Holy Ghost.",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "5f49df381381c10d"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Jesu, et Mariae literas De more tuliparum In cor tuum transmisseras:",
+          "english": "Thou hadst carried the letters of Jesus and Mary into thy heart, after the manner of tulips:",
+          "sourcePages": [
+            429
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              429
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Ut quinque litterarum Mox syllabas adnecteres, Illisque sanctiores; Orationes plecteres, Versusque castiores.",
+          "english": "That thou mightest soon join the syllables of their five letters, and weave with them holier prayers and chaster verses.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Ex ore infantium et lactentium.",
+          "english": "℣. Out of the mouths of infants and sucklings,",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Perfecisti laudem tuam.",
+          "english": "℟. Thou hast perfected Thy praise.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus, Deus, qui famulum tuum, etc. ut supra.",
+          "english": "Let us pray. O God, Who Thy servant, etc., as above.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "79388d76e5d68fe9"
+          },
+          "alignment": "reviewed",
+          "id": "sext-b0008",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0009"
+            ],
+            "sourcePages": [
+              430
+            ],
+            "note": "Collect printed at Matins in this same office."
+          }
+        }
+      ]
+    },
+    {
+      "id": "none",
+      "title": "None",
+      "sourceHeading": "None",
+      "pages": [
+        430
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri, et Filio, et Spiritui Sancto.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, and to the Son, and to the Holy Ghost.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "5f49df381381c10d"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Undene major paulum Hortum tuum colebas, Et suaviorum flosculum Cor ut daret, volebas? Quare supremo Numini Audes, sacraque Virgini Offerre puritatem.",
+          "english": "A little older, thou didst tend thy garden, wishing thy heart to yield a sweeter little flower. Therefore thou darest offer purity to the Most High God and to the holy Virgin.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0004",
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints the malformed opening “Undene major paulum.” The English provisionally gives “a little older” without inventing a numerical age; the Latin is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Cum adhuc esset puer, coepit quaerere Deum Patris sui David.",
+          "english": "℣. While he was still a boy, he began to seek the God of his father David.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et duodecimo anno mundavit Judam, et Jerusalem.",
+          "english": "℟. And in the twelfth year he cleansed Juda and Jerusalem.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus, Deus, qui famulum tuum, etc. ut supra.",
+          "english": "Let us pray. O God, Who Thy servant, etc., as above.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "79388d76e5d68fe9"
+          },
+          "alignment": "reviewed",
+          "id": "none-b0007",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0009"
+            ],
+            "sourcePages": [
+              430
+            ],
+            "note": "Collect printed at Matins in this same office."
+          }
+        }
+      ]
+    },
+    {
+      "id": "vespers",
+      "title": "Vespers",
+      "sourceHeading": "Vespers",
+      "pages": [
+        430
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri, et Filio, et Spiritui Sancto.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, and to the Son, and to the Holy Ghost.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "5f49df381381c10d"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "In serta vix haec planctula, In corde seminatur Gonzaga, et ore blandula Rosa inde procreatur Quae blandientis Cypridis Ne fraudibus pateret, Spernit jocos Adonidis, Ut castior lateret. Hinc tauricis, hinc funibus, Calcaribus, catenis Se se induit, ceu vepribus, Ut obviat venenis. Nec sat: cruore proprio Apud Patrem perorat? Jesuque sub tentorio Latere flos hic orat.",
+          "english": "Scarcely is this little plant sown in the heart for garlands, Gonzaga, when a sweet rose springs from thy lips. That it might not fall prey to the wiles of alluring Cypris, it scorns the play of Adonis and hides in greater chastity. Hence he clothes himself with scourges of hide, with ropes, spurs, and chains, as though with thorns, to withstand poison. Nor is this enough: with his own blood he pleads before the Father; and this flower prays to hide beneath the tent of Jesus.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Ex omnibus floribus orbis elegisti tibi lilium unum.",
+          "english": "℣. From all the flowers of the world Thou hast chosen for Thyself one lily.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Lilium inter spinas.",
+          "english": "℟. A lily among thorns.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0006",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus, Deus, qui famulum tuum, etc. ut supra.",
+          "english": "Let us pray. O God, Who Thy servant, etc., as above.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "79388d76e5d68fe9"
+          },
+          "alignment": "reviewed",
+          "id": "vespers-b0007",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0009"
+            ],
+            "sourcePages": [
+              430
+            ],
+            "note": "Collect printed at Matins in this same office."
+          }
+        }
+      ]
+    },
+    {
+      "id": "compline",
+      "title": "Compline",
+      "sourceHeading": "Compline",
+      "pages": [
+        430
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "℣. Converte nos Deus salutaris noster.",
+          "english": "℣. Convert us, O God our Saviour.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "547f9b0e1be48dfe"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0001",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Et averte iram tuam a nobis.",
+          "english": "℟. And turn away Thine anger from us.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "bc693d4a2c9bc2c3"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0002",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Deus in adjutorium meum intende.",
+          "english": "℣. O God, come to my assistance.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "137df030c41eed15"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0003",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Domine ad adjuvandum me festina. Gloria Patri, et Filio, et Spiritui Sancto.",
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father, and to the Son, and to the Holy Ghost.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "5f49df381381c10d"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0004",
+          "verification": "visual-review"
+        },
+        {
+          "type": "rubric",
+          "source": "Hymnus",
+          "english": "Hymn",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "3257d8c1148df2f3"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0005",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Transfertur ergo patria Gonzaga flos ab urbe, Romanae in Urbis atria: Sed saeviente sede In urbe pestilentia, Dum gnaviter ministrat Aegris, febris constantia Victus sub astra migrat.",
+          "english": "Thus Gonzaga, the flower, is transplanted from his native city into the courts of Rome. But when pestilence rages in the city, while diligently ministering to the sick, overcome by persistent fever, he passes to the stars.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0006",
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints the awkward phrase “Sed saeviente sede / In urbe pestilentia.” The English provisionally renders pestilence raging in the city; the printed Latin is retained."
+        },
+        {
+          "type": "prayer",
+          "source": "℣. Cum liber essem, omnium me servum feci.",
+          "english": "℣. Although I was free, I made myself the servant of all.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0007",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "℟. Mihi vivere Christus, et mori lucrum.",
+          "english": "℟. For me, to live is Christ, and to die is gain.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0008",
+          "verification": "visual-review"
+        },
+        {
+          "type": "prayer",
+          "source": "Oremus, Deus, qui famulum tuum, etc. ut supra.",
+          "english": "Let us pray. O God, Who Thy servant, etc., as above.",
+          "sourcePages": [
+            430
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              430
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "79388d76e5d68fe9"
+          },
+          "alignment": "reviewed",
+          "id": "compline-b0009",
+          "verification": "visual-review",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0009"
+            ],
+            "sourcePages": [
+              430
+            ],
+            "note": "Collect printed at Matins in this same office."
+          }
+        }
+      ]
+    },
+    {
+      "id": "commendatio",
+      "title": "Commendatio",
+      "sourceHeading": "Commendation",
+      "pages": [
+        431
+      ],
+      "blocks": [
+        {
+          "type": "prayer",
+          "source": "Flos amice Numina O gemma Tuliparum! Infense flos cupidini Splendor, decus stolorum, O castitatis lilium Gonzaga! digne caelos; Da, da tuorum insignium Nos aestuare zelo: Da, da superna quaerere; Ridere cuncta vana; Terrena da contemnere; Vitare da profana.",
+          "english": "O flower dear to the divine powers, O jewel among tulips! O flower hostile to lust, splendour and honour of robes, O lily of chastity, Gonzaga, worthy of heaven! Grant, grant that we may burn with zeal for thy distinctions. Grant that we may seek heavenly things and laugh at all that is vain; grant that we may despise earthly things and shun what is profane.",
+          "sourcePages": [
+            431
+          ],
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              431
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "commendatio-b0001",
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints “Numina” and “stolorum,” with uncertain grammar in this address. The English retains the literal divine-powers and robes imagery for editorial review."
+        }
+      ]
+    }
+  ],
+  "unpairedEnglish": [],
+  "editorialNotes": [
+    {
+      "text": "English prepared after visual comparison with PDF pages 429–431. The six repeated collects expand from this office’s Matins. The source prints no Lauds. Mythological and floral imagery is retained; uncertain printed wording is identified inline and prevents final source certification.",
+      "pages": [
+        429,
+        430,
+        431
+      ]
+    }
+  ]
+}
