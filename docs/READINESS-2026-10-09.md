@@ -2,9 +2,9 @@
 
 English coverage is complete across the 82 offices: 11,282 rows, zero missing aligned English and zero unpaired supplied-English rows. This is an editorial preview, not a release-ready edition.
 
-This pass visually reviewed all eight English-only offices (Holy Tear, Bonaventure Passion, Immaculate Heart, Akathist, Dominic, Gertrude, Norbert and Serotina). Eighteen offices now have full visual review. The other 64 offices still require source and translation review.
+This pass visually reviewed all eight English-only offices (Holy Tear, Bonaventure Passion, Immaculate Heart, Akathist, Dominic, Gertrude, Norbert and Serotina). Twenty-seven offices now have full visual review. The other 55 offices still require source and translation review. The current target is 20 remaining offices.
 
-The strict release audit reports 4,762 outstanding checks: 4,687 passage reviews, 64 office reviews and 11 unresolved references. Prepared English attached to malformed Latin remains provisional; English coverage alone does not certify it.
+The strict release audit reports 4,607 outstanding checks: 4,541 passage reviews, 55 office reviews and 11 unresolved references. Prepared English attached to malformed Latin remains provisional; English coverage alone does not certify it.
 
 ## Reader corrections
 
@@ -34,6 +34,14 @@ Six references have no complete target in the attached office: the Cistercian Av
 
 ## Validation
 
-Structural validation, all 41 Node tests and the editorial preview build pass. The release audit fails with the outstanding checks above; no production publication or merge is certified. Browser integration was not rerun: this runtime has no Chromium executable. Regression tests cover the repaired Bonaventure assembly, the non-repeated Carthusian blessing and complete/nested reference expansions.
+Structural validation, all 44 Node tests and the editorial preview build pass. The release audit fails with the outstanding checks above; no production publication or merge is certified. Browser integration was not rerun: this runtime has no Chromium executable. Regression tests cover the repaired Bonaventure assembly, the non-repeated Carthusian blessing and complete/nested reference expansions.
 
 Continue source review using `content/source/book.pdf`; save curated changes in `content/overrides/`, run the importer, and rerun validation. Keep the release gate intact.
+
+## Source comparison continuation
+
+Nine further offices have completed review: Sacred Heart (43–48), Joseph (420–423), Anthony of Padua (443–445), Holy Ghost (90–91), Barbara (450–452), Francis Xavier (505–507), Francis Borgia (498–500), Aloysius (429–431), and the Dead (611–613). Their attached pages and English rows were compared, and the affected ordinary prayer assemblies were repaired. Anthony’s Matins stanza had reversed printed columns; both original extracted texts remain in its review history.
+
+The cited 1879 Coeleste Palmetum scan resolves Holy Ghost’s cœlos and the Dead’s defective hymn lines. Barbara’s sanabo is confirmed in both editions and now translated literally as heal; the prior conjectural singing translation is withdrawn. The 1745 Officium Rakoczianum supports readings in Xavier, Borgia and Aloysius. It is explicitly identified as an earlier edition: this comparison does not verify the cited 1783 edition. Attached Latin remains unchanged, and every adopted earlier reading has a visible note. Literal oddities, including Borgia’s power of demons, remain literal rather than silently acquiring a new meaning.
+
+`content/source-reading-reviews.json` records the book URLs, downloaded PDF SHA-256 hashes, page numbers and checked readings. Validation rejects missing records, mismatched readings, absent source fragments and malformed book provenance. Source digests and original supplied-English fixtures remain intact. The reduction from 64 to 55 pending offices is a review checkpoint; work toward 20 continues.

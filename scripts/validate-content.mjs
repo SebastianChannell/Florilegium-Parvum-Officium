@@ -4,10 +4,24 @@ import { fileURLToPath } from 'node:url';
 
 export const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 export const notice = 'English translation prepared for Sacrum Florilegium; not supplied in the source PDF.';
-export function validateContent({ inventory, documents, boundaries, references = [] }, release = false) {
+export function validateContent({ inventory, documents, boundaries, references = [], sourceReadings = { books: [], readings: [] } }, release = false) {
   const errors = [], pending = [], ids = new Set(), expected = new Set(boundaries.map(o => o.id));
   let blocks = 0, missingEnglish = 0, preparedEnglish = 0, unpairedEnglish = 0, reviewedOffices = 0;
   const add = (message, office) => errors.push({ office, message });
+  const books = new Map();
+  for (const book of sourceReadings.books || []) {
+    if (books.has(book.id) || !book.id || !book.title || !Number.isInteger(book.year) || !/^https:\/\//.test(book.url || '') || !/^[a-f0-9]{64}$/.test(book.sha256 || '')) add('Invalid source-reading book provenance.');
+    books.set(book.id, book);
+  }
+  const readingKeys = new Set();
+  for (const reading of sourceReadings.readings || []) {
+    const key = `${reading.office}/${reading.block}`;
+    if (readingKeys.has(key)) add(`Duplicate source-reading review: ${reading.block}`, reading.office);
+    readingKeys.add(key);
+    const block = documents.get(reading.office)?.sections.flatMap(s => s.blocks).find(b => b.id === reading.block);
+    const { office, block: id, ...evidence } = reading;
+    if (!block?.sourceReading || JSON.stringify(block.sourceReading) !== JSON.stringify(evidence)) add(`Source-reading manifest differs from content: ${id}`, office);
+  }
   for (const office of inventory.offices) {
     if (ids.has(office.id)) add('Duplicate office identifier.',office.id);
     ids.add(office.id);
@@ -49,6 +63,10 @@ export function validateContent({ inventory, documents, boundaries, references =
           if (b.translation.kind === 'supplied' && JSON.stringify(b.englishPages) !== JSON.stringify(origin?.englishPages || origin?.translation?.sourcePages)) add(`Reused supplied English has incorrect provenance: ${b.id}`,office.id);
         }
         if (b.alignment === 'source-discrepancy' && (!b.editorialNote?.trim() || b.verification !== 'source-reading-pending')) add(`Source discrepancy lacks a visible note or pending review status: ${b.id}`,office.id);
+        if (b.sourceReading) {
+          const evidence = b.sourceReading;
+          if (!readingKeys.has(`${office.id}/${b.id}`) || !books.has(evidence.book) || !['verified-against-cited-edition','literal-reading-verified','verified-against-earlier-edition'].includes(evidence.status) || !Number.isInteger(evidence.pdfPage) || evidence.pdfPage < 1 || !evidence.printedPage?.trim() || !evidence.reading?.trim() || !evidence.attachedReading?.trim() || !b.source?.includes(evidence.attachedReading) || !b.editorialNote?.trim()) add(`Invalid source-reading evidence: ${b.id}`, office.id);
+        }
         if (b.translation?.kind === 'prepared') { prepared++; preparedEnglish++; if (!b.english) add(`Prepared translation is empty: ${b.id}`,office.id); }
         if (/\b(?:TODO|TBD|LOREM IPSUM)\b/i.test(b.source+' '+(b.english || ''))) add(`Placeholder content: ${b.id}`,office.id);
         if (release && b.verification !== 'visual-review') pending.push({office:office.id,block:b.id,message:'Passage awaits visual review.'});
@@ -111,7 +129,7 @@ export function readContent() {
   const read = p => JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
   const inventory = read('content/inventory.json');
   const documents = new Map(fs.readdirSync(path.join(root,'content/offices')).filter(f=>f.endsWith('.json')).map(f=>{const d=read(`content/offices/${f}`);return [d.id,d];}));
-  return { inventory, documents, boundaries:read('content/source/office-boundaries.json'), references:read('content/references.json') };
+  return { inventory, documents, boundaries:read('content/source/office-boundaries.json'), references:read('content/references.json'), sourceReadings:read('content/source-reading-reviews.json') };
 }
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const release = process.argv.includes('--release');

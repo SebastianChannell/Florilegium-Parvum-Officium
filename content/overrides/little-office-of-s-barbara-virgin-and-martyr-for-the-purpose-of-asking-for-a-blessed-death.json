@@ -30,7 +30,7 @@
   "status": {
     "extraction": "reviewed",
     "translation": "complete-prepared",
-    "verification": "source-reading-pending"
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -1423,7 +1423,7 @@
         {
           "type": "prayer",
           "source": "Amabo te, sanabo, Dum vita manserit, Magisque praedicabo, Cum vita cessaverit: Interque liliata Cum me receperis, Queis gaudiis repleta, O Virgo, pasceris.",
-          "english": "I shall love thee and sing thy praises while life remains,\nAnd proclaim thee still more when life has ceased;\nWhen thou hast received me among the lilies,\nO Virgin, what joys, with which thou art filled, shall nourish thee!",
+          "english": "I shall love thee and heal thee while life remains,\nAnd proclaim thee still more when life has ceased;\nWhen thou hast received me among the lilies,\nO Virgin, what joys, with which thou art filled, shall nourish thee!",
           "sourcePages": [
             451,
             452
@@ -1435,12 +1435,21 @@
               451,
               452
             ],
-            "review": "editorial-review-complete"
+            "review": "literal-source-reviewed"
           },
           "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “sanabo”, meaning “I shall heal”. The provisional English understands an apparent intended “canabo”, “I shall sing”; the printed Latin remains unchanged."
+          "verification": "visual-review",
+          "editorialNote": "Both the attached PDF and the cited 1879 Coeleste Palmetum, printed p.281 (scan PDF p.311), print “sanabo”, I shall heal. This English now follows that literal printed verb. The earlier conjectural “sing thy praises” is withdrawn. The unusual address is retained; no intended alternative Latin verb is supplied.",
+          "originalPreparedEnglish": "I shall love thee and sing thy praises while life remains,\nAnd proclaim thee still more when life has ceased;\nWhen thou hast received me among the lilies,\nO Virgin, what joys, with which thou art filled, shall nourish thee!",
+          "sourceReading": {
+            "status": "literal-reading-verified",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 311,
+            "printedPage": "281",
+            "reading": "Amabo te, sanabo,",
+            "attachedReading": "Amabo te, sanabo,"
+          }
         },
         {
           "type": "prayer",
@@ -1530,12 +1539,12 @@
   "translationScope": "marked",
   "editorialNotes": [
     {
-      "text": "All three pages were visually compared. Prepared hymn, antiphon, and collect translations retain the source text. Repeated versicle and collect references expand from this office’s Matins. The seasonal rubric’s supplied English from elsewhere in the PDF says Lent while the Latin says Septuagesima; that difference is noted. One hymn word has explicitly provisional English.",
       "pages": [
         450,
         451,
         452
-      ]
+      ],
+      "text": "All three attached PDF pages were visually reviewed. The seven printed hours and Oblatio remain; repeated versicle/collect groups expand from this office’s Matins. Compline’s sanabo was also checked in the cited 1879 edition p.281, and is now rendered literally as heal rather than conjecturally sing. Printed wording, including the unusual address, is retained. The differing supplied seasonal terms Lent/Septuagesima remain documented."
     }
   ]
 }

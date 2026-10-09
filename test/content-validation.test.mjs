@@ -3,6 +3,17 @@ import assert from 'node:assert/strict';
 import { validateContent, readContent, notice } from '../scripts/validate-content.mjs';
 const input=readContent();
 const fixture=()=>{ const x=structuredClone(input); return x; };
+test('source-reading reviews require matching records and checked book provenance',()=>{
+  let x=fixture(); x.sourceReadings.readings=[];
+  assert(validateContent(x).errors.some(e=>/Invalid source-reading evidence/.test(e.message)));
+  x=fixture(); x.sourceReadings.readings[0].reading='Unverified replacement';
+  assert(validateContent(x).errors.some(e=>/manifest differs/.test(e.message)));
+  x=fixture(); x.sourceReadings.books[0].sha256='missing';
+  assert(validateContent(x).errors.some(e=>/book provenance/.test(e.message)));
+  x=fixture(); const b=x.documents.get('little-office-of-the-holy-ghost').sections.flatMap(s=>s.blocks).find(b=>b.sourceReading);
+  b.sourceReading.attachedReading='Text absent from the source';
+  assert(validateContent(x).errors.some(e=>/Invalid source-reading evidence/.test(e.message)));
+});
 test('all 82 visible offices are inventoried, including the unindexed p.86 office',()=>{
   const report=validateContent(input);
   assert.equal(report.totals.offices,82);

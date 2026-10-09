@@ -989,9 +989,9 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "complete-supplied-pending-review",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-supplied",
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 54,
@@ -2811,8 +2811,8 @@
       "crossReferences": [],
       "status": {
         "extraction": "reviewed",
-        "translation": "complete-prepared-reading-pending",
-        "verification": "source-reading-pending"
+        "translation": "complete-prepared",
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 23,
@@ -9916,9 +9916,9 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-supplied",
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 47,
@@ -10295,7 +10295,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 55,
@@ -11007,9 +11007,9 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-supplied",
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 24,
@@ -11356,7 +11356,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 65,
@@ -12628,7 +12628,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 77,
@@ -12978,7 +12978,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 70,
@@ -17180,7 +17180,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 65,

@@ -1,0 +1,234 @@
+{
+  "schemaVersion": 1,
+  "books": [
+    {
+      "id": "coeleste-palmetum-1879",
+      "title": "Coeleste palmetum",
+      "edition": "7",
+      "year": 1879,
+      "publisher": "H. Dessain, Mechliniae",
+      "url": "https://archive.org/download/coelestepalmetum00naka/coelestepalmetum00naka.pdf",
+      "sha256": "f3a3a538ef9c25301da909156d5a04d31e242f020aa205cac2658747171f3f88"
+    },
+    {
+      "id": "officium-rakoczianum-1745",
+      "title": "Officium Rakoczianum",
+      "year": 1745,
+      "url": "https://archive.org/download/jbc.bj.uj.edu.pl.NDIGSTDR055011/NDIGSTDR055011_text.pdf",
+      "sha256": "6621eacb350711718c62c77c0604804cb49d999dd0b35922b2d102ec0fc718d9",
+      "editionNote": "Earlier edition; the attached compilation cites 1783. Comparisons do not certify the unexamined 1783 edition."
+    }
+  ],
+  "readings": [
+    {
+      "office": "little-office-of-the-holy-ghost",
+      "block": "prime-b0001",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 217,
+      "printedPage": "187",
+      "reading": "Et ipsis cernentibus in cœlos elevatus.",
+      "attachedReading": "Et ipsis cernentibus in ccelos elevatus."
+    },
+    {
+      "office": "little-office-of-s-barbara-virgin-and-martyr-for-the-purpose-of-asking-for-a-blessed-death",
+      "block": "compline-b0007",
+      "status": "literal-reading-verified",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 311,
+      "printedPage": "281",
+      "reading": "Amabo te, sanabo,",
+      "attachedReading": "Amabo te, sanabo,"
+    },
+    {
+      "office": "little-office-of-s-francis-xavier-of-the-society-of-jesus",
+      "block": "matins-b0012",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 295,
+      "printedPage": "251",
+      "reading": "praedicatione seminasti",
+      "attachedReading": "praedicatione fideminasti"
+    },
+    {
+      "office": "little-office-of-s-francis-xavier-of-the-society-of-jesus",
+      "block": "prime-b0004",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 295,
+      "printedPage": "251",
+      "reading": "Cruento sectiones.",
+      "attachedReading": "Cruento fectiones."
+    },
+    {
+      "office": "little-office-of-s-francis-xavier-of-the-society-of-jesus",
+      "block": "compline-b0006",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 297,
+      "printedPage": "253",
+      "reading": "Sic Indias serena.",
+      "attachedReading": "Sic Indias ferena,"
+    },
+    {
+      "office": "little-office-of-s-francis-xavier-of-the-society-of-jesus",
+      "block": "commendatio-b0001",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 297,
+      "printedPage": "253–254",
+      "reading": "Sic per viae salebras; Satis est, Satis favores.",
+      "attachedReading": "Sic per vix salebras,"
+    },
+    {
+      "office": "little-office-of-s-francis-borgia-of-the-society-of-jesus",
+      "block": "matins-b0010",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 303,
+      "printedPage": "259",
+      "reading": "Taeduit me vitae meae, videntem mala universa esse sub sole, et cuncta vanitatem, et afflictionem spiritus.",
+      "attachedReading": "Taeduit me vitae meae, videns me mala universae sub sole, et cohorruit aeternitas vanitatem et afflictionem spiritus."
+    },
+    {
+      "office": "little-office-of-s-francis-borgia-of-the-society-of-jesus",
+      "block": "matins-b0014",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 303,
+      "printedPage": "259",
+      "reading": "ad Societatem Filii tui; eximiae sanctimoniae exemplar",
+      "attachedReading": "et Societatem Filii tui"
+    },
+    {
+      "office": "little-office-of-s-francis-borgia-of-the-society-of-jesus",
+      "block": "sext-b0005",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 304,
+      "printedPage": "260",
+      "reading": "Devotionis deplue;",
+      "attachedReading": "Devotionis depule,"
+    },
+    {
+      "office": "little-office-of-s-francis-borgia-of-the-society-of-jesus",
+      "block": "vespers-b0007",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 305,
+      "printedPage": "261",
+      "reading": "Sapientia humiliati exaltabit caput illius, in medio Magnatum consedere illum faciet.",
+      "attachedReading": "Sapientiam humilitati exaltabit caput illius, in medio Magnatum considerare illum faciet."
+    },
+    {
+      "office": "little-office-of-s-francis-borgia-of-the-society-of-jesus",
+      "block": "compline-b0006",
+      "status": "literal-reading-verified",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 306,
+      "printedPage": "262",
+      "reading": "Salve potestas daemonum,",
+      "attachedReading": "Salve potestas daemonum,"
+    },
+    {
+      "office": "little-office-of-s-francis-borgia-of-the-society-of-jesus",
+      "block": "compline-b0007",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 306,
+      "printedPage": "262",
+      "reading": "Nobis adsis fortissimum",
+      "attachedReading": "Nobis adis fortissimum"
+    },
+    {
+      "office": "little-office-of-s-aloysius-gonzaga-of-the-society-of-jesus",
+      "block": "matins-b0005",
+      "status": "literal-reading-verified",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 327,
+      "printedPage": "283",
+      "reading": "Te luna Martis edidit, Te Martiale sidus;",
+      "attachedReading": "Te luna Martis edidit, Te Martiale sidus;"
+    },
+    {
+      "office": "little-office-of-s-aloysius-gonzaga-of-the-society-of-jesus",
+      "block": "prime-b0004",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 328,
+      "printedPage": "284",
+      "reading": "Flos est uterque Florae; Gonzaga tu Propaginis Cujus flagras amore.",
+      "attachedReading": "Flos est uterque Flora Gonzaga tu propaginis Cujus flagras amore."
+    },
+    {
+      "office": "little-office-of-s-aloysius-gonzaga-of-the-society-of-jesus",
+      "block": "none-b0004",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 329,
+      "printedPage": "285",
+      "reading": "Undenne major paulum",
+      "attachedReading": "Undene major paulum"
+    },
+    {
+      "office": "little-office-of-s-aloysius-gonzaga-of-the-society-of-jesus",
+      "block": "compline-b0006",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 329,
+      "printedPage": "285",
+      "reading": "Sed saeviente foede In urbe pestilentia,",
+      "attachedReading": "Sed saeviente sede In urbe pestilentia,"
+    },
+    {
+      "office": "little-office-of-s-aloysius-gonzaga-of-the-society-of-jesus",
+      "block": "commendatio-b0001",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 330,
+      "printedPage": "286",
+      "reading": "Flos amice Numini; Splendor, decus rosarum!",
+      "attachedReading": "Flos amice Numina"
+    },
+    {
+      "office": "little-office-of-the-dead",
+      "block": "matins-b0011",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 294,
+      "printedPage": "264",
+      "reading": "animabus famulorum famularumque tuarum",
+      "attachedReading": "animabus famularum famulorumque tuarum"
+    },
+    {
+      "office": "little-office-of-the-dead",
+      "block": "prime-b0005",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 294,
+      "printedPage": "264",
+      "reading": "Sed immemor irarum. Poenas sunt quidem meritae, Te tamen non negarunt; Hinc locus sit clementiae: Ignosce, quod peccarunt.",
+      "attachedReading": "Sed timorem remorum: Poenas sunt quidem merita, Te tamen non negabam; Hinc locus sit clementiae: Ignosce, quod peccaram."
+    },
+    {
+      "office": "little-office-of-the-dead",
+      "block": "sext-b0005",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 295,
+      "printedPage": "265",
+      "reading": "Hos tu desertos respice, Et indignos quiete",
+      "attachedReading": "Hos tu deserto respice, Et indignos quaerite"
+    },
+    {
+      "office": "little-office-of-the-dead",
+      "block": "vespers-b0006",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 295,
+      "printedPage": "265",
+      "reading": "Piorum desideria Et vestrum excitate:",
+      "attachedReading": "Plorem desideria Et vestro excitatae:"
+    }
+  ]
+}

@@ -30,7 +30,7 @@
   "status": {
     "extraction": "reviewed",
     "translation": "complete-prepared",
-    "verification": "source-reading-pending"
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -267,7 +267,7 @@
         {
           "type": "prayer",
           "source": "Deus, qui Evangelium regni tui per barbaras gentes, et reconditas nationes Sancti Francisci tui Xaverii praedicatione fideminasti, et ejus sanctitatem purissimi corporis incorruptione declarasti: concede quaesumus: ut, qui ejus memoriam agimus, cum morum imitatione sequamur. Per Dominum nostrum Jesum Christum, etc.",
-          "english": "O God, who through the preaching of Thy Saint Francis Xavier didst spread the Gospel of Thy kingdom among foreign peoples and remote nations, and manifest his holiness through the incorruption of his most pure body, grant, we beseech Thee, that we who keep his memory may follow him by imitating his conduct. Through Jesus Christ our Lord, etc.",
+          "english": "O God, who through the preaching of Thy Saint Francis Xavier didst sow the Gospel of Thy kingdom among foreign peoples and remote nations, and manifest his holiness through the incorruption of his most pure body, grant, we beseech Thee, that we who keep his memory may follow him by imitating his conduct. Through Jesus Christ our Lord, etc.",
           "sourcePages": [
             505
           ],
@@ -281,8 +281,17 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0012",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints the unclear “fideminasti” and “cum morum imitatione sequamur.” The English provisionally understands spreading the Gospel and following the saint through imitation; the printed Latin remains."
+          "verification": "visual-review",
+          "editorialNote": "The attached PDF prints “fideminasti”. The visually checked earlier 1745 Officium Rakoczianum, p.251, prints “seminasti” (didst sow). The English follows that attested earlier reading; the attached Latin remains unchanged. Both print “cum morum imitatione”: the English renders following the commemorated saint through imitation of his conduct. This comparison does not verify the cited 1783 edition.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 295,
+            "printedPage": "251",
+            "reading": "praedicatione seminasti",
+            "attachedReading": "praedicatione fideminasti"
+          },
+          "originalPreparedEnglish": "O God, who through the preaching of Thy Saint Francis Xavier didst spread the Gospel of Thy kingdom among foreign peoples and remote nations, and manifest his holiness through the incorruption of his most pure body, grant, we beseech Thee, that we who keep his memory may follow him by imitating his conduct. Through Jesus Christ our Lord, etc."
         }
       ]
     },
@@ -360,7 +369,7 @@
         {
           "type": "prayer",
           "source": "Salve, salus Travancoris, Doctorque parvulorum Exorta Lampas Brasilis, Ductorque barbarorum: Illis legebas Virgine De Matre lectiones, His de Deo, in corpore Cruento fectiones.",
-          "english": "Hail, salvation of Travancore and teacher of little ones, newly risen lamp of Brazil and guide of foreign peoples. To the former thou gavest lessons concerning the Virgin Mother; to the latter, lessons concerning God in His bloodied body.",
+          "english": "Hail, salvation of Travancore and teacher of little ones, newly risen lamp of Brazil and guide of foreign peoples. To the former thou gavest lessons concerning the Virgin Mother; to the latter, concerning God, the wounds in His bloodied body.",
           "sourcePages": [
             505
           ],
@@ -374,8 +383,17 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “Brasilis” and the malformed “fectiones.” The English retains Brazil as printed and provisionally renders the latter as lessons; no geographical correction is made."
+          "verification": "visual-review",
+          "editorialNote": "The attached PDF prints “fectiones”; the earlier 1745 edition, p.251, prints “sectiones” with a long s, meaning cuts or wounds, not a second occurrence of lessons. The English uses the attested earlier reading. Both editions print “Brasilis”, retained as Brazil without a geographical correction. The cited 1783 edition has not been verified.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 295,
+            "printedPage": "251",
+            "reading": "Cruento sectiones.",
+            "attachedReading": "Cruento fectiones."
+          },
+          "originalPreparedEnglish": "Hail, salvation of Travancore and teacher of little ones, newly risen lamp of Brazil and guide of foreign peoples. To the former thou gavest lessons concerning the Virgin Mother; to the latter, lessons concerning God in His bloodied body."
         },
         {
           "type": "rubric",
@@ -1434,8 +1452,16 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0006",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “ferena,” where the context suggests brightening or making serene. The prepared English provisionally gives “brighten”; the printed Latin remains."
+          "verification": "visual-review",
+          "editorialNote": "The attached PDF prints “ferena”; the visually checked earlier 1745 edition, p.253, prints “serena” with a long s (brighten). English follows this attested earlier reading. The attached Latin remains unchanged; the cited 1783 edition has not been verified.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 297,
+            "printedPage": "253",
+            "reading": "Sic Indias serena.",
+            "attachedReading": "Sic Indias ferena,"
+          }
         },
         {
           "type": "rubric",
@@ -1568,8 +1594,16 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0001",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints the malformed “per vix salebras” and closes with “fatis favores.” The English provisionally understands rugged ways and enough of favours; these readings remain unresolved in the original Latin."
+          "verification": "visual-review",
+          "editorialNote": "The attached PDF prints “per vix salebras” and “fatis favores”. The earlier 1745 edition prints “per viae salebras” on p.253 and “Satis est, Satis favores” on p.254 (PDF pp.297–298). The English follows these visually checked earlier readings, preserving the attached Latin. The cited 1783 edition has not been verified.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 297,
+            "printedPage": "253–254",
+            "reading": "Sic per viae salebras; Satis est, Satis favores.",
+            "attachedReading": "Sic per vix salebras,"
+          }
         }
       ]
     }
