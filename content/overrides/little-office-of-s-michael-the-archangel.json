@@ -28,9 +28,9 @@
   ],
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
-    "extraction": "candidate",
-    "translation": "incomplete",
-    "verification": "pending"
+    "extraction": "reviewed",
+    "translation": "complete-prepared-reading-pending",
+    "verification": "source-reading-pending"
   },
   "sections": [
     {
@@ -128,26 +128,48 @@
         {
           "type": "prayer",
           "source": "℟. Domine ad adjuvandum me festina. Gloria Patri et Filio etc. Alleluia.",
-          "english": null,
+          "english": "℟. O Lord, make haste to help me. Glory be to the Father and to the Son, etc. Alleluia.",
           "sourcePages": [
             416
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              416
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "forms": {
+            "season": {
+              "septuagesima": {
+                "source": "℟. Domine ad adjuvandum me festina. Gloria Patri et Filio etc. Laus tibi Domine Rex aeternae gloriae.",
+                "english": "℟. O Lord, make haste to help me. Glory be to the Father and to the Son, etc. Praise be to Thee, O Lord, King of everlasting glory."
+              }
+            }
+          }
         },
         {
           "type": "rubric",
           "source": "Vel a Septuagesima usque ad Pascha: Laus tibi Domine Rex aeternae gloriae.",
-          "english": null,
+          "english": "Or from Septuagesima until Easter: Praise be to Thee, O Lord, King of everlasting glory.",
           "sourcePages": [
             416
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              416
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -173,14 +195,23 @@
         {
           "type": "prayer",
           "source": "Invicte princeps Michael, exercitus caelestis; quae magna facta gesseris, laudum canamus hymnis.",
-          "english": null,
+          "english": "Unconquered prince Michael,\nOf the heavenly army,\nLet us sing in hymns of praise\nWhat great deeds thou hast wrought.",
           "sourcePages": [
             416
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              416
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0008",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The source’s “princeps ... exercitus caelestis” is compressed. The reference to the heavenly army is retained in sense."
         },
         {
           "type": "rubric",
@@ -206,38 +237,59 @@
         {
           "type": "prayer",
           "source": "Michael praeposite paradisi, quem honorificant Angelorum cives, intercede pro nobis ad Dominum.",
-          "english": null,
+          "english": "Michael, ruler of paradise, whom the citizens of the angels honour, intercede for us with the Lord.",
           "sourcePages": [
             416
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              416
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Gloriosus apparuisti in conspectu Domini.",
-          "english": null,
+          "english": "℣. Thou didst appear glorious in the sight of the Lord.",
           "sourcePages": [
             416
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              416
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Propterea decorem induit te Dominus.",
-          "english": null,
+          "english": "℟. Therefore the Lord clothed thee with beauty.",
           "sourcePages": [
             416
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              416
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0012",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -263,14 +315,21 @@
         {
           "type": "prayer",
           "source": "Deus cujus claritatis fulgore, beatus Michael praecellit agmina Angelorum; praesta quaesumus, ut sicut ille dono tuo principatum meruit habere coelestem, ita et nos ejus precibus vitam obtineamus aeternam. Per Christum Dominum nostrum. Amen.",
-          "english": null,
+          "english": "O God, by the splendour of whose brightness blessed Michael surpasses the hosts of angels, grant, we beseech Thee, that as by Thy gift he merited to possess heavenly sovereignty, so we also may obtain everlasting life through his prayers. Through Christ our Lord. Amen.",
           "sourcePages": [
             416
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              416
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0014",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -285,14 +344,21 @@
         {
           "type": "prayer",
           "source": "Sancte Michael Archangele, defende me in praelio, ut non peream in tremendo judicio.",
-          "english": null,
+          "english": "Saint Michael the Archangel, defend me in battle, that I may not perish in the dreadful judgment.",
           "sourcePages": [
             416
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              416
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -334,7 +400,15 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0003",
-          "verification": "pending"
+          "verification": "pending",
+          "forms": {
+            "season": {
+              "septuagesima": {
+                "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc. Laus tibi Domine Rex aeternae gloriae.",
+                "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc. Praise be to Thee, O Lord, King of everlasting glory."
+              }
+            }
+          }
         },
         {
           "type": "rubric",
@@ -360,62 +434,98 @@
         {
           "type": "prayer",
           "source": "Primo rebelles Angelos, apostatas superbos, victor tremendo praelio ad tartarum trusisti.",
-          "english": null,
+          "english": "First, the rebellious angels,\nThe proud apostates,\nVictorious in a dreadful battle,\nThou didst thrust down into hell.",
           "sourcePages": [
             416
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              416
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "rubric",
           "source": "Antiphona Apoc. 12",
-          "english": null,
+          "english": "Antiphon (Apoc. 12)",
           "sourcePages": [
             416
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              416
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Factum est praelium magnum in coelo, Michael et Angeli ejus praeliabantur cum dracone; et draco pugnabat, et angeli ejus, et non valuerunt, neque locus inventus est eorum amplius in coelo. Et projectus est draco ille magnus, serpens antiquus, qui dicitur diabolus et satanas.",
-          "english": null,
+          "english": "A great battle took place in heaven: Michael and his angels fought with the dragon; and the dragon and his angels fought, and prevailed not, nor was their place found any more in heaven. And that great dragon was cast out, the ancient serpent, who is called the devil and Satan.",
           "sourcePages": [
             416
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              416
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Sub umbra alarum tuarum sancte Michael protege me.",
-          "english": null,
+          "english": "℣. Beneath the shadow of thy wings, Saint Michael, protect me.",
           "sourcePages": [
             416
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              416
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. A facie inimicorum meorum.",
-          "english": null,
+          "english": "℟. From the face of my enemies.",
           "sourcePages": [
             416
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              416
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -441,14 +551,21 @@
         {
           "type": "prayer",
           "source": "Deus qui per gloriosum Archangelum tuum Michaelem, apostatam ac superbum luciferum, cum Angelis suis de coelo dejecisti; mitte quaeso in adjutorium meum, eundem Angelum, ut me adversus diabolicos insultus in vita et in morte mea protegat, et ad vitam aeternam perducat. Amen.",
-          "english": null,
+          "english": "O God, who through Thy glorious Archangel Michael didst cast down from heaven the apostate and proud Lucifer with his angels, send, I beseech Thee, that same angel to my assistance, that he may protect me against the assaults of the devil in my life and at my death, and lead me unto everlasting life. Amen.",
           "sourcePages": [
             416
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              416
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -527,14 +644,29 @@
         {
           "type": "prayer",
           "source": "Gloria Patri etc. Alleluia.",
-          "english": null,
+          "english": "Glory be to the Father, etc. Alleluia.",
           "sourcePages": [
             417
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              417
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "forms": {
+            "season": {
+              "septuagesima": {
+                "source": "Gloria Patri etc. Laus tibi Domine Rex aeternae gloriae.",
+                "english": "Glory be to the Father, etc. Praise be to Thee, O Lord, King of everlasting glory."
+              }
+            }
+          }
         },
         {
           "type": "rubric",
@@ -560,62 +692,98 @@
         {
           "type": "prayer",
           "source": "Primos parentes flebiles solatus es post lapsum; dicens, eos a Filio Dei, futuros salvos.",
-          "english": null,
+          "english": "Our first parents, weeping,\nThou didst console after their fall,\nSaying that by the Son of God\nThey would be saved.",
           "sourcePages": [
             417
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              417
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0006",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "rubric",
           "source": "Antiphona Ex Daniel",
-          "english": null,
+          "english": "Antiphon (from Daniel)",
           "sourcePages": [
             417
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              417
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Princeps regni Persarum restitit mihi viginti et uno diebus, veruntamen Michael Archangelus, Princeps magnus, qui stat pro filiis populi tui, erit adjutor meus.",
-          "english": null,
+          "english": "The prince of the kingdom of the Persians resisted me for twenty-one days; nevertheless Michael the Archangel, the great prince who stands for the children of thy people, shall be my helper.",
           "sourcePages": [
             417
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              417
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Sancte Michael Archangele,",
-          "english": null,
+          "english": "℣. Saint Michael the Archangel,",
           "sourcePages": [
             417
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              417
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Ora pro nobis Deum.",
-          "english": null,
+          "english": "℟. Pray to God for us.",
           "sourcePages": [
             417
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              417
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -641,14 +809,22 @@
         {
           "type": "prayer",
           "source": "Deus, qui ex tua ineffabili bonitate, sanctum Michaelem Archangelum tuum ad nostra defensionem mittere dignaris: te suppliciter deprecamur, ut eodem pro nobis intercedente Angelico suffragio, a subitanea morte et aeterna damnatione nos eripias, et in regno tuo collocare facias, in quo cum eodem Principe et Archangelo, atque omnibus Sanctis in perpetuum te laudemus et glorificemus. Amen.",
-          "english": null,
+          "english": "O God, who of Thine ineffable goodness dost deign to send Thy holy Archangel Michael for our defence, we humbly beseech Thee that, through that same angelic intercession on our behalf, Thou mayest rescue us from sudden death and everlasting damnation, and cause us to be placed in Thy kingdom, wherein with that same Prince and Archangel and all the saints we may praise and glorify Thee for ever. Amen.",
           "sourcePages": [
             417
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              417
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0012",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The source prints “ad nostra defensionem” with irregular agreement. “For our defence” is a provisional grammatical reading."
         }
       ]
     },
@@ -721,7 +897,15 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0003",
-          "verification": "pending"
+          "verification": "pending",
+          "forms": {
+            "season": {
+              "septuagesima": {
+                "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc. Laus tibi Domine Rex aeternae gloriae.",
+                "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc. Praise be to Thee, O Lord, King of everlasting glory."
+              }
+            }
+          }
         },
         {
           "type": "rubric",
@@ -747,62 +931,98 @@
         {
           "type": "prayer",
           "source": "Ducente te grex Israel olim per annos multos defensus est, et attigit promissionis terram.",
-          "english": null,
+          "english": "Under thy guidance the flock of Israel\nOf old, through many years,\nWas defended and reached\nThe land of promise.",
           "sourcePages": [
             417
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              417
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "rubric",
           "source": "Antiphona Exodi 23",
-          "english": null,
+          "english": "Antiphon (Exod. 23)",
           "sourcePages": [
             417
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              417
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Mittam Angelum meum, qui praecedat te et custodiat in via, et introducat in locum quem praeparavi.",
-          "english": null,
+          "english": "I shall send My angel to go before thee and guard thee on the way, and bring thee into the place which I have prepared.",
           "sourcePages": [
             417
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              417
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Apprehende arma et scutum sancte Michael.",
-          "english": null,
+          "english": "℣. Take up arms and shield, Saint Michael.",
           "sourcePages": [
             417
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              417
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Et exurge in adjutorium mihi.",
-          "english": null,
+          "english": "℟. And arise to my assistance.",
           "sourcePages": [
             417
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              417
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -828,14 +1048,21 @@
         {
           "type": "prayer",
           "source": "O Invicte Dux, et Princeps militiae Domini, sancte Michael, veni quaeso in auxilium animae meae, quae continenter in tanto periculo a suis inimicis carne, mundo, daemone impugnatur; et sicut dux fuisti populo Israel per desertum, sic quoque velis esse dux et comes meus per desertum hujus mundi, donec secure me perduxeris ad felicem terram viventium. Amen.",
-          "english": null,
+          "english": "O unconquered Leader and Prince of the army of the Lord, Saint Michael, come, I beseech thee, to the help of my soul, which is continually assailed in such great peril by its enemies, the flesh, the world and the devil. And as thou wast the guide of the people of Israel through the desert, so deign also to be my guide and companion through the desert of this world, until thou hast led me safely to the happy land of the living. Amen.",
           "sourcePages": [
             417
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              417
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -909,7 +1136,15 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0003",
-          "verification": "pending"
+          "verification": "pending",
+          "forms": {
+            "season": {
+              "septuagesima": {
+                "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc. Laus tibi Domine Rex aeternae gloriae.",
+                "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc. Praise be to Thee, O Lord, King of everlasting glory."
+              }
+            }
+          }
         },
         {
           "type": "rubric",
@@ -935,14 +1170,22 @@
         {
           "type": "prayer",
           "source": "Tu, sicut olim jussus es praeesse Synagogae; nunc factus es Ecclesiae Protector universae.",
-          "english": null,
+          "english": "Thou, as of old thou wast commanded\nTo preside over the Synagogue,\nArt now made protector\nOf the universal Church.",
           "sourcePages": [
             417
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              417
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "rubric",
@@ -968,26 +1211,40 @@
         {
           "type": "prayer",
           "source": "Princeps gloriosissime Michael, Dux coelestium exercituum, susceptor animarum debellator malorum spirituum, Ecclesiae Dei post Christum admirabilis et grandis excellentiae et virtutis, rector, omnes nos reclamantes ad te ab omni libera adversitate, et in omni cultu Dei facias proficere, tuo preciosissimo officio et dignissima prece.",
-          "english": null,
+          "english": "Most glorious prince Michael, leader of the heavenly armies, receiver of souls, vanquisher of evil spirits, ruler after Christ of the Church of God, of wondrous and great excellence and virtue, deliver all of us who cry unto thee from every adversity, and cause us to advance in all the worship of God, through thy most precious ministry and most worthy prayer.",
           "sourcePages": [
             417
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              417
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Ora pro nobis S Michael.",
-          "english": null,
+          "english": "℣. Pray for us, Saint Michael.",
           "sourcePages": [
             417
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              417
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1034,14 +1291,21 @@
         {
           "type": "prayer",
           "source": "Omnipotens sempiterne Deus qui saluti humanae naturae ex summa clementia tua, gloriosum Principem Ecclesiae tuae Michaelem Archangelum mirabiliter deputasti: concede propitius, ut ejus salutari subsidio hic mereamur ab omnibus hostibus tueri efficacissime, et in obitu nostro ab omni tentatione liberari, tuaeque excelsae majestati beatifice per eum praesentari. Per Christum Dominum nostrum. Amen.",
-          "english": null,
+          "english": "Almighty everlasting God, who of Thy supreme mercy hast wonderfully appointed Michael the Archangel, glorious Prince of Thy Church, for the salvation of human nature, graciously grant that through his saving help we may deserve to be most effectually protected here from all enemies, and at our death to be freed from every temptation, and through him to be presented in blessedness to Thine exalted majesty. Through Christ our Lord. Amen.",
           "sourcePages": [
             418
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              418
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -1114,7 +1378,15 @@
           },
           "alignment": "reviewed",
           "id": "none-b0003",
-          "verification": "pending"
+          "verification": "pending",
+          "forms": {
+            "season": {
+              "septuagesima": {
+                "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc. Laus tibi Domine Rex aeternae gloriae.",
+                "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc. Praise be to Thee, O Lord, King of everlasting glory."
+              }
+            }
+          }
         },
         {
           "type": "rubric",
@@ -1140,62 +1412,98 @@
         {
           "type": "prayer",
           "source": "Mentes solutas corpore tu suscipis benigne beatus est quicumque te tunc senserit patronum.",
-          "english": null,
+          "english": "Souls freed from the body\nThou dost graciously receive;\nBlessed is whoever then\nFinds thee to be his patron.",
           "sourcePages": [
             418
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              418
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "rubric",
           "source": "Antiphona Josue 5",
-          "english": null,
+          "english": "Antiphon (Josue 5)",
           "sourcePages": [
             418
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              418
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Cum esset Josue in agro urbis Jericho levavit oculos, et vidit virum stantem coram se evaginatum gladium tenentem; perrexitque ad eum et ait: noster es an adversariorum? qui respondit, nequaquam, sed sum Princeps exercitus Domini, et ecce venio.",
-          "english": null,
+          "english": "When Josue was in the field of the city of Jericho, he lifted up his eyes and saw a man standing before him, holding a drawn sword. He went to him and said: Art thou ours, or of our adversaries? He answered: Neither; but I am the Prince of the army of the Lord, and behold, I come.",
           "sourcePages": [
             418
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              418
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Exurge in occursum meum sancte Michael.",
-          "english": null,
+          "english": "℣. Arise to meet me, Saint Michael.",
           "sourcePages": [
             418
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              418
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Et suscipe animam meam.",
-          "english": null,
+          "english": "℟. And receive my soul.",
           "sourcePages": [
             418
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              418
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1221,14 +1529,21 @@
         {
           "type": "prayer",
           "source": "O Victoriose triumphator Archangele sancte Michael, te humiliter deprecor, ut in die exitus animae meae, uti semper promptus fuisti in omni periculo animarum fidelium, maximeque earum, quae te specialius amaverunt, et tibi devote servierunt; mihi quoque, cum Angelis tuis tuoque exercitu personaliter adesse, mihi subvenire, pro me pugnare, et animam meam in benedictas manus tuas suscipere, et ad coeleste regnum deferre digneris. Amen.",
-          "english": null,
+          "english": "O victorious conqueror, holy Archangel Michael, I humbly beseech thee that on the day of my soul’s departure, as thou hast always been ready in every peril of the souls of the faithful, especially of those who have loved thee more particularly and served thee devoutly, thou mayest deign also to be personally present to me with thy angels and thine army, to help me, to fight for me, to receive my soul into thy blessed hands, and to bear it unto the heavenly kingdom. Amen.",
           "sourcePages": [
             418
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              418
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -1302,7 +1617,15 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "pending",
+          "forms": {
+            "season": {
+              "septuagesima": {
+                "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc. Laus tibi Domine Rex aeternae gloriae.",
+                "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc. Praise be to Thee, O Lord, King of everlasting glory."
+              }
+            }
+          }
         },
         {
           "type": "rubric",
@@ -1328,62 +1651,98 @@
         {
           "type": "prayer",
           "source": "Per te cadet fidelibus Infensus Antichristus: Tuba citabis mortuos Cum judicabit Christus.",
-          "english": null,
+          "english": "Through thee shall fall Antichrist,\nHostile to the faithful;\nWith the trumpet thou shalt summon the dead\nWhen Christ shall judge.",
           "sourcePages": [
             418
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              418
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "rubric",
           "source": "Antiphona Daniel 12",
-          "english": null,
+          "english": "Antiphon (Daniel 12)",
           "sourcePages": [
             418
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              418
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "In tempore autem illo consurget Michael Princeps magnus, qui stat pro filiis populi tui: et veniet tempus quale non fuit unquam ab eo ex quo gentes esse coeperunt, usque ad tempus illud; in tempore illo salvabitur populus tuus omnis, qui inventus fuerit scriptus in libro. Et multi de his, qui dormiunt in terrae pulvere, evigilabunt, alii in vitam aeternam, alii in opprobrium.",
-          "english": null,
+          "english": "At that time Michael shall arise, the great prince who stands for the children of thy people; and there shall come a time such as there has never been since nations first began to exist, even unto that time. At that time all thy people who shall be found written in the book shall be saved. And many of those who sleep in the dust of the earth shall awake, some unto everlasting life, others unto reproach.",
           "sourcePages": [
             418
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              418
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Ipse Dominus in jussu et voce Archangeli.",
-          "english": null,
+          "english": "℣. The Lord Himself, with a command and the voice of an Archangel,",
           "sourcePages": [
             418
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              418
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Descendet de coelo.",
-          "english": null,
+          "english": "℟. Shall descend from heaven.",
           "sourcePages": [
             418
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              418
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1409,15 +1768,24 @@
         {
           "type": "prayer",
           "source": "Ogloriose Princeps Archangele sancte Michael, qui tot pugnis interfusisti, per te divina virtus multa praeclara praestitit, atque praestata est; quoties mire virtutis aliquid agendum fuit, Deus semper misit, teque super alios Angelos suos, non tantum in coelis, sed et in terris amari, venerari, praedicari, et memoria tua haberi voluit, tibi denique jam ab exordio creationis tuae prima et ultima tot et tam honorifica officia demandavit; humiliter te rogo, ut impetres mihi mortem bonam et sanctam, ita ut pleno sensu, fide recta, et firma, spe bona et charitate perfecta letus ad Caelestem Hierusalem ascenda. Amen.",
-          "english": null,
+          "english": "O glorious Prince, holy Archangel Michael, who hast taken part in so many battles, through thee the divine power has accomplished many illustrious things, and has been manifested. Whenever something of wondrous power was to be done, God always sent thee; and He willed that above His other angels thou shouldst be loved, venerated and proclaimed, and thy remembrance kept, in heaven and on earth. From the very beginning of thy creation He entrusted to thee so many and such honourable offices, the first and the last. I humbly ask thee to obtain for me a good and holy death, so that, with my senses unimpaired, with right and firm faith, good hope and perfect charity, I may joyfully ascend to the heavenly Jerusalem. Amen.",
           "sourcePages": [
             418,
             419
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              418,
+              419
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0011",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The source prints “interfusisti,” “praestata est,” “mire virtutis,” and “ascenda.” Their English readings are provisional; the Latin remains unchanged. The source’s claims about Michael’s offices are retained as devotional statements."
         }
       ]
     },
@@ -1532,7 +1900,15 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0005",
-          "verification": "pending"
+          "verification": "pending",
+          "forms": {
+            "season": {
+              "septuagesima": {
+                "source": "℟. Domine ad adjuvandum me festina. Gloria Patri etc. Laus tibi Domine Rex aeternae gloriae.",
+                "english": "℟. O Lord, make haste to help me. Glory be to the Father, etc. Praise be to Thee, O Lord, King of everlasting glory."
+              }
+            }
+          }
         },
         {
           "type": "rubric",
@@ -1558,62 +1934,98 @@
         {
           "type": "prayer",
           "source": "Christi crucem tunc praefers In gloria triumphans: Coelo beatos infers, Et tartaro malignos.",
-          "english": null,
+          "english": "Then thou dost bear before thee the Cross of Christ,\nTriumphing in glory;\nThou dost bring the blessed into heaven,\nAnd the wicked into hell.",
           "sourcePages": [
             419
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              419
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "rubric",
           "source": "Antiphona Matth 13",
-          "english": null,
+          "english": "Antiphon (Matt. 13)",
           "sourcePages": [
             419
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              419
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "In consummatione saeculi exibunt Angeli, et separabunt malos de medio justorum, et mittent eos in caminum ignis; ibi erit fletus et stridor dentium.",
-          "english": null,
+          "english": "At the consummation of the world the angels shall go forth, and separate the wicked from the midst of the just, and cast them into the furnace of fire; there shall be weeping and gnashing of teeth.",
           "sourcePages": [
             419
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              419
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Tropaeum crucis feret Archangelus Michael.",
-          "english": null,
+          "english": "℣. The Archangel Michael shall bear the trophy of the Cross.",
           "sourcePages": [
             419
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              419
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℟. Cum Dominus ad judicandum venerit.",
-          "english": null,
+          "english": "℟. When the Lord shall come to judge.",
           "sourcePages": [
             419
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              419
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1639,14 +2051,22 @@
         {
           "type": "prayer",
           "source": "Summae sedis minister, Princeps militiae coelestis, et signifer celsorum supernorum sancte Michael Angele piissime, Archangele placidissime tibi corpus et animam meam tota intentione tuendam commito, tibi specialiter post Deum et Deiparentem vitae et mortis meae curam commendo, te hodie et quotidie in praesentia totius coelestis curiae pro singulari Patrono, Protectore et Advocato meo eligo, obsecro igitur te per gloriam illam, quam in coelo jam frueris, ut hoc propositum meum, et gravem habeas sincerum hunc affectum erga te meum. O serve Dei excelse sancte Michael, ego te saluto millies et millies, ego te veneror et invoco, ego in argumentum gaudii ac gloriae tibi offero totius boni, totiusque beatitudinis gazophylacium, cor Jesu Christi dulcissimum. Gratias ago ipsi Domino Deo nostro pro beatitudine, quam tibi contulit, et pro eo, quod te sic super alios Angelos suos, nominari, praedicari, et honorari, et exaltari voluit. Adesto mihi nunc et semper, at maxime in fine vitae meae, ipsum obitum meum attenuis tibi commendo, benigne me tu consolare, conforta et protege. Impetra mihi augmentum fidei, spei, et charitatis, non permittas me sancte Michael, nec in vita, nec in morte a sancta fide Catholica declinare, nec in foveam desperationis deduci, neque de operibus meis bonis, quae cum divina gratia operatus sum, praesumere. Impetra mihi plena omnium peccatorum meorum veniam, et spiritum bonum, ac sanctam gratiam, et ut illi perfecte reconcilier, illique jugiter placeam, et ut sim homo secundum cor Dei, et illum amplius non offend. Impetra mihi veram et profundam humilitatem, et alias virtutes omnes, effice tuis gloriosis precibus et meritis ut anima mea tota munda hinc exeat, ad vitam aeternam perveniat. Insuper rogo te praeclarum atque decorum summe Divinitatis ministrum, ut in novissimo die benigne suscipias animam meam in sinu tuo sanctissimo, et eam comitantibus Angelo custode meo, et Angelis tuis, ad requiem sempiternam cum exultatione perducas. Amen.",
-          "english": null,
+          "english": "Minister of the supreme throne, Prince of the heavenly army and standard-bearer of the exalted heavenly ones, Saint Michael, most loving angel, most gentle Archangel, with my whole intention I entrust my body and soul to thy protection. After God and the Mother of God, I commend especially to thee the care of my life and death. Today and every day, in the presence of the whole heavenly court, I choose thee as my particular patron, protector and advocate. I beseech thee, therefore, by that glory which thou now enjoyest in heaven, to regard this purpose of mine and to hold this sincere affection towards thee as weighty. O exalted servant of God, Saint Michael, I salute thee a thousand times and a thousand times; I venerate and invoke thee. As a token of joy and glory I offer thee the treasury of all good and all blessedness, the most sweet Heart of Jesus Christ. I give thanks to the Lord our God Himself for the blessedness He has bestowed upon thee, and because He willed that thou shouldst thus be named, proclaimed, honoured and exalted above His other angels. Be present to me now and always, but especially at the end of my life. I commend my very death to thee [the printed “attenuis” is unresolved]; graciously console, strengthen and protect me. Obtain for me an increase of faith, hope and charity. Permit me not, Saint Michael, in life or death, to depart from the holy Catholic faith, to be led into the pit of despair, or to presume upon my good works which I have performed with divine grace. Obtain for me full pardon of all my sins, a good spirit and holy grace, that I may be perfectly reconciled to Him, continually please Him, be a man according to the heart of God, and offend Him no more. Obtain for me true and profound humility and all other virtues. By thy glorious prayers and merits, cause my soul to depart hence wholly pure and attain everlasting life. Moreover, I ask thee, illustrious and glorious minister of the supreme Godhead, graciously to receive my soul into thy most holy bosom on the last day, and, with my guardian angel and thine angels accompanying it, to lead it with exultation unto everlasting rest. Amen.",
           "sourcePages": [
             419
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              419
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0013",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The printed “et gravem habeas,” “attenuis,” “plena ... veniam,” “offend,” and “summe Divinitatis” have defective forms or syntax. The readable petitions are rendered provisionally and “attenuis” is left unresolved. The source’s “in novissimo die” is retained as “on the last day.”"
         }
       ]
     },
@@ -1661,14 +2081,22 @@
         {
           "type": "prayer",
           "source": "Has horas canonicas cum devotione Dixi, sancte Michael, tui ratione, Precor me suscipias mortis in agone, Et praesentem statuas in coeli regione.",
-          "english": null,
+          "english": "These canonical Hours I have said\nWith devotion, Saint Michael, in thine honour;\nI pray thee, receive me in the agony of death,\nAnd place me in the realm of heaven.",
           "sourcePages": [
             419
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              419
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "prayer",
@@ -1694,5 +2122,36 @@
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "editorialNotes": [
+    {
+      "text": "All four printed pages were visually compared. The eight hours, eight distinct hymns and prayers, and the commendation remain. The missing Amen at Lauds is retained; no Amen is added. The printed Septuagesima-to-Easter substitution is provided as a manual seasonal choice, without a calendar. Printed abbreviated doxologies remain abbreviated. Irregular source wording in the Prime, Vespers and Compline prayers remains in Latin with provisional or unresolved English notes. Hymn and commendation line divisions are represented in the prepared English.",
+      "pages": [
+        416,
+        417,
+        418,
+        419
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "season",
+      "title": "Seasonal form",
+      "options": [
+        {
+          "id": "ordinary",
+          "title": "Alleluia"
+        },
+        {
+          "id": "septuagesima",
+          "title": "Septuagesima until Easter"
+        }
+      ],
+      "default": "ordinary",
+      "sourcePages": [
+        416
+      ]
+    }
+  ]
 }

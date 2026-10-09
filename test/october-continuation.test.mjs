@@ -51,3 +51,34 @@ test('repeated saint and departed prayers expand without adding absent hours',()
  assert(rows.some(b=>b.expandedFrom==='matins-b0011'));
  assert(rows.some(b=>b.expandedFrom==='matins-b0014'));
 });
+
+test('Paola and Ignatius repeat their own printed prayers and Michael preserves the seasonal alternatives',()=>{
+ const paola=documents.get('little-office-of-s-francis-of-paola-founder-of-the-order-of-minims');
+ for(const section of ['lauds','prime','terce','sext','none','vespers','compline']){
+  const rows=sectionBlocks(paola,section,resolveVariants(paola));
+  assert.deepEqual(rows.filter(b=>b.expandedFrom).map(b=>b.expandedFrom),['matins-b0011','matins-b0012','matins-b0013','matins-b0014','matins-b0015']);
+  assert.equal(rows.at(-1).english,'etc.');
+ }
+ const ignatius=documents.get('little-office-of-s-igantius-founder-of-the-society-of-jesus');
+ assert(!ignatius.sections.some(s=>s.id==='lauds'));
+ for(const section of ['prime','terce','sext','none','vespers','compline']){
+  const rows=sectionBlocks(ignatius,section,resolveVariants(ignatius));
+  assert.deepEqual(rows.filter(b=>b.expandedFrom).map(b=>b.expandedFrom),['matins-b0013','matins-b0014']);
+  assert(rows.at(-1).english.endsWith('Who livest and reignest, etc.'));
+  assert.equal(rows.at(-1).verification,'source-reading-pending');
+ }
+ const michael=documents.get('little-office-of-s-michael-the-archangel');
+ assert.equal(michael.sections.length,9);
+ for(const section of michael.sections.filter(s=>s.id!=='commendatio')){
+  const ordinary=sectionBlocks(michael,section.id,resolveVariants(michael));
+  const seasonal=sectionBlocks(michael,section.id,resolveVariants(michael,{season:'septuagesima'}));
+  const opening=ordinary.find(b=>b.source.endsWith('Alleluia.'));
+  assert(opening);
+  const alternative=seasonal.find(b=>b.id===opening.id);
+  assert.equal(alternative.source,opening.source.replace(/Alleluia\.$/,'Laus tibi Domine Rex aeternae gloriae.'));
+  assert(alternative.english.endsWith('Praise be to Thee, O Lord, King of everlasting glory.'));
+  assert.equal(seasonal.filter(b=>b.type==='prayer'&&b.source.endsWith('Alleluia.')).length,0);
+ }
+ assert(!michael.sections.find(s=>s.id==='lauds').blocks[0].english.endsWith('Amen.'));
+ assert(michael.sections.find(s=>s.id==='compline').blocks.find(b=>b.id==='compline-b0013').editorialNote.includes('attenuis'));
+});

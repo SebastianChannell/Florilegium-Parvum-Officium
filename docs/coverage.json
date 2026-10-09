@@ -44,7 +44,7 @@
     },
     {
       "office": "little-office-of-the-suffering-christ-the-finding-and-the-exaltation-of-the-holy-cross",
-      "message": "87 source passages lack aligned English."
+      "message": "86 source passages lack aligned English."
     },
     {
       "office": "little-office-of-the-suffering-christ-the-finding-and-the-exaltation-of-the-holy-cross",
@@ -152,10 +152,6 @@
     },
     {
       "office": "little-office-of-s-michael-the-archangel",
-      "message": "50 source passages lack aligned English."
-    },
-    {
-      "office": "little-office-of-s-michael-the-archangel",
       "message": "Office awaits visual source review."
     },
     {
@@ -224,10 +220,6 @@
     },
     {
       "office": "little-office-of-s-francis-of-paola-founder-of-the-order-of-minims",
-      "message": "46 source passages lack aligned English."
-    },
-    {
-      "office": "little-office-of-s-francis-of-paola-founder-of-the-order-of-minims",
       "message": "Office awaits visual source review."
     },
     {
@@ -245,10 +237,6 @@
     {
       "office": "little-office-of-s-gertrude",
       "message": "Office awaits visual source review."
-    },
-    {
-      "office": "little-office-of-s-igantius-founder-of-the-society-of-jesus",
-      "message": "46 source passages lack aligned English."
     },
     {
       "office": "little-office-of-s-igantius-founder-of-the-society-of-jesus",
@@ -648,66 +636,6 @@
       "message": "Internal source reference awaits resolution."
     },
     {
-      "office": "little-office-of-s-francis-of-paola-founder-of-the-order-of-minims",
-      "block": "lauds-b0009",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-francis-of-paola-founder-of-the-order-of-minims",
-      "block": "prime-b0009",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-francis-of-paola-founder-of-the-order-of-minims",
-      "block": "terce-b0008",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-francis-of-paola-founder-of-the-order-of-minims",
-      "block": "sext-b0009",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-francis-of-paola-founder-of-the-order-of-minims",
-      "block": "none-b0009",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-francis-of-paola-founder-of-the-order-of-minims",
-      "block": "vespers-b0009",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-francis-of-paola-founder-of-the-order-of-minims",
-      "block": "compline-b0010",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-igantius-founder-of-the-society-of-jesus",
-      "block": "prime-b0010",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-igantius-founder-of-the-society-of-jesus",
-      "block": "terce-b0011",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-igantius-founder-of-the-society-of-jesus",
-      "block": "sext-b0011",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-igantius-founder-of-the-society-of-jesus",
-      "block": "none-b0011",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
-      "office": "little-office-of-s-igantius-founder-of-the-society-of-jesus",
-      "block": "vespers-b0010",
-      "message": "Internal source reference awaits resolution."
-    },
-    {
       "office": "little-office-of-s-john-the-baptist",
       "block": "lauds-b0011",
       "message": "Internal source reference awaits resolution."
@@ -812,13 +740,13 @@
     "offices": 82,
     "sections": 686,
     "blocks": 11282,
-    "missingEnglish": 2863,
-    "preparedEnglish": 4868,
+    "missingEnglish": 2720,
+    "preparedEnglish": 5011,
     "unpairedEnglish": 0,
     "reviewedOffices": 10,
     "englishOnly": 8,
     "latinOnly": 62,
     "suppliedBilingual": 12,
-    "unresolvedReferences": 85
+    "unresolvedReferences": 73
   }
 }

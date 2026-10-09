@@ -28,9 +28,9 @@
   ],
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
-    "extraction": "candidate",
-    "translation": "incomplete",
-    "verification": "pending"
+    "extraction": "reviewed",
+    "translation": "complete-prepared-reading-pending",
+    "verification": "source-reading-pending"
   },
   "sections": [
     {
@@ -44,14 +44,21 @@
         {
           "type": "prayer",
           "source": "℣. Sancto Francisco de Paula nascente lux miraculosa in domo resplenduit.",
-          "english": null,
+          "english": "℣. At the birth of Saint Francis of Paola a miraculous light shone in the house.",
           "sourcePages": [
             501
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              501
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -161,62 +168,103 @@
         {
           "type": "prayer",
           "source": "Paulae nascentis claritas Noctis illustrat nubila, Canoras fert laetitias Qui docuit silentia,",
-          "english": null,
+          "english": "The brightness of Paola at his birth\nIllumines the darkness of night;\nHe who taught silence\nBrings tuneful joys,",
           "sourcePages": [
             501
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              501
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "prayer",
           "source": "Adam etiam intemperans Noctem tulit nepotibus, Reduxit lucem imperans Carnes caret carinibus;",
-          "english": null,
+          "english": "Intemperate Adam also\nBrought night upon his descendants;\nHe brought back light by commanding\n[The printed “Carnes caret carinibus” is unresolved.]",
           "sourcePages": [
             501
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              501
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0008",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The PDF prints “Carnes caret carinibus”; its sense is unresolved. The earlier “Reduxit” has an uncertain subject. No missing fasting instruction is invented."
         },
         {
           "type": "prayer",
           "source": "Pulsis dapum vaporibus Nam ut serenat cerebra, Lucidor sic spiritus Per carnis fit jejunia.",
-          "english": null,
+          "english": "For, as the vapours of feasts are driven away\nAnd the mind is made clear,\nSo the spirit becomes more luminous\nThrough fasting of the flesh.",
           "sourcePages": [
             501
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              501
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0009",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The source’s comparative “Lucidor” is irregular; “more luminous” is provisional. The compressed first clause is rendered by its readable sense."
         },
         {
           "type": "prayer",
           "source": "Ant. Videsne, quid faciat jejunium? Demonas fugat, pravas cogitationes expellit, cor mundum efficit, et mentem reddit oratorem.",
-          "english": null,
+          "english": "Ant. Seest thou what fasting doth? It puts demons to flight, drives out evil thoughts, makes the heart pure, and renders the mind prayerful.",
           "sourcePages": [
             501
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              501
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "“mentem reddit oratorem” is rendered as making the mind prayerful; the metaphor is retained in sense."
         },
         {
           "type": "prayer",
           "source": "℣. Ora pro nobis sancte Francisce de Paula,",
-          "english": null,
+          "english": "℣. Pray for us, Saint Francis of Paola,",
           "sourcePages": [
             501
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              501
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -263,14 +311,21 @@
         {
           "type": "prayer",
           "source": "Deus humilium celsitudo, qui beatum Franciscum confessorem tuum sanctorum gloria sublimasti: tribue, quaesumus, ut ejus meritis et imitatione, promissa humilibus praemia feliciter consequamur. Per Dominum nostrum",
-          "english": null,
+          "english": "O God, exaltation of the humble, who didst raise blessed Francis, Thy Confessor, to the glory of the saints, grant, we beseech Thee, that through his merits and by imitating him we may happily attain the rewards promised to the humble. Through our Lord",
           "sourcePages": [
             501
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              501
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0014",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -306,14 +361,21 @@
         {
           "type": "prayer",
           "source": "Sanctus Franciscus de Paula ab ineunte aetate assiduus orator et contemplator divinorum.",
-          "english": null,
+          "english": "Saint Francis of Paola, from his earliest years, an assiduous man of prayer and contemplator of divine things.",
           "sourcePages": [
             501
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              501
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -381,50 +443,84 @@
         {
           "type": "prayer",
           "source": "Preces fundit et cantica Pios incurvans poplites Tam grata Deo musices, Ipsi gaudent coelites;",
-          "english": null,
+          "english": "He pours forth prayers and canticles,\nBending his knees in piety;\nIn music so pleasing to God\nThe heavenly ones themselves rejoice;",
           "sourcePages": [
             501
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              501
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed “musices” is grammatically irregular; the rendering of the musical clause is provisional."
         },
         {
           "type": "prayer",
           "source": "Ora veretur spiritu Sublimis inter sydera, Claro virtutum ambitu Jam forte dignus coelis.",
-          "english": null,
+          "english": "[The printed “Ora veretur spiritu” is unresolved.]\nSublime among the stars,\nIn the bright compass of virtues,\nNow perhaps worthy of heaven.",
           "sourcePages": [
             501
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              501
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0006",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "“Ora veretur spiritu” is unresolved. The remaining lines are retained without inventing a subject for the first."
         },
         {
           "type": "prayer",
           "source": "Nam sub carnis pondere Recusat corpus deprimi, Astra volavit scandere Mens valet haud difficili.",
-          "english": null,
+          "english": "For beneath the weight of the flesh\nHe refuses to let the body be weighed down;\n[The printed “Astra volavit scandere” is uncertain.]\nHis mind is able, with little difficulty.",
           "sourcePages": [
             501
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              501
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0007",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "“Astra volavit scandere” and “haud difficili” have defective syntax. The first is left uncertain; the final phrase is provisional."
         },
         {
           "type": "prayer",
           "source": "Ant. Qui secundum carnem sunt, quae carnis sunt sapiunt; qui vero secundum spiritum sunt, quae sunt spiritus sentiunt.",
-          "english": null,
+          "english": "Ant. They who are according to the flesh savour the things of the flesh; but they who are according to the spirit perceive the things of the spirit.",
           "sourcePages": [
             501
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              501
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -445,7 +541,20 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0009",
-          "verification": "pending"
+          "verification": "pending",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014",
+              "matins-b0015"
+            ],
+            "sourcePages": [
+              501
+            ],
+            "note": "The printed reference repeats the indicated prayer group from this office’s Matins; abbreviations within the target are retained."
+          }
         }
       ]
     },
@@ -461,14 +570,22 @@
         {
           "type": "prayer",
           "source": "Sanctus Franciscus de Paula perpetuus mundi contemnor et carnis domator.",
-          "english": null,
+          "english": "Saint Francis of Paola, a constant contemner of the world and tamer of the flesh.",
           "sourcePages": [
             501
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              501
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The source prints the irregular “contemnor”; “contemner” is a provisional reading."
         },
         {
           "type": "prayer",
@@ -536,50 +653,82 @@
         {
           "type": "prayer",
           "source": "Primo juventae tempore Haerere nugis renuit, Virili mentis robore Circen repulsam conspexit;",
-          "english": null,
+          "english": "In the first season of youth\nHe refused to cling to trifles;\nWith manly strength of mind\nHe beheld Circe driven away;",
           "sourcePages": [
             502
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              502
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "prayer",
           "source": "Virgo notatus candido Lapillo castimoniae Jam tutus est a sordido Cupidinis tentamine,",
-          "english": null,
+          "english": "A virgin marked by the white\nStone of chastity,\nHe is now safe from the foul\nTemptation of Cupid,",
           "sourcePages": [
             502
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              502
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0006",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "prayer",
           "source": "Blandis rebellis motibus Carnis terit potentiam, Castis puelli moribus Viri jungens prudentiam.",
-          "english": null,
+          "english": "Resisting enticing movements,\nHe wears down the power of the flesh,\nJoining to the chaste conduct of a boy\nThe prudence of a man.",
           "sourcePages": [
             502
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              502
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0007",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed “puelli” is irregular; “of a boy” is provisional."
         },
         {
           "type": "prayer",
           "source": "Ant. Et scivi, quia aliter non possem esse continens, nisi Deus det; adii Dominum, et deprecatus sum, ut mihi de sedium suarum afferretur sapientia.",
-          "english": null,
+          "english": "Ant. And I knew that I could not otherwise be continent unless God gave it; I went unto the Lord and besought Him that wisdom might be brought to me from His thrones.",
           "sourcePages": [
             502
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              502
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -600,7 +749,20 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0009",
-          "verification": "pending"
+          "verification": "pending",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014",
+              "matins-b0015"
+            ],
+            "sourcePages": [
+              502
+            ],
+            "note": "The printed reference repeats the indicated prayer group from this office’s Matins; abbreviations within the target are retained."
+          }
         }
       ]
     },
@@ -615,14 +777,21 @@
         {
           "type": "prayer",
           "source": "Sanctus Franciscus de Paula decimo tertio aetatis anno, ducente Spiritu Sancto, in eremum secedit.",
-          "english": null,
+          "english": "Saint Francis of Paola, in the thirteenth year of his age, withdraws into the wilderness under the guidance of the Holy Ghost.",
           "sourcePages": [
             502
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              502
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -690,38 +859,63 @@
         {
           "type": "prayer",
           "source": "Agenti cum triennio Bilustrum nostro juveni Fit sylva pro palatio Sacri doctrix silentii, Eremus, quaeque spernitur A vanis mundi affectibus, Huic coelum et creditur Supernis plenum gaudiis:",
-          "english": null,
+          "english": "For our youth, when ten years\nTogether with three had passed,\nThe forest becomes a palace,\nA teacher of holy silence;\nAnd the wilderness which is despised\nBy the vain affections of the world\nIs for him accounted heaven,\nFull of joys from on high:",
           "sourcePages": [
             502
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              502
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "prayer",
           "source": "Nec tangitur molestia Remotus a sodalibus, Dei dat suam praesentiam Abstrusus latens specubus.",
-          "english": null,
+          "english": "Nor is he touched by distress,\nFar removed from his companions;\nGod gives His own presence\nTo him hidden deep within caves.",
           "sourcePages": [
             502
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              502
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0006",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed “Dei dat suam praesentiam” is grammatically defective; the rendering “God gives His own presence” is conjectural."
         },
         {
           "type": "prayer",
           "source": "Ant. In terra deserta et invia et inaquosa: sic in sancto apparuit tibi, ut viderem virtutem tuam et gloriam tuam.",
-          "english": null,
+          "english": "Ant. In a desert land, trackless and without water: thus in the sanctuary he appeared to thee, that I might behold Thy power and Thy glory.",
           "sourcePages": [
             502
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              502
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0007",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The source prints “apparuit tibi,” rather than a standard psalm text. The shift of person is preserved; no external psalm is substituted."
         },
         {
           "type": "rubric",
@@ -742,7 +936,20 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0008",
-          "verification": "pending"
+          "verification": "pending",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014",
+              "matins-b0015"
+            ],
+            "sourcePages": [
+              502
+            ],
+            "note": "The printed reference repeats the indicated prayer group from this office’s Matins; abbreviations within the target are retained."
+          }
         }
       ]
     },
@@ -758,14 +965,22 @@
         {
           "type": "prayer",
           "source": "Sanctus Franciscus de Paula annum sexagesimum nonum relicta solitudine ordinem Minimorum instituit.",
-          "english": null,
+          "english": "Saint Francis of Paola, in his sixty-ninth year, leaves solitude and establishes the Order of Minims.",
           "sourcePages": [
             502
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              502
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The historical age is retained as printed; it is not silently corrected from another biography."
         },
         {
           "type": "prayer",
@@ -833,50 +1048,84 @@
         {
           "type": "prayer",
           "source": "Sylvae relictens fructices, Sub Charitatis exercitu Ad bella Christi milites Manu producit strenua,",
-          "english": null,
+          "english": "Leaving the thickets of the forest,\nIn the army of charity,\nWith a vigorous hand he leads forth\nSoldiers for the battles of Christ,",
           "sourcePages": [
             502
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              502
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed “relictens fructices” is irregular; “leaving the thickets” is provisional."
         },
         {
           "type": "prayer",
           "source": "Quem manuevit Charitas, Praedignus hic et signifer, Quo conteratur vanitas, Quam fallax sufflat Lucifer.",
-          "english": null,
+          "english": "He whom charity has trained\nIs a most worthy standard-bearer,\nThat vanity may be crushed,\nWhich deceitful Lucifer puffs up.",
           "sourcePages": [
             502
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              502
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0006",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The source prints “manuevit.” “Has trained” is conjectural; the Latin remains unchanged."
         },
         {
           "type": "prayer",
           "source": "Amor tumorem dejicit, Superbiam humilitas, Turgentes vidit ductiles Calore Phoebus nebulas.",
-          "english": null,
+          "english": "Love casts down swelling pride,\nAnd humility casts down arrogance;\nPhoebus beheld the swollen clouds\nMade pliant by warmth.",
           "sourcePages": [
             502
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              502
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "prayer",
           "source": "Ant. Charitas non exultatur, non inflatur, non est ambitiosa: sectamini charitatem, aemulamini spiritualia.",
-          "english": null,
+          "english": "Ant. Charity is not exalted, is not puffed up, is not ambitious: pursue charity, be zealous for spiritual things.",
           "sourcePages": [
             503
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              503
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0008",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The source prints “non exultatur”; the literal rendering “is not exalted” is retained instead of substituting a standard biblical text."
         },
         {
           "type": "rubric",
@@ -897,7 +1146,20 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0009",
-          "verification": "pending"
+          "verification": "pending",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014",
+              "matins-b0015"
+            ],
+            "sourcePages": [
+              503
+            ],
+            "note": "The printed reference repeats the indicated prayer group from this office’s Matins; abbreviations within the target are retained."
+          }
         }
       ]
     },
@@ -912,14 +1174,21 @@
         {
           "type": "prayer",
           "source": "Sanctus Franciscus de Paula incomparabile miraculum caritatis.",
-          "english": null,
+          "english": "Saint Francis of Paola, an incomparable miracle of charity.",
           "sourcePages": [
             503
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              503
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -987,50 +1256,84 @@
         {
           "type": "prayer",
           "source": "Ignas domat, et aequora, Terras, flatusque aetheris, Dat lingua mutis organa, Et caecis usum luminis;",
-          "english": null,
+          "english": "He tames fires and seas,\nEarth and the winds of the air;\nHis tongue gives speech to the mute,\nAnd to the blind the use of sight;",
           "sourcePages": [
             503
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              503
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed “Ignas” and the compressed “Dat lingua mutis organa” are irregular; the English is provisional."
         },
         {
           "type": "prayer",
           "source": "Binis amorum nexibus Tum Numini, tum Proximi Miraclis claret pluribus Aeterno plenus Principi;",
-          "english": null,
+          "english": "Through the twofold bonds of love,\nBoth of God and of his neighbour,\nHe shines with many miracles,\nFilled with the eternal Prince;",
           "sourcePages": [
             503
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              503
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0006",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "“Numini,” “Proximi,” “Miraclis,” and “Aeterno ... Principi” have irregular forms or syntax. The English is provisional."
         },
         {
           "type": "prayer",
           "source": "Nec diligenti potuit Ut Deus quidquam denegat, Quin, quo se plus abjicit, Hoc gratia plus eminet.",
-          "english": null,
+          "english": "Nor could God deny anything\nTo him who loved;\nRather, the more he casts himself down,\nThe more he excels in grace.",
           "sourcePages": [
             503
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              503
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0007",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed “Nec diligenti potuit Ut Deus quidquam denegat” is grammatically defective; its English is conjectural."
         },
         {
           "type": "prayer",
           "source": "Ant. Quanto magnus es, humilia te in omnibus, et coram Deo invenies gratiam: quoniam magna potentia Dei, et ab humilibus honoratur.",
-          "english": null,
+          "english": "Ant. The greater thou art, humble thyself in all things, and thou shalt find grace before God: for great is the power of God, and He is honoured by the humble.",
           "sourcePages": [
             503
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              503
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1051,7 +1354,20 @@
           },
           "alignment": "reviewed",
           "id": "none-b0009",
-          "verification": "pending"
+          "verification": "pending",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014",
+              "matins-b0015"
+            ],
+            "sourcePages": [
+              503
+            ],
+            "note": "The printed reference repeats the indicated prayer group from this office’s Matins; abbreviations within the target are retained."
+          }
         }
       ]
     },
@@ -1066,14 +1382,21 @@
         {
           "type": "prayer",
           "source": "Sanctus Franciscus de Paula annum nonagesimum primum die Parasceves moritur.",
-          "english": null,
+          "english": "Saint Francis of Paola dies on Good Friday in his ninety-first year.",
           "sourcePages": [
             503
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              503
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1141,50 +1464,84 @@
         {
           "type": "prayer",
           "source": "Die, qua fudit spiritum Christus in Crucis cathedra Franciscus hoc exilium Perennis intrat gloria,",
-          "english": null,
+          "english": "On the day when Christ gave up His spirit\nUpon the teaching seat of the Cross,\nFrancis [the printed “hoc exilium” is unresolved]\nEnters into everlasting glory,",
           "sourcePages": [
             503
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              503
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The source prints “hoc exilium Perennis intrat gloria.” Its connection with exile is unresolved; the readable entrance into glory remains provisional."
         },
         {
           "type": "prayer",
           "source": "Crucem dum tenens, coelici Amoris ictus spiculis, Pendens Jesu vertici Jungi meretur oculis,",
-          "english": null,
+          "english": "While holding the Cross, struck\nBy the darts of heavenly love,\n[The printed “Pendens Jesu vertici” is unresolved.]\nHe merits to be joined in sight,",
           "sourcePages": [
             503
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              503
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0006",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "“Pendens Jesu vertici” has no secure reading. The remaining phrase “Jungi ... oculis” is translated provisionally without completing the defective clause."
         },
         {
           "type": "prayer",
           "source": "Assuetus Christo vivere, Dux vitae postquam mortuus, Cum hoc et vitam cedere Eadem die cupidus.",
-          "english": null,
+          "english": "Accustomed to live with Christ,\nAfter the Leader of life had died,\nHe longs likewise to surrender his life\nWith Him upon the same day.",
           "sourcePages": [
             503
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              503
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "“Dux vitae postquam mortuus” has compressed syntax. The relation to Christ’s death is provisional."
         },
         {
           "type": "prayer",
           "source": "Ant. Si enim mortui sumus cum Christo, credimus, quia simul etiam vivemus cum Christo; scientes, quod Christus resurgens ex mortuis jam non moritur.",
-          "english": null,
+          "english": "Ant. For if we have died with Christ, we believe that we shall also live together with Christ; knowing that Christ, rising from the dead, dies now no more.",
           "sourcePages": [
             503
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              503
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1205,7 +1562,20 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0009",
-          "verification": "pending"
+          "verification": "pending",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014",
+              "matins-b0015"
+            ],
+            "sourcePages": [
+              503
+            ],
+            "note": "The printed reference repeats the indicated prayer group from this office’s Matins; abbreviations within the target are retained."
+          }
         }
       ]
     },
@@ -1221,14 +1591,22 @@
         {
           "type": "prayer",
           "source": "Sancti Francisci de Paula corpus incorruptum unicum Cruce ab haereticis combustur.",
-          "english": null,
+          "english": "The incorrupt body of Saint Francis of Paola [the printed “unicum Cruce” is unresolved] is burned by heretics.",
           "sourcePages": [
             503
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              503
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The PDF prints “unicum Cruce” and “combustur.” The former is unresolved, and “is burned” is a provisional reading of the latter."
         },
         {
           "type": "prayer",
@@ -1338,39 +1716,65 @@
         {
           "type": "prayer",
           "source": "Hunc, in quem tumba conditum Formidat marcor furere, Agmen audet haereticum In cineres comburere, Ut, qui tot vivus aspera Abs laurea martyrii Tulit, athletae viscera Jam concrementur mortui,",
-          "english": null,
+          "english": "Him whom decay fears to assail\nAs he lies buried in the tomb,\nA band of heretics dares\nTo burn to ashes,\nThat the body of the dead athlete\nMay now be consumed,\nWho in life bore so many hardships\n[The printed “Abs laurea martyrii” is unresolved.]",
           "sourcePages": [
             503,
             504
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              503,
+              504
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed “Abs laurea martyrii” is unresolved. The metaphor of the dead athlete and the remaining clauses are retained."
         },
         {
           "type": "prayer",
           "source": "Quo rosae, tectae antea Sub castitatis frigore, Amoris tinctae purpura Flagrante furgant corpore.",
-          "english": null,
+          "english": "That the roses, hidden before\nBeneath the coolness of chastity,\nDyed with the purple of love,\nMay rise from the burning body.",
           "sourcePages": [
             504
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              504
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0008",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The source prints “furgant”; “may rise” is conjectural."
         },
         {
           "type": "prayer",
           "source": "Ant. Qui curavit gentem suam, quasi flos rosarum in diebus vernis, quasi ignis effulgens, et thus redolens in diebus aestivis.",
-          "english": null,
+          "english": "Ant. He who cared for his people, like the flower of roses in the days of spring, like a shining fire and fragrant frankincense in the days of summer.",
           "sourcePages": [
             504
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              504
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1391,7 +1795,20 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0010",
-          "verification": "pending"
+          "verification": "pending",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0011",
+              "matins-b0012",
+              "matins-b0013",
+              "matins-b0014",
+              "matins-b0015"
+            ],
+            "sourcePages": [
+              504
+            ],
+            "note": "The printed reference repeats the indicated prayer group from this office’s Matins; abbreviations within the target are retained."
+          }
         }
       ]
     },
@@ -1406,62 +1823,102 @@
         {
           "type": "prayer",
           "source": "Francisce! laudes cordibus Has sume fusas intimis, Nuncen orans, coelestibus Ut nosque beet gaudiis.",
-          "english": null,
+          "english": "Francis, receive these praises\nPoured forth from our inmost hearts;\nPray to the Godhead\nThat He may bless us too with heavenly joys.",
           "sourcePages": [
             504
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              504
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "The printed “Nuncen” is irregular; the reading referring to the Godhead is conjectural."
         },
         {
           "type": "prayer",
           "source": "Humilitatem diligens Supernos inter satrapas Pro Christo dura patiens Jam sedes capis coelicas:",
-          "english": null,
+          "english": "Loving humility\nAmong the heavenly rulers,\nSuffering hardships for Christ,\nThou dost now obtain heavenly seats:",
           "sourcePages": [
             504
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              504
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "poetry": true
         },
         {
           "type": "prayer",
           "source": "Comburus qui post funera Levem versus in pulverem, Non sentiens incendia Evehis in martyrem.",
-          "english": null,
+          "english": "Burned after thy death,\nAnd changed into light dust,\nWithout feeling the flames,\nThou art raised to the rank of a martyr.",
           "sourcePages": [
             504
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              504
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0003",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "editorialNote": "“Comburus” and “Evehis in martyrem” have defective forms. The English is conjectural; this preserves the source’s devotional claim rather than certifying a historical title."
         },
         {
           "type": "prayer",
           "source": "Ant. Omnia ossa mea dicent: Domine quis similis tibi? eripiens inopem de manu fortiorum, et pauperem a diripientibus eum.",
-          "english": null,
+          "english": "Ant. All my bones shall say: Lord, who is like unto Thee? Delivering the needy from the hand of the stronger, and the poor from those who despoil him.",
           "sourcePages": [
             504
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              504
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "℣. Ora pro nobis sancte Francisce de Paula,",
-          "english": null,
+          "english": "℣. Pray for us, Saint Francis of Paola,",
           "sourcePages": [
             504
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              504
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1487,17 +1944,36 @@
         {
           "type": "prayer",
           "source": "Oremus, O sancte Francisce de Paula! mitissimi Jesu humilime imitator, in quo manifeste apparet, humilia Deum respicere, et esse mirabilem in sanctis suis, quique quem paternis intercessionibus beati Francisci Stephani consequum in filium, divina vero providentia in tenera adhuc aetate eduxit, ut humilitationis ac coarctationis solitudinem sponte ingressus, inter asperrimas corporis, animique mortificationes, sexenio ibidem delapseceres, donec adduce divino spiritu progressus faciam, plenamque humilitate Fratrum Minimorum originem fundas; etiam omnibus qua pluries, in summo ignis injectus, sicut nec pedem transgrediens mare, nec amnem innatans, incolumis evasisti, nec innumera illustratus prodigiis; quaesumus, benigne Pater, gloriosae coelorum laetitia! efficaciter apud Deum, ut et nos devoti clientes tui, ab infimo humilitatis gradu ad summum divini amoris culmen pertingere, unaque tecum atque omnibus sanctis, aeternis recreari gaudiis mereamur. Per Christum Dominum nostrum. Amen.",
-          "english": null,
+          "english": "Let us pray. O Saint Francis of Paola, most humble imitator of the most meek Jesus, in whom it plainly appears that God looks upon the humble and is wonderful in His saints! [The printed clause beginning “quique quem paternis intercessionibus” and naming “Francisci Stephani” is unresolved.] Divine providence brought thee forth while still of tender age, that, willingly entering the solitude of humiliation and restraint, amid the harshest mortifications of body and soul, thou mightest [the printed “sexenio ibidem delapseceres” is uncertain; it refers to six years there]. [The printed clause beginning “donec adduce divino spiritu” is unresolved; it speaks of the founding of the Friars Minims in humility.] [The printed account beginning “etiam omnibus qua pluries” is grammatically defective; it mentions being cast into fire, crossing the sea, swimming a river, and escaping unharmed.] [The printed “nec innumera illustratus prodigiis” is unresolved; it mentions innumerable wonders.] We beseech thee, kindly Father, [the printed “gloriosae coelorum laetitia” is uncertain] effectually before God, that we also, thy devoted clients, may deserve to attain from the lowest degree of humility unto the highest summit of divine love, and together with thee and all the saints to be refreshed with everlasting joys. Through Christ our Lord. Amen.",
           "sourcePages": [
             504
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              504
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commendatio-b0007",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The long printed prayer has several unintelligible or grammatically corrupt clauses. Their locations and legible subjects remain marked in English; no historical narrative or missing petition is imported to repair them."
         }
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "editorialNotes": [
+    {
+      "text": "All four printed pages were visually compared. The eight hours, their opening historical meditations, and the commendation remain. The seven “Verse and prayer as above” references expand the printed Matins versicle, response, and collect from this office only. Malformed Latin and historical ages remain as printed; uncertain meanings and corrupt clauses are explicitly provisional or unresolved in English. Abbreviated conclusions remain abbreviated. Hymn line divisions are represented in the prepared English.",
+      "pages": [
+        501,
+        502,
+        503,
+        504
+      ]
+    }
+  ]
 }

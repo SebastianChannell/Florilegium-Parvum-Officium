@@ -2646,9 +2646,9 @@
       },
       "coverage": {
         "blocks": 98,
-        "missingEnglish": 87,
+        "missingEnglish": 86,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 11
+        "preparedEnglish": 12
       }
     },
     {
@@ -9683,15 +9683,15 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-prepared-reading-pending",
+        "verification": "source-reading-pending"
       },
       "coverage": {
         "blocks": 96,
-        "missingEnglish": 50,
+        "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 46
+        "preparedEnglish": 96
       }
     },
     {
@@ -12827,15 +12827,15 @@
         }
       ],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-prepared-reading-pending",
+        "verification": "source-reading-pending"
       },
       "coverage": {
         "blocks": 85,
-        "missingEnglish": 46,
+        "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 39
+        "preparedEnglish": 85
       }
     },
     {
@@ -13459,15 +13459,15 @@
         }
       ],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-prepared-reading-pending",
+        "verification": "source-reading-pending"
       },
       "coverage": {
         "blocks": 94,
-        "missingEnglish": 46,
+        "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 48
+        "preparedEnglish": 94
       }
     },
     {

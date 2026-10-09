@@ -792,14 +792,25 @@
         {
           "type": "prayer",
           "source": "℟. Cum Dominus ad judicandum venerit.",
-          "english": null,
+          "english": "℟. When the Lord shall come to judge.",
           "sourcePages": [
             87
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-s-michael-the-archangel",
+            "reusedFrom": "compline-b0011",
+            "sourcePages": [
+              87
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0010",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         }
       ]
     },
