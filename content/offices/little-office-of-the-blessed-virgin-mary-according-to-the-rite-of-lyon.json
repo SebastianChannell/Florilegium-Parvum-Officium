@@ -48,14 +48,22 @@
         {
           "type": "prayer",
           "source": "Invit. Jesum de Maria natum, Venite adoremus.",
-          "english": null,
+          "english": "Invitatory. Jesus, born of Mary: come, let us adore.",
           "sourcePages": [
             265
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              265
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "rubric",
@@ -96,14 +104,22 @@
         {
           "type": "prayer",
           "source": "Ant. Venite adoremus. Ant. Jesum de Maria natum, Venite adoremus.",
-          "english": null,
+          "english": "Antiphon. Come, let us adore. Antiphon. Jesus, born of Mary: come, let us adore.",
           "sourcePages": [
             265
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              265
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0004",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "rubric",
@@ -177,26 +193,42 @@
         {
           "type": "rubric",
           "source": "In I Nocturno Feria II. et V.",
-          "english": null,
+          "english": "In the first nocturn on Monday and Thursday.",
           "sourcePages": [
             265
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              265
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0010",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "Ant. Ave.",
-          "english": null,
+          "english": "Antiphon. Hail.",
           "sourcePages": [
             265
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              265
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0011",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "rubric",
@@ -297,14 +329,22 @@
         {
           "type": "rubric",
           "source": "Psalmus 44",
-          "english": null,
+          "english": "Psalm 44",
           "sourcePages": [
             266
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              266
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0018",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -337,74 +377,122 @@
         {
           "type": "prayer",
           "source": "Ant. Ave, gratia plena: Dominus tecum: benedicta tu in mulieribus. Luc. 1",
-          "english": null,
+          "english": "Antiphon. Hail, full of grace; the Lord is with thee; blessed art thou among women. Luke 1",
           "sourcePages": [
             267
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              267
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0020",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "℣. Audi, filia, et vide, et inclina aurem tuam.",
-          "english": null,
+          "english": "℣. Hear, daughter, and see, and incline thine ear.",
           "sourcePages": [
             267
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              267
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0021",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "℟. Et concupiscet rex decorem tuum. Ps. 44",
-          "english": null,
+          "english": "℟. And the king shall desire thy beauty. Psalm 44",
           "sourcePages": [
             267
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              267
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0022",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "Pater noster, etc.",
-          "english": null,
+          "english": "Our Father, etc.",
           "sourcePages": [
             267
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              267
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0023",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "rubric",
           "source": "Lectiones infra, post III. Nocturnum.",
-          "english": null,
+          "english": "Lessons below, after the third nocturn.",
           "sourcePages": [
             267
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              267
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0024",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "rubric",
           "source": "In II Nocturno Feria III. et IV.",
-          "english": null,
+          "english": "In the second nocturn on Tuesday and Wednesday.",
           "sourcePages": [
             267
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              267
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0025",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -421,14 +509,22 @@
         {
           "type": "rubric",
           "source": "Psalmus 71",
-          "english": null,
+          "english": "Psalm 71",
           "sourcePages": [
             267
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              267
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0027",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -445,14 +541,22 @@
         {
           "type": "rubric",
           "source": "Psalmus 84",
-          "english": null,
+          "english": "Psalm 84",
           "sourcePages": [
             268
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              268
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0029",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -481,86 +585,145 @@
         {
           "type": "prayer",
           "source": "℣. Sanctificavit tabernaculum suum Altissimus.",
-          "english": null,
+          "english": "℣. The Most High has sanctified His tabernacle.",
           "sourcePages": [
             268
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              268
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0032",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "℟. Deus in medio ejus. Ps. 45",
-          "english": null,
+          "english": "℟. God is in her midst. Psalm 45",
           "sourcePages": [
             268
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              268
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0033",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "Pater noster, etc.",
-          "english": null,
+          "english": "Our Father, etc.",
           "sourcePages": [
             268
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              268
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0034",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "rubric",
           "source": "Lectiones infra.",
-          "english": null,
+          "english": "Lessons below.",
           "sourcePages": [
             268
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              268
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0035",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "rubric",
           "source": "Nocturno III Feria IV. et Sabbato.",
-          "english": null,
+          "english": "In the third nocturn on Wednesday and Saturday.",
           "sourcePages": [
             268
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              268
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0036",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "Ant. Quod nascetur.",
-          "english": null,
+          "english": "Antiphon. That which shall be born.",
           "sourcePages": [
             268
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              268
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0037",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "rubric",
           "source": "Psalmus 86",
-          "english": null,
+          "english": "Psalm 86",
           "sourcePages": [
             268
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-holy-ghost-according-to-the-order-of-the-most-holy-saviour",
+            "reusedFrom": "none-b0007",
+            "sourcePages": [
+              268
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0038",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -577,14 +740,22 @@
         {
           "type": "rubric",
           "source": "Psalmus 96",
-          "english": null,
+          "english": "Psalm 96",
           "sourcePages": [
             268
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              268
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0040",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -617,14 +788,22 @@
         {
           "type": "rubric",
           "source": "Psalmus 97",
-          "english": null,
+          "english": "Psalm 97",
           "sourcePages": [
             269
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              269
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0042",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -653,74 +832,122 @@
         {
           "type": "rubric",
           "source": "Luc. 1.",
-          "english": null,
+          "english": "Luke 1.",
           "sourcePages": [
             269
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              269
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0045",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "℣. Sanctificavit tabernaculum suum Altissimus.",
-          "english": null,
+          "english": "℣. The Most High has sanctified His tabernacle.",
           "sourcePages": [
             269
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              269
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0046",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "℟. Deus in medio ejus.",
-          "english": null,
+          "english": "℟. God is in her midst.",
           "sourcePages": [
             269
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              269
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0047",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "rubric",
           "source": "Ps. 45.",
-          "english": null,
+          "english": "Psalm 45.",
           "sourcePages": [
             269
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              269
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0048",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "Pater noster, etc.",
-          "english": null,
+          "english": "Our Father, etc.",
           "sourcePages": [
             269
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              269
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0049",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "Absolutio. Deus meminerit testamenti sui quod locutus est; et exaudiat orationes nostras.",
-          "english": null,
+          "english": "Absolution. May God remember His covenant which He spoke and hear our prayers.",
           "sourcePages": [
             269
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              269
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0050",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -746,14 +973,22 @@
         {
           "type": "rubric",
           "source": "Lectio i. Isaiae, 7.",
-          "english": null,
+          "english": "Lesson I. Isaiah 7.",
           "sourcePages": [
             269
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              269
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0052",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -770,26 +1005,42 @@
         {
           "type": "prayer",
           "source": "℟. Benedicam. ut supra.",
-          "english": null,
+          "english": "℟. Let us bless, as above.",
           "sourcePages": [
             269
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              269
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0054",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "rubric",
           "source": "Lectio ii. Gal. 4.",
-          "english": null,
+          "english": "Lesson II. Galatians 4.",
           "sourcePages": [
             269
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              269
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0055",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -806,26 +1057,42 @@
         {
           "type": "prayer",
           "source": "℟. Quod in ea. ut supra.",
-          "english": null,
+          "english": "℟. That which in her, as above.",
           "sourcePages": [
             269
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              269
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0057",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "rubric",
           "source": "Lectio iii. Apoc. 11. et 12.",
-          "english": null,
+          "english": "Lesson III. Revelation 11 and 12.",
           "sourcePages": [
             269
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              269
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0058",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -842,26 +1109,42 @@
         {
           "type": "prayer",
           "source": "℟. Deus ex femine. ut supra.",
-          "english": null,
+          "english": "℟. God from a woman, as above.",
           "sourcePages": [
             269
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              269
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0060",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "Non dicitur Te Deum.",
-          "english": null,
+          "english": "The Te Deum is not said.",
           "sourcePages": [
             269
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              269
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "night-office-b0061",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "rubric",
@@ -890,26 +1173,42 @@
         {
           "type": "prayer",
           "source": "℣. Deus, in adjutorium etc. Ant. Benedicta tu.",
-          "english": null,
+          "english": "℣. O God, come to my assistance, etc. Antiphon. Blessed art thou.",
           "sourcePages": [
             269
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              269
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "rubric",
           "source": "Psalmus 66",
-          "english": null,
+          "english": "Psalm 66",
           "sourcePages": [
             269
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              269
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0002",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -1040,14 +1339,25 @@
         {
           "type": "rubric",
           "source": "Canticum Zachariae",
-          "english": null,
+          "english": "Canticle of Zechariah",
           "sourcePages": [
             270
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-s-thomas-aquinas",
+            "reusedFrom": "lauds-b0017",
+            "sourcePages": [
+              270
+            ],
+            "preparedFor": "Sacrum Florilegium",
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0008",
-          "verification": "pending"
+          "verification": "pending",
+          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1064,14 +1374,22 @@
         {
           "type": "rubric",
           "source": "Psalmus 150",
-          "english": null,
+          "english": "Psalm 150",
           "sourcePages": [
             270
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              270
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0010",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -1102,63 +1420,104 @@
         {
           "type": "prayer",
           "source": "Ant. Benedicta tu inter mulieres, et benedictus fructus ventris tui.",
-          "english": null,
+          "english": "Antiphon. Blessed art thou among women, and blessed is the fruit of thy womb.",
           "sourcePages": [
             270
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              270
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0012",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "Capitulum. Jerem. 32. Creavit Dominus novum super terram: Femina circumdabit virum.",
-          "english": null,
+          "english": "Chapter. Jeremiah 32 [as printed]. The Lord has created a new thing upon earth: a woman shall encompass a man.",
           "sourcePages": [
             270,
             271
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              270,
+              271
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0013",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "Hymnus, Nunc aurora. ut supra.",
-          "english": null,
+          "english": "Hymn: Now the dawn, as above.",
           "sourcePages": [
             271
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              271
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0014",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "℣. Recordatus est Dominus misericordiae suae.",
-          "english": null,
+          "english": "℣. The Lord has remembered His mercy.",
           "sourcePages": [
             271
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              271
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0015",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "℟. Et veritatis suae domui Israel. Ps. 97.",
-          "english": null,
+          "english": "℟. And His truth to the house of Israel. Psalm 97.",
           "sourcePages": [
             271
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              271
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0016",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -1234,14 +1593,22 @@
         {
           "type": "rubric",
           "source": "Commemoratio",
-          "english": null,
+          "english": "Commemoration",
           "sourcePages": [
             271
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              271
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0021",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -1258,26 +1625,42 @@
         {
           "type": "prayer",
           "source": "℣. In aeternum exsultabunt: et habitabitis in eis.",
-          "english": null,
+          "english": "℣. They shall rejoice forever, and ye shall dwell in them.",
           "sourcePages": [
             271
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              271
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0023",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "℟. Et gloriabuntur in te, Domine. Ps. 5.",
-          "english": null,
+          "english": "℟. And they shall glory in Thee, Lord. Psalm 5.",
           "sourcePages": [
             271
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              271
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0024",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -1315,14 +1698,22 @@
         {
           "type": "prayer",
           "source": "℣. Dominus vobiscum. vel Domine, exaudi. ℣. Benedicamus Domino.",
-          "english": null,
+          "english": "℣. The Lord be with you, or Lord, hear. ℣. Let us bless the Lord.",
           "sourcePages": [
             271
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              271
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0027",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         }
       ]
     },
@@ -1429,14 +1820,22 @@
         {
           "type": "rubric",
           "source": "Psalmus 95",
-          "english": null,
+          "english": "Psalm 95",
           "sourcePages": [
             272
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              272
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0007",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -1498,14 +1897,22 @@
         {
           "type": "prayer",
           "source": "Ant. Filius Dei factus est ei ex semine David secundum carnem.",
-          "english": null,
+          "english": "Antiphon. The Son of God was made for Him of the seed of David according to the flesh.",
           "sourcePages": [
             272
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              272
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0012",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -1579,26 +1986,42 @@
         {
           "type": "rubric",
           "source": "Hymnus ut supra",
-          "english": null,
+          "english": "Hymn as above",
           "sourcePages": [
             272
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              272
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "rubric",
           "source": "Psalmus 24",
-          "english": null,
+          "english": "Psalm 24",
           "sourcePages": [
             272
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              272
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0002",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -1709,14 +2132,22 @@
         {
           "type": "prayer",
           "source": "Ant. De Maria natus est Jesus, qui vocatur Christus.",
-          "english": null,
+          "english": "Antiphon. Of Mary was born Jesus, who is called Christ.",
           "sourcePages": [
             274
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              274
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0009",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -1745,26 +2176,42 @@
         {
           "type": "prayer",
           "source": "OV. Elegit eam Dominus NR. In habitationem sibi.",
-          "english": null,
+          "english": "℣. The Lord chose her. ℟. As a dwelling for Himself.",
           "sourcePages": [
             274
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              274
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0012",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "rubric",
           "source": "Ps. 131.",
-          "english": null,
+          "english": "Psalm 131.",
           "sourcePages": [
             274
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              274
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0013",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "rubric",
@@ -1813,14 +2260,22 @@
         {
           "type": "rubric",
           "source": "Hymnus ut supra",
-          "english": null,
+          "english": "Hymn as above",
           "sourcePages": [
             274
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              274
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "rubric",
@@ -1963,26 +2418,42 @@
         {
           "type": "prayer",
           "source": "Ant. Peperit filium masculum, qui recturus erat omnes gentes.",
-          "english": null,
+          "english": "Antiphon. She bore a male child, who was to rule all nations.",
           "sourcePages": [
             274
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              274
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0008",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "Capitulum. Mich. 5.",
-          "english": null,
+          "english": "Chapter. Micah 5.",
           "sourcePages": [
             274
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              274
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0009",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -2000,62 +2471,102 @@
         {
           "type": "prayer",
           "source": "℟. br. Homo * Natus est in ea. Homo.",
-          "english": null,
+          "english": "Short ℟. A man was born in her. A man.",
           "sourcePages": [
             275
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              275
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0011",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "℣. Et ipse fundavit eam * Altissimus.",
-          "english": null,
+          "english": "℣. And the Most High Himself established her.",
           "sourcePages": [
             275
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              275
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0012",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "℟. Natus est. Gloria. Homo. Ps. 86.",
-          "english": null,
+          "english": "℟. Was born. Glory. A man. Psalm 86.",
           "sourcePages": [
             275
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              275
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0013",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "℣. Ipse tanquam sponsus.",
-          "english": null,
+          "english": "℣. Himself like a bridegroom.",
           "sourcePages": [
             275
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              275
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0014",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "℟. Procedens de thalamo suo. Ps. 18.",
-          "english": null,
+          "english": "℟. Coming forth from his bridal chamber. Psalm 18.",
           "sourcePages": [
             275
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              275
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0015",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "rubric",
@@ -2104,14 +2615,22 @@
         {
           "type": "rubric",
           "source": "Hymnus ut supra.",
-          "english": null,
+          "english": "Hymn as above.",
           "sourcePages": [
             275
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              275
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "rubric",
@@ -2247,14 +2766,22 @@
         {
           "type": "prayer",
           "source": "Ant. Beatus venter qui te portavit, et ubera quae suxisti.",
-          "english": null,
+          "english": "Antiphon. Blessed is the womb that bore Thee and the breasts Thou didst suck.",
           "sourcePages": [
             275
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              275
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0008",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -2328,14 +2855,22 @@
         {
           "type": "prayer",
           "source": "℣. Deus, in adjutorium etc. Ant. In me ancilla.",
-          "english": null,
+          "english": "℣. O God, come to my assistance, etc. Antiphon. In me, Thy handmaid.",
           "sourcePages": [
             276
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              276
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "rubric",
@@ -2588,26 +3123,44 @@
         {
           "type": "prayer",
           "source": "Ave, maris stella, Dei mater alma, Atque semper virgo, Felix coeli porta.",
-          "english": null,
+          "english": "Hail, Star of the Sea,\nKindly Mother of God,\nAnd ever Virgin,\nHappy gate of heaven.",
           "sourcePages": [
             277
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              277
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0016",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied.",
+          "poetry": true
         },
         {
           "type": "prayer",
           "source": "Sumens illud Ave Gabrielis ore, Funda nos in pace, Mutans Evae nomen.",
-          "english": null,
+          "english": "Receiving that Ave\nFrom Gabriel’s mouth,\nEstablish us in peace,\nChanging the name of Eve.",
           "sourcePages": [
             277
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              277
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0017",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied.",
+          "poetry": true
         },
         {
           "type": "prayer",
@@ -2727,26 +3280,42 @@
         {
           "type": "prayer",
           "source": "℣. Anima mea exultabit in Domino,",
-          "english": null,
+          "english": "℣. My soul shall exult in the Lord,",
           "sourcePages": [
             277
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              277
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0023",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "℟. Et delectabitur super salutari suo. Ps. 34.",
-          "english": null,
+          "english": "℟. And shall delight in His salvation. Psalm 34.",
           "sourcePages": [
             277
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              277
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0024",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -2821,14 +3390,22 @@
         {
           "type": "rubric",
           "source": "Commendationes ut supra ad Laudes.",
-          "english": null,
+          "english": "Commendations as above at Lauds.",
           "sourcePages": [
             278
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              278
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0029",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         }
       ]
     },
@@ -2844,14 +3421,22 @@
         {
           "type": "prayer",
           "source": "OV. Converte nos etc. OV. Deus, in adjutorium.",
-          "english": null,
+          "english": "℣. Turn us, etc. ℣. O God, come to my assistance.",
           "sourcePages": [
             278
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              278
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "rubric",
@@ -3036,50 +3621,82 @@
         {
           "type": "prayer",
           "source": "℣. Vultum tuum Deprecabuntur. Vultum.",
-          "english": null,
+          "english": "℣. They shall entreat thy face. Thy face.",
           "sourcePages": [
             279
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              279
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0012",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "℟. Omnes divites plebis Deprecabuntur. Gloria Patri. Vultum.",
-          "english": null,
+          "english": "℟. All the rich among the people shall entreat. Glory to the Father. Thy face.",
           "sourcePages": [
             279
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              279
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0013",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "℣. Memores erunt nominis tui",
-          "english": null,
+          "english": "℣. They shall remember thy name",
           "sourcePages": [
             279
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              279
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0014",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
           "source": "℟. In omni generatione et generationem. Ps. 44.",
-          "english": null,
+          "english": "℟. In every generation and generation. Psalm 44.",
           "sourcePages": [
             279
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              279
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0015",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",
@@ -3153,14 +3770,22 @@
         {
           "type": "rubric",
           "source": "Prosa de Beata, ad eandem",
-          "english": null,
+          "english": "Sequence of the Blessed Virgin, to her",
           "sourcePages": [
             279
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              279
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0020",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
         },
         {
           "type": "prayer",

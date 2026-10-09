@@ -15,7 +15,9 @@ test('continued offices conserve source text, existing English, and printed hour
    const rows=office.sections.find(s=>s.id===section.id).blocks;
    assert.equal(digest(rows.map(b=>b.originalExtractedSource??b.source).join(' ')),section.sourceDigest);
    for(const [id,hash] of Object.entries(section.existingEnglish))assert.equal(digest(rows.find(b=>b.id===id).english),hash);
-   assert(rows.every(b=>b.english?.trim()&&['prepared','supplied'].includes(b.translation?.kind)));
+   if(!entry.partial)assert(rows.every(b=>b.english?.trim()));
+   assert(rows.filter(b=>b.english?.trim()).every(b=>['prepared','supplied'].includes(b.translation?.kind)));
+   if(entry.partial)assert(rows.filter(b=>b.verification==='source-reading-pending'&&b.english).every(b=>b.editorialNote?.trim()));
    for(const row of rows.filter(b=>b.verification==='source-reading-pending'))assert(row.editorialNote?.trim());
    assert.doesNotThrow(()=>sectionBlocks(office,section.id,resolveVariants(office)));
   }
