@@ -2,9 +2,9 @@
 
 English coverage is complete across the 82 offices: 11,282 rows, zero missing aligned English and zero unpaired supplied-English rows. This is an editorial preview, not a release-ready edition.
 
-This pass visually reviewed all eight English-only offices (Holy Tear, Bonaventure Passion, Immaculate Heart, Akathist, Dominic, Gertrude, Norbert and Serotina). Twenty-seven offices now have full visual review. The other 55 offices still require source and translation review. The current target is 20 remaining offices.
+This pass visually reviewed all eight English-only offices (Holy Tear, Bonaventure Passion, Immaculate Heart, Akathist, Dominic, Gertrude, Norbert and Serotina). Thirty-seven offices now have full visual review. The other 45 offices still require source and translation review. The current target of 45 remaining offices has been reached.
 
-The strict release audit reports 4,607 outstanding checks: 4,541 passage reviews, 55 office reviews and 11 unresolved references. Prepared English attached to malformed Latin remains provisional; English coverage alone does not certify it.
+The strict release audit reports 4,544 outstanding checks: 4,488 passage reviews, 45 office reviews and 11 unresolved references. Prepared English attached to malformed Latin remains provisional; English coverage alone does not certify it.
 
 ## Reader corrections
 
@@ -44,4 +44,12 @@ Nine further offices have completed review: Sacred Heart (43–48), Joseph (420�
 
 The cited 1879 Coeleste Palmetum scan resolves Holy Ghost’s cœlos and the Dead’s defective hymn lines. Barbara’s sanabo is confirmed in both editions and now translated literally as heal; the prior conjectural singing translation is withdrawn. The 1745 Officium Rakoczianum supports readings in Xavier, Borgia and Aloysius. It is explicitly identified as an earlier edition: this comparison does not verify the cited 1783 edition. Attached Latin remains unchanged, and every adopted earlier reading has a visible note. Literal oddities, including Borgia’s power of demons, remain literal rather than silently acquiring a new meaning.
 
-`content/source-reading-reviews.json` records the book URLs, downloaded PDF SHA-256 hashes, page numbers and checked readings. Validation rejects missing records, mismatched readings, absent source fragments and malformed book provenance. Source digests and original supplied-English fixtures remain intact. The reduction from 64 to 55 pending offices is a review checkpoint; work toward 20 continues.
+`content/source-reading-reviews.json` records the book URLs, downloaded PDF SHA-256 hashes, page numbers and checked readings. Validation rejects missing records, mismatched readings, absent source fragments and malformed book provenance. Source digests and original supplied-English fixtures remain intact. The pending office count is now 45; the release gate remains intact.
+
+## Restored and completed review checkpoint
+
+Seven previously completed local reviews were restored after the workspace reset: Holy Name of Jesus (38–42), the three Japanese martyrs (545–547), Alexius (440–442), Stanislaus Kostka (602–604), Seven Dolours (395–397), Ignatius and Xavier (520–522), and Holy Ghost for obtaining true love (100–102). Their source-reading evidence and original prepared English are retained. The Holy Name hymn is corroborated by the undated CMAA Anerio score; the true-love hymn uses a comparison witness in Paradisus animae Christianae (1683). Neither witness certifies the office edition cited in the compilation.
+
+Three additional offices completed full review: Ludger (555–560), Joachim and Anne (527–530), and Anne (436–439). Ludger was compared with the ULB Düsseldorf original booklet, catalogued after 1712; the 1712 date inside concerns indulgences and is not represented as a publication colophon. The printed persecutionem, lessus (lamentations), and conscendisti repair defective prepared English. Angliam is retained as printed; lucis is read as the ablative plural of lucus, groves. Joachim and Anne were compared with the cited Palmetum 1879 PDF 300–304: Marite resolves the unclear address, missing hymn lines are restored in prepared English, and the offering concerns a pair of turtledoves and the speaker’s heart. Anne uses earlier Rakoczianum 1745 PDF 225–227; its unusual stella maris address is retained literally with a visible ambiguity note, without certifying 1783.
+
+Three reused English rubrics said Lent although the Latin begins at Septuagesima. Their corrected English is now prepared, with original English and exact reuse provenance retained. Regression fixtures check both the original and the explicitly reviewed correction; source digests are unchanged. There are 7,728 prepared English rows, zero missing English and 11 unresolved references.

@@ -117,7 +117,9 @@
           "commendatio-b0002": "d07a178bc193c1910055e2cfd1e2c19eece00b6cd3368d5e96308f79539eaad3"
         }
       }
-    ]
+    ],
+    "verification": "visual-review",
+    "verificationReview": "All 88 rows and English reviewed against attached 436–439 and earlier 1745 PDF 225–227. Matins hymn variant and Infecunda documented; parens corrected, unusual stella maris address retained literally with visible ambiguity note, without certifying 1783."
   },
   {
     "office": "little-office-of-s-barbara-virgin-and-martyr-for-the-purpose-of-asking-for-a-blessed-death",
@@ -953,6 +955,12 @@
           "matins-b0019": "f5a08ee0e91a17650d17f2822d76f9c7348091d3dbc48746c33601a108416a22",
           "matins-b0020": "6033d788f66d080c345c33278becc9d225fc0d279b6fffc7715f899e58f19f75",
           "matins-b0021": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "reviewedEnglishCorrections": {
+          "matins-b0008": {
+            "digest": "5d10c1829eacee0a8d35d81401dfbb1560544bbab628b0da630236e339a685bc",
+            "review": "The Latin and printed source start at Septuagesima, before Lent; original reused English and provenance are retained."
+          }
         }
       },
       {
@@ -1034,7 +1042,9 @@
         "sourceDigest": "0f6caa9de7360dc903e216a117aa3d2541a81fa03396cdabe7f18fc6a308da53",
         "existingEnglish": {}
       }
-    ]
+    ],
+    "verification": "visual-review",
+    "verificationReview": "All 75 rows reviewed; comparison Palmetum 1879 PDF 305–307 supports six readings, fixes negation and the lowliest/greatest, without certifying cited 1783. Septuagesima rubric corrected."
   },
   {
     "office": "little-office-of-the-holy-three-japanese-martyrs-john-paul-and-james-of-the-society-of-jesus",
@@ -1125,7 +1135,9 @@
           "commendatio-b0004": "26b82583e84b713174e1be5a3777aa491a66574f984b6a30ef2863d3dbd53e8e"
         }
       }
-    ]
+    ],
+    "verification": "visual-review",
+    "verificationReview": "All 61 attached rows and English reviewed; three doubtful readings corroborated in the 1745 edition, PDF pages 338–341, without certifying 1783."
   },
   {
     "office": "little-office-of-s-john-of-god-whose-fiery-birth-was-revealed-by-divine-intervention",
@@ -1843,7 +1855,9 @@
         "sourceDigest": "acee3c40e6b1d0904252327d169ebf1c71ec208f58a10b1d2fbd0e9492943764",
         "existingEnglish": {}
       }
-    ]
+    ],
+    "verification": "visual-review",
+    "verificationReview": "All 85 attached rows and English reviewed with 1745 PDF pages 248–251; documented substantial antiphon variant, hymn corrections, and literal foenore/Irus, without changing attached Latin."
   },
   {
     "office": "little-office-of-ss-joachim-and-anna",
@@ -1869,6 +1883,12 @@
           "matins-b0018": "f5a08ee0e91a17650d17f2822d76f9c7348091d3dbc48746c33601a108416a22",
           "matins-b0019": "6033d788f66d080c345c33278becc9d225fc0d279b6fffc7715f899e58f19f75",
           "matins-b0020": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "reviewedEnglishCorrections": {
+          "matins-b0007": {
+            "digest": "5d10c1829eacee0a8d35d81401dfbb1560544bbab628b0da630236e339a685bc",
+            "review": "The Latin and printed source start at Septuagesima, before Lent; original reused English and provenance are retained."
+          }
         }
       },
       {
@@ -1945,7 +1965,9 @@
         "sourceDigest": "90cdf90205d13f6cd43f5d77c3ced3687c5e0958f655b10a672b4d77c0b461e5",
         "existingEnglish": {}
       }
-    ]
+    ],
+    "verification": "visual-review",
+    "verificationReview": "All 72 rows and English reviewed against attached 527–530 and cited Palmetum 1879 PDF 300–304. Marite, missing Prime/Oblation lines, reciprocal bond, hundred cohorts, Jesse root, and turtledoves/heart offering checked; Septuagesima corrected with original reuse provenance retained."
   },
   {
     "office": "little-office-of-s-philip-neri-founder-of-the-congregation-of-the-oratory",
@@ -2233,7 +2255,7 @@
   },
   {
     "office": "little-office-of-s-stanislaus-kostka",
-    "verification": "source-reading-pending",
+    "verification": "visual-review",
     "sections": [
       {
         "id": "matins",
@@ -2321,7 +2343,8 @@
           "commendatio-b0006": "26b82583e84b713174e1be5a3777aa491a66574f984b6a30ef2863d3dbd53e8e"
         }
       }
-    ]
+    ],
+    "verificationReview": "All 75 rows and English reviewed against attached pages and 1745 PDF 335–338; eight documented variant readings, with corculum retained as endearment and no inferred historical battle."
   },
   {
     "office": "little-office-of-s-liborius-bishop-great-miracle-worker-and-special-patron-against-kidney-stones",
@@ -2442,6 +2465,12 @@
           "matins-b0007": "6d7eb02b7fce05afe50d1fd8c884f396aef11e3d03c2950226fe2808b0981083",
           "matins-b0008": "4fa4f8e3ea2f34e153d0998e74a8535c963aa858aaeb6727c9efcf98a879d88c",
           "matins-b0009": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d"
+        },
+        "reviewedEnglishCorrections": {
+          "matins-b0008": {
+            "digest": "5d10c1829eacee0a8d35d81401dfbb1560544bbab628b0da630236e339a685bc",
+            "review": "The Latin and printed source start at Septuagesima, before Lent; original reused English and provenance are retained."
+          }
         }
       },
       {
@@ -2506,7 +2535,9 @@
         "sourceDigest": "114290a29f3641d23ecd41ae1ec59ff3fe4440e9eb9a467cec3003ae4e866505",
         "existingEnglish": {}
       }
-    ]
+    ],
+    "verification": "visual-review",
+    "verificationReview": "All 84 rows reviewed against attached pages and cited Palmetum 1879 PDF 314–316; eight corrected readings and Septuagesima rubric translated as prepared English."
   },
   {
     "office": "little-office-of-s-dismas-the-penitent-thief-patron-of-the-dying-and-those-in-sudden-danger-of-death",
@@ -2939,7 +2970,9 @@
         "sourceDigest": "112f9f044b399cac95ff8f1b118441cb09a58f39014df171e22446a2e3775343",
         "existingEnglish": {}
       }
-    ]
+    ],
+    "verification": "visual-review",
+    "verificationReview": "All 117 rows and English reviewed against attached PDF 555–560 and original booklet PDF 5–16. Seven pending readings resolved and Lauds conscendisti corrected; Angliam retained literally, lucis parsed as groves, lessus as lamentations. Library witness dated after 1712, not asserted as exact 1712."
   },
   {
     "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",

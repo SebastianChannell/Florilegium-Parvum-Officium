@@ -30,7 +30,7 @@
   "status": {
     "extraction": "reviewed",
     "translation": "complete-prepared",
-    "verification": "source-reading-pending"
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -189,11 +189,24 @@
         {
           "type": "rubric",
           "source": "A Septuagesima usque ad Pascha, loco Alleluia, dicitur: Laus tibi, Domine, Rex aeternae gloriae.",
-          "english": "During Lent until Easter, instead of the alleluia the following is said: Praise to Thee, O Lord, King of everlasting glory.",
+          "english": "From Septuagesima until Easter, instead of Alleluia, the following is said: Praise to Thee, O Lord, King of everlasting glory.",
           "sourcePages": [
             520
           ],
           "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              520
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0008",
+          "verification": "visual-review",
+          "editorialNote": "The printed season starts at Septuagesima, before Lent. Prepared English corrects the reused Lent rubric; original English and reuse provenance are retained.",
+          "originalPreparedEnglish": "During Lent until Easter, instead of the alleluia the following is said: Praise to Thee, O Lord, King of everlasting glory.",
+          "originalTranslation": {
             "kind": "supplied",
             "method": "exact-reviewed-pdf-reuse",
             "reusedFromOffice": "little-office-of-the-blessed-sacrament",
@@ -202,13 +215,9 @@
               54
             ]
           },
-          "alignment": "reviewed",
-          "id": "matins-b0008",
-          "verification": "visual-review",
-          "englishPages": [
+          "originalEnglishPages": [
             54
-          ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription has also been compared with its printed PDF pages. The original Latin says Septuagesima; the supplied English says Lent. These differing printed terms are retained."
+          ]
         },
         {
           "type": "rubric",
@@ -234,7 +243,7 @@
         {
           "type": "prayer",
           "source": "O Ignati, militantis Clara fax Ecclesiae! O Xaveri, daventis Sidus et lux Indiae! Vos honorent, quotquot ambit Phoebus orbis climata, Quaqua pontum sero lambit, Quaqua tollit lumina.",
-          "english": "O Ignatius, bright torch of the Church militant! O Xavier, star and light of India [unclear printed adjective: “daventis”]! May all the regions of the world encompassed by Phoebus honour you, wherever at evening he touches the sea, wherever he lifts his light.",
+          "english": "O Ignatius, bright torch of the Church militant! O Xavier, star and light of straying India! May all the regions of the world encompassed by Phoebus honour you, wherever at evening he touches the sea, wherever he lifts his light.",
           "sourcePages": [
             520
           ],
@@ -248,8 +257,17 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints the unclear adjective “daventis” before India. The English leaves that adjective unresolved while translating the remaining address; the printed Latin is retained."
+          "verification": "visual-review",
+          "editorialNote": "Printed comparison edition, not certification of the cited office edition. The printed reading is “O Xaveri, deviantis Sidus et lux Indiae”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "O Ignatius, bright torch of the Church militant! O Xavier, star and light of India [unclear printed adjective: “daventis”]! May all the regions of the world encompassed by Phoebus honour you, wherever at evening he touches the sea, wherever he lifts his light.",
+          "sourceReading": {
+            "status": "verified-against-comparison-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 305,
+            "printedPage": "275",
+            "reading": "O Xaveri, deviantis Sidus et lux Indiae",
+            "attachedReading": "O Xaveri, daventis"
+          }
         },
         {
           "type": "prayer",
@@ -1189,7 +1207,7 @@
         {
           "type": "prayer",
           "source": "Nulla dura tela sortis, Nulla fati vulnera, Ipsa nec pericula mortis, Nulla mundi munera, Vos amore separarunt Proximi vel Numinis, Vos beatis advocarunt Coelitum commerciis.",
-          "english": "No harsh weapons of fortune, no wounds of fate, not even the dangers of death, nor any gifts of the world, separated you from the love of neighbour or of God; they called you to the blessed fellowship of heaven’s citizens.",
+          "english": "No harsh weapons of fortune, no wounds of fate, not even the dangers of death, nor any gifts of the world, separated you from the love of neighbour or of God, nor drew you away from the blessed fellowship of heaven’s citizens.",
           "sourcePages": [
             521
           ],
@@ -1203,12 +1221,22 @@
           },
           "alignment": "reviewed",
           "id": "none-b0005",
-          "verification": "visual-review"
+          "verification": "visual-review",
+          "originalPreparedEnglish": "No harsh weapons of fortune, no wounds of fate, not even the dangers of death, nor any gifts of the world, separated you from the love of neighbour or of God; they called you to the blessed fellowship of heaven’s citizens.",
+          "sourceReading": {
+            "status": "verified-against-comparison-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 306,
+            "printedPage": "276",
+            "reading": "Vos beatis avocarunt Coelitum commerciis",
+            "attachedReading": "Vos beatis advocarunt"
+          },
+          "editorialNote": "Printed comparison edition, not certification of the cited office edition. The printed reading is “Vos beatis avocarunt Coelitum commerciis”. The attached Latin is retained; prepared English follows the documented reading where it differs."
         },
         {
           "type": "prayer",
           "source": "Ant. In pace vis vexati, in multis bene disponentur; quoniam Deus tentavit eos, et invenit illos dignos se. Sap. 3. 5.",
-          "english": "Ant. Though troubled, they are in peace; in many things they shall be well provided for, for God hath tested them and found them worthy of Himself. Wisdom 3:5.",
+          "english": "Ant. Troubled in a few things, in many they shall be well provided for, for God hath tested them and found them worthy of Himself. Wisdom 3:5.",
           "sourcePages": [
             521
           ],
@@ -1222,8 +1250,17 @@
           },
           "alignment": "reviewed",
           "id": "none-b0006",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints the malformed phrase “In pace vis vexati.” The English provisionally understands the intended sense as “though troubled, they are in peace”; no Latin emendation is made."
+          "verification": "visual-review",
+          "editorialNote": "Printed comparison edition, not certification of the cited office edition. The printed reading is “In paucis vexati, in multis bene disponentur”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "Ant. Though troubled, they are in peace; in many things they shall be well provided for, for God hath tested them and found them worthy of Himself. Wisdom 3:5.",
+          "sourceReading": {
+            "status": "verified-against-comparison-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 306,
+            "printedPage": "276",
+            "reading": "In paucis vexati, in multis bene disponentur",
+            "attachedReading": "In pace vis vexati"
+          }
         },
         {
           "type": "prayer",
@@ -1384,7 +1421,7 @@
         {
           "type": "prayer",
           "source": "Quot nefandis explicastis Criminum exemplibus! Quot beatis aligastis Sanctitatis nexibus! Trado hostes me regendum, Ad salutem ducite Corpus et corda tuendum, Oro, me defende.",
-          "english": "How many have you freed from wicked examples of sin! How many have you bound with the blessed bonds of holiness! I entrust myself to your guidance against enemies; lead me to salvation. Guard my body and heart; I beseech you, defend me.",
+          "english": "How many have you freed from wicked entanglements of sin! How many have you bound with the blessed bonds of holiness! I entrust myself to your guidance; lead me to salvation. Guard my body and heart; I beseech you, defend me.",
           "sourcePages": [
             521
           ],
@@ -1398,8 +1435,17 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0005",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF’s closing lines, including “Trado hostes me regendum” and “Corpus et corda tuendum,” have irregular grammar. The English provisionally renders a prayer for guidance and protection; the printed text remains."
+          "verification": "visual-review",
+          "editorialNote": "Printed comparison edition, not certification of the cited office edition. The printed reading is “Criminum complexibus; Trado vobis me regendum”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "How many have you freed from wicked examples of sin! How many have you bound with the blessed bonds of holiness! I entrust myself to your guidance against enemies; lead me to salvation. Guard my body and heart; I beseech you, defend me.",
+          "sourceReading": {
+            "status": "verified-against-comparison-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 306,
+            "printedPage": "276",
+            "reading": "Criminum complexibus; Trado vobis me regendum",
+            "attachedReading": "Trado hostes me regendum"
+          }
         },
         {
           "type": "prayer",
@@ -1620,7 +1666,7 @@
         {
           "type": "prayer",
           "source": "Vos polique, vos solique Bina luminaria, Infinique, maximique Sicut exemplaria Lutuentur obstruptentes: Lumen, oro, spargite; Ne premantur forte mentes Criminum caligine.",
-          "english": "You, twin lights of heaven and earth, are as images of the Infinite and Most High. [Unintelligible printed line: “Lutuentur obstruptentes.”] Pour forth your light, I pray, lest minds be oppressed by the darkness of sins.",
+          "english": "You, twin lights of heaven and earth, the lowliest and the greatest behold with wonder as examples. Pour forth your light, I pray, lest minds be oppressed by the darkness of sins.",
           "sourcePages": [
             522
           ],
@@ -1634,8 +1680,17 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints the unintelligible line “Lutuentur obstruptentes.” It is not assigned an invented English meaning; the intelligible surrounding lines are translated. This verse requires source resolution before publication."
+          "verification": "visual-review",
+          "editorialNote": "Printed comparison edition, not certification of the cited office edition. The printed reading is “Infimique, maximique Sicut exemplaria Intuentur obstupentes”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "You, twin lights of heaven and earth, are as images of the Infinite and Most High. [Unintelligible printed line: “Lutuentur obstruptentes.”] Pour forth your light, I pray, lest minds be oppressed by the darkness of sins.",
+          "sourceReading": {
+            "status": "verified-against-comparison-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 307,
+            "printedPage": "277",
+            "reading": "Infimique, maximique Sicut exemplaria Intuentur obstupentes",
+            "attachedReading": "Infinique, maximique"
+          }
         },
         {
           "type": "prayer",
@@ -1744,7 +1799,16 @@
           },
           "alignment": "reviewed",
           "id": "oblatio-b0001",
-          "verification": "visual-review"
+          "verification": "visual-review",
+          "sourceReading": {
+            "status": "verified-against-comparison-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 307,
+            "printedPage": "277",
+            "reading": "Vos faventi verba vultu Comprecantem cernite",
+            "attachedReading": "Vos faventis verba vultu"
+          },
+          "editorialNote": "Printed comparison edition, not certification of the cited office edition. The printed reading is “Vos faventi verba vultu Comprecantem cernite”. The attached Latin is retained; prepared English follows the documented reading where it differs."
         },
         {
           "type": "prayer",

@@ -84,3 +84,5 @@ Word-sequence reuse also requires identical ordered ℣/℟ signs. A marked vers
 ### Comparisons with source editions
 
 A block’s `sourceReading` must match an entry in `content/source-reading-reviews.json`. Each book record identifies its public scan and SHA-256 checksum. Record the visually checked PDF and printed page, the external reading and the exact attached fragment. Explain the choice in a visible editorial note and preserve prior prepared English when correcting it. Earlier editions must be labelled as earlier editions; they do not verify the edition cited by the compilation. A confirmed unusual phrase may be translated literally with a visible note; an unsupported conjecture remains pending.
+
+Comparison editions must be labelled as comparisons and do not certify the cited edition. Undated source records require `editionDate: "undated"` and an ISO `retrievedOn` date instead of an invented publication year. A library date after 1712 is not an exact 1712 colophon. Correcting reused supplied English requires preserving the original English, translation provenance and English page references while marking the correction as prepared.

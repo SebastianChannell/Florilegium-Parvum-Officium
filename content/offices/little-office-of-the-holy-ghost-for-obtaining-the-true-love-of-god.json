@@ -29,8 +29,8 @@
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
     "extraction": "reviewed",
-    "translation": "complete-prepared-reading-pending",
-    "verification": "source-reading-pending"
+    "translation": "complete-prepared",
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -799,8 +799,17 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0006",
-          "verification": "source-reading-pending",
-          "poetry": true
+          "verification": "visual-review",
+          "poetry": true,
+          "sourceReading": {
+            "status": "verified-against-comparison-edition",
+            "book": "paradisus-animae-christianae-1683",
+            "pdfPage": 129,
+            "printedPage": "97",
+            "reading": "Mentes prius imperitas, Et sopitas, et oblitas Erudis et excitas",
+            "attachedReading": "Instrui et excitas"
+          },
+          "editorialNote": "Printed comparison edition, not certification of the cited office edition. The printed reading is “Mentes prius imperitas, Et sopitas, et oblitas Erudis et excitas”. The attached Latin is retained; prepared English follows the documented reading where it differs."
         },
         {
           "type": "prayer",
@@ -1139,7 +1148,7 @@
         {
           "type": "prayer",
           "source": "Dat liquorem Helisaeus, Largum fundit rorem Deus, Ubi vasa vacua, Utres novi non vetusti Sunt capaces novi musti, Sint et nostra pectora.",
-          "english": "Eliseus giveth the oil;\nGod poureth forth abundant dew\nWhere the vessels are empty.\nNew wineskins, not old,\nCan hold the new wine:\nSuch may our hearts also be.",
+          "english": "Eliseus giveth the liquor;\nGod poureth forth abundant dew\nWhere the vessels are empty.\nNew wineskins, not old,\nCan hold the new wine:\nSuch may our hearts also be.",
           "sourcePages": [
             101
           ],
@@ -1154,7 +1163,9 @@
           "alignment": "reviewed",
           "id": "sext-b0006",
           "verification": "visual-review",
-          "poetry": true
+          "poetry": true,
+          "originalPreparedEnglish": "Eliseus giveth the oil;\nGod poureth forth abundant dew\nWhere the vessels are empty.\nNew wineskins, not old,\nCan hold the new wine:\nSuch may our hearts also be.",
+          "editorialNote": "Liquorem is translated literally as liquor. The Eliseus allusion may evoke oil, but that substance is not named in the printed noun; comparison hymn checked in Paradisus 1683 PDF 129–130, not the cited Ruth 1715."
         },
         {
           "type": "prayer",
@@ -1318,7 +1329,7 @@
         {
           "type": "prayer",
           "source": "Sed nec musto vel liquore, Nec hoc digni sumus rore, Si discordes moribus. In obscuris vel divis, Sancta nequit Paraclysis Habitare cordibus.",
-          "english": "Yet neither of the new wine, nor the oil,\nNor of this dew are we worthy,\nIf we are discordant in conduct.\nIn darkened or divided hearts\nThe holy Consolation\nCannot dwell.",
+          "english": "Yet neither of the new wine, nor the liquor,\nNor of this dew are we worthy,\nIf we are discordant in conduct.\nIn darkened or divided hearts\nThe holy Consolation\nCannot dwell.",
           "sourcePages": [
             102
           ],
@@ -1332,8 +1343,18 @@
           },
           "alignment": "reviewed",
           "id": "none-b0006",
-          "verification": "source-reading-pending",
-          "poetry": true
+          "verification": "visual-review",
+          "poetry": true,
+          "originalPreparedEnglish": "Yet neither of the new wine, nor the oil,\nNor of this dew are we worthy,\nIf we are discordant in conduct.\nIn darkened or divided hearts\nThe holy Consolation\nCannot dwell.",
+          "sourceReading": {
+            "status": "verified-against-comparison-edition",
+            "book": "paradisus-animae-christianae-1683",
+            "pdfPage": 130,
+            "printedPage": "98",
+            "reading": "In obscuris vel divisis Sancta nequit paraclisis Habitare cordibus",
+            "attachedReading": "In obscuris vel divis"
+          },
+          "editorialNote": "Printed comparison edition, not certification of the cited office edition. The printed reading is “In obscuris vel divisis Sancta nequit paraclisis Habitare cordibus”. The attached Latin is retained; prepared English follows the documented reading where it differs."
         },
         {
           "type": "prayer",

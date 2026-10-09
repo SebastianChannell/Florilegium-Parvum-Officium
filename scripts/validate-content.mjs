@@ -10,7 +10,7 @@ export function validateContent({ inventory, documents, boundaries, references =
   const add = (message, office) => errors.push({ office, message });
   const books = new Map();
   for (const book of sourceReadings.books || []) {
-    if (books.has(book.id) || !book.id || !book.title || !Number.isInteger(book.year) || !/^https:\/\//.test(book.url || '') || !/^[a-f0-9]{64}$/.test(book.sha256 || '')) add('Invalid source-reading book provenance.');
+    if (books.has(book.id) || !book.id || !book.title || !(Number.isInteger(book.year) || (book.editionDate === 'undated' && /^\d{4}-\d{2}-\d{2}$/.test(book.retrievedOn || ''))) || !/^https:\/\//.test(book.url || '') || !/^[a-f0-9]{64}$/.test(book.sha256 || '')) add('Invalid source-reading book provenance.');
     books.set(book.id, book);
   }
   const readingKeys = new Set();
@@ -65,7 +65,7 @@ export function validateContent({ inventory, documents, boundaries, references =
         if (b.alignment === 'source-discrepancy' && (!b.editorialNote?.trim() || b.verification !== 'source-reading-pending')) add(`Source discrepancy lacks a visible note or pending review status: ${b.id}`,office.id);
         if (b.sourceReading) {
           const evidence = b.sourceReading;
-          if (!readingKeys.has(`${office.id}/${b.id}`) || !books.has(evidence.book) || !['verified-against-cited-edition','literal-reading-verified','verified-against-earlier-edition'].includes(evidence.status) || !Number.isInteger(evidence.pdfPage) || evidence.pdfPage < 1 || !evidence.printedPage?.trim() || !evidence.reading?.trim() || !evidence.attachedReading?.trim() || !b.source?.includes(evidence.attachedReading) || !b.editorialNote?.trim()) add(`Invalid source-reading evidence: ${b.id}`, office.id);
+          if (!readingKeys.has(`${office.id}/${b.id}`) || !books.has(evidence.book) || !['verified-against-cited-edition','literal-reading-verified','verified-against-earlier-edition','verified-against-comparison-edition'].includes(evidence.status) || !Number.isInteger(evidence.pdfPage) || evidence.pdfPage < 1 || !evidence.printedPage?.trim() || !evidence.reading?.trim() || !evidence.attachedReading?.trim() || !b.source?.includes(evidence.attachedReading) || !b.editorialNote?.trim()) add(`Invalid source-reading evidence: ${b.id}`, office.id);
         }
         if (b.translation?.kind === 'prepared') { prepared++; preparedEnglish++; if (!b.english) add(`Prepared translation is empty: ${b.id}`,office.id); }
         if (/\b(?:TODO|TBD|LOREM IPSUM)\b/i.test(b.source+' '+(b.english || ''))) add(`Placeholder content: ${b.id}`,office.id);

@@ -17,6 +17,35 @@
       "url": "https://archive.org/download/jbc.bj.uj.edu.pl.NDIGSTDR055011/NDIGSTDR055011_text.pdf",
       "sha256": "6621eacb350711718c62c77c0604804cb49d999dd0b35922b2d102ec0fc718d9",
       "editionNote": "Earlier edition; the attached compilation cites 1783. Comparisons do not certify the unexamined 1783 edition."
+    },
+    {
+      "id": "cmaa-anerio-rex-virtutum-sab",
+      "title": "Felice Anerio, Rex virtutum, SAB score",
+      "editionDate": "undated",
+      "retrievedOn": "2026-10-09",
+      "publisher": "Church Music Association of America",
+      "url": "https://churchmusicassociation.org/wp-content/uploads/2025/12/Anerio-Rex-virtutum-SAB-final.pdf",
+      "sha256": "1ce23bf57e0efe4e611b3e618b5b098006d5afed511f07cd52dc91884130a7e2",
+      "editionNote": "Comparison witness for the hymn, not the cited 1879 office."
+    },
+    {
+      "id": "paradisus-animae-christianae-1683",
+      "title": "Paradisus animae Christianae",
+      "author": "Jacobus Merlo Horstius",
+      "year": 1683,
+      "url": "https://archive.org/download/gri_33125011115785/gri_33125011115785.pdf",
+      "sha256": "43eb63b9ab4854ac795bdcf389260060739d5eb29eb7c221e8ed1d705e0206ac",
+      "editionNote": "Comparison witness for the hymn, not the cited Ruth 1715 office."
+    },
+    {
+      "id": "ludger-werdinenfi-after-1712",
+      "title": "Officium Parvum de S. Ludgero Frisonum, Saxonum, et Westphthalorum Apostolo",
+      "year": 1712,
+      "editionDate": "after 1712",
+      "url": "https://digital.ulb.hhu.de/download/pdf/9960138",
+      "catalogUrl": "https://nbn-resolving.org/urn:nbn:de:hbz:061:1-539746",
+      "sha256": "a9cb36acba1aaa655b28e671ff84bb00e2409d56e52c1f54f8e277411476e8b4",
+      "editionNote": "ULB Düsseldorf dates the print after 1712. The 1712 date on PDF page 23 concerns indulgences; this comparison does not assert an exact 1712 publication date."
     }
   ],
   "readings": [
@@ -229,6 +258,576 @@
       "printedPage": "265",
       "reading": "Piorum desideria Et vestrum excitate:",
       "attachedReading": "Plorem desideria Et vestro excitatae:"
+    },
+    {
+      "office": "little-office-of-the-most-holy-name-of-jesus",
+      "block": "compline-b0004",
+      "status": "verified-against-comparison-edition",
+      "book": "cmaa-anerio-rex-virtutum-sab",
+      "pdfPage": 1,
+      "printedPage": "unnumbered, bars 9–13",
+      "reading": "Jesu largitor veniae, honor caelestis curiae.",
+      "attachedReading": "Jesu, largitor vaniae; Honor coelestis curiae."
+    },
+    {
+      "office": "little-office-of-the-holy-three-japanese-martyrs-john-paul-and-james-of-the-society-of-jesus",
+      "block": "matins-b0011",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 339,
+      "printedPage": "295",
+      "reading": "Martyrii gloria; quorum gloriae coronam",
+      "attachedReading": "Martyrio gloria"
+    },
+    {
+      "office": "little-office-of-the-holy-three-japanese-martyrs-john-paul-and-james-of-the-society-of-jesus",
+      "block": "vespers-b0005",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 340,
+      "printedPage": "296",
+      "reading": "Constantiam deposcite",
+      "attachedReading": "Constantiam depositae"
+    },
+    {
+      "office": "little-office-of-the-holy-three-japanese-martyrs-john-paul-and-james-of-the-society-of-jesus",
+      "block": "commendatio-b0005",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 341,
+      "printedPage": "297",
+      "reading": "ipsis, et Passionis Socii in hoc mundo, et consolationis deinde in aeterna beatitudine esse mereamur",
+      "attachedReading": "ipsis, et Passionis Sociis"
+    },
+    {
+      "office": "little-office-of-s-alexius-confessor",
+      "block": "prime-b0006",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 248,
+      "printedPage": "212",
+      "reading": "Dum apparantur nuptiae; Hinc rapitur, et propere Solus conscendit aequor",
+      "attachedReading": "Tum apparatur nuptiae"
+    },
+    {
+      "office": "little-office-of-s-alexius-confessor",
+      "block": "prime-b0008",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 248,
+      "printedPage": "212",
+      "reading": "qui pascitur inter lilia",
+      "attachedReading": "qui fascitur inter lilia"
+    },
+    {
+      "office": "little-office-of-s-alexius-confessor",
+      "block": "terce-b0007",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 249,
+      "printedPage": "213",
+      "reading": "Quae sic latere quaeris: Pro Christo velle despici",
+      "attachedReading": "Quae siscitate quaesieris"
+    },
+    {
+      "office": "little-office-of-s-alexius-confessor",
+      "block": "terce-b0009",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 249,
+      "printedPage": "213",
+      "reading": "Cum liber essem, omnium me servum feci; mihi vivere Christus, et mori lucrum",
+      "attachedReading": "Cum essem pauper, servum feci"
+    },
+    {
+      "office": "little-office-of-s-alexius-confessor",
+      "block": "sext-b0006",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 249,
+      "printedPage": "213",
+      "reading": "ut foenore Virtus pateat miro; Ditissimus cum paupere Miseri gaudet in Iro",
+      "attachedReading": "ut senore"
+    },
+    {
+      "office": "little-office-of-s-alexius-confessor",
+      "block": "vespers-b0007",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 250,
+      "printedPage": "214",
+      "reading": "Ignotus domo Patris; Deo patent singultus",
+      "attachedReading": "Deo patent singulatus"
+    },
+    {
+      "office": "little-office-of-s-alexius-confessor",
+      "block": "compline-b0009",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 250,
+      "printedPage": "214",
+      "reading": "Calamo consignat vitam; Qui patriam sic quaeris",
+      "attachedReading": "Calamo consignant vitam"
+    },
+    {
+      "office": "little-office-of-s-alexius-confessor",
+      "block": "commendatio-b0001",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 251,
+      "printedPage": "215",
+      "reading": "In Jesu nos gaudere, Jesu, te diligere, Nec aliud quaerere",
+      "attachedReading": "Ne sit nobis gaudere"
+    },
+    {
+      "office": "little-office-of-s-stanislaus-kostka",
+      "block": "matins-b0005",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 335,
+      "printedPage": "291",
+      "reading": "Tu Lechiae victoriae Es auctor incurrente",
+      "attachedReading": "Es auctor incurrentae"
+    },
+    {
+      "office": "little-office-of-s-stanislaus-kostka",
+      "block": "prime-b0004",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 335,
+      "printedPage": "291",
+      "reading": "Missumque ab axe panem, In pane, Jesu corculum Morbi dedit levamen",
+      "attachedReading": "Missum, mente pia panem"
+    },
+    {
+      "office": "little-office-of-s-stanislaus-kostka",
+      "block": "sext-b0004",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 336,
+      "printedPage": "292",
+      "reading": "Sequere sanctitatem; Ignatii fac aedibus, Signisque te tuere",
+      "attachedReading": "Sequar sanctitatem"
+    },
+    {
+      "office": "little-office-of-s-stanislaus-kostka",
+      "block": "vespers-b0004",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 336,
+      "printedPage": "292",
+      "reading": "Nam Jesuli stipendiis Eo usque militasti, Ignatii compendiis",
+      "attachedReading": "Nam Jesu stipenditis"
+    },
+    {
+      "office": "little-office-of-s-stanislaus-kostka",
+      "block": "compline-b0006",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 337,
+      "printedPage": "293",
+      "reading": "Sic protegas cliente",
+      "attachedReading": "Sic protegeis clientem"
+    },
+    {
+      "office": "little-office-of-s-stanislaus-kostka",
+      "block": "commendatio-b0001",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 337,
+      "printedPage": "293",
+      "reading": "Inscripta carpe vota",
+      "attachedReading": "Inscipta carpe vota"
+    },
+    {
+      "office": "little-office-of-s-stanislaus-kostka",
+      "block": "commendatio-b0002",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 337,
+      "printedPage": "293",
+      "reading": "Non cinctam mentem nube peccatorum",
+      "attachedReading": "Non cinctam mente beato peccatorum"
+    },
+    {
+      "office": "little-office-of-s-stanislaus-kostka",
+      "block": "commendatio-b0007",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 337,
+      "printedPage": "293",
+      "reading": "B. Stanislaum Kostkam immaculatum",
+      "attachedReading": "B. Stanislaum Kostkam immaculatam"
+    },
+    {
+      "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
+      "block": "matins-b0010",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 314,
+      "printedPage": "284",
+      "reading": "Quae cor tuum gladio Transfigendum audis",
+      "attachedReading": "Quae cur tuum gladio"
+    },
+    {
+      "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
+      "block": "prime-b0006",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 314,
+      "printedPage": "284",
+      "reading": "Saeviente, corde tristi",
+      "attachedReading": "Sevente, corde tristi"
+    },
+    {
+      "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
+      "block": "prime-b0007",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 314,
+      "printedPage": "284",
+      "reading": "O Regina beatorum; Fac, infractus vi malorum Fiam consors Filii",
+      "attachedReading": "Fac, infractus vel malorum"
+    },
+    {
+      "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
+      "block": "terce-b0001",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 314,
+      "printedPage": "284",
+      "reading": "Dolor ex amisso duodenni Filio",
+      "attachedReading": "Dolor ex amisso Duodennem Filio"
+    },
+    {
+      "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
+      "block": "sext-b0006",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 315,
+      "printedPage": "285",
+      "reading": "Quae dilectum Filium Capi, caedi, flens vidisti",
+      "attachedReading": "Quae dolorem Filium"
+    },
+    {
+      "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
+      "block": "vespers-b0005",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 316,
+      "printedPage": "286",
+      "reading": "Ulnis Natum suscepisti",
+      "attachedReading": "Unis Natum suscepisti"
+    },
+    {
+      "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
+      "block": "vespers-b0006",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 316,
+      "printedPage": "286",
+      "reading": "Eja, praestet vis doloris",
+      "attachedReading": "O praetestis vir doloris"
+    },
+    {
+      "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
+      "block": "commendatio-b0001",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 316,
+      "printedPage": "286",
+      "reading": "Ut materni pectoris ex compassione",
+      "attachedReading": "Ut matenis pectoris ex compassione"
+    },
+    {
+      "office": "little-office-of-s-ignatius-founder-of-the-society-of-jesus-and-s-francis-xavier-apostle-of-the-indies",
+      "block": "matins-b0010",
+      "status": "verified-against-comparison-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 305,
+      "printedPage": "275",
+      "reading": "O Xaveri, deviantis Sidus et lux Indiae",
+      "attachedReading": "O Xaveri, daventis"
+    },
+    {
+      "office": "little-office-of-s-ignatius-founder-of-the-society-of-jesus-and-s-francis-xavier-apostle-of-the-indies",
+      "block": "none-b0006",
+      "status": "verified-against-comparison-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 306,
+      "printedPage": "276",
+      "reading": "In paucis vexati, in multis bene disponentur",
+      "attachedReading": "In pace vis vexati"
+    },
+    {
+      "office": "little-office-of-s-ignatius-founder-of-the-society-of-jesus-and-s-francis-xavier-apostle-of-the-indies",
+      "block": "none-b0005",
+      "status": "verified-against-comparison-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 306,
+      "printedPage": "276",
+      "reading": "Vos beatis avocarunt Coelitum commerciis",
+      "attachedReading": "Vos beatis advocarunt"
+    },
+    {
+      "office": "little-office-of-s-ignatius-founder-of-the-society-of-jesus-and-s-francis-xavier-apostle-of-the-indies",
+      "block": "vespers-b0005",
+      "status": "verified-against-comparison-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 306,
+      "printedPage": "276",
+      "reading": "Criminum complexibus; Trado vobis me regendum",
+      "attachedReading": "Trado hostes me regendum"
+    },
+    {
+      "office": "little-office-of-s-ignatius-founder-of-the-society-of-jesus-and-s-francis-xavier-apostle-of-the-indies",
+      "block": "compline-b0007",
+      "status": "verified-against-comparison-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 307,
+      "printedPage": "277",
+      "reading": "Infimique, maximique Sicut exemplaria Intuentur obstupentes",
+      "attachedReading": "Infinique, maximique"
+    },
+    {
+      "office": "little-office-of-s-ignatius-founder-of-the-society-of-jesus-and-s-francis-xavier-apostle-of-the-indies",
+      "block": "oblatio-b0001",
+      "status": "verified-against-comparison-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 307,
+      "printedPage": "277",
+      "reading": "Vos faventi verba vultu Comprecantem cernite",
+      "attachedReading": "Vos faventis verba vultu"
+    },
+    {
+      "office": "little-office-of-the-holy-ghost-for-obtaining-the-true-love-of-god",
+      "block": "prime-b0006",
+      "status": "verified-against-comparison-edition",
+      "book": "paradisus-animae-christianae-1683",
+      "pdfPage": 129,
+      "printedPage": "97",
+      "reading": "Mentes prius imperitas, Et sopitas, et oblitas Erudis et excitas",
+      "attachedReading": "Instrui et excitas"
+    },
+    {
+      "office": "little-office-of-the-holy-ghost-for-obtaining-the-true-love-of-god",
+      "block": "none-b0006",
+      "status": "verified-against-comparison-edition",
+      "book": "paradisus-animae-christianae-1683",
+      "pdfPage": 130,
+      "printedPage": "98",
+      "reading": "In obscuris vel divisis Sancta nequit paraclisis Habitare cordibus",
+      "attachedReading": "In obscuris vel divis"
+    },
+    {
+      "office": "little-office-of-s-ludger-apostle-of-the-frisians-saxons-and-westphalians",
+      "block": "matins-b0009",
+      "status": "verified-against-comparison-edition",
+      "book": "ludger-werdinenfi-after-1712",
+      "pdfPage": 6,
+      "printedPage": "unnumbered, A1 verso",
+      "reading": "Sinu, cadens sauciata",
+      "attachedReading": "Sinu, cadens fauciata"
+    },
+    {
+      "office": "little-office-of-s-ludger-apostle-of-the-frisians-saxons-and-westphalians",
+      "block": "lauds-b0005",
+      "status": "verified-against-comparison-edition",
+      "book": "ludger-werdinenfi-after-1712",
+      "pdfPage": 8,
+      "printedPage": "unnumbered, A2 verso",
+      "reading": "Instruit in Anglia",
+      "attachedReading": "Instruct in Anglia"
+    },
+    {
+      "office": "little-office-of-s-ludger-apostle-of-the-frisians-saxons-and-westphalians",
+      "block": "lauds-b0009",
+      "status": "verified-against-comparison-edition",
+      "book": "ludger-werdinenfi-after-1712",
+      "pdfPage": 8,
+      "printedPage": "unnumbered, A2 verso",
+      "reading": "in accipiendo ipsum stolam gloriae, et vestiri eum in consummatione virtutis",
+      "attachedReading": "et vestiri cum in consummatione virtutis"
+    },
+    {
+      "office": "little-office-of-s-ludger-apostle-of-the-frisians-saxons-and-westphalians",
+      "block": "prime-b0004",
+      "status": "verified-against-comparison-edition",
+      "book": "ludger-werdinenfi-after-1712",
+      "pdfPage": 9,
+      "printedPage": "unnumbered, A3 recto",
+      "reading": "Mitteris in Angliam",
+      "attachedReading": "Mitteris in Angliam"
+    },
+    {
+      "office": "little-office-of-s-ludger-apostle-of-the-frisians-saxons-and-westphalians",
+      "block": "prime-b0009",
+      "status": "verified-against-comparison-edition",
+      "book": "ludger-werdinenfi-after-1712",
+      "pdfPage": 9,
+      "printedPage": "unnumbered, A3 recto",
+      "reading": "Beati qui persecutionem patiuntur propter justitiam",
+      "attachedReading": "Beati qui perfectionem patiuntur propter justitiam"
+    },
+    {
+      "office": "little-office-of-s-ludger-apostle-of-the-frisians-saxons-and-westphalians",
+      "block": "terce-b0005",
+      "status": "verified-against-comparison-edition",
+      "book": "ludger-werdinenfi-after-1712",
+      "pdfPage": 10,
+      "printedPage": "unnumbered, A3 verso",
+      "reading": "Pellis atra monstra lucis Daniae ex finibus",
+      "attachedReading": "Pellis atra monstra lucis Daniae ex finibus"
+    },
+    {
+      "office": "little-office-of-s-ludger-apostle-of-the-frisians-saxons-and-westphalians",
+      "block": "sext-b0007",
+      "status": "verified-against-comparison-edition",
+      "book": "ludger-werdinenfi-after-1712",
+      "pdfPage": 11,
+      "printedPage": "unnumbered, A4 recto",
+      "reading": "Te accingens, morbo pressus Persequentum graves lessus Nuntias Ecclesiae",
+      "attachedReading": "Persequentum graves laesus"
+    },
+    {
+      "office": "little-office-of-s-ludger-apostle-of-the-frisians-saxons-and-westphalians",
+      "block": "lauds-b0006",
+      "status": "verified-against-comparison-edition",
+      "book": "ludger-werdinenfi-after-1712",
+      "pdfPage": 8,
+      "printedPage": "unnumbered, A2 verso",
+      "reading": "Hoc Doctore conscendisti Sanctitatis culmina",
+      "attachedReading": "Hoc Doctore consecrasti Sanctitatis culmina"
+    },
+    {
+      "office": "little-office-of-ss-joachim-and-anna",
+      "block": "matins-b0009",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 300,
+      "printedPage": "270",
+      "reading": "O Joachime, qualis Marite conjugis!",
+      "attachedReading": "O Joachim, qualis Mariae conjugis!"
+    },
+    {
+      "office": "little-office-of-ss-joachim-and-anna",
+      "block": "matins-b0014",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 301,
+      "printedPage": "271",
+      "reading": "beatos Joachim et Annam genitricis Filii tui parentes esse voluisti",
+      "attachedReading": "beatos Joachim et Annam genitrices Filii tui parentes esse voluisti"
+    },
+    {
+      "office": "little-office-of-ss-joachim-and-anna",
+      "block": "prime-b0005",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 301,
+      "printedPage": "271",
+      "reading": "Connubii quieta Ivere tempora, Mens mansit usque laeta Vel inter aspera. Dilata spes nepotum Est visa pungere; Sed inde nil remotum Cor est ab aethere",
+      "attachedReading": "Connubii quieta Levre tempora"
+    },
+    {
+      "office": "little-office-of-ss-joachim-and-anna",
+      "block": "terce-b0005",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 301,
+      "printedPage": "271",
+      "reading": "Tandem sereniori Lux vecta phosphoro Explevit ampliori Utrumque gaudio",
+      "attachedReading": "Tandem serenoiori Lux vexat phosphoro"
+    },
+    {
+      "office": "little-office-of-ss-joachim-and-anna",
+      "block": "none-b0005",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 302,
+      "printedPage": "272",
+      "reading": "Virgunculaeque centum Servit cohortibus",
+      "attachedReading": "Virginumque coaetum Servit cohortibus"
+    },
+    {
+      "office": "little-office-of-ss-joachim-and-anna",
+      "block": "compline-b0007",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 303,
+      "printedPage": "273",
+      "reading": "Perenne stringitur: Reciproco tenetur, Tenetque vinculo. O parva pars daretur Ex hocce gaudio!",
+      "attachedReading": "Perenne jungitur: Reciproce tenentur, Tenetque undique Duo parva pars daretur"
+    },
+    {
+      "office": "little-office-of-ss-joachim-and-anna",
+      "block": "oblatio-b0002",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 303,
+      "printedPage": "273",
+      "reading": "Amabo vos, amabo, Dum vita permanet, Magisque tunc amabo, Cum vita desinet: Cum vestra me levabit In astra dextera, Vobisque colligabit Aeterna gloria. Amen.",
+      "attachedReading": "Amabo vos, amabo, Amita haec permanent"
+    },
+    {
+      "office": "little-office-of-ss-joachim-and-anna",
+      "block": "oblatio-b0004",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 303,
+      "printedPage": "273",
+      "reading": "cui recte id nomen est inditum; a quo processit illa filia; O quanto illam amore et reverentia excepisti",
+      "attachedReading": "cui nomen esse est inditum"
+    },
+    {
+      "office": "little-office-of-ss-joachim-and-anna",
+      "block": "oblatio-b0006",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 303,
+      "printedPage": "273–274",
+      "reading": "quem enim coeli coelorum capere non poterant, Filia tua immaculato gremio suo conclusit. Tu es, o electa Mater, radix illa virgae Jesse, ex qua flos pulcherrimus, fructusque vitae nostrae dulcissimus Christus Jesus ascendit",
+      "attachedReading": "O coelestis Mater, radix vitae illustris"
+    },
+    {
+      "office": "little-office-of-ss-joachim-and-anna",
+      "block": "oblatio-b0008",
+      "status": "verified-against-cited-edition",
+      "book": "coeleste-palmetum-1879",
+      "pdfPage": 304,
+      "printedPage": "274",
+      "reading": "O castum ac beatum par turturum; ex immaculato ventris vestri fructu; cor meum obsecro; hujus mei muneris",
+      "attachedReading": "O castum ac beatum parturturum"
+    },
+    {
+      "office": "little-office-of-s-anna",
+      "block": "matins-b0008",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 225,
+      "printedPage": "189",
+      "reading": "Redditur partu Filiae; Quae dum salutem protulit",
+      "attachedReading": "Redditur Patri Filiae"
+    },
+    {
+      "office": "little-office-of-s-anna",
+      "block": "vespers-b0007",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 227,
+      "printedPage": "191",
+      "reading": "Ave parens stella maris, Quam tu nuptam contemplaris Regis Regum Filio",
+      "attachedReading": "Ave patens stella maris"
+    },
+    {
+      "office": "little-office-of-s-anna",
+      "block": "none-b0005",
+      "status": "verified-against-earlier-edition",
+      "book": "officium-rakoczianum-1745",
+      "pdfPage": 227,
+      "printedPage": "191",
+      "reading": "Infecunda pro tempore, Prope marcescens corpore",
+      "attachedReading": "In saecula pro tempore"
     }
   ]
 }
