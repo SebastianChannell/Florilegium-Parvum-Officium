@@ -47,7 +47,7 @@
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
     "extraction": "candidate",
-    "translation": "incomplete",
+    "translation": "complete-prepared-reading-pending",
     "verification": "pending"
   },
   "sections": [
@@ -188,14 +188,22 @@
         {
           "type": "prayer",
           "source": "Sana, Domine, omnes languores nostros. Alleluia. ℣. Redime de interitu vitam nostram. Alleluia, alleluia.",
-          "english": null,
+          "english": "Heal, O Lord, all our infirmities. Alleluia. ℣. Redeem our life from destruction. Alleluia, alleluia.",
           "sourcePages": [
             634
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              634
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -241,14 +249,22 @@
         {
           "type": "prayer",
           "source": "℣. O Domine salvos nos fac, o Domine bona prosperare. Tribue languidis. ℣. Gloria et honor. Tribue.",
-          "english": null,
+          "english": "℣. O Lord, save us; O Lord, grant prosperity. Grant to the sick. ℣. Glory and honour. Grant.",
           "sourcePages": [
             634
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              634
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0010",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -297,14 +313,22 @@
         {
           "type": "prayer",
           "source": "Salvos nos faciat dextera tua. Alleluia. Exaudi nos Domine Deus noster: Alleluia, alleluia. ℣. Ut confiteamur nomini sancto tuo, et gloriamur in laude tua. Exaudi. ℣. Gloria et honor. Exaudi.",
-          "english": null,
+          "english": "May Thy right hand save us. Alleluia. Hear us, O Lord our God: alleluia, alleluia. ℣. That we may praise Thy holy name and glory in Thy praise. Hear us. ℣. Glory and honour. Hear us.",
           "sourcePages": [
             634
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              634
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0013",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -349,14 +373,22 @@
         {
           "type": "prayer",
           "source": "Salvos nos faciat dextera tua. Alleluia. Et congrega nos de nationibus. Alleluia, alleluia. ℣. Ut confiteamur nomini sancto tuo, et gloriamur in laude tua. Et congrega nos. ℣. Gloria et honor. ℟. Alleluia, alleluia.",
-          "english": null,
+          "english": "May Thy right hand save us. Alleluia. And gather us from the nations. Alleluia, alleluia. ℣. That we may praise Thy holy name and glory in Thy praise. And gather us. ℣. Glory and honour. ℟. Alleluia, alleluia.",
           "sourcePages": [
             634
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              634
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0016",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -402,111 +434,184 @@
         {
           "type": "prayer",
           "source": "Christe caelestis medicina Patris, Verus humanae medicus salutis Providae plebis precibus potenter Pande favorem.",
-          "english": null,
+          "english": "Christ, the Father’s heavenly medicine,\nTrue physician of mankind’s salvation,\nPowerfully show favour to the prayers\nOf Thy provident people.",
           "sourcePages": [
             634
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              634
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0019",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "En ob infirmos tibi supplicamus, Quos nocens pestis valitudo cassat; Ut pius morbum releves jacentum, Quo quatiuntur.",
-          "english": null,
+          "english": "Behold, we beseech Thee for the sick,\nWhom harmful plague and illness weaken;\nGraciously relieve the disease\nWhich shakes those lying ill.",
           "sourcePages": [
             634
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              634
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0020",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Qui potestate manifestus extans, Mox Petri socrum febribus jacentem, Reguli prolem, puerumque salvans Centurionis.",
-          "english": null,
+          "english": "Thou who, manifest in Thy power,\nDidst promptly save Peter’s mother-in-law lying in fever,\nThe ruler’s child, and the servant\nOf the centurion.",
           "sourcePages": [
             634
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              634
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0021",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Ferto languenti populo vigorem; Efflue largam populis salutem; Pristinis more solito reformans Viribus aegros.",
-          "english": null,
+          "english": "Bring strength to Thy languishing people;\nPour forth abundant health upon peoples;\nAs is Thy wont, restore the sick\nTo their former strength.",
           "sourcePages": [
             634
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              634
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0022",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Corporum morbos animaeque sana; Vulnerum causis adhibe medelam: Ne sine fructu cruciatus urat Corpora nostra.",
-          "english": null,
+          "english": "Heal the diseases of body and soul;\nApply a remedy to the causes of wounds,\nLest torment fruitlessly burn\nOur bodies.",
           "sourcePages": [
             634
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              634
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0023",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Omnis impulsus penitus recedat; Omnis incursus crucians liquescat; Viror optatae foveat salutis Membra dolentis.",
-          "english": null,
+          "english": "Let every assault depart utterly;\nLet every tormenting onslaught melt away;\nMay the freshness of desired health cherish\nThe sufferer’s limbs.",
           "sourcePages": [
             634,
             635
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              634,
+              635
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0024",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Iam Deus nostri miserere fletus, Pro quibus te nunc petimus mederi; Ut tuam omnis recubans medelam Sentiat aeger;",
-          "english": null,
+          "english": "Now, O God, have mercy upon our weeping\nFor those whom we now ask Thee to heal;\nThat every sick person lying down\nMay feel Thy remedy;",
           "sourcePages": [
             635
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              635
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0025",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Quo per illata mala dum teruntur, Eruditorum numero decori Compotes intrent, sociante fructu, Regna polorum.",
-          "english": null,
+          "english": "That, while worn by the evils inflicted,\nAdorned among the number of those instructed,\nThey may enter the kingdoms of heaven,\nSharing in the accompanying fruit.",
           "sourcePages": [
             635
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              635
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0026",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Gloriam psallat chorus, et resultet, Gloriam dicat, canat, et revolvat; Nomini Trino, Deitati soli Sidera clament. Amen.",
-          "english": null,
+          "english": "Let the choir sing glory and echo it,\nLet it speak, sing, and repeat glory;\nLet the stars cry unto the threefold Name,\nUnto the one Godhead. Amen.",
           "sourcePages": [
             635
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              635
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0027",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -531,14 +636,22 @@
         {
           "type": "prayer",
           "source": "Oremus Redemptorem mundi, Dominum nostrum Jesum Christum, cum omni supplicatione rogemus; ut vulnera famulorum suorum, omnium fidelium infirmorum, propitius curare dignetur. ℟. Praesta aeterne omnipotens Deus. Kyrie eleison. ℟. Christe eleison. Kyrie eleison.",
-          "english": null,
+          "english": "Let us pray. Let us entreat with every supplication the Redeemer of the world, our Lord Jesus Christ, that He may graciously deign to heal the wounds of His servants, all the sick faithful. ℟. Grant this, eternal almighty God. Lord, have mercy. ℟. Christ, have mercy. Lord, have mercy.",
           "sourcePages": [
             635
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              635
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0029",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -563,14 +676,22 @@
         {
           "type": "prayer",
           "source": "Precámur, Domine, ut nos in ira tua non arguas: et furorem tuum in nos desaeviré non sinas: sed placidus corrector tolle peccandi usum; ne nos arguendo durius, propellas ad nihilum: Miserere ergo infirmitati nostrae: et famulorum tuorum, omnium fidelium infirmorum tuam imperti medelam: et quos cernis proprio turbari peccato, quietos deputa, misericorditer indulgendo.",
-          "english": null,
+          "english": "We pray, O Lord, that Thou rebuke us not in Thine anger, and permit not Thy fury to rage against us: but as a gentle corrector take away the habit of sinning; lest by rebuking us too harshly Thou drive us to nothing. Have mercy therefore upon our weakness, and impart Thy remedy to Thy servants, all the sick faithful: and those whom Thou seest troubled by their own sin, reckon as at peace by mercifully forgiving them.",
           "sourcePages": [
             635
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              635
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0031",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -595,50 +716,82 @@
         {
           "type": "prayer",
           "source": "Pater noster, qui es in caelis. ℟. Amen. Sanctificetur nomen tuum. ℟. Amen. Adveniat regnum tuum. ℟. Amen. Fiat voluntas tua sicut in caelo et in terra. ℟. Amen. Panem nostrum quotidianum da nobis hodie.",
-          "english": null,
+          "english": "Our Father, who art in heaven. ℟. Amen. Hallowed be Thy name. ℟. Amen. Thy kingdom come. ℟. Amen. Thy will be done on earth as it is in heaven. ℟. Amen. Give us this day our daily bread.",
           "sourcePages": [
             635
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              635
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0033",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "℟. Quia Deus es. Et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris. ℟. Amen. Et ne nos inducas in tentationem. ℟. Sed libera nos a malo.",
-          "english": null,
+          "english": "℟. For Thou art God. And forgive us our debts, as we also forgive our debtors. ℟. Amen. And lead us not into temptation. ℟. But deliver us from evil.",
           "sourcePages": [
             635
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              635
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0034",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "A malo nos libera, et in tuo timore opere bono nos confirma Trinitas, Deus noster, qui es benedictus, et vivis, et omnia regis in saecula saeculorum. ℟. Amen.",
-          "english": null,
+          "english": "Deliver us from evil, and strengthen us in Thy fear in good works, O Trinity, our God, who art blessed, and livest, and rulest all things forever and ever. ℟. Amen.",
           "sourcePages": [
             635
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              635
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0035",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Dicat Presbyter. Humiliate vos ad benedictionem. Dominus sit semper vobiscum. ℟. Et cum spiritu tuo.",
-          "english": null,
+          "english": "Let the priest say: Bow down for the blessing. May the Lord be always with you. ℟. And with thy spirit.",
           "sourcePages": [
             635
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              635
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0036",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -669,14 +822,22 @@
         {
           "type": "prayer",
           "source": "Omnipotens Dominus, qui fidelissimos famulos suos omnes fideles infirmos corporali corripit vulnere, ipse illos, et nos a corporis mentisque aegritudinibus expiet. ℟. Amen. Quique nostram in se suscepit infirmitatem, ipse nobis, et illis tribuat tolerantiae sine fine mercedem. ℟. Amen. Sic omnes in communi ejus pietas foveat; ut nec corrupta nostra salus desaeviat, nec desperationi infirmitas illata succumbat. ℟. Amen. Per misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum.",
-          "english": null,
+          "english": "May the almighty Lord, who chastens His most faithful servants, all the sick faithful, with bodily wounds, Himself cleanse them and us from sickness of body and mind. ℟. Amen. And He who took our weakness upon Himself, may He grant us and them the everlasting reward of endurance. ℟. Amen. May His loving kindness cherish all alike, so that neither our impaired health may rage, nor inflicted sickness succumb to despair. ℟. Amen. Through Thy mercy, our God, who art blessed and rulest all things, forever and ever.",
           "sourcePages": [
             635
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              635
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0038",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -726,14 +887,22 @@
         {
           "type": "prayer",
           "source": "Salvos nos fac Domine Deus noster: Alleluia. Ut confiteamur nomini sancto tuo. Alleluia. ℣. Memento nostri, Domine, in beneplacito populi tui: visita nos in salutari tuo. Ut confiteamur.",
-          "english": null,
+          "english": "Save us, O Lord our God: alleluia. That we may praise Thy holy name. Alleluia. ℣. Remember us, O Lord, in the good pleasure of Thy people: visit us in Thy salvation. That we may praise.",
           "sourcePages": [
             635
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              635
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0041",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -799,14 +968,22 @@
         {
           "type": "prayer",
           "source": "Omnipotens sempiterne Deus, inclina aurem tuam supplicationibus nostris, et famulis tuis omnibus fidelibus infirmis adversa corporis valetudine laborantibus coelestis gratiae medicinam concede. ℟. Amen.",
-          "english": null,
+          "english": "Almighty, everlasting God, incline Thine ear unto our supplications, and grant the medicine of heavenly grace to Thy servants, all the sick faithful labouring under bodily ill health. ℟. Amen.",
           "sourcePages": [
             635
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              635
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0045",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -851,26 +1028,42 @@
         {
           "type": "prayer",
           "source": "Oratio. Domine Deus omnipotens, qui vespere et mane et meridie unum diem vocari jussisti; et ut sol agnosceret occasum suum, imperasti; aperi, quaesumus, tenebras cordium nostrorum, ut, te radiante, cognoscamus te Deum",
-          "english": null,
+          "english": "Prayer. O Lord God almighty, who didst command evening, morning, and midday to be called one day, and order the sun to know its setting: open, we beseech Thee, the darkness of our hearts, that by Thy radiance we may know Thee as God",
           "sourcePages": [
             636
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              636
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0048",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "℟. Amen. ℣. Per verum et lumen aeternum. misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum.",
-          "english": null,
+          "english": "the true and eternal light. ℟. Amen. ℣. Through Thy mercy, our God, who art blessed and rulest all things, forever and ever.",
           "sourcePages": [
             636
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              636
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0049",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "Printed page 636 was visually checked: “verum et lumen aeternum” completes the preceding prayer before the response. The extracted source interleaves it with the concluding formula; Latin and row order are retained, while the English restores this printed sequence."
         },
         {
           "type": "prayer",
@@ -896,14 +1089,22 @@
         {
           "type": "prayer",
           "source": "Dicat Presbyter. In nomine Domini nostri Jesu Christi, perficiamus cum pace. ℟. Deo gratias.",
-          "english": null,
+          "english": "Let the priest say: In the name of our Lord Jesus Christ, let us finish in peace. ℟. Thanks be to God.",
           "sourcePages": [
             636
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              636
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0051",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -932,14 +1133,22 @@
         {
           "type": "prayer",
           "source": "Salve Regina, mater misericordiae, vita, dulcedo, et spes nostra, salve. Ad te clamamus, exsules filii Evae. Ad te suspiramus, gementes et flentes in hac lacrimarum valle. Eia ergo, advocata nostra, illos tuos misericordes oculos ad nos converte. Et Jesum, benedictum fructum ventris tui, nobis post hoc exsilium ostende. O clemens, o pia, o dulcis Virgo Maria.",
-          "english": null,
+          "english": "Hail, Queen, Mother of mercy: hail, our life, our sweetness, and our hope. To thee we cry, banished children of Eve. To thee we sigh, mourning and weeping in this valley of tears. Turn then, our advocate, those merciful eyes of thine toward us: and after this exile show unto us Jesus, the blessed fruit of thy womb. O clement, O loving, O sweet Virgin Mary.",
           "sourcePages": [
             636
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              636
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0053",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         }
       ]
     },
@@ -995,50 +1204,82 @@
         {
           "type": "rubric",
           "source": "L.",
-          "english": null,
+          "english": "L. [An isolated source abbreviation; its meaning requires review.]",
           "sourcePages": [
             636
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              636
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "The listed printed page(s) were visually checked for this passage. Irregular Latin and unresolved clauses also occur in the PDF itself. The extracted Latin is retained; bracketed English readings remain provisional and this passage is not certified for publication."
         },
         {
           "type": "prayer",
           "source": "In finem Psalmus David cum veniret ad eum Nathan propheta quando intravit ad Bersabe, et dixit. Antiphona. Ne projicias nos Domine a facie tua: et Spiritum Sanctum tuum ne auferas a nobis.",
-          "english": null,
+          "english": "Unto the end. A psalm of David, when Nathan the prophet came to him after he had gone in to Bethsabee, and said. Antiphon. Cast us not away from Thy face, O Lord: and take not Thy Holy Ghost from us.",
           "sourcePages": [
             636
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              636
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0004",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Miserere mei Deus secundum magnam misericordiam tuam et secundum multitudinem miserationum tuarum dele iniquitates meas. Usquequaque lava me ab iniustitia mea et a peccato meo munda me. Quoniam iniquitatem meam ego agnosco et peccatum meum contra me est semper. Tibi soli peccavi et malum coram te feci ut iustificeris in sermonibus tuis et vincas dum iudicaris. Ecce enim in iniquitatibus conceptus sum et in peccatis peperit me mater mea. Ecce enim veritatem dilexisti incerta et occulta sapientiae tuae manifestasti mihi. Asperges me hysopo et mundabor lavabis me et super nivem dealbabor. Auditui meo dabis gaudium et laetitiam et exultabunt ossa humiliata. Averte faciem tuam a peccatis meis et omnes iniquitates meas dele. Cor mundum crea in me Deus spiritum rectum innova in visceribus meis. Ne proicias me a facie tua spiritum sanctum tuum ne auferas a me. Redde mihi laetitiam salutaris tui spiritu principali confirma me. Doceam iniquos vias tuas et impii ad te convertentur. Libera me de sanguinibus Deus Deus salutis meae laudabit lingua mea iustitias tuas. Domine labia mea aperies et os meum annuntiabit laudem tuam. Quoniam si voluisses sacrificium dedissem utique holocaustis non delectaberis. Sacrificium Deo spiritus contribulatus cor contritum et humiliatum Deus non spernit. Benigne fac Domine in bona voluntate tua Sion ut aedificentur muri Hierusalem. Tunc acceptabis sacrificium iustitiae oblationes et holocausta tunc impones super altare tuum vitulos. Gloria et honor.",
-          "english": null,
+          "english": "Have mercy upon me, O God, according to Thy great mercy, and according to the multitude of Thy mercies blot out my iniquities. Wash me utterly from my injustice, and cleanse me from my sin. For I acknowledge my iniquity, and my sin is always before me. Against Thee alone have I sinned and done evil before Thee, that Thou mayest be justified in Thy words and prevail when judged. For behold, I was conceived in iniquities, and in sins my mother bore me. For behold, Thou hast loved truth: Thou hast made known to me the uncertain and hidden things of Thy wisdom. Thou shalt sprinkle me with hyssop, and I shall be cleansed: Thou shalt wash me, and I shall be made whiter than snow. Thou shalt give joy and gladness to my hearing, and humbled bones shall exult. Turn Thy face from my sins, and blot out all my iniquities. Create a clean heart in me, O God; renew a right spirit within me. Cast me not away from Thy face; take not Thy Holy Ghost from me. Restore to me the joy of Thy salvation; strengthen me with a sovereign spirit. I shall teach the wicked Thy ways, and the ungodly shall turn unto Thee. Deliver me from bloodshed, O God, God of my salvation; my tongue shall praise Thy justices. O Lord, Thou shalt open my lips, and my mouth shall announce Thy praise. For hadst Thou desired sacrifice, I would indeed have given it: Thou wilt not delight in burnt offerings. A sacrifice to God is a troubled spirit: God despises not a contrite and humbled heart. Deal kindly, O Lord, in Thy good will with Sion, that the walls of Jerusalem may be built. Then shalt Thou accept the sacrifice of justice, offerings and burnt offerings: then shall they lay calves upon Thine altar. Glory and honour.",
           "sourcePages": [
             636
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              636
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Antiphona. Ne projicias nos Domine a facie tua: et Spiritum Sanctum tuum ne auferas a nobis.",
-          "english": null,
+          "english": "Antiphon. Cast us not away from Thy face, O Lord: and take not Thy Holy Ghost from us.",
           "sourcePages": [
             636
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              636
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0006",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -1064,15 +1305,24 @@
         {
           "type": "prayer",
           "source": "Ne projicias nos Domine a facie tua; nec auferas misericordiam tuam a nobis: ut quos reatus facinoris tenet obnoxios, miserationis tuae clementia faciat absolutos. ℟. Amen. Per misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum. ℟. Amen.",
-          "english": null,
+          "english": "Cast us not away from Thy face, O Lord; nor take Thy mercy away from us: that those whom the guilt of crime holds liable may be absolved by the clemency of Thy mercy. ℟. Amen. Through Thy mercy, our God, who art blessed and rulest all things, forever and ever. ℟. Amen.",
           "sourcePages": [
             636,
             637
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              636,
+              637
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0008",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -1097,14 +1347,22 @@
         {
           "type": "prayer",
           "source": "Salvator noster salva nos in dilectione tua, Et indulgentia tua libera nos. ℣. Ad te levamus oculos nostros, qui habitas in coelis. Et indulgentia. ℣. Gloria et honor. ℟. Et indulgentia.",
-          "english": null,
+          "english": "Our Saviour, save us in Thy love, and deliver us through Thy pardon. ℣. Unto Thee we lift our eyes, who dwellest in heaven. And through Thy pardon. ℣. Glory and honour. ℟. And through Thy pardon.",
           "sourcePages": [
             637
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              637
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -1130,14 +1388,22 @@
         {
           "type": "prayer",
           "source": "Omnipotens sempiterne Deus, inclina aurem tuam supplicationibus nostris, et famulis tuis omnibus fidelibus infirmis adversa corporis valetudine laborantibus coelestis gratiae medicinam concede. ℟. Amen. ℣. Per misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum. ℟. Amen.",
-          "english": null,
+          "english": "Almighty, everlasting God, incline Thine ear unto our supplications, and grant the medicine of heavenly grace to Thy servants, all the sick faithful labouring under bodily ill health. ℟. Amen. ℣. Through Thy mercy, our God, who art blessed and rulest all things, forever and ever. ℟. Amen.",
           "sourcePages": [
             637
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              637
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0012",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -1162,14 +1428,22 @@
         {
           "type": "prayer",
           "source": "Ostende nobis Domine misericordiam tuam: Et salutare tuum da nobis. ℣. Ut confiteamur nomini sancto tuo: et gloriamur in laude tua. Et salutare. ℣. Gloria et honor. ℟. Et salutare.",
-          "english": null,
+          "english": "Show us Thy mercy, O Lord, and give us Thy salvation. ℣. That we may praise Thy holy name and glory in Thy praise. And Thy salvation. ℣. Glory and honour. ℟. And Thy salvation.",
           "sourcePages": [
             637
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              637
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0014",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -1195,14 +1469,22 @@
         {
           "type": "prayer",
           "source": "Deus, qui confitentium tibi corda purificas, et accusantem conscientiam ab omni vinculo iniquitatis absolvis: da indulgentiam famulis, et coelestis gratiae sinceram medicinam eorum tribue corporibus. ℟. Amen. ℣. Per misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum. ℟. Amen.",
-          "english": null,
+          "english": "O God, who purifiest the hearts of those who confess unto Thee, and loosest the accusing conscience from every bond of iniquity: grant pardon to Thy servants, and bestow upon their bodies the pure medicine of heavenly grace. ℟. Amen. ℣. Through Thy mercy, our God, who art blessed and rulest all things, forever and ever. ℟. Amen.",
           "sourcePages": [
             637
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              637
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0016",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -1227,26 +1509,42 @@
         {
           "type": "prayer",
           "source": "Convertere, Domine, et eripe animas nostras: Et salvos nos fac propter misericordiam tuam.",
-          "english": null,
+          "english": "Turn, O Lord, and deliver our souls: and save us for Thy mercy’s sake.",
           "sourcePages": [
             637
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              637
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0018",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "℣. Domine, ne in furore tuo arguas nos, neque in ira tua corripias nos. Et salvos. ℣. Gloria et honor. ℟. Et salvos.",
-          "english": null,
+          "english": "℣. Lord, rebuke us not in Thy fury, nor chasten us in Thine anger. And save us. ℣. Glory and honour. ℟. And save us.",
           "sourcePages": [
             637
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              637
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0019",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -1272,14 +1570,22 @@
         {
           "type": "prayer",
           "source": "Adesto, quaesumus, Domine supplicibus nostris: et quibus austeritatem justae correctionis infligis, propitius adhibe auxilium misericordissimae consolationis. ℟. Amen. ℣. Per misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum. ℟. Amen.",
-          "english": null,
+          "english": "Attend, we beseech Thee, O Lord, to our supplications: and to those upon whom Thou inflictest the severity of just correction, graciously apply the help of most merciful consolation. ℟. Amen. ℣. Through Thy mercy, our God, who art blessed and rulest all things, forever and ever. ℟. Amen.",
           "sourcePages": [
             637
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              637
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0021",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -1310,14 +1616,22 @@
         {
           "type": "prayer",
           "source": "Virtus nostra, Domine, esto firmamentum infirmis. Esto refugium et liberator oppressis. ℣. Esto brachium nostrum in mane, et salus nostra in tempore tribulationis. Esto refugium. ℣. Gloria et honor. ℟. Virtus nostra.",
-          "english": null,
+          "english": "Our strength, O Lord, be a support to the weak. Be a refuge and deliverer to the oppressed. ℣. Be our arm in the morning, and our salvation in time of trouble. Be a refuge. ℣. Glory and honour. ℟. Our strength.",
           "sourcePages": [
             637
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              637
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0023",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         }
       ]
     },
@@ -1355,26 +1669,42 @@
         {
           "type": "prayer",
           "source": "Canticum Deuteronomij. Cap. 32. Antiphona. Ego occidam, et vivere faciam: percutiam, et ego sanabo.",
-          "english": null,
+          "english": "Canticle of Deuteronomy. Chapter 32. Antiphon. I shall kill and give life: I shall strike, and I shall heal.",
           "sourcePages": [
             637
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              637
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0002",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Vidi enim eos fatigatos et defectos in obductione et dissolutos. Et dixi: Ubi sunt dii tui Israel, in quibus confidabas in ipsis? Quorum adipe sacrificiorum edebatis, et bibebatis vinum libationum eorum: Exurgant nunc, et adjuvent vos, et fiant vobis protectores. Videte, videte, quoniam ego sum Dominus, et non est alius praeter me: Ego sum qui occidam et vivere faciam: percutiam, et ego sanabo. Gloria et honor.",
-          "english": null,
+          "english": "For I saw them weary and failing under a covering, and weakened. And I said: Where are thy gods, O Israel, in whom thou didst trust? Of whose fat sacrifices ye ate, and drank the wine of their libations: let them now arise and help you, and become your protectors. See, see, that I am the Lord, and there is none other besides me: I am He who shall kill and give life: I shall strike, and I shall heal. Glory and honour. [The first extracted sentence is irregular.]",
           "sourcePages": [
             637
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              637
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0003",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -1419,15 +1749,24 @@
         {
           "type": "prayer",
           "source": "Illumina, Domine, vultum tuum super nos, et miserere nobis. Ut cognoscamus in terra viam tuam. ℣. Deus misereatur nostri, et benedicat nos. Ut cognoscamus. ℣. Gloria et honor. ℟. Ut cognoscamus.",
-          "english": null,
+          "english": "Shine Thy countenance upon us, O Lord, and have mercy upon us, that we may know Thy way upon earth. ℣. May God have mercy upon us and bless us. That we may know. ℣. Glory and honour. ℟. That we may know.",
           "sourcePages": [
             637,
             638
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              637,
+              638
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0006",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -1456,14 +1795,22 @@
         {
           "type": "prayer",
           "source": "Laudate Dominum omnes Gentes: Alleluia, alleluia. Et collaudate eum omnes populi. ℣. Quoniam confirmata est super nos misericordia ejus: et veritas Domini manet in aeternum. Et collaudate eum. ℣. Gloria et honor. ℟. Et collaudate eum.",
-          "english": null,
+          "english": "Praise the Lord, all ye nations: alleluia, alleluia. And praise Him together, all ye peoples. ℣. For His mercy is confirmed upon us, and the truth of the Lord endures forever. And praise Him together. ℣. Glory and honour. ℟. And praise Him together.",
           "sourcePages": [
             638
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              638
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0008",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -1488,14 +1835,22 @@
         {
           "type": "prayer",
           "source": "Laudate Dominum de caelis laudate eum in excelsis. Laudate eum omnes angeli ejus laudate eum omnes virtutes ejus. Laudate eum sol et luna laudate eum omnes stellae et lumen. Laudate eum caeli caelorum et aquae quae super caelos sunt, laudent nomen Domini. Quia ipse dixit et facta sunt ipse mandavit et creata sunt. Statuit ea in aeternum et in saeculum saeculi praeceptum posuit et non praeteribit. Laudate Dominum a terra dracones et omnes abyssi. Ignis grando nix glacies spiritus tempestatis qui facitis verbum ejus. Montes et omnes colles ligna fructifera et omnes cedri. Bestiae et universa pecora serpentes et volucres pinnatae. Reges terrae et omnes populi principes et judices terrae. Juvenes et virgines seniores cum junioribus laudent nomen Domini. Quia exaltatum est nomen ejus solius confessio ejus super caelum et terram. Et exaltavit cornu populi sui hymnus omnibus sanctis ejus filiis populo appropinquanti sibi.",
-          "english": null,
+          "english": "Praise the Lord from the heavens; praise Him in the heights. Praise Him, all His angels; praise Him, all His powers. Praise Him, sun and moon; praise Him, all ye stars and light. Praise Him, heavens of heavens; and let all waters above the heavens praise the name of the Lord: for He spoke and they were made; He commanded and they were created. He established them forever and ever: He gave a commandment, and it shall not pass away. Praise the Lord from the earth, dragons and all depths; fire, hail, snow, ice, storm winds that fulfil His word; mountains and all hills, fruitful trees and all cedars; beasts and all cattle, creeping things and winged birds. Kings of the earth and all peoples, princes and judges of the earth; young men and maidens, the old with the young, let them praise the name of the Lord: for His name alone is exalted, His praise above heaven and earth: and He has exalted the horn of His people. A hymn for all His saints, for the children, the people drawing near to Him.",
           "sourcePages": [
             638
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              638
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0010",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -1520,14 +1875,22 @@
         {
           "type": "prayer",
           "source": "Cantate Domino canticum novum laus ejus in Ecclesiis sanctorum. Laetetur Israel in eo qui fecit ipsum et filii Syon exultent super regem suum. Laudent nomen ejus in choro in tympano et psalterio psallant ei. Quia beneplacitum est Domino in populo suo et exaltavit mansuetos in salute. Exultabunt sancti in gloria et laetabuntur in cubilibus suis. Exultationes Dei in faucibus eorum et gladii bis acuti in manibus eorum. Ad faciendam vindictam in nationibus increpationes in populis. Ad alligandos reges eorum in compedibus et nobiles eorum in vinculis ferreis. Ut fiat in eis judicium conscriptum gloria haec est omnibus sanctis ejus.",
-          "english": null,
+          "english": "Sing unto the Lord a new song: His praise in the churches of saints. Let Israel rejoice in Him who made him; and let the sons of Sion exult in their King. Let them praise His name in the dance; let them sing unto Him with timbrel and psaltery. For the Lord is well pleased with His people, and has exalted the meek in salvation. The saints shall exult in glory; they shall rejoice upon their beds. The praises of God are in their throats, and two-edged swords in their hands: to execute vengeance upon nations, and rebukes upon peoples; to bind their kings in fetters, and their nobles in iron chains; to execute upon them the written judgment: this glory belongs to all His saints.",
           "sourcePages": [
             638
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              638
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0012",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -1552,14 +1915,22 @@
         {
           "type": "prayer",
           "source": "Laudate Dominum in sanctis ejus laudate eum in firmamento virtutis ejus. Laudate eum in potentatibus ejus laudate eum secundum multitudinem magnitudinis ejus. Laudate eum in sono tubae laudate eum in psalterio et cithara. Laudate eum in tympano et choro laudate eum in cordis et organo. Laudate eum in cymbalis bene sonantibus † laudate eum in cymbalis jubilationum omnis spiritus laudet Dominum. Gloria et honor.",
-          "english": null,
+          "english": "Praise the Lord in His saints; praise Him in the firmament of His power. Praise Him in His mighty deeds; praise Him according to the abundance of His greatness. Praise Him with the sound of the trumpet; praise Him with psaltery and harp. Praise Him with timbrel and dance; praise Him with strings and organ. Praise Him with resounding cymbals; praise Him with cymbals of rejoicing: let every spirit praise the Lord. Glory and honour.",
           "sourcePages": [
             638
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              638
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0014",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -1584,14 +1955,22 @@
         {
           "type": "prayer",
           "source": "℟. Deo gratias. Haec dicit Dominus: Ecce ego visitabo vos: et suscitabo vos, et suscitabo super vos verbum meum bonum, et reducam vos ad locum istum. Ego enim scio cogitationes, quas cogito super vos, ait Dominus, cogitationes pacis, et non afflictionis, ut dem vobis fidem, salutem, et patientiam. Et invocabitis me, et timebitis: orabitis me, et ego exaudiam vos. Quaeretis me, et invenietis: cum quaesieritis me in toto corde vestro, inveniar a vobis, ait Dominus omnipotens. ℟. Amen.",
-          "english": null,
+          "english": "℟. Thanks be to God. Thus says the Lord: Behold, I shall visit you and raise you up, and establish my good word over you, and bring you back to this place. For I know the thoughts I think concerning you, says the Lord, thoughts of peace and not affliction, that I may give you faith, salvation, and patience. And ye shall invoke me, and fear: ye shall pray to me, and I shall hear you. Ye shall seek me and find me: when ye seek me with your whole heart, I shall be found by you, says the Lord almighty. ℟. Amen.",
           "sourcePages": [
             638
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              638
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0016",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -1617,111 +1996,184 @@
         {
           "type": "prayer",
           "source": "Christe caelestis medicina Patris, Verus humanae medicus salutis Providae plebis precibus potenter Pande favorem.",
-          "english": null,
+          "english": "Christ, the Father’s heavenly medicine,\nTrue physician of mankind’s salvation,\nPowerfully show favour to the prayers\nOf Thy provident people.",
           "sourcePages": [
             638,
             639
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              638,
+              639
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0018",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "En ob infirmos tibi supplicamus, Quos nocens pestis valitudo cassat; Ut pius morbum releves jacentum, Quo quatiuntur.",
-          "english": null,
+          "english": "Behold, we beseech Thee for the sick,\nWhom harmful plague and illness weaken;\nGraciously relieve the disease\nWhich shakes those lying ill.",
           "sourcePages": [
             639
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              639
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0019",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Qui potestate manifestus extans, Mox Petri socrum febribus jacentem, Reguli prolem, puerumque salvans Centurionis.",
-          "english": null,
+          "english": "Thou who, manifest in Thy power,\nDidst promptly save Peter’s mother-in-law lying in fever,\nThe ruler’s child, and the servant\nOf the centurion.",
           "sourcePages": [
             639
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              639
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0020",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Ferto languenti populo vigorem; Efflue largam populis salutem; Pristinis more solito reformans Viribus aegros.",
-          "english": null,
+          "english": "Bring strength to Thy languishing people;\nPour forth abundant health upon peoples;\nAs is Thy wont, restore the sick\nTo their former strength.",
           "sourcePages": [
             639
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              639
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0021",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Corporum morbos animaeque sana; Vulnerum causis adhibe medelam: Ne sine fructu cruciatus urat Corpora nostra.",
-          "english": null,
+          "english": "Heal the diseases of body and soul;\nApply a remedy to the causes of wounds,\nLest torment fruitlessly burn\nOur bodies.",
           "sourcePages": [
             639
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              639
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0022",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Omnis impulsus penitus recedat; Omnis incursus crucians liquescat; Viror optatae foveat salutis Membra dolentis.",
-          "english": null,
+          "english": "Let every assault depart utterly;\nLet every tormenting onslaught melt away;\nMay the freshness of desired health cherish\nThe sufferer’s limbs.",
           "sourcePages": [
             639
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              639
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0023",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Iam Deus nostri miserere fletus, Pro quibus te nunc petimus mederi; Ut tuam omnis recubans medelam Sentiat aeger;",
-          "english": null,
+          "english": "Now, O God, have mercy upon our weeping\nFor those whom we now ask Thee to heal;\nThat every sick person lying down\nMay feel Thy remedy;",
           "sourcePages": [
             639
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              639
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0024",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Quo per illata mala dum teruntur, Eruditorum numero decori Compotes intrent, sociante fructu, Regna polorum.",
-          "english": null,
+          "english": "That, while worn by the evils inflicted,\nAdorned among the number of those instructed,\nThey may enter the kingdoms of heaven,\nSharing in the accompanying fruit.",
           "sourcePages": [
             639
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              639
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0025",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Gloriam psallat chorus, et resultet, Gloriam dicat, canat, et revolvat; Nomini Trino, Deitati soli Sidera clament. Amen.",
-          "english": null,
+          "english": "Let the choir sing glory and echo it,\nLet it speak, sing, and repeat glory;\nLet the stars cry unto the threefold Name,\nUnto the one Godhead. Amen.",
           "sourcePages": [
             639
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              639
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0026",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -1746,14 +2198,22 @@
         {
           "type": "prayer",
           "source": "Oremus Redemptorem mundi, Dominum nostrum Jesum Christum, cum omni supplicatione rogemus; ut vulnera famulorum suorum, omnium fidelium infirmorum, propitius curare dignetur. ℟. Praesta aeterne omnipotens Deus. Kyrie eleison. ℟. Christe eleison. Kyrie eleison.",
-          "english": null,
+          "english": "Let us pray. Let us entreat with every supplication the Redeemer of the world, our Lord Jesus Christ, that He may graciously deign to heal the wounds of His servants, all the sick faithful. ℟. Grant this, eternal almighty God. Lord, have mercy. ℟. Christ, have mercy. Lord, have mercy.",
           "sourcePages": [
             639
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              639
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0028",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -1778,14 +2238,22 @@
         {
           "type": "prayer",
           "source": "Respice Domine super famulos tuos omnes fideles aegrotos tui nominis invocatione gaudentes: tribue eis medicinam coelestem; tutelam mentis infunde, et ab omni infirmitate, et languore eos liberare dignare.",
-          "english": null,
+          "english": "Look, O Lord, upon Thy servants, all the faithful sick who rejoice in invoking Thy name: grant them heavenly medicine; pour forth protection of mind, and deign to deliver them from every infirmity and sickness.",
           "sourcePages": [
             639
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              639
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0030",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -1810,26 +2278,42 @@
         {
           "type": "prayer",
           "source": "Pater noster, qui es in caelis. ℟. Amen. Sanctificetur nomen tuum. ℟. Amen. Adveniat regnum tuum. ℟. Amen. Fiat voluntas tua sicut in caelo et in terra. ℟. Amen. Panem nostrum quotidianum da nobis hodie.",
-          "english": null,
+          "english": "Our Father, who art in heaven. ℟. Amen. Hallowed be Thy name. ℟. Amen. Thy kingdom come. ℟. Amen. Thy will be done on earth as it is in heaven. ℟. Amen. Give us this day our daily bread.",
           "sourcePages": [
             639
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              639
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0032",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "℟. Quia Deus es. Et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris. ℟. Amen. Et ne nos inducas in tentationem. ℟. Sed libera nos a malo.",
-          "english": null,
+          "english": "℟. For Thou art God. And forgive us our debts, as we also forgive our debtors. ℟. Amen. And lead us not into temptation. ℟. But deliver us from evil.",
           "sourcePages": [
             639
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              639
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0033",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -1854,14 +2338,22 @@
         {
           "type": "prayer",
           "source": "Dicat Presbyter. Liberati a malo, confirmati semper in bono tibi servire mereamur Deo, ac Domino nostro. Pone, Domine, finem peccatis nostris: da gaudium tribulatis: praebe redemptionem captivis: sanitatem infirmis: requiemque defunctis. Concede pacem et securitatem in omnibus diebus nostris: frange audaciam inimicorum nostrorum: exaudi, Deus, orationem servorum tuorum omnium fidelium christianorum in hoc die, et in omni tempore. Per Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit, et regnat in unitate Spiritus Sancti Deus per omnia semper saecula saeculorum.",
-          "english": null,
+          "english": "Let the priest say: Delivered from evil and ever strengthened in good, may we merit to serve Thee, our God and Lord. Put an end to our sins, O Lord: give joy to the troubled, redemption to captives, health to the sick, and rest to the departed. Grant peace and security in all our days: break the audacity of our enemies: hear, O God, the prayer of Thy servants, all faithful Christians, this day and at all times. Through our Lord Jesus Christ Thy Son, who lives and reigns with Thee in the unity of the Holy Ghost, God, forever and ever.",
           "sourcePages": [
             639
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              639
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0035",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -1887,14 +2379,22 @@
         {
           "type": "prayer",
           "source": "Dicat Presbyter. Humiliate vos ad benedictionem. ℣. Dominus sit semper vobiscum. ℟. Et cum spiritu tuo.",
-          "english": null,
+          "english": "Let the priest say: Bow down for the blessing. ℣. May the Lord be always with you. ℟. And with thy spirit.",
           "sourcePages": [
             640
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              640
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0037",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -1923,14 +2423,22 @@
         {
           "type": "prayer",
           "source": "Salvos nos fac Domine Deus noster: Alleluia. Ut confiteamur nomini sancto tuo. Alleluia. ℣. Memento nostri, Domine, in beneplacito populi tui: visita nos in salutari tuo. Ut confiteamur.",
-          "english": null,
+          "english": "Save us, O Lord our God: alleluia. That we may praise Thy holy name. Alleluia. ℣. Remember us, O Lord, in the good pleasure of Thy people: visit us in Thy salvation. That we may praise.",
           "sourcePages": [
             640
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              640
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0039",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -2001,14 +2509,22 @@
         {
           "type": "prayer",
           "source": "Omnipotens Dominus, qui fidelissimos famulos suos omnes fideles infirmos corporali corripit vulnere, ipse illos, et nos a corporis mentisque aegritudinibus expiet. ℟. Amen. Quique nostram in se suscepit infirmitatem, ipse nobis, et illis tribuat tolerantiae sine fine mercedem. ℟. Amen. Sic omnes in communi ejus pietas foveat; ut nec corrupta nostra salus desaeviat, nec desperationi infirmitas illata succumbat. ℟. Amen. Per misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum.",
-          "english": null,
+          "english": "May the almighty Lord, who chastens His most faithful servants, all the sick faithful, with bodily wounds, Himself cleanse them and us from sickness of body and mind. ℟. Amen. And He who took our weakness upon Himself, may He grant us and them the everlasting reward of endurance. ℟. Amen. May His loving kindness cherish all alike, so that neither our impaired health may rage, nor inflicted sickness succumb to despair. ℟. Amen. Through Thy mercy, our God, who art blessed and rulest all things, forever and ever.",
           "sourcePages": [
             640
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              640
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0043",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -2044,26 +2560,42 @@
         {
           "type": "prayer",
           "source": "Lauda. Ad annunciandum mane misericordiam tuam. Et veritatem tuam per noctem. Oratio. Mane, Domine, oratio nostra perveniat ad te. Quia suscepisti confractonem fragilitatis nostrae, concede nobis diem istum jocundum, pacificum sine scandalo, sine macula: sine ulla tentatione advenientes ad vesperam, te col-",
-          "english": null,
+          "english": "Lauda. To proclaim Thy mercy in the morning, and Thy truth by night. Prayer. In the morning, O Lord, may our prayer come unto Thee. For Thou hast taken upon Thyself the brokenness of our frailty, grant us this day joyful and peaceful, without stumbling, without stain: reaching evening without any temptation, we praise",
           "sourcePages": [
             640
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              640
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commemorationes-ad-libitum-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "℟. Amen. ℣. Per laudamus regem aeternum. misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum.",
-          "english": null,
+          "english": "Thee, the eternal King. ℟. Amen. ℣. Through Thy mercy, our God, who art blessed and rulest all things, forever and ever.",
           "sourcePages": [
             640
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              640
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commemorationes-ad-libitum-b0002",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "Printed page 640 was visually checked. “collaudamus regem aeternum” finishes the preceding prayer before the response; the English restores the printed sequence across these two rows while retaining the interleaved extraction unchanged."
         },
         {
           "type": "prayer",
@@ -2109,14 +2641,22 @@
         {
           "type": "prayer",
           "source": "Dicat Presbyter. In nomine Domini nostri Jesu Christi, perficiamus cum pace. ℟. Deo gratias.",
-          "english": null,
+          "english": "Let the priest say: In the name of our Lord Jesus Christ, let us finish in peace. ℟. Thanks be to God.",
           "sourcePages": [
             640
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              640
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commemorationes-ad-libitum-b0005",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -2145,14 +2685,22 @@
         {
           "type": "prayer",
           "source": "Salve Regina, mater misericordiae, vita, dulcedo, et spes nostra, salve. Ad te clamamus, exsules filii Evae. Ad te suspiramus, gementes et flentes in hac lacrimarum valle. Eia ergo, advocata nostra, illos tuos misericordes oculos ad nos converte. Et Jesum, benedictum fructum ventris tui, nobis post hoc exsilium ostende. O clemens, o pia, o dulcis Virgo Maria.",
-          "english": null,
+          "english": "Hail, Queen, Mother of mercy: hail, our life, our sweetness, and our hope. To thee we cry, banished children of Eve. To thee we sigh, mourning and weeping in this valley of tears. Turn then, our advocate, those merciful eyes of thine toward us: and after this exile show unto us Jesus, the blessed fruit of thy womb. O clement, O loving, O sweet Virgin Mary.",
           "sourcePages": [
             640
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              640
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "commemorationes-ad-libitum-b0007",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         }
       ]
     }

@@ -227,7 +227,7 @@
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
     "extraction": "candidate",
-    "translation": "incomplete",
+    "translation": "complete-prepared-reading-pending",
     "verification": "pending"
   },
   "sections": [
@@ -509,14 +509,22 @@
         {
           "type": "prayer",
           "source": "Venite, exsultemus Domino, jubilemus Deo, salutari nostro: praeoccupemus faciem ejus in confessione, et in psalmis jubilemus ei. Ave Maria, gratia plena, Dominus tecum. (Alleluja) Quoniam Deus magnus Dominus, et Rex magnus super omnes deos, quoniam non repellet Dominus plebem suam: quia in manu ejus sunt omnes fines terrae, et altitudines montium ipse conspicit. Dominus tecum. (Alleluja) Quoniam ipsius est mare, et ipse fecit illud, et aridam fundaverunt manus ejus (genuflectitur) venite, adoremus, et procidamus ante Deum: ploremus coram Domino, qui fecit nos, quia ipse est Dominus, Deus noster; nos autem populus ejus, et oves pascuae ejus. Ave Maria, gratia plena, Dominus tecum. (Alleluja) Hodie, si vocem ejus audieritis, nolite obdurare corda vestra, sicut in exacerbatione secundum diem tentationis in deserto: ubi tentaverunt me patres vestri, probaverunt et viderunt opera mea. Dominus tecum. (Alleluja) Quadraginta annis proximus fui generationi huic, et dixi; Semper hi errant corde, ipsi vero non cognoverunt vias meas: quibus juravi in ira mea; Si introibunt in requiem meam. Ave Maria, gratia plena, Dominus tecum. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen. Ant. Dominus tecum. (Alleluja) Ant. Ave Maria, gratia plena, Dominus tecum.",
-          "english": null,
+          "english": "Come, let us exult in the Lord; let us shout with joy unto God our Saviour: let us come before His face with praise, and sing psalms joyfully unto Him. Hail, Mary, full of grace, the Lord is with thee. (Alleluia.) For the Lord is a great God, and a great King above all gods; for the Lord will not reject His people: for in His hand are all the ends of the earth, and He beholds the heights of the mountains. The Lord is with thee. (Alleluia.) For the sea is His, and He made it, and His hands founded the dry land (kneel): come, let us worship and fall down before God: let us weep before the Lord who made us, for He is the Lord our God; and we are His people and the sheep of His pasture. Hail, Mary, full of grace, the Lord is with thee. (Alleluia.) Today, if ye hear His voice, harden not your hearts, as in the provocation, on the day of temptation in the wilderness: where your fathers tempted me, tried me, and saw my works. The Lord is with thee. (Alleluia.) Forty years was I near this generation, and I said: These always err in heart, and they have not known my ways: to whom I swore in my wrath: They shall not enter my rest. Hail, Mary, full of grace, the Lord is with thee. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen. Ant. The Lord is with thee. (Alleluia.) Ant. Hail, Mary, full of grace, the Lord is with thee.",
           "sourcePages": [
             188
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              188
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0013",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -949,26 +957,42 @@
         {
           "type": "prayer",
           "source": "Caeli enarrant gloriam Dei: et opera manuum ejus annuntiat firmamentum. Dies diei eructat verbum, et nox nocti indicat scientiam. Non sunt loquelae, neque sermones, quorum non audiantur voces eorum. In omnem terram exivit sonus eorum: et in fines orbis terrae verba eorum. In sole posuit tabernaculum suum: et ipse tamquam sponsus procedens de thalamo suo: Exsultavit ut gigas ad currendam viam, a summo caelo egressio ejus:",
-          "english": null,
+          "english": "The heavens declare the glory of God, and the firmament announces the works of His hands. Day pours forth speech to day, and night shows knowledge to night. There are no speeches or words whose voices are not heard. Their sound has gone forth into all the earth, and their words unto the ends of the world. In the sun He has set His tabernacle: and He Himself, as a bridegroom coming forth from his chamber, has rejoiced as a giant to run His course. His going forth is from the height of heaven,:",
           "sourcePages": [
             189
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              189
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0033",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Et occursus ejus usque ad summum ejus: nec est qui se abscondat a calore ejus. Lex Domini immaculata, convertens animas: testimonium Domini fidele, sapientiam praestans parvulis. Justitiae Domini rectae, laetificantes corda: praeceptum Domini lucidum, illuminans oculos. Timor Domini sanctus, permanens in saeculum saeculi: judicia Domini vera, justificata in semetipsa. Desiderabilia super aurum et lapidem pretiosum multum: et dulciora super mel et favum. etenim servus tuus custodit ea, in custodiendis illis retributio multa. Delicta quis intellegit? ab occultis meis munda me: et ab alienis parce servo tuo. Si mei non fuerint dominati, tunc immaculatus ero: et emundabor a delicto maximo. Et erunt ut complaceant eloquia oris mei: et meditatio cordis mei in conspectu tuo semper. Domine, adjutor meus, et redemptor meus. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "And His course reaches its farthest height. None can hide from His heat: the law of the Lord is blameless, converting souls. The testimony of the Lord is faithful, giving wisdom to the little ones. The justices of the Lord are right, rejoicing hearts; the commandment of the Lord is clear, enlightening eyes. The holy fear of the Lord endures forever and ever. The judgments of God are true, justified in themselves, more desirable than gold and much precious stone, and sweeter than honey and the honeycomb. Thy servant indeed keeps them; in keeping them there is great reward. Who understands his faults? Cleanse me from my hidden faults, O Lord, and spare Thy servant from those of others. If they have not ruled over me, then shall I be spotless, and cleansed from the greatest offence. And the words of my mouth shall be pleasing, and the meditation of my heart always before Thee. O Lord, my helper and my redeemer. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             189
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              189
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0034",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -1413,26 +1437,42 @@
         {
           "type": "prayer",
           "source": "Cantate Domino canticum novum: cantate Domino, omnis terra. Cantate Domino, et benedicite nomini ejus: annuntiate de die in diem salutare ejus. Annuntiate inter gentes gloriam ejus, in omnibus populis mirabilia ejus. Quoniam magnus Dominus, et laudabilis nimis: terribilis est super omnes deos. Quoniam omnes dii gentium daemonia: Dominus autem caelos fecit. Confessio, et pulchritudo in conspectu ejus: sanctimonia et magnificentia in sanctificatione ejus. Afferte Domino, patriae gentium, afferte Domino gloriam et honorem: afferte Domino gloriam nomini ejus. Tollite hostias, et introite in atria ejus: adorate Dominum in atrio sancto ejus.",
-          "english": null,
+          "english": "Sing unto the Lord a new song; sing unto the Lord, all the earth. Sing unto the Lord, bless His name: proclaim His salvation from day to day. Declare His glory among the nations, His wonders among all peoples: for the Lord is great and exceedingly worthy of praise; He is terrible above all gods: for all the gods of the nations are demons; but the Lord made the heavens. Praise and beauty are before Him: sanctity and magnificence in His sanctuary. Bring unto the Lord, ye families of nations, bring unto the Lord glory and honour: bring unto the Lord glory to His name. Take offerings, and enter His courts: worship the Lord in His holy court.",
           "sourcePages": [
             191
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              191
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0054",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Commoveatur a facie ejus universa terra: dicite in gentibus quia Dominus regnavit. etenim correxit orbem terrae qui non commovebitur: judicabit populos in aequitate. Laetentur caeli, et exsultet terra: commoveatur mare, et plenitudo ejus: gaudebunt campi, et omnia quae in eis sunt. Tunc exsultabunt omnia ligna silvarum a facie Domini, quia venit: quoniam venit judicare terram. Judicabit orbem terrae in aequitate, et populos in veritate sua. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "Let all the earth be moved before Him: say among the nations that the Lord has reigned; for He has established the world, which shall not be moved. He shall judge peoples with equity: let the heavens rejoice and the earth exult. Let the sea and its fullness be moved; the fields and all that is in them shall rejoice. Then all the trees of the forests shall exult before the Lord, for He comes: for He comes to judge the earth. He shall judge the world with equity, and peoples in His truth. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             191
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              191
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0055",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -1647,14 +1687,22 @@
         {
           "type": "prayer",
           "source": "℟. Sed libera nos a malo. Bend. Alma Virgo virginum intercedat pro nobis ad Dominum.",
-          "english": null,
+          "english": "℟. But deliver us from evil. Blessing. May the loving Virgin of virgins intercede for us with the Lord.",
           "sourcePages": [
             192
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              192
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0065",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -1700,14 +1748,22 @@
         {
           "type": "prayer",
           "source": "Quae est ista, quae ascendit per desertum, sicut virgula fumi ex aromatibus myrrhae, et thuris, et universi pulveris pigmentarii? Tota pulchra es, amica mea, et macula non est in te. Hortus conclusus, soror mea sponsa, hortus conclusus, fons signatus. Tu autem, Domine, miserere nostri.",
-          "english": null,
+          "english": "Who is she who ascends through the wilderness like a pillar of smoke from the spices of myrrh and frankincense, and every powder of the perfumer? Thou art wholly beautiful, my beloved, and there is no stain in thee. An enclosed garden, my sister, my bride; an enclosed garden, a sealed fountain. But Thou, O Lord, have mercy upon us.",
           "sourcePages": [
             192
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              192
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0068",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -1733,14 +1789,22 @@
         {
           "type": "prayer",
           "source": "℣. Sancta et immaculata virginitas, quibus te laudibus efferam, nescio: Quia quem caeli capere non poterant, tuo gremio contulisti. (Alleluia).",
-          "english": null,
+          "english": "℣. Holy and immaculate virginity, I know not with what praises to exalt thee: for Him whom the heavens could not contain, thou didst bear in thy bosom. (Alleluia.)",
           "sourcePages": [
             192
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              192
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0070",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -1830,14 +1894,22 @@
         {
           "type": "prayer",
           "source": "Ego quasi terebinthus extendi ramos meos: et rami mei honoris et gratiae. Ego quasi vitis fructificavi suavitatem odoris, et flores mei fructus honoris et honestatis. Ego mater pulchrae dilectionis, et timoris, et agnitionis, et sanctae spei. In me gratia omnis viae et veritatis, in me omnis spes vitae et virtutis. Tu autem, Domine, miserere nostri.",
-          "english": null,
+          "english": "Like a terebinth I spread out my branches: and my branches are of honour and grace. Like a vine I have brought forth a sweet fragrance, and my flowers are the fruits of honour and virtue. I am the mother of fair love, and of fear, and of knowledge, and of holy hope. In me is all grace of the way and of truth; in me is all hope of life and virtue. But Thou, O Lord, have mercy upon us.",
           "sourcePages": [
             192
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              192
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0075",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -1863,14 +1935,22 @@
         {
           "type": "prayer",
           "source": "℣. Beata es, Virgo Maria, quae Dominum portasti, Creatorem mundi: Genusisti qui te fecit, et in aeternum permanes Virgo. (Alleluia).",
-          "english": null,
+          "english": "℣. Blessed art thou, Virgin Mary, who didst bear the Lord, Creator of the world: thou didst bring forth Him who made thee, and thou remainest a Virgin forever. (Alleluia.) [The extracted verb “Genusisti” is irregular.]",
           "sourcePages": [
             192
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              192
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0077",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -1895,14 +1975,22 @@
         {
           "type": "prayer",
           "source": "℣. Jube, domne, benedicere. Bened. Sancta Dei Genetrix sit nobis auxiliatrix. textcolorred ℟. Amen.",
-          "english": null,
+          "english": "℣. Deign, sir, to bless. Blessing. May the holy Mother of God be our helper. ℟. Amen. [The extracted “textcolorred” is a formatting artifact.]",
           "sourcePages": [
             192
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              192
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0079",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -1927,26 +2015,42 @@
         {
           "type": "prayer",
           "source": "Transite ad me, omnes, qui concupiscitis me; et a generationibus meis implemini. Spiritus enim meus super mel dulcis: et hereditas mea super mel et favum. Memoria mea in generationes saeculorum. Qui audit me, non confundetur;",
-          "english": null,
+          "english": "Come unto me, all ye who desire me, and be filled with my offspring. For my spirit is sweeter than honey, and my inheritance sweeter than honey and the honeycomb. My remembrance is throughout generations of ages. Whoever hears me shall not be confounded;",
           "sourcePages": [
             192
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              192
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0081",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "et qui operantur in me, non peccabunt. Qui elucidant me, vitam aeternam habebunt. Tu autem, Domine, miserere nostri.",
-          "english": null,
+          "english": "and those who work in me shall not sin. Those who explain me shall have eternal life. But Thou, O Lord, have mercy upon us.",
           "sourcePages": [
             193
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              193
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0082",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -1972,38 +2076,62 @@
         {
           "type": "prayer",
           "source": "℣. Felix namque es, sacra Virgo Maria, et omni laude dignissima: Quia ex te ortus est sol justitiae, Christus, Deus noster. (Alleluia).",
-          "english": null,
+          "english": "℣. Blessed indeed art thou, holy Virgin Mary, and most worthy of all praise: for from thee arose the Sun of justice, Christ our God. (Alleluia.)",
           "sourcePages": [
             193
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              193
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0084",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "℣. Ora pro populo, interveni pro clero, intercede pro devoto femineo sexu: sentiant omnes tuum juvamen, quicumque celebrant tuam sanctam commemorationem. Quia. Gloria Patri. Quia.",
-          "english": null,
+          "english": "℣. Pray for the people, intervene for the clergy, intercede for devout women: may all who celebrate thy holy commemoration experience thy help. For. Glory be to the Father. For.",
           "sourcePages": [
             193
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              193
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0085",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
           "source": "Sequens Hymnus Te Deum omittitur a Dominica Septuagesimae usque ad Sabbatum sanctum inclusive, praeter quam in Festis B. Mariae Virginis;",
-          "english": null,
+          "english": "The following hymn, Te Deum, is omitted from Septuagesima Sunday until Holy Saturday inclusive, except on feasts of the Blessed Virgin Mary;",
           "sourcePages": [
             193
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              193
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0086",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -2052,14 +2180,22 @@
         {
           "type": "prayer",
           "source": "Te Deum laudamus: te Dominum confitemur. Te aeternum Patrem omnis terra veneratur. Tibi omnes angeli, tibi Caeli, et universae Potestates: Tibi Cherubim et Seraphim incessabili voce proclamant: Sanctus, Sanctus, Sanctus Dominus Deus Sabaoth. Pleni sunt caeli et terra maiestatis gloriae tuae. Te gloriosus Apostolorum chorus, Te Prophetarum laudabilis numerus, Te Martyrum candidatus laudat exercitus. Te per orbem terrarum sancta confitetur Ecclesia, Patrem immensae maiestatis; Venerandum tuum verum et unicum Filium; Sanctum quoque Paraclitum Spiritum. Tu Rex gloriae, Christe. Tu Patris sempiternus es Filius. Tu, ad liberandum suscepturus hominem: non horruisti Virginis uterum. Tu, devicto mortis aculeo, aperuisti credentibus regna caelorum. Tu ad dexteram Dei sedes, in gloria Patris. Judex crederis esse venturus.",
-          "english": null,
+          "english": "We praise Thee, O God; we acknowledge Thee to be the Lord. All the earth venerates Thee, the eternal Father. Unto Thee all angels, the heavens, and all powers; unto Thee Cherubim and Seraphim cry with unceasing voice: Holy, Holy, Holy, Lord God of hosts. Heaven and earth are full of the majesty of Thy glory. The glorious choir of Apostles praises Thee; the praiseworthy company of Prophets; the white-robed army of Martyrs. Throughout the world the holy Church acknowledges Thee: the Father of infinite majesty; Thy venerable, true, and only Son; and also the Holy Ghost, the Comforter. Thou art the King of glory, O Christ. Thou art the everlasting Son of the Father. When Thou didst undertake to deliver man, Thou didst not abhor the Virgin’s womb. Having overcome the sting of death, Thou didst open the kingdoms of heaven to believers. Thou sittest at the right hand of God in the glory of the Father. We believe Thou shalt come to judge.",
           "sourcePages": [
             193
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              193
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0089",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -2084,14 +2220,22 @@
         {
           "type": "prayer",
           "source": "Te ergo quaesumus, tuis famulis subveni, quos pretioso sanguine redemisti. aeterna fac cum Sanctis tuis in gloria numerari. Salvum fac populum tuum, Domine, et benedic hereditati tuae. Et rege eos, et extolle illos usque in aeternum. Per singulos dies benedicimus te. Et laudamus nomen tuum in saeculum, et in saeculum saeculi. Dignare, Domine, die isto sine peccato nos custodire. Miserere nostri, Domine, miserere nostri. Fiat misericordia tua, Domine, super nos, quemadmodum speravimus in te. In te, Domine, speravi: non confundar in aeternum.",
-          "english": null,
+          "english": "We therefore beseech Thee, help Thy servants whom Thou hast redeemed with Thy precious blood. Make them to be numbered with Thy saints in eternal glory. Save Thy people, O Lord, and bless Thine inheritance. Govern them and lift them up forever. Day by day we bless Thee. And we praise Thy name forever and forevermore. Deign, O Lord, to keep us this day without sin. Have mercy upon us, O Lord; have mercy upon us. Let Thy mercy, O Lord, be upon us, as we have hoped in Thee. In Thee, O Lord, have I hoped: let me not be confounded forever.",
           "sourcePages": [
             193
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              193
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0091",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -2136,14 +2280,22 @@
         {
           "type": "rubric",
           "source": "Si Matutinum a Laudibus separetur, post Versum",
-          "english": null,
+          "english": "If Matins is separated from Lauds, after the verse",
           "sourcePages": [
             193
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              193
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0094",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -2188,14 +2340,22 @@
         {
           "type": "prayer",
           "source": "in principio Laudum dicitur OV. Ave, Maria, ut in",
-          "english": null,
+          "english": "at the beginning of Lauds is said ℣. Hail, Mary, as in",
           "sourcePages": [
             193
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              193
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-b0097",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -2364,26 +2524,42 @@
         {
           "type": "prayer",
           "source": "Dominus regnavit, decorem indutus est: indutus est Dominus fortitudinem, et praecinxit se. etenim firmavit orbem terrae, qui non commovebitur. Parata sedes tua ex tunc: a saeculo tu es.",
-          "english": null,
+          "english": "The Lord has reigned, clothed in beauty: the Lord is clothed in strength and has girded Himself. For He has established the world, which shall not be moved. Thy throne is prepared from of old: Thou art from eternity.",
           "sourcePages": [
             193
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              193
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0007",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Elevaverunt flumina, Domine: elevaverunt flumina vocem suam. Elevaverunt flumina fluctus suos, a vocibus aquarum multarum. Mirabiles elationes maris: mirabilis in altis Dominus. Testimonia tua credibilia facta sunt nimis: domum tuam decet sanctitudo, Domine, in longitudinem dierum. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "The rivers have lifted up, O Lord: the rivers have lifted up their voice.",
           "sourcePages": [
             194
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              194
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0008",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -2563,14 +2739,22 @@
         {
           "type": "prayer",
           "source": "Laudate Dominum de caelis: laudate eum in excelsis. Laudate eum, omnes angeli ejus: laudate eum, omnes virtutes ejus. Laudate eum, sol et luna: laudate eum, omnes stellae et lumen. Laudate eum, caeli caelorum: et aquae omnes, quae super caelos sunt, laudent nomen Domini. Quia ipse dixit, et facta sunt: ipse mandavit, et creata sunt. Statuit ea in aeternum, et in saeculum saeculi: praeceptum posuit, et non praeteribit. Laudate Dominum de terra, dracones, et omnes abyssi. Ignis, grando, nix, glacies, spiritus procellarum: quae faciunt verbum ejus: Montes, et omnes colles: ligna fructifera, et omnes cedri. Bestiae, et universa pecora: serpentes, et volucres pennatae: Reges terrae, et omnes populi: principes, et omnes judices terrae. Juvenes, et virgines: senes cum junioribus laudent nomen Domini: quia exaltatum est nomen ejus solius. Confessio ejus super caelum et terram: et exaltavit cornu populi sui. Hymnus omnibus sanctis ejus: filiis Israel, populo appropinquanti sibi. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "Praise the Lord from the heavens; praise Him in the heights. Praise Him, all His angels; praise Him, all His powers. Praise Him, sun and moon; praise Him, all ye stars and light. Praise Him, heavens of heavens; and let all waters above the heavens praise the name of the Lord: for He spoke and they were made; He commanded and they were created. He established them forever and ever: He gave a commandment, and it shall not pass away. Praise the Lord from the earth, dragons and all depths; fire, hail, snow, ice, storm winds that fulfil His word; mountains and all hills, fruitful trees and all cedars; beasts and all cattle, creeping things and winged birds. Kings of the earth and all peoples, princes and all judges of the earth; young men and maidens, the old with the young, let them praise the name of the Lord: for His name alone is exalted, His praise above heaven and earth: and He has exalted the horn of His people. A hymn for all His saints, for the children of Israel, the people drawing near to Him. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             195
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              195
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0016",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -2595,14 +2779,24 @@
         {
           "type": "rubric",
           "source": "Little Chapter - Cant vi",
-          "english": null,
+          "english": "Little Chapter — Canticle of Canticles VI.",
           "sourcePages": [
             195
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "supplied",
+            "method": "printed-english-rubric",
+            "sourcePages": [
+              195
+            ]
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0018",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English rubric already present in the source, reproduced in the English column. This office’s complete source transcription still requires visual review.",
+          "englishPages": [
+            195
+          ]
         },
         {
           "type": "prayer",
@@ -3049,14 +3243,22 @@
         {
           "type": "prayer",
           "source": "Ant. O gloriosa Dei Genitrix, Virgo semper Maria, quae Dominum omnium meruisti portare, et Regem Angelorum sola Virgo lactare: nostri, quaesumus, pia memorare et pro nobis semper Christum deprecare: ut, tuis fulti patrociniis, ad caelestia regna mereamur pervenire.",
-          "english": null,
+          "english": "Ant. O glorious Mother of God, Mary ever Virgin, who didst merit to bear the Lord of all, and alone as a Virgin to nurse the King of angels: lovingly remember us, we beseech thee, and ever entreat Christ for us, that sustained by thy patronage we may merit to reach the heavenly kingdoms.",
           "sourcePages": [
             196
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              196
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0039",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -3082,14 +3284,22 @@
         {
           "type": "prayer",
           "source": "Ant. Regina caeli, laetare, alleluia; quia quem meruisti portare, alleluia, resurrexit, sicut dixit, alleluia: ora pro nobis Deum, alleluia.",
-          "english": null,
+          "english": "Ant. Queen of heaven, rejoice, alleluia; for He whom thou didst merit to bear, alleluia, has risen as He said, alleluia: pray to God for us, alleluia.",
           "sourcePages": [
             196
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              196
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0041",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -3157,14 +3367,22 @@
         {
           "type": "prayer",
           "source": "Deus, qui de beatae Mariae Virginis utero Verbum tuum, Angelo nuntiante, carnem suscipere voluisti: praesta supplicibus tuis; ut, qui vere eam Genitricem Dei credimus, ejus apud te intercessionibus adjuvemur. Per eundem Dominum nostrum Jesum Christum, Filium tuum: Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum.",
-          "english": null,
+          "english": "O God, who at the angel’s announcement didst will Thy Word to take flesh from the womb of blessed Mary the Virgin: grant to Thy suppliants that we who truly believe her to be the Mother of God may be helped by her intercessions with Thee. Through the same our Lord Jesus Christ Thy Son, who lives and reigns with Thee in the unity of the Holy Ghost, God, forever and ever.",
           "sourcePages": [
             196
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              196
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0045",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -3272,14 +3490,22 @@
         {
           "type": "prayer",
           "source": "Ant. Virgo Maria, non est tibi similis orta in mundo inter mulieres: florens ut rosa, fragrans sicut lilium: ora pro nobis, sancta Dei Genitrix. (Alleluia).",
-          "english": null,
+          "english": "Ant. Virgin Mary, none like thee has arisen in the world among women: blooming like a rose, fragrant like a lily: pray for us, holy Mother of God. (Alleluia.)",
           "sourcePages": [
             196
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              196
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0051",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -3325,14 +3551,22 @@
         {
           "type": "prayer",
           "source": "Oremus, Beatae et gloriosae semperque Virginis Mariae, quaesumus, Domine, intercessio gloriosa nos protegat: et ad vitam perducat aeternam. Per Christum, Dominum nostrum. ℟. Amen.",
-          "english": null,
+          "english": "Let us pray. May the glorious intercession of blessed and glorious Mary ever Virgin protect us, we beseech Thee, O Lord, and lead us to eternal life. Through Christ our Lord. ℟. Amen.",
           "sourcePages": [
             196
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              196
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-b0054",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         }
       ]
     },
@@ -3830,27 +4064,44 @@
         {
           "type": "rubric",
           "source": "Psalm 117",
-          "english": null,
+          "english": "Psalm 117.",
           "sourcePages": [
             197
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              197
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0023",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Confitemini Domino quoniam bonus: quoniam in saeculum misericordia ejus. Dicat nunc Israel quoniam bonus: quoniam in saeculum misericordia ejus. Dicat nunc domus Aaron: quoniam in saeculum misericordia ejus. Dicant nunc qui timent Dominum: quoniam in saeculum misericordia ejus. De tribulatione invocavi Dominum: et exaudivit me in latitudine Dominus. Dominus mihi adjutor: non timebo quid faciat mihi homo. Dominus mihi adjutor: et ego despiciam inimicos meos. Bonum est confidere in Domino: quam confidere in homine. Bonum est sperare in Domino: quam sperare in principibus. Omnes gentes circuiérunt me: et in nomine Domini quia ultus sum in eos. Circumdantes circumdederunt me: et in nomine Domini quia ultus sum in eos. Circumdederunt me sicut apes, et exarserunt sicut ignis in spinis: et in nomine Domini quia ultus sum in eos. Impulsus eversus sum ut caderem: et Dominus suscepit me. Fortitudo mea, et laus mea Dominus: et factus est mihi in salutem. Vox exsultationis, et salutis in tabernaculis justorum. Dextera Domini fecit virtutem: dextera Domini exaltavit me, dextera Domini fecit virtutem. Non moriar, sed vivam: et narrabo opera Domini. Castigans castigavit me Dominus: et morti non tradidit me. Aperite mihi portas justitiae, ingressus in eas confitebor Domino: haec porta Domini, justi intrabunt in eam. Confitebor tibi quoniam exaudisti me: et factus es mihi in salutem. Lapidem, quem reprobaverunt aedificantes: hic factus est in caput anguli. A Domino factum est istud: et est mirabile in oculis nostris. Haec est dies, quam fecit Dominus: exsultemus, et laetemur in ea. O Domine, salvum me fac, o Domine, bene prosperare: benedictus qui venit in nomine Domini. Benediximus vobis de domo Domini: Deus Dominus, et illuxit nobis. Constituite diem solemnem in condensis, usque ad cornu altaris. Deus meus es tu, et confitebor tibi: Deus meus es tu, et exaltabo te. Confitebor tibi, quoniam exaudisti me: et factus es mihi in salutem. Confitemini Domino quoniam bonus: quoniam in saeculum misericordia ejus. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "Give praise unto the Lord, for He is good: for His mercy is forever. Let Israel now say that He is good: for His mercy is forever. Let the house of Aaron now say: for His mercy is forever. Let those who fear the Lord now say: for His mercy is forever. In trouble I invoked the Lord: and the Lord heard me in freedom. The Lord is my helper: I shall not fear what man may do to me. The Lord is my helper: and I shall look down upon my enemies. It is good to trust in the Lord rather than to trust in man. It is good to hope in the Lord rather than to hope in princes. All nations surrounded me: and in the name of the Lord I took vengeance upon them. Surrounding, they surrounded me: and in the name of the Lord I took vengeance upon them. They surrounded me like bees, and burned like fire among thorns: and in the name of the Lord I took vengeance upon them. Thrust and overturned, I was about to fall: and the Lord upheld me. The Lord is my strength and my praise: and He has become my salvation. The voice of rejoicing and salvation is in the tabernacles of the just. The right hand of the Lord has wrought might: the right hand of the Lord has exalted me, the right hand of the Lord has wrought might. I shall not die, but live, and recount the works of the Lord. The Lord has chastened me severely, and has not delivered me unto death. Open for me the gates of justice; entering them I shall praise the Lord: this is the Lord’s gate; the just shall enter it. I shall praise Thee, for Thou hast heard me, and become my salvation. The stone which the builders rejected has become the head of the corner. This is done by the Lord, and is wonderful in our eyes. This is the day which the Lord has made: let us exult and rejoice in it. O Lord, save me; O Lord, grant prosperity: blessed is He who comes in the name of the Lord. We have blessed you from the house of the Lord: the Lord is God, and has shone upon us. Appoint a solemn day with thick branches, unto the horn of the altar. Thou art my God, and I shall praise Thee: Thou art my God, and I shall exalt Thee. I shall praise Thee, for Thou hast heard me, and become my salvation. Give praise unto the Lord, for He is good: for His mercy is forever. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             197,
             198
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              197,
+              198
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0024",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -4338,14 +4589,22 @@
         {
           "type": "prayer",
           "source": "Concede, misericors Deus, fragilitati nostrae praesidium: ut, qui sanctae Dei Genitricis memoriam agimus: intercessionis ejus auxilio, a nostris iniquitatibus resurgamus. Per eundem Dominum nostrum Jesum Christum, Filium tuum: Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum.",
-          "english": null,
+          "english": "Grant, O merciful God, protection to our frailty: that we who commemorate the holy Mother of God may rise from our iniquities through the help of her intercession. Through the same our Lord Jesus Christ Thy Son, who lives and reigns with Thee in the unity of the Holy Ghost, God, forever and ever.",
           "sourcePages": [
             199
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              199
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0048",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -4452,14 +4711,22 @@
         {
           "type": "prayer",
           "source": "Ant. Virgo Maria, non est tibi similis orta in mundo inter mulieres: florens ut rosa, fragrans sicut lilium: ora pro nobis, sancta Dei Génitrix. (Alleluja).",
-          "english": null,
+          "english": "Ant. Virgin Mary, none like thee has arisen in the world among women: blooming like a rose, fragrant like a lily: pray for us, holy Mother of God. (Alleluia.)",
           "sourcePages": [
             199
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              199
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0054",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -4505,14 +4772,22 @@
         {
           "type": "prayer",
           "source": "Oremus, Beatae et gloriosae semperque Virginis Mariae, quaesumus, Domine, intercéssio gloriosa nos protegat: et ad vitam perducat aetérnam. Per Christum, Dominum nostrum.",
-          "english": null,
+          "english": "Let us pray. May the glorious intercession of blessed and glorious Mary ever Virgin protect us, we beseech Thee, O Lord, and lead us to eternal life. Through Christ our Lord.",
           "sourcePages": [
             199
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              199
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-b0057",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -5083,14 +5358,22 @@
         {
           "type": "prayer",
           "source": "Ant. Maria Virgo assumpta est ad aethereum thalamum, in quo Rex regum stellato sedet solio. (Alleluja).",
-          "english": null,
+          "english": "Ant. Mary the Virgin was taken up into the heavenly chamber, in which the King of kings sits upon a starry throne. (Alleluia.)",
           "sourcePages": [
             200
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              200
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0025",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -5180,14 +5463,22 @@
         {
           "type": "prayer",
           "source": "℣. Intercede pro nobis ad Dominum, Deum nostrum. Virgo. Gloria Patri, et Filio, et Spiritui Sancto. Sancta.",
-          "english": null,
+          "english": "℣. Intercede for us with the Lord our God. Virgin. Glory be to the Father, and to the Son, and to the Holy Ghost. Holy.",
           "sourcePages": [
             200
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              200
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0030",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -5285,14 +5576,22 @@
         {
           "type": "prayer",
           "source": "℣. Intercede pro nobis ad Dominum, Deum nostrum. Alleluja, alleluja. Gloria Patri. Sancta.",
-          "english": null,
+          "english": "℣. Intercede for us with the Lord our God. Alleluia, alleluia. Glory be to the Father. Holy.",
           "sourcePages": [
             200
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              200
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0035",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -5406,14 +5705,22 @@
         {
           "type": "prayer",
           "source": "Deus, qui salutis aeternæ, beatae Mariae virginitate fecunda, humano generi praemia praestitisti: tribue, quaesumus; ut ipsam pro nobis intercedere sentiamus, per quam meruimus auctorem vitae suscipere, Dominum nostrum Jesum Christum, Filium tuum: Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum. ℟. Amen.",
-          "english": null,
+          "english": "O God, who through the fruitful virginity of blessed Mary hast granted the rewards of eternal salvation to mankind: grant, we beseech Thee, that we may experience her intercession for us, through whom we have merited to receive the author of life, our Lord Jesus Christ Thy Son. Who lives and reigns with Thee in the unity of the Holy Ghost, God, forever and ever. ℟. Amen.",
           "sourcePages": [
             201
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              201
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0041",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -5501,14 +5808,22 @@
         {
           "type": "prayer",
           "source": "Ant. Virgo Maria, non est tibi similis orta in mundo inter mulieres: florens ut rosa, fragrans sicut lilium: ora pro nobis, sancta Dei Genitrix. (Alleluja).",
-          "english": null,
+          "english": "Ant. Virgin Mary, none like thee has arisen in the world among women: blooming like a rose, fragrant like a lily: pray for us, holy Mother of God. (Alleluia.)",
           "sourcePages": [
             201
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              201
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0046",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -5554,14 +5869,22 @@
         {
           "type": "prayer",
           "source": "Oremus, Beatae et gloriosae semperque Virginis Mariae, quaesumus, Domine, intercessio gloriosa nos protegat: et ad vitam perducat aeternam. Per Christum, Dominum nostrum.",
-          "english": null,
+          "english": "Let us pray. May the glorious intercession of blessed and glorious Mary ever Virgin protect us, we beseech Thee, O Lord, and lead us to eternal life. Through Christ our Lord.",
           "sourcePages": [
             201
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              201
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-b0049",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -5796,14 +6119,22 @@
         {
           "type": "prayer",
           "source": "Gloria tibi, Domine, Qui natus es de Virgine, Cum Patre, et Sancto Spiritu, In sempiterno saecula. Amen.",
-          "english": null,
+          "english": "Glory be to Thee, O Lord,\nWho wast born of the Virgin,\nWith the Father and the Holy Ghost,\nFor everlasting ages. Amen. [The extracted final agreement is irregular.]",
           "sourcePages": [
             201
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              201
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0010",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -6230,14 +6561,22 @@
         {
           "type": "prayer",
           "source": "℟. Dei Genitrix, intercede pro nobis. Inviolata. Gloria Patri, et Filio, et Spiritui Sancto. Post.",
-          "english": null,
+          "english": "℟. Mother of God, intercede for us. Inviolate. Glory be to the Father, and to the Son, and to the Holy Ghost. After.",
           "sourcePages": [
             202
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              202
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0030",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -6425,15 +6764,24 @@
         {
           "type": "prayer",
           "source": "Deus, qui virginalem aulam beatae Mariae Virginis, in qua habitare, eligere dignatus es: da, quaesumus; ut sua nos defensione muniamus, jucundos suae facias interesse commemorationi: Qui vivis et regnas cum Deo Patre in unitate Spiritus Sancti Deus: per omnia saecula saeculorum.",
-          "english": null,
+          "english": "O God, who didst deign to choose the virginal hall of blessed Mary the Virgin in which to dwell: grant, we beseech Thee, that [we may be fortified by her defence], and make us joyfully partake in her commemoration. Who livest and reignest with God the Father in the unity of the Holy Ghost, God, forever and ever. [The extracted syntax is irregular; the bracketed clause is provisional.]",
           "sourcePages": [
             202,
             203
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              202,
+              203
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0040",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -6541,14 +6889,22 @@
         {
           "type": "prayer",
           "source": "Ant. Virgo Maria, non est tibi similis orta in mundo inter mulieres: florens ut rosa, fragrans sicut lilium: ora pro nobis, sancta Dei Genitrix. (Alleluia).",
-          "english": null,
+          "english": "Ant. Virgin Mary, none like thee has arisen in the world among women: blooming like a rose, fragrant like a lily: pray for us, holy Mother of God. (Alleluia.)",
           "sourcePages": [
             203
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              203
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0046",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -6594,14 +6950,22 @@
         {
           "type": "prayer",
           "source": "Oremus, Beate et gloriosae semperque Virginis Mariae, quaesumus, Domine, intercessio gloriosa nos protegat: et ad vitam perducat aeternam. Per Christum, Dominum nostrum.",
-          "english": null,
+          "english": "Let us pray. May the glorious intercession of blessed and glorious Mary ever Virgin protect us, we beseech Thee, O Lord, and lead us to eternal life. Through Christ our Lord.",
           "sourcePages": [
             203
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              203
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-b0049",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -6836,14 +7200,22 @@
         {
           "type": "prayer",
           "source": "Gloria tibi, Domine, Qui natus es de Virgine, Cum Patre, et Sancto Spiritu, In sempiterno saecula. Amen.",
-          "english": null,
+          "english": "Glory be to Thee, O Lord,\nWho wast born of the Virgin,\nWith the Father and the Holy Ghost,\nFor everlasting ages. Amen. [The extracted final agreement is irregular.]",
           "sourcePages": [
             203
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              203
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0010",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -7164,14 +7536,22 @@
         {
           "type": "prayer",
           "source": "Ant. Pulchra es Pulchra es et decora, filia Jerusaelem, terribilis ut castrorum acies ordinata. (Alleluja).",
-          "english": null,
+          "english": "Ant. Thou art beautiful, thou art beautiful and fair, daughter of Jerusalem, terrible as an army drawn up in battle array. (Alleluia.)",
           "sourcePages": [
             204
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              204
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0025",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -7491,14 +7871,22 @@
         {
           "type": "prayer",
           "source": "Amulorum tuorum, quaesumus, Domine, delictis ignosce: ut, qui placere de actibus nostris vellemus, Genitricis Filii tui intercessione salvemur. Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum.",
-          "english": null,
+          "english": "Forgive, we beseech Thee, O Lord, the offences of Thy [servants]: that we who would wish to please [Thee] by our deeds may be saved through the intercession of the Mother of Thy Son. Who lives and reigns with Thee in the unity of the Holy Ghost, God, forever and ever. [The opening word is defective; the extracted relative clause differs from the familiar prayer.]",
           "sourcePages": [
             204
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              204
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0041",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -7606,14 +7994,22 @@
         {
           "type": "prayer",
           "source": "Ant. Virgo Maria, non est tibi similis orta in mundo inter mulieres: florens ut rosa, fragrans sicut lilium: ora pro nobis, sancta Dei Genitrix.",
-          "english": null,
+          "english": "Ant. Virgin Mary, none like thee has arisen in the world among women: blooming like a rose, fragrant like a lily: pray for us, holy Mother of God.",
           "sourcePages": [
             204
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              204
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0047",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -7679,14 +8075,22 @@
         {
           "type": "prayer",
           "source": "Oremus, Beatae et gloriosae semperque Virginis Mariae, quaesumus, Domine, intercessio gloriosa nos protegat: et ad vitam perducat aeternam. Per Christum, Dominum nostrum.",
-          "english": null,
+          "english": "Let us pray. May the glorious intercession of blessed and glorious Mary ever Virgin protect us, we beseech Thee, O Lord, and lead us to eternal life. Through Christ our Lord.",
           "sourcePages": [
             205
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              205
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-b0051",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -7894,14 +8298,22 @@
         {
           "type": "prayer",
           "source": "Dixit Dominus Domino meo: Sede a dextris meis: Donec ponam inimicos tuos, scabellum pedum tuorum. Virgam virtutis tuae emittet Dominus ex Sion: dominare in medio inimicorum tuorum. Tecum principium in die virtutis tuae in splendoribus sanctorum: ex utero ante luciferum genui te. Juravit Dominus, et non pœnitebit eum: Tu es sacerdos in aeternum secundum ordinem Melchisedech. Dominus a dextris tuis, confregit in die irae suae reges. Judicabit in nationibus, implebit ruinas: conquassabit capita in terra multorum. De torrente in via bibet: propterea exaltabit caput.",
-          "english": null,
+          "english": "The Lord said to my Lord: Sit at my right hand, until I make Thine enemies a footstool for Thy feet. The Lord shall send forth the rod of Thy strength from Sion: rule in the midst of Thine enemies. With Thee is sovereignty in the day of Thy power, in the splendours of the saints: from the womb before the morning star I begot Thee. The Lord has sworn, and will not repent: Thou art a priest forever according to the order of Melchisedech. The Lord at Thy right hand has broken kings in the day of His wrath. He shall judge among nations, fill with ruins, and crush heads in the land of many. He shall drink from the torrent upon the way: therefore He shall lift up His head.",
           "sourcePages": [
             205
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              205
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0009",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -8001,14 +8413,22 @@
         {
           "type": "prayer",
           "source": "Laetatus sum in his, quae dicta sunt mihi: In domum Domini ibimus. Stantes erant pedes nostri, in atriis tuis, Jerusalem. Jerusalem, quae aedificatur ut civitas: cujus participatio ejus in idipsum. Illuc enim ascenderunt tribus, tribus Domini: testimonium Israel ad confitendum nomini Domini. Quia illic sederunt sedes in judicio, sedes super domum David. Rogate quae ad pacem sunt Jerusalem: et abundantia diligentibus te: Fiat pax in virtute tua: et abundantia in turribus tuis. Propter fratres meos, et proximos meos, loquebar pacem de te: Propter domum Domini, Dei nostri, quaesivi bona tibi. Gloria Patri, et Filio, et Spiritui Sancto.",
-          "english": null,
+          "english": "I rejoiced in the things said to me: We shall go to the house of the Lord. Our feet stood in thy courts, O Jerusalem. Jerusalem is built as a city whose fellowship is together. For there the tribes went up, the tribes of the Lord, the testimony of Israel, to praise the name of the Lord. For there sat thrones in judgment, thrones over the house of David. Pray for the things of peace for Jerusalem, and abundance for those who love thee. Let peace be in thy strength, and abundance in thy towers. For my brethren and neighbours I spoke peace concerning thee. For the house of the Lord our God I sought good things for thee. Glory be to the Father, and to the Son, and to the Holy Ghost.",
           "sourcePages": [
             205
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              205
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0014",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -8135,14 +8555,22 @@
         {
           "type": "prayer",
           "source": "Ant. Beata Mater et intacta Virgo, gloriosa Regina mundi, intercede pro nobis ad Dominum. (Alleluja).",
-          "english": null,
+          "english": "Ant. Blessed Mother and untouched Virgin, glorious Queen of the world, intercede for us with the Lord. (Alleluia.)",
           "sourcePages": [
             206
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              206
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0020",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -8529,26 +8957,42 @@
         {
           "type": "prayer",
           "source": "Ant. Sancta Maria, succurre miseris, juva pusillanimes, refove flebiles, ora pro populo, interveni pro clero, intercede pro devoto femineo sexu.",
-          "english": null,
+          "english": "Ant. Holy Mary, help the wretched, aid the fainthearted, comfort the sorrowful, pray for the people, intervene for the clergy, intercede for devout women.",
           "sourcePages": [
             207
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              207
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0038",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Tempore Paschali Ant. Regina caeli, laetare, alleluja; quia quem meruisti portare, alleluja, resurrexit, sicut dixit, alleluja: ora pro nobis Deum, alleluja.",
-          "english": null,
+          "english": "In Paschaltide. Ant. Queen of heaven, rejoice, alleluia; for He whom thou didst merit to bear, alleluia, has risen as He said, alleluia: pray to God for us, alleluia.",
           "sourcePages": [
             207
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              207
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0039",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -8616,14 +9060,22 @@
         {
           "type": "prayer",
           "source": "Concede nos famulos tuos, quaesumus, Domine Deus, perpetua mentis et corporis sanitate gaudere: et, gloriosa beatae Mariae semper Virginis intercessione, a praesentii liberari tristitia et aeterna perfrui laetitia. Per Dominum nostrum Jesum Christum, Filium tuum: Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum.",
-          "english": null,
+          "english": "Grant to us Thy servants, we beseech Thee, O Lord God, to rejoice in lasting health of mind and body: and through the glorious intercession of blessed Mary ever Virgin to be delivered from present sorrow and enjoy eternal gladness. Through our Lord Jesus Christ Thy Son, who lives and reigns with Thee in the unity of the Holy Ghost, God, forever and ever.",
           "sourcePages": [
             207
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              207
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0043",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -8691,14 +9143,22 @@
         {
           "type": "prayer",
           "source": "Ant. Virgo Maria, non est tibi similis orta in mundo inter mulieres: florens ut rosa, fragrans sicut lilium: ora pro nobis, sancta Dei Genitrix. (Alleluja).",
-          "english": null,
+          "english": "Ant. Virgin Mary, none like thee has arisen in the world among women: blooming like a rose, fragrant like a lily: pray for us, holy Mother of God. (Alleluia.)",
           "sourcePages": [
             207
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              207
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0047",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -8744,14 +9204,22 @@
         {
           "type": "prayer",
           "source": "Oremus, Beatae et gloriosae semperque Virginis Mariae, quaesumus, Domine, intercessio gloriosa nos protegat: et ad vitam perducat aeternam. Per Christum, Dominum nostrum.",
-          "english": null,
+          "english": "Let us pray. May the glorious intercession of blessed and glorious Mary ever Virgin protect us, we beseech Thee, O Lord, and lead us to eternal life. Through Christ our Lord.",
           "sourcePages": [
             207
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              207
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-b0050",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -8979,50 +9447,82 @@
         {
           "type": "rubric",
           "source": "Psalm 12",
-          "english": null,
+          "english": "Psalm 12.",
           "sourcePages": [
             208
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              208
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0010",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Usquequo Domine, oblivisceris me in finem? Usquequo avertis faciem tuam a me? Quamdiu ponam consilia in anima mea, dolorem in corde meo per diem? Usquequo exaltabitur inimicus meus super me? Respice, et exaudi me, Domine Deus meus. Illumina oculos meos ne umquam obdormiam in morte: nequando dicat inimicus meus: Praevalui adversus eum. Qui tribulant me, exsultabunt si motus fuero: ego autem in misericordia tua speravi. Exsultabit cor meum in salutari tuo: cantabo Domino qui bona tribuit mihi: et psallam nomini Domini altissimi. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "How long, O Lord, wilt Thou forget me unto the end? How long dost Thou turn Thy face away from me? How long shall I take counsel in my soul, with sorrow in my heart all day? How long shall my enemy be exalted over me? Look upon me and hear me, O Lord my God. Enlighten mine eyes, lest I ever sleep in death. Lest my enemy say: I have prevailed against him. Those who trouble me shall exult if I am moved. But I have hoped in Thy mercy. My heart shall exult in Thy salvation. I shall sing unto the Lord who has bestowed good things upon me, and sing psalms to the name of the Lord most high. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             208
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              208
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0011",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
           "source": "Psalm 42",
-          "english": null,
+          "english": "Psalm 42.",
           "sourcePages": [
             208
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              208
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0012",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Judica me, Deus, et discerne causam meam de gente non sancta, ab homine iniquo, et doloso erue me. Quia tu es, Deus, fortitudo mea: quare me repulisti? et quare tristis incedo, dum affligit me inimicus? Emitte lucem tuam et veritatem tuam: ipsa me deduxerunt, et adduxerunt in montem sanctum tuum, et in tabernacula tua. Et introibo ad altare Dei: ad Deum, qui laetificat juventutem meam. Confitebor tibi in cithara Deus, Deus meus: quare tristis es anima mea? et quare conturbas me? Spera in Deo, quoniam adhuc confitebor illi: salutare vultus mei, et Deus meus. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "Judge me, O God, and distinguish my cause from an unholy nation: deliver me from the wicked and deceitful man. For Thou art my strength, O God: why hast Thou cast me off? And why do I go sorrowfully while my enemy afflicts me? Send forth Thy light and Thy truth: they have led me and brought me to Thy holy mountain and Thy tabernacles. And I shall go unto the altar of God, unto God who gladdens my youth. I shall praise Thee upon the harp, O God, my God. Why art thou sorrowful, O my soul? And why dost thou trouble me? Hope in God, for I shall yet praise Him, the salvation of my countenance and my God. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             208
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              208
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0013",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -9051,14 +9551,22 @@
         {
           "type": "prayer",
           "source": "Saepe expugnaverunt me a juventute mea, dicat nunc Israel. Saepe expugnaverunt me a juventute mea: etenim non potuerunt mihi. Supra dorsum meum fabricaverunt peccatores: prolongaverunt iniquitatem suam. Dominus justus concidit cervices peccatorum. Confundantur, et convertantur retrorsum omnes qui oderunt Sion. Fiant sicut fenum tectorum: quod priusquam evellatur exaruit. De quo non implevit manum suam qui metit, et sinum suum qui manipulos colligit. Et non dixerunt qui praeteribant: Benedictio Domini super vos: benediximus vobis in nomine Domini. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
-          "english": null,
+          "english": "Often have they assailed me from my youth, let Israel now say, often have they assailed me from my youth: yet they could not prevail against me. Sinners have wrought upon my back: they have prolonged their iniquity. The just Lord has cut the necks of sinners. Let all who hate Sion be confounded and turned backward. Let them become as grass upon the rooftops, which withered before it is plucked: with which the reaper did not fill his hand, nor he who gathers sheaves his bosom. And those passing by have not said: The blessing of the Lord be upon you; we have blessed you in the name of the Lord. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
           "sourcePages": [
             208
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              208
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0015",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -9112,14 +9620,22 @@
         {
           "type": "prayer",
           "source": "Ant. Cum jocunditate memoriam beatae Mariae celebremus, ut ipsa pro nobis intercedat ad Dominum Jesum Christum. (Alleluja).",
-          "english": null,
+          "english": "Antiphon. Let us joyfully celebrate the memory of blessed Mary, that she may intercede for us with our Lord Jesus Christ. (Alleluia.)",
           "sourcePages": [
             208
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              208
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0018",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -9395,14 +9911,22 @@
         {
           "type": "prayer",
           "source": "II - In Adventu Omnia dicuntur ut supra Per Annum notantur, praeter sequenta:",
-          "english": null,
+          "english": "II — In Advent. All is said as noted above for the year, except the following:",
           "sourcePages": [
             209
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              209
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "compline-b0031",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         }
       ]
     },
@@ -9418,14 +9942,22 @@
         {
           "type": "prayer",
           "source": "℣. Jube, Domine, benedicere. Bened. Alma Virgo virginum intercedat pro nobis ad Dominum.",
-          "english": null,
+          "english": "℣. Deign, O Lord, to bless. Blessing. May the loving Virgin of virgins intercede for us with the Lord.",
           "sourcePages": [
             209
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              209
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-2-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -9451,14 +9983,22 @@
         {
           "type": "prayer",
           "source": "Ant. Sub tuum praesidium confugimus, sancta Dei Genitrix: nostras deprecationes ne despicias in necessitatibus nostris, sed a periculis cunctis libera nos semper, Virgo gloriosa et benedicta. (Alleluja).",
-          "english": null,
+          "english": "Ant. We take refuge under thy protection, holy Mother of God: despise not our supplications in our necessities, but ever deliver us from all dangers, glorious and blessed Virgin. (Alleluia.)",
           "sourcePages": [
             209
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              209
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-2-b0003",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -9526,14 +10066,22 @@
         {
           "type": "prayer",
           "source": "Gratiam tuam, quaesumus, Domine, mentibus nostris infunde: ut qui, Angelo nuntiantes, Christi Filii tui Incarnationem cognovimus; per passionem ejus et crucem, ad resurrectionis gloriam perducamur. Per eumdem Dominum nostrum Jesum Christum, Filium tuum: Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum.",
-          "english": null,
+          "english": "Pour Thy grace, we beseech Thee, O Lord, into our minds: that we who, through the angel’s announcement, have known the incarnation of Christ Thy Son, may through His passion and cross be brought to the glory of His resurrection. Through the same our Lord Jesus Christ Thy Son, who lives and reigns with Thee in the unity of the Holy Ghost, God, forever and ever. [The extracted participle in the angel clause is irregular.]",
           "sourcePages": [
             209
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              209
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-2-b0007",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -9601,14 +10149,22 @@
         {
           "type": "prayer",
           "source": "Ant. Virgo Maria, non est tibi similis orta in mundo inter mulieres: florens ut rosa, fragrans sicut lilium: ora pro nobis, sancta Dei Genitrix. (Alleluja).",
-          "english": null,
+          "english": "Ant. Virgin Mary, none like thee has arisen in the world among women: blooming like a rose, fragrant like a lily: pray for us, holy Mother of God. (Alleluia.)",
           "sourcePages": [
             209
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              209
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-2-b0011",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -9654,14 +10210,22 @@
         {
           "type": "prayer",
           "source": "Oremus, Beatae et gloriosae semperque Virginis Mariae, quaesumus, Domine, intercessio gloriosa nos protegat: et ad vitam perducat aeternam. Per Christum, Dominum nostrum.",
-          "english": null,
+          "english": "Let us pray. May the glorious intercession of blessed and glorious Mary ever Virgin protect us, we beseech Thee, O Lord, and lead us to eternal life. Through Christ our Lord.",
           "sourcePages": [
             209
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              209
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-2-b0014",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -9707,15 +10271,24 @@
         {
           "type": "prayer",
           "source": "Issus est Angelus Gabriel a Deo in civitatem Galilaeae, cui nomen Nazareth, ad Virginem desponsatam viro, cui nomen erat Joseph, de domo David, et nomen Virginis Maria. Et, ingressus Angelus ad eam, dixit: Ave, gratia plena; Dominus tecum: Benedicta tu in mulieribus. Tu autem, Domine, miserere nostri.",
-          "english": null,
+          "english": "The angel Gabriel was sent by God to a city of Galilee named Nazareth, to a Virgin betrothed to a man named Joseph, of the house of David, and the Virgin’s name was Mary. And the angel entered unto her and said: Hail, full of grace, the Lord is with thee, blessed art thou among women. But Thou, O Lord, have mercy upon us. [The opening extracted word lacks its initial letter.]",
           "sourcePages": [
             209,
             210
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              209,
+              210
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-2-b0017",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -9741,14 +10314,22 @@
         {
           "type": "prayer",
           "source": "℟. Missus est Angelus Gabriel ad Mariam Virginem desponsatam Joseph, nuntians ei verbum; et expavescit Virgo de lumine: ne timeas, Maria; invenisti enim gratiam apud Deum:",
-          "english": null,
+          "english": "℟. The angel Gabriel was sent to Mary, a Virgin betrothed to Joseph, announcing the word to her; and the Virgin trembles at the light: fear not, Mary; for thou hast found grace with God:",
           "sourcePages": [
             210
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              210
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-2-b0019",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -9773,14 +10354,22 @@
         {
           "type": "prayer",
           "source": "℟. Dabit illi Dominus Deus sedem David, patris ejus; et regnabit in domo Jacob in aeternum. Ecce.",
-          "english": null,
+          "english": "℟. The Lord God shall give Him the throne of David His father, and He shall reign in the house of Jacob forever. Behold.",
           "sourcePages": [
             210
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              210
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-2-b0021",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -9846,14 +10435,22 @@
         {
           "type": "prayer",
           "source": "Quae cum audisset, turbata est in sermone ejus, et cogitabat qualis esset ista salutatio. Et ait Angelus ei: Ne timeas, Maria; invenisti enim gratiam apud Deum: ecce, concipies in utero et paries filium, et vocabis nomen ejus Jesum. Hic erit magnus, et Filius Altissimi vocabitur; et dabit illi Dominus Deus sedem David, patris ejus; et regnabit in domo Jacob in aeternum, et regni ejus non erit finis. Tu autem, Domine, miserere nostri.",
-          "english": null,
+          "english": "When she heard, she was troubled at his words and considered what manner of greeting this was. And the angel said to her: Fear not, Mary, for thou hast found grace with God. Behold, thou shalt conceive in thy womb and bring forth a son, and thou shalt call His name Jesus. He shall be great, and shall be called the Son of the Most High, and the Lord God shall give Him the throne of David His father, and He shall reign in the house of Jacob forever, and His kingdom shall have no end. But Thou, O Lord, have mercy upon us.",
           "sourcePages": [
             210
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              210
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-2-b0025",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -9899,26 +10496,42 @@
         {
           "type": "prayer",
           "source": "℣. Spiritus Sanctus superveniet in te, et virtus Altissimi obumbrabit tibi: ideoque et quod nascetur ex te Sanctum, vocabitur Filius Dei.",
-          "english": null,
+          "english": "℣. The Holy Ghost shall come upon thee, and the power of the Most High shall overshadow thee: therefore also the Holy One born of thee shall be called the Son of God.",
           "sourcePages": [
             210
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              210
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-2-b0028",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "℟. Quomodo fiet istud, quoniam virum non cognosco? Et respondens Angelus, dixit ei: Spiritus Sanctus.",
-          "english": null,
+          "english": "℟. How shall this be, since I know not man? And the angel answered and said to her: The Holy Ghost.",
           "sourcePages": [
             210
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              210
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-2-b0029",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -9984,14 +10597,22 @@
         {
           "type": "prayer",
           "source": "Dixit autem Maria ad Angelum: Quomodo fiet istud, quoniam virum non cognosco? Et respondens Angelus dixit ei: Spiritus Sanctus superveniet in te, et virtus Altissimi obumbrabit tibi: ideoque et quod nascetur ex te Sanctum, vocabitur Filius Dei. Et ecce, Elisabeth, cognata tua, et ipsa concepit filium in senectute sua, et hic mensis sextus est illi, quae vocatur sterilis; quia non erit impossibile apud Deum omne verbum. Dixit autem Maria: Ecce ancilla Domini: fiat mihi secundum verbum tuum. Tu autem, Domine, miserere nostri.",
-          "english": null,
+          "english": "But Mary said to the angel: How shall this be, since I know not man? And the angel answered and said to her: The Holy Ghost shall come upon thee, and the power of the Most High shall overshadow thee. Therefore also the Holy One born of thee shall be called the Son of God. And behold, Elizabeth thy kinswoman has herself conceived a son in her old age. And this is the sixth month for her who is called barren: for no word shall be impossible with God. But Mary said: Behold the handmaid of the Lord, be it done unto me according to thy word. But Thou, O Lord, have mercy upon us.",
           "sourcePages": [
             210
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              210
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-2-b0033",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -10017,26 +10638,42 @@
         {
           "type": "prayer",
           "source": "℣. Suscipe verbum, Virgo Maria, quod tibi a Domino per Angelum transmissum est: con.",
-          "english": null,
+          "english": "℣. Receive the word, Virgin Mary, which has been sent to thee from the Lord through the angel: con. [The closing abbreviation is incomplete.]",
           "sourcePages": [
             210
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              210
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-2-b0035",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
           "source": "Te Deum non dicitur nisi in Festis Beatae Mariae Virginis; quo omisso non repetitur",
-          "english": null,
+          "english": "Te Deum is not said except on feasts of the Blessed Virgin Mary; when it is omitted, there is no repetition",
           "sourcePages": [
             210
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              210
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "matins-2-b0036",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -10152,14 +10789,22 @@
         {
           "type": "prayer",
           "source": "Egreditur virga de radice Jesse, et flos de radice ejus ascendet. Et requiescet super eum Spiritus Domini.",
-          "english": null,
+          "english": "A rod shall come forth from the root of Jesse, and a flower shall rise from his root, and the Spirit of the Lord shall rest upon Him.",
           "sourcePages": [
             210
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              210
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-2-b0003",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -10205,14 +10850,22 @@
         {
           "type": "prayer",
           "source": "Spiritus Sanctus in te descendet, Maria: ne timeas, habebis in utero Filium Dei, alleluja.",
-          "english": null,
+          "english": "The Holy Ghost shall descend upon thee, Mary: fear not, thou shalt have in thy womb the Son of God, alleluia.",
           "sourcePages": [
             210
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              210
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-2-b0006",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -10238,15 +10891,24 @@
         {
           "type": "prayer",
           "source": "Deus, qui de beatae Mariae Virginis utero Verbum tuum, Angelo nuntiante, carnem suscipere voluisti: praesta supplicibus tuis; ut, qui vere eam Genitricem Dei credimus, ejus apud te intercessionibus adjuvemur. Per eumdem Dominum nostrum Jesum Christum, Filium tuum: Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum.",
-          "english": null,
+          "english": "O God, who at the angel’s announcement didst will Thy Word to take flesh from the womb of blessed Mary the Virgin: grant to Thy suppliants that we who truly believe her to be the Mother of God may be helped by her intercessions with Thee. Through the same our Lord Jesus Christ Thy Son, who lives and reigns with Thee in the unity of the Holy Ghost, God, forever and ever.",
           "sourcePages": [
             210,
             211
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              210,
+              211
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-2-b0008",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
@@ -10342,14 +11004,22 @@
         {
           "type": "prayer",
           "source": "Orate, caeli, desuper, et nubes pluant justum: aperiat terra, et germinet Salvatorem: et justitia oriatum simul. Ego Dominus creavi eum.",
-          "english": null,
+          "english": "Pray, ye heavens, from above, and let the clouds rain down the Just One: let the earth open and bring forth the Saviour: and let justice arise together. I, the Lord, have created Him. [The extracted opening reads “Pray,” and the final verb is irregular.]",
           "sourcePages": [
             211
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              211
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-2-b0003",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "Printed page 211 was visually checked: the unusual “Orate” and “oriatum” are printed as extracted. They are retained; no silent substitution of the customary Rorate is made."
         },
         {
           "type": "prayer",
@@ -10481,14 +11151,22 @@
         {
           "type": "prayer",
           "source": "III - Post Nativitatem Omnia dicuntur ut supra Per Annum notantur, praeter sequenta:",
-          "english": null,
+          "english": "III — After the Nativity. All is said as noted above for the year, except the following:",
           "sourcePages": [
             211
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              211
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-2-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         }
       ]
     },
@@ -10503,26 +11181,42 @@
         {
           "type": "prayer",
           "source": "Ant. O admirabile commercium: * Creator generis humani, animatum corpus sumens, de Virgine nasci dignatus est; et procedens homo sine semine, largitus est nobis suam Deitatem.",
-          "english": null,
+          "english": "Ant. O wondrous exchange: the Creator of mankind, taking a living body, deigned to be born of the Virgin; and coming forth as man without seed, bestowed His divinity upon us.",
           "sourcePages": [
             211
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              211
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-3-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Ant. Orietur * sicut sol Salvator mundi: et descendet in uterum Virginis, sicut imber super gramen.",
-          "english": null,
+          "english": "Ant. The Saviour of the world shall arise like the sun: and descend into the Virgin’s womb like rain upon grass.",
           "sourcePages": [
             211
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              211
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-3-b0002",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -10547,14 +11241,22 @@
         {
           "type": "prayer",
           "source": "Egreditur virga de radice Jesse, et flos de radice ejus ascendet. Et requiescet super eum Spiritus Domini. ℟. Deo gratias.",
-          "english": null,
+          "english": "A rod shall come forth from the root of Jesse, and a flower shall rise from his root, and the Spirit of the Lord shall rest upon Him. ℟. Thanks be to God.",
           "sourcePages": [
             211
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              211
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "lauds-3-b0004",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         }
       ]
     },
@@ -10930,14 +11632,22 @@
         {
           "type": "prayer",
           "source": "Ant. O admirabile commercium: * Creator generis humani, animatum corpus sumens, de Virgine nasci dignatus est; et procedens homo sine semine, largitus est nobis suam Deitatem.",
-          "english": null,
+          "english": "Ant. O wondrous exchange: the Creator of mankind, taking a living body, deigned to be born of the Virgin; and coming forth as man without seed, bestowed His divinity upon us.",
           "sourcePages": [
             212
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              212
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "prime-3-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         }
       ]
     },
@@ -10952,14 +11662,22 @@
         {
           "type": "prayer",
           "source": "Ant. Quando natus es * ineffabiliter ex Virgine, tunc implcts sunt Scripturae: sicut pluvia in vellus descendisti, ut salvum faceres genus humanum: te laudamus, Deus noster.",
-          "english": null,
+          "english": "Ant. When Thou wast born ineffably of the Virgin, then the scriptures were fulfilled: Thou didst descend like rain upon the fleece, that Thou mightest save mankind: we praise Thee, our God.",
           "sourcePages": [
             212
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              212
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "terce-3-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         }
       ]
     },
@@ -11004,14 +11722,22 @@
         {
           "type": "prayer",
           "source": "Ant. Rubum, quern viderat Moyses * incombustum, conservatam agnovimus tuam laudabilem virginitatem: Dei Genitrix, intercede pro nobis.",
-          "english": null,
+          "english": "Ant. In the bush which Moses saw unburned, we have recognized thy praiseworthy virginity preserved: Mother of God, intercede for us.",
           "sourcePages": [
             212
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              212
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "sext-3-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         }
       ]
     },
@@ -11026,14 +11752,22 @@
         {
           "type": "prayer",
           "source": "Ant. Ecce, Maria genuit * nobis Salvatorem, quern Joannes videns exclamavit, dicens: Ecce Agnus Dei: ecce qui tollit peccata mundi, alleluja.",
-          "english": null,
+          "english": "Antiphon: Behold, Mary has brought forth for us the Saviour, whom John, seeing, cried out and said: Behold the Lamb of God, behold Him who takes away the sins of the world. Alleluia.",
           "sourcePages": [
             212
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              212
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "none-3-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "rubric",
@@ -11068,26 +11802,42 @@
         {
           "type": "prayer",
           "source": "Ant. O admirabile commercium: * Creator generis humani, animatum corpus sumens, de Virgine nasci dignatus est; et procedens homo sine semine, largitus est nobis suam Deitatem.",
-          "english": null,
+          "english": "Ant. O wondrous exchange: the Creator of mankind, taking a living body, deigned to be born of the Virgin; and coming forth as man without seed, bestowed His divinity upon us.",
           "sourcePages": [
             212
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              212
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-3-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
           "type": "prayer",
           "source": "Ad Magnif. Ant. Nesciens mater Virgo * virum, peperit sine dolore Salvatorem saeculorum: ipsum Regem Angelorum sola Virgo lactabat ubere de caelo pleno.",
-          "english": null,
+          "english": "At the Magnificat. Ant. Not knowing man, the Virgin Mother bore without sorrow the Saviour of the ages: the Virgin alone nursed the very King of angels at her breast filled from heaven.",
           "sourcePages": [
             212
           ],
-          "translation": null,
-          "alignment": "single-language",
+          "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              212
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
           "id": "vespers-3-b0002",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         }
       ]
     }

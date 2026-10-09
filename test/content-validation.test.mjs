@@ -9,11 +9,20 @@ test('all 82 visible offices are inventoried, including the unindexed p.86 offic
   assert.deepEqual(report.errors,[]);
   assert(input.boundaries.some(o=>o.pdfPages[0]===86));
 });
-test('unfinished translations and references prevent a publication build',()=>{
+test('complete English coverage still requires source review and resolved references for publication',()=>{
   const report=validateContent(input,true);
   assert.equal(report.complete,false);
-  assert(report.totals.missingEnglish>0);
+  assert.equal(report.totals.missingEnglish,0);
+  assert(report.pending.some(e=>/visual review/.test(e.message)));
   assert(report.pending.some(e=>/reference/.test(e.message)));
+});
+test('a missing translation still prevents publication',()=>{
+  const x=fixture();
+  const doc=x.documents.get('little-office-of-the-blessed-virgin-mary-according-to-the-ambrosian-rite');
+  doc.sections[0].blocks[0].english=null;
+  const report=validateContent(x,true);
+  assert.equal(report.totals.missingEnglish,1);
+  assert.equal(report.complete,false);
 });
 test('missing offices and duplicate identifiers are rejected',()=>{
   let x=fixture(); x.documents.delete(x.inventory.offices[0].id);
