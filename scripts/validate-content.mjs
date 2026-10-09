@@ -61,6 +61,7 @@ export function validateContent({ inventory, documents, boundaries, references =
       if (!b) { add(`Unresolved inline prayer reference: ${id}`,office.id); return; }
       if (chain.includes(id)) { add(`Circular inline prayer reference: ${id}`,office.id); return; }
       if (!b.referenceExpansion) return;
+      if (b.referenceExpansion.display && b.referenceExpansion.display !== 'already-present') add(`Invalid inline prayer display: ${id}`,office.id);
       if (!b.referenceExpansion.targets?.length || !b.referenceExpansion.sourcePages?.length) {
         add(`Inline prayer reference lacks targets or source provenance: ${id}`,office.id); return;
       }

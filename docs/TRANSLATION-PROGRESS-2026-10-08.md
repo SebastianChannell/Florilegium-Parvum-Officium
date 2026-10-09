@@ -114,3 +114,10 @@ The continuation fixtures now require English throughout these nine offices, whi
 Targeted visual checks cover pages 211, 371, 374, 636, 640, 643–645, and 648–650. Interleaved endings of the Sick Office prayers on pages 636 and 640 are reconstructed in English without changing the extracted Latin. Several defective Midnight and Premonstratensian readings occur in the printed PDF itself; their unresolved clauses remain explicit in the provisional English. No full visual certification of these nine offices is claimed. The collection still has ten fully reviewed offices and 38 unresolved reference candidates. Complete English coverage does not make it publication-ready: source review and reference resolution remain required.
 
 Validation, all 38 tests, and the editorial preview build pass. The publication test now checks that source-review and reference issues still block release even with complete English coverage; a separate missing-translation fixture confirms that the translation gate remains enforced.
+
+
+## English-only review and reference completion — 9 October 2026
+
+All eight English-only offices were visually reviewed in full against the PDF. Eighteen of 82 offices now have full visual review. Thirty-four same-office expansions were curated; the unresolved reference count fell from 38 to 11. Bonaventure Vespers now assembles its continuation across the misplaced printed Compline heading without changing source passages or legacy identifiers. Reference notes are displayed; the Carthusian solitary blessing instruction no longer duplicates its preceding blessing.
+
+Structural checks, all 41 tests and the preview build pass. The strict audit still blocks publication with 4,762 checks (4,687 passages, 64 offices, 11 references). See [READINESS-2026-10-09.md](READINESS-2026-10-09.md) for the specific missing-source and assembly work. No production merge or browser rerun is claimed.

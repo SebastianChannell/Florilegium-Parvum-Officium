@@ -245,11 +245,12 @@ def main():
                             'preparedEnglish':sum(b.get('translation',{}).get('kind')=='prepared' for s in doc['sections'] for b in s['blocks'] if b.get('translation'))}
         for s in doc['sections']:
             for b in s['blocks']:
-                if REFERENCE.search(b['source'] or ''):
+                if REFERENCE.search(b['source'] or '') or b.get('referenceExpansion') or b.get('referenceReview'):
                     review.append({'office':doc['id'], 'section':s['id'], 'block':b['id'], 'pages':b['sourcePages'],
                                    'kind':'internal-reference', 'text':b['source'],
                                    'status':'resolved' if b.get('referenceExpansion') else 'unresolved',
-                                   **({'resolution':b['referenceExpansion']} if b.get('referenceExpansion') else {})})
+                                   **({'resolution':b['referenceExpansion']} if b.get('referenceExpansion') else {}),
+                                   **({'review':b['referenceReview']} if b.get('referenceReview') else {})})
     inv_path.write_text(json.dumps(inv,ensure_ascii=False,indent=2)+'\n')
     (ROOT/'content/references.json').write_text(json.dumps(review,ensure_ascii=False,indent=2)+'\n')
     print(f'Extracted all {len(inv["offices"])} offices. Candidates require review; {len(review)} reference candidates recorded.')

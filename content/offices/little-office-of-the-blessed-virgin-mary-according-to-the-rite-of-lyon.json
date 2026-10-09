@@ -1156,7 +1156,20 @@
           "alignment": "reviewed",
           "id": "night-office-b0054",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
+          "editorialNote": "This “ut supra” incipit has no complete antecedent in the Lyon office on PDF pp.265–279. The referenced responsory or hymn cannot be expanded from this volume without selecting an external edition; its printed incipit is retained.",
+          "referenceReview": {
+            "status": "source-unavailable",
+            "pages": [
+              265,
+              266,
+              267,
+              268,
+              269,
+              270,
+              271
+            ],
+            "note": "This “ut supra” incipit has no complete antecedent in the Lyon office on PDF pp.265–279. The referenced responsory or hymn cannot be expanded from this volume without selecting an external edition; its printed incipit is retained."
+          }
         },
         {
           "type": "rubric",
@@ -1216,7 +1229,20 @@
           "alignment": "reviewed",
           "id": "night-office-b0057",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
+          "editorialNote": "This “ut supra” incipit has no complete antecedent in the Lyon office on PDF pp.265–279. The referenced responsory or hymn cannot be expanded from this volume without selecting an external edition; its printed incipit is retained.",
+          "referenceReview": {
+            "status": "source-unavailable",
+            "pages": [
+              265,
+              266,
+              267,
+              268,
+              269,
+              270,
+              271
+            ],
+            "note": "This “ut supra” incipit has no complete antecedent in the Lyon office on PDF pp.265–279. The referenced responsory or hymn cannot be expanded from this volume without selecting an external edition; its printed incipit is retained."
+          }
         },
         {
           "type": "rubric",
@@ -1276,7 +1302,20 @@
           "alignment": "reviewed",
           "id": "night-office-b0060",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
+          "editorialNote": "This “ut supra” incipit has no complete antecedent in the Lyon office on PDF pp.265–279. The referenced responsory or hymn cannot be expanded from this volume without selecting an external edition; its printed incipit is retained.",
+          "referenceReview": {
+            "status": "source-unavailable",
+            "pages": [
+              265,
+              266,
+              267,
+              268,
+              269,
+              270,
+              271
+            ],
+            "note": "This “ut supra” incipit has no complete antecedent in the Lyon office on PDF pp.265–279. The referenced responsory or hymn cannot be expanded from this volume without selecting an external edition; its printed incipit is retained."
+          }
         },
         {
           "type": "prayer",
@@ -1316,7 +1355,17 @@
           "alignment": "reviewed",
           "id": "night-office-b0062",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained.",
+          "referenceExpansion": {
+            "targets": [
+              "sext-b0017"
+            ],
+            "sourcePages": [
+              269,
+              275
+            ],
+            "note": "The printed rubric explicitly names the Sext collect, Concede misericors Deus, printed in full on p.275. It is used here only when Lauds does not follow, as stated in the retained rubric."
+          }
         }
       ]
     },
@@ -1645,7 +1694,20 @@
           "alignment": "reviewed",
           "id": "lauds-b0014",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
+          "editorialNote": "This “ut supra” incipit has no complete antecedent in the Lyon office on PDF pp.265–279. The referenced responsory or hymn cannot be expanded from this volume without selecting an external edition; its printed incipit is retained.",
+          "referenceReview": {
+            "status": "source-unavailable",
+            "pages": [
+              265,
+              266,
+              267,
+              268,
+              269,
+              270,
+              271
+            ],
+            "note": "This “ut supra” incipit has no complete antecedent in the Lyon office on PDF pp.265–279. The referenced responsory or hymn cannot be expanded from this volume without selecting an external edition; its printed incipit is retained."
+          }
         },
         {
           "type": "prayer",
@@ -2282,7 +2344,19 @@
           "alignment": "reviewed",
           "id": "terce-b0001",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied.",
+          "referenceExpansion": {
+            "targets": [
+              "prime-b0002",
+              "prime-b0003",
+              "prime-b0004"
+            ],
+            "sourcePages": [
+              271,
+              272
+            ],
+            "note": "The repeated “Hymnus ut supra” at the little hours refers to the Memento de Deo Deus hymn printed in full at Prime on p.271."
+          }
         },
         {
           "type": "rubric",
@@ -2604,7 +2678,19 @@
           "alignment": "reviewed",
           "id": "sext-b0001",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied.",
+          "referenceExpansion": {
+            "targets": [
+              "prime-b0002",
+              "prime-b0003",
+              "prime-b0004"
+            ],
+            "sourcePages": [
+              271,
+              274
+            ],
+            "note": "The repeated “Hymnus ut supra” at the little hours refers to the Memento de Deo Deus hymn printed in full at Prime on p.271."
+          }
         },
         {
           "type": "rubric",
@@ -2984,7 +3070,19 @@
           "alignment": "reviewed",
           "id": "none-b0001",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied.",
+          "referenceExpansion": {
+            "targets": [
+              "prime-b0002",
+              "prime-b0003",
+              "prime-b0004"
+            ],
+            "sourcePages": [
+              271,
+              275
+            ],
+            "note": "The repeated “Hymnus ut supra” at the little hours refers to the Memento de Deo Deus hymn printed in full at Prime on p.271."
+          }
         },
         {
           "type": "rubric",
@@ -3872,7 +3970,22 @@
           "alignment": "reviewed",
           "id": "vespers-b0029",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied.",
+          "referenceExpansion": {
+            "targets": [
+              "lauds-b0021",
+              "lauds-b0022",
+              "lauds-b0023",
+              "lauds-b0024",
+              "lauds-b0025",
+              "lauds-b0026"
+            ],
+            "sourcePages": [
+              271,
+              278
+            ],
+            "note": "The Vespers rubric points to the commemoration printed at Lauds on p.271, including its antiphon, versicle, response, prayer and Amen."
+          }
         }
       ]
     },

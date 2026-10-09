@@ -1577,7 +1577,7 @@
           "verification": "pending"
         },
         {
-          "type": "prayer",
+          "type": "rubric",
           "source": "Laetetur Ecclesia, ut supra.",
           "english": "Let the Church rejoice, as above.",
           "sourcePages": [
@@ -1594,7 +1594,17 @@
           "alignment": "reviewed",
           "id": "vespers-b0073",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied.",
+          "referenceExpansion": {
+            "targets": [
+              "vespers-b0111"
+            ],
+            "sourcePages": [
+              365,
+              366
+            ],
+            "note": "The Laetetur Ecclesia prayer is printed in full under the commemoration of all saints on p.366, later than this printed “ut supra” pointer. The same-office complete text is used without replacing its printed Latin."
+          }
         },
         {
           "type": "rubric",
@@ -3681,7 +3691,14 @@
           "alignment": "reviewed",
           "id": "compline-b0041",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
+          "editorialNote": "The printed rubric refers to an antiphon in “Psalt. 135,” an external psalter page, not PDF p.135 (which belongs to the Roman office). No seasonal antiphon is chosen from a different usage; this requires the referenced psalter.",
+          "referenceReview": {
+            "status": "source-unavailable",
+            "pages": [
+              369
+            ],
+            "note": "The printed rubric refers to an antiphon in “Psalt. 135,” an external psalter page, not PDF p.135 (which belongs to the Roman office). No seasonal antiphon is chosen from a different usage; this requires the referenced psalter."
+          }
         }
       ]
     },
@@ -6626,7 +6643,7 @@
           "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
-          "type": "prayer",
+          "type": "rubric",
           "source": "Oratio. Deus qui de Beatae... usque supra in Vesp..",
           "english": "Prayer. O God, who from the Blessed... as above at Vespers.",
           "sourcePages": [
@@ -6643,7 +6660,17 @@
           "alignment": "reviewed",
           "id": "lauds-b0040",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied.",
+          "referenceExpansion": {
+            "targets": [
+              "vespers-b0049"
+            ],
+            "sourcePages": [
+              364,
+              378
+            ],
+            "note": "The Lauds/None collect incipit expressly points to the full same-office prayer at Vespers on pp.364–365. The original reference and the target text are both retained."
+          }
         },
         {
           "type": "rubric",
@@ -6708,7 +6735,7 @@
           "verification": "pending"
         },
         {
-          "type": "prayer",
+          "type": "rubric",
           "source": "Deus qui salutis, usque supra in Vesp.",
           "english": "O God, who of salvation, as above at Vespers.",
           "sourcePages": [
@@ -6725,7 +6752,17 @@
           "alignment": "reviewed",
           "id": "lauds-b0044",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied.",
+          "referenceExpansion": {
+            "targets": [
+              "vespers-b0056"
+            ],
+            "sourcePages": [
+              365,
+              378
+            ],
+            "note": "The Lauds/None collect incipit expressly points to the full same-office prayer at Vespers on pp.364–365. The original reference and the target text are both retained."
+          }
         },
         {
           "type": "rubric",
@@ -6789,7 +6826,7 @@
           "verification": "pending"
         },
         {
-          "type": "prayer",
+          "type": "rubric",
           "source": "Concede nos, usque supra in Vesperis.",
           "english": "Grant us, as above at Vespers.",
           "sourcePages": [
@@ -6806,7 +6843,17 @@
           "alignment": "reviewed",
           "id": "lauds-b0048",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied.",
+          "referenceExpansion": {
+            "targets": [
+              "vespers-b0042"
+            ],
+            "sourcePages": [
+              364,
+              378
+            ],
+            "note": "The Lauds/None collect incipit expressly points to the full same-office prayer at Vespers on pp.364–365. The original reference and the target text are both retained."
+          }
         },
         {
           "type": "rubric",
@@ -6826,7 +6873,22 @@
           "alignment": "reviewed",
           "id": "lauds-b0049",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained.",
+          "referenceExpansion": {
+            "targets": [
+              "vespers-b0061",
+              "vespers-b0062",
+              "vespers-b0063",
+              "vespers-b0064",
+              "vespers-b0065",
+              "vespers-b0066"
+            ],
+            "sourcePages": [
+              365,
+              378
+            ],
+            "note": "The Advent suffrage points to Ecce Dominus with its versicle, response and Conscientias prayer printed at Vespers on p.365. It applies in Advent as specified by the retained rubric."
+          }
         },
         {
           "type": "rubric",
@@ -6869,7 +6931,7 @@
           "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
         },
         {
-          "type": "prayer",
+          "type": "rubric",
           "source": "Vers. et Orat. ut sup. in Vesp.",
           "english": "Verse and prayer as above at Vespers.",
           "sourcePages": [
@@ -6886,7 +6948,19 @@
           "alignment": "reviewed",
           "id": "lauds-b0052",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied.",
+          "referenceExpansion": {
+            "targets": [
+              "vespers-b0070",
+              "vespers-b0071",
+              "vespers-b0073"
+            ],
+            "sourcePages": [
+              365,
+              378
+            ],
+            "note": "The Paschal suffrage already has its own Lauds antiphon; only the versicle, response and Laetetur prayer are taken from Vespers on pp.365–366."
+          }
         },
         {
           "type": "rubric",
@@ -6982,7 +7056,7 @@
           "verification": "pending"
         },
         {
-          "type": "prayer",
+          "type": "rubric",
           "source": "Memento salutis, usque supra ad Completorium.",
           "english": "Remember, author of salvation, as above at Compline.",
           "sourcePages": [
@@ -6999,7 +7073,19 @@
           "alignment": "reviewed",
           "id": "prime-b0004",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied.",
+          "referenceExpansion": {
+            "targets": [
+              "compline-b0016",
+              "compline-b0017",
+              "compline-b0018"
+            ],
+            "sourcePages": [
+              368,
+              378
+            ],
+            "note": "The Memento salutis hymn is printed in full at Compline on p.368, and the little-hour incipits explicitly refer back to it."
+          }
         },
         {
           "type": "rubric",
@@ -7446,7 +7532,7 @@
           "verification": "pending"
         },
         {
-          "type": "prayer",
+          "type": "rubric",
           "source": "Memento salutis auctor ut supra.",
           "english": "Remember, author of salvation, as above.",
           "sourcePages": [
@@ -7463,7 +7549,19 @@
           "alignment": "reviewed",
           "id": "terce-b0004",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied.",
+          "referenceExpansion": {
+            "targets": [
+              "compline-b0016",
+              "compline-b0017",
+              "compline-b0018"
+            ],
+            "sourcePages": [
+              368,
+              379
+            ],
+            "note": "The Memento salutis hymn is printed in full at Compline on p.368, and the little-hour incipits explicitly refer back to it."
+          }
         },
         {
           "type": "rubric",
@@ -7959,7 +8057,7 @@
           "verification": "pending"
         },
         {
-          "type": "prayer",
+          "type": "rubric",
           "source": "Memento salutis auctor ut supra.",
           "english": "Remember, author of salvation, as above.",
           "sourcePages": [
@@ -7976,7 +8074,19 @@
           "alignment": "reviewed",
           "id": "sext-b0004",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied.",
+          "referenceExpansion": {
+            "targets": [
+              "compline-b0016",
+              "compline-b0017",
+              "compline-b0018"
+            ],
+            "sourcePages": [
+              368,
+              380
+            ],
+            "note": "The Memento salutis hymn is printed in full at Compline on p.368, and the little-hour incipits explicitly refer back to it."
+          }
         },
         {
           "type": "rubric",
@@ -8489,7 +8599,7 @@
           "verification": "pending"
         },
         {
-          "type": "prayer",
+          "type": "rubric",
           "source": "Memento salutis auctor ut supra.",
           "english": "Remember, author of salvation, as above.",
           "sourcePages": [
@@ -8506,7 +8616,19 @@
           "alignment": "reviewed",
           "id": "none-b0004",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied.",
+          "referenceExpansion": {
+            "targets": [
+              "compline-b0016",
+              "compline-b0017",
+              "compline-b0018"
+            ],
+            "sourcePages": [
+              368,
+              381
+            ],
+            "note": "The Memento salutis hymn is printed in full at Compline on p.368, and the little-hour incipits explicitly refer back to it."
+          }
         },
         {
           "type": "rubric",
@@ -8904,7 +9026,7 @@
           "verification": "pending"
         },
         {
-          "type": "prayer",
+          "type": "rubric",
           "source": "Deus qui de beatae Mariae, usque supra in Vesp., cum Orat.",
           "english": "O God, who from blessed Mary, as above at Vespers, with the prayer.",
           "sourcePages": [
@@ -8921,7 +9043,17 @@
           "alignment": "reviewed",
           "id": "none-b0023",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied."
+          "editorialNote": "English prepared from this office’s extracted Latin. Source transcription and printed line boundaries await visual review; abbreviations are retained and no unprinted continuation is supplied.",
+          "referenceExpansion": {
+            "targets": [
+              "vespers-b0049"
+            ],
+            "sourcePages": [
+              364,
+              382
+            ],
+            "note": "The Lauds/None collect incipit expressly points to the full same-office prayer at Vespers on pp.364–365. The original reference and the target text are both retained."
+          }
         },
         {
           "type": "rubric",

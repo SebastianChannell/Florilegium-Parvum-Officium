@@ -20,6 +20,7 @@ export function sectionBlocks(office, sectionId, variants = {}) {
     if (!block) throw new Error('Unresolved prayer reference.');
     const targets = block.referenceExpansion?.targets;
     if (!targets) return [block];
+    if (block.referenceExpansion.display === 'already-present') return [{ ...block, type: 'rubric' }];
     if (ancestors.includes(block.id)) throw new Error('Circular prayer reference.');
     return [{ ...block, type: 'rubric' }, ...targets.flatMap(id =>
       expand(index.get(id), [...ancestors, block.id]).map(b => ({ ...b,

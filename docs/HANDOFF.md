@@ -1,5 +1,7 @@
 # Handoff — 8 October 2026
 
+**Latest readiness:** See [READINESS-2026-10-09.md](READINESS-2026-10-09.md) for complete English coverage, the eight English-only reviews, reader corrections and the exact remaining release blockers.
+
 **Updated work:** See [CONTINUATION-2026-10-08.md](CONTINUATION-2026-10-08.md) for the subsequent translation and pairing pass. The counts below describe the earlier checkpoint.
 
 The user requested: **“Push all current work, including unfinished translations and progress notes, to a branch in Florilegium-Parvum-Officium so another session can continue.”** This is preserved partial work, not a completed bilingual edition.

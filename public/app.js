@@ -108,6 +108,7 @@ function renderSection(focus = false) {
     if (!englishSource && b.english) row.append(cell(b.english, 'English', 'english-cell', b.translation?.kind === 'prepared'));
     $('prayerBlocks').append(row);
     if (b.editorialNote) $('prayerBlocks').append(el('p', `Source note: ${b.editorialNote}`, 'editorial-note'));
+    if (b.referenceExpansion?.note) $('prayerBlocks').append(el('p', `Reference note: ${b.referenceExpansion.note}`, 'editorial-note'));
   }
   const missing = englishSource ? 0 : blocks.filter(b => !b.english).length;
   const uncertain = blocks.some(b => b.alignment === 'candidate');

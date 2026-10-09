@@ -1303,7 +1303,17 @@
           "alignment": "reviewed",
           "id": "matins-b0060",
           "verification": "source-reading-pending",
-          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained."
+          "editorialNote": "English prepared from the extracted Latin; this office’s source transcription and printed line boundaries still require visual review. Printed abbreviations and incomplete continuations are retained.",
+          "referenceExpansion": {
+            "targets": [
+              "matins-b0059"
+            ],
+            "sourcePages": [
+              217
+            ],
+            "note": "The solitary-recitation rubric on p.217 refers to the immediately preceding Castitatem blessing, without the Jube request. The rubric is retained as an instruction, not a second mandatory recitation.",
+            "display": "already-present"
+          }
         },
         {
           "type": "rubric",

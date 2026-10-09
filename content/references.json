@@ -264,6 +264,126 @@
     }
   },
   {
+    "office": "little-office-of-the-child-jesus-in-the-manger",
+    "section": "prime",
+    "block": "prime-b0001",
+    "pages": [
+      49
+    ],
+    "kind": "internal-reference",
+    "text": "Gloria in excelsis Deo etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001"
+      ],
+      "sourcePages": [
+        49
+      ],
+      "note": "The printed Gloria in excelsis incipit refers to the full opening at Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-child-jesus-in-the-manger",
+    "section": "terce",
+    "block": "terce-b0001",
+    "pages": [
+      49
+    ],
+    "kind": "internal-reference",
+    "text": "Gloria in excelsis Deo etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001"
+      ],
+      "sourcePages": [
+        49
+      ],
+      "note": "The printed Gloria in excelsis incipit refers to the full opening at Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-child-jesus-in-the-manger",
+    "section": "sext",
+    "block": "sext-b0001",
+    "pages": [
+      50
+    ],
+    "kind": "internal-reference",
+    "text": "Gloria in excelsis Deo etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001"
+      ],
+      "sourcePages": [
+        50
+      ],
+      "note": "The printed Gloria in excelsis incipit refers to the full opening at Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-child-jesus-in-the-manger",
+    "section": "none",
+    "block": "none-b0001",
+    "pages": [
+      50
+    ],
+    "kind": "internal-reference",
+    "text": "Gloria in excelsis Deo etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001"
+      ],
+      "sourcePages": [
+        50
+      ],
+      "note": "The printed Gloria in excelsis incipit refers to the full opening at Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-child-jesus-in-the-manger",
+    "section": "vespers",
+    "block": "vespers-b0001",
+    "pages": [
+      50
+    ],
+    "kind": "internal-reference",
+    "text": "Gloria in excelsis Deo etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001"
+      ],
+      "sourcePages": [
+        50
+      ],
+      "note": "The printed Gloria in excelsis incipit refers to the full opening at Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-child-jesus-in-the-manger",
+    "section": "compline",
+    "block": "compline-b0001",
+    "pages": [
+      51
+    ],
+    "kind": "internal-reference",
+    "text": "Gloria in excelsis Deo etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001"
+      ],
+      "sourcePages": [
+        51
+      ],
+      "note": "The printed Gloria in excelsis incipit refers to the full opening at Matins."
+    }
+  },
+  {
     "office": "little-office-of-the-most-amiable-child-jesus",
     "section": "prime",
     "block": "prime-b0007",
@@ -916,7 +1036,17 @@
     ],
     "kind": "internal-reference",
     "text": "Oration As at Prime.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "prime-b0008",
+        "prime-b0009"
+      ],
+      "sourcePages": [
+        61
+      ],
+      "note": "The printed rubric explicitly refers to the Prime oration on p.61, including its Amen at the top of the next column."
+    }
   },
   {
     "office": "little-office-of-the-holy-tear-of-our-lord-jesus-christ",
@@ -927,7 +1057,18 @@
     ],
     "kind": "internal-reference",
     "text": "Oration As at Prime.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "prime-b0008",
+        "prime-b0009"
+      ],
+      "sourcePages": [
+        61,
+        62
+      ],
+      "note": "The printed rubric explicitly refers to the Prime oration on p.61, including its Amen at the top of the next column."
+    }
   },
   {
     "office": "little-office-of-the-holy-tear-of-our-lord-jesus-christ",
@@ -938,7 +1079,265 @@
     ],
     "kind": "internal-reference",
     "text": "Oration as above",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "none-b0009"
+      ],
+      "sourcePages": [
+        62,
+        63
+      ],
+      "note": "The unqualified “as above” on p.63 is read as the immediately preceding complete oration, at None on p.62. The original abbreviated rubric is retained."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-cross",
+    "section": "sext",
+    "block": "sext-b0001",
+    "pages": [
+      65
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Per signum, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "prime-b0001",
+        "prime-b0002"
+      ],
+      "sourcePages": [
+        65
+      ],
+      "note": "Printed Per signum incipit refers to the complete opening at Prime."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-cross",
+    "section": "sext",
+    "block": "sext-b0004",
+    "pages": [
+      65
+    ],
+    "kind": "internal-reference",
+    "text": "Gloria Patri, et Filio, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0007"
+      ],
+      "sourcePages": [
+        65
+      ],
+      "note": "Printed Gloria Patri abbreviation refers to the full doxology at Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-cross",
+    "section": "sext",
+    "block": "sext-b0008",
+    "pages": [
+      65
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Adoramus te Christe, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012",
+        "matins-b0013"
+      ],
+      "sourcePages": [
+        65
+      ],
+      "note": "Printed Adoramus abbreviation refers to the full versicle and response at Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-cross",
+    "section": "none",
+    "block": "none-b0001",
+    "pages": [
+      65
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Per signum, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "prime-b0001",
+        "prime-b0002"
+      ],
+      "sourcePages": [
+        65
+      ],
+      "note": "Printed Per signum incipit refers to the complete opening at Prime."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-cross",
+    "section": "none",
+    "block": "none-b0004",
+    "pages": [
+      65
+    ],
+    "kind": "internal-reference",
+    "text": "Gloria Patri, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0007"
+      ],
+      "sourcePages": [
+        65
+      ],
+      "note": "Printed Gloria Patri abbreviation refers to the full doxology at Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-cross",
+    "section": "none",
+    "block": "none-b0008",
+    "pages": [
+      66
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Adoramus te Christe, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012",
+        "matins-b0013"
+      ],
+      "sourcePages": [
+        66
+      ],
+      "note": "Printed Adoramus abbreviation refers to the full versicle and response at Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-cross",
+    "section": "vespers",
+    "block": "vespers-b0001",
+    "pages": [
+      66
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Per signum, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "prime-b0001",
+        "prime-b0002"
+      ],
+      "sourcePages": [
+        66
+      ],
+      "note": "Printed Per signum incipit refers to the complete opening at Prime."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-cross",
+    "section": "vespers",
+    "block": "vespers-b0004",
+    "pages": [
+      66
+    ],
+    "kind": "internal-reference",
+    "text": "Gloria Patri, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0007"
+      ],
+      "sourcePages": [
+        66
+      ],
+      "note": "Printed Gloria Patri abbreviation refers to the full doxology at Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-cross",
+    "section": "vespers",
+    "block": "vespers-b0008",
+    "pages": [
+      66
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Adoramus te Christe, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012",
+        "matins-b0013"
+      ],
+      "sourcePages": [
+        66
+      ],
+      "note": "Printed Adoramus abbreviation refers to the full versicle and response at Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-cross",
+    "section": "compline",
+    "block": "compline-b0001",
+    "pages": [
+      66
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Per signum, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "prime-b0001",
+        "prime-b0002"
+      ],
+      "sourcePages": [
+        66
+      ],
+      "note": "Printed Per signum incipit refers to the complete opening at Prime."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-cross",
+    "section": "compline",
+    "block": "compline-b0006",
+    "pages": [
+      66
+    ],
+    "kind": "internal-reference",
+    "text": "Gloria Patri, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0007"
+      ],
+      "sourcePages": [
+        66
+      ],
+      "note": "Printed Gloria Patri abbreviation refers to the full doxology at Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-cross",
+    "section": "compline",
+    "block": "compline-b0010",
+    "pages": [
+      66
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Adoramus te Christe, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012",
+        "matins-b0013"
+      ],
+      "sourcePages": [
+        66
+      ],
+      "note": "Printed Adoramus abbreviation refers to the full versicle and response at Matins."
+    }
   },
   {
     "office": "little-office-of-the-suffering-christ-the-finding-and-the-exaltation-of-the-holy-cross",
@@ -1062,6 +1461,26 @@
   },
   {
     "office": "little-office-of-the-suffering-christ-the-finding-and-the-exaltation-of-the-holy-cross",
+    "section": "none",
+    "block": "none-b0007",
+    "pages": [
+      87
+    ],
+    "kind": "internal-reference",
+    "text": "Oratio Domine Jesu Christe, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "beginning-b0002"
+      ],
+      "sourcePages": [
+        87
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
+  },
+  {
+    "office": "little-office-of-the-suffering-christ-the-finding-and-the-exaltation-of-the-holy-cross",
     "section": "vespers",
     "block": "vespers-b0006",
     "pages": [
@@ -1102,6 +1521,69 @@
   },
   {
     "office": "little-office-of-the-holy-ghost-according-to-the-order-of-the-most-holy-saviour",
+    "section": "prime",
+    "block": "prime-b0001",
+    "pages": [
+      94
+    ],
+    "kind": "internal-reference",
+    "text": "Antiph. In unitate, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0002",
+        "matins-b0003",
+        "matins-b0004"
+      ],
+      "sourcePages": [
+        94
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-ghost-according-to-the-order-of-the-most-holy-saviour",
+    "section": "compline",
+    "block": "compline-b0001",
+    "pages": [
+      98
+    ],
+    "kind": "internal-reference",
+    "text": "Antiph. In unitate.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0002"
+      ],
+      "sourcePages": [
+        98
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-ghost-according-to-the-order-of-the-most-holy-saviour",
+    "section": "compline",
+    "block": "compline-b0002",
+    "pages": [
+      98
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Sancti Spiritus, etc. (as at the beginning)",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0003",
+        "matins-b0004"
+      ],
+      "sourcePages": [
+        98
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-ghost-according-to-the-order-of-the-most-holy-saviour",
     "section": "compline",
     "block": "compline-b0017",
     "pages": [
@@ -1124,6 +1606,314 @@
         99
       ],
       "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-ghost-for-obtaining-the-true-love-of-god",
+    "section": "lauds",
+    "block": "lauds-b0001",
+    "pages": [
+      100
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Veni Sancte Spiritus, reple, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001",
+        "matins-b0002"
+      ],
+      "sourcePages": [
+        100
+      ],
+      "note": "Opening invocation and Amen at Matins, p. 100."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-ghost-for-obtaining-the-true-love-of-god",
+    "section": "lauds",
+    "block": "lauds-b0007",
+    "pages": [
+      101
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Ure igne, etc. cum Oratione.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0010",
+        "matins-b0011",
+        "matins-b0012",
+        "matins-b0013"
+      ],
+      "sourcePages": [
+        100
+      ],
+      "note": "Versicle, response, prayer heading and collect at Matins, p. 100. The subsequent closing versicles are not silently included by this reference."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-ghost-for-obtaining-the-true-love-of-god",
+    "section": "prime",
+    "block": "prime-b0001",
+    "pages": [
+      101
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Veni Sancte Spiritus, reple, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001",
+        "matins-b0002"
+      ],
+      "sourcePages": [
+        100
+      ],
+      "note": "Opening invocation and Amen at Matins, p. 100."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-ghost-for-obtaining-the-true-love-of-god",
+    "section": "prime",
+    "block": "prime-b0007",
+    "pages": [
+      101
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Ure igne, etc. cum Oratione.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0010",
+        "matins-b0011",
+        "matins-b0012",
+        "matins-b0013"
+      ],
+      "sourcePages": [
+        100
+      ],
+      "note": "Versicle, response, prayer heading and collect at Matins, p. 100. The subsequent closing versicles are not silently included by this reference."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-ghost-for-obtaining-the-true-love-of-god",
+    "section": "terce",
+    "block": "terce-b0001",
+    "pages": [
+      101
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Veni Sancte Spiritus, reple, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001",
+        "matins-b0002"
+      ],
+      "sourcePages": [
+        100
+      ],
+      "note": "Opening invocation and Amen at Matins, p. 100."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-ghost-for-obtaining-the-true-love-of-god",
+    "section": "terce",
+    "block": "terce-b0007",
+    "pages": [
+      101
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Ure igne, etc. cum Oratione.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0010",
+        "matins-b0011",
+        "matins-b0012",
+        "matins-b0013"
+      ],
+      "sourcePages": [
+        100
+      ],
+      "note": "Versicle, response, prayer heading and collect at Matins, p. 100. The subsequent closing versicles are not silently included by this reference."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-ghost-for-obtaining-the-true-love-of-god",
+    "section": "sext",
+    "block": "sext-b0001",
+    "pages": [
+      101
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Veni Sancte Spiritus, reple, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001",
+        "matins-b0002"
+      ],
+      "sourcePages": [
+        100
+      ],
+      "note": "Opening invocation and Amen at Matins, p. 100."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-ghost-for-obtaining-the-true-love-of-god",
+    "section": "sext",
+    "block": "sext-b0007",
+    "pages": [
+      101
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Ure igne, etc. cum Oratione.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0010",
+        "matins-b0011",
+        "matins-b0012",
+        "matins-b0013"
+      ],
+      "sourcePages": [
+        100
+      ],
+      "note": "Versicle, response, prayer heading and collect at Matins, p. 100. The subsequent closing versicles are not silently included by this reference."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-ghost-for-obtaining-the-true-love-of-god",
+    "section": "none",
+    "block": "none-b0001",
+    "pages": [
+      101
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Veni Sancte Spiritus, reple, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001",
+        "matins-b0002"
+      ],
+      "sourcePages": [
+        100
+      ],
+      "note": "Opening invocation and Amen at Matins, p. 100."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-ghost-for-obtaining-the-true-love-of-god",
+    "section": "none",
+    "block": "none-b0008",
+    "pages": [
+      102
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Ure igne, etc. cum Oratione.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0010",
+        "matins-b0011",
+        "matins-b0012",
+        "matins-b0013"
+      ],
+      "sourcePages": [
+        100
+      ],
+      "note": "Versicle, response, prayer heading and collect at Matins, p. 100. The subsequent closing versicles are not silently included by this reference."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-ghost-for-obtaining-the-true-love-of-god",
+    "section": "vespers",
+    "block": "vespers-b0001",
+    "pages": [
+      102
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Veni Sancte Spiritus, reple, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001",
+        "matins-b0002"
+      ],
+      "sourcePages": [
+        100
+      ],
+      "note": "Opening invocation and Amen at Matins, p. 100."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-ghost-for-obtaining-the-true-love-of-god",
+    "section": "vespers",
+    "block": "vespers-b0007",
+    "pages": [
+      102
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Ure igne, etc. cum Oratione.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0010",
+        "matins-b0011",
+        "matins-b0012",
+        "matins-b0013"
+      ],
+      "sourcePages": [
+        100
+      ],
+      "note": "Versicle, response, prayer heading and collect at Matins, p. 100. The subsequent closing versicles are not silently included by this reference."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-ghost-for-obtaining-the-true-love-of-god",
+    "section": "compline",
+    "block": "compline-b0001",
+    "pages": [
+      102
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Veni Sancte Spiritus, reple, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001",
+        "matins-b0002"
+      ],
+      "sourcePages": [
+        100
+      ],
+      "note": "Opening invocation and Amen at Matins, p. 100."
+    }
+  },
+  {
+    "office": "little-office-of-the-holy-ghost-for-obtaining-the-true-love-of-god",
+    "section": "compline",
+    "block": "compline-b0009",
+    "pages": [
+      102
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Ure igne, etc. cum Oratione.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0010",
+        "matins-b0011",
+        "matins-b0012",
+        "matins-b0013"
+      ],
+      "sourcePages": [
+        100
+      ],
+      "note": "Versicle, response, prayer heading and collect at Matins, p. 100. The subsequent closing versicles are not silently included by this reference."
     }
   },
   {
@@ -1438,7 +2228,17 @@
     ],
     "kind": "internal-reference",
     "text": "Cum quis solus dicit Officium, non dicit, Jube, sed tantum benedictionem, ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0059"
+      ],
+      "sourcePages": [
+        217
+      ],
+      "note": "The solitary-recitation rubric on p.217 refers to the immediately preceding Castitatem blessing, without the Jube request. The rubric is retained as an instruction, not a second mandatory recitation.",
+      "display": "already-present"
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
@@ -1449,7 +2249,22 @@
     ],
     "kind": "internal-reference",
     "text": "Introduction As at Lauds",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "lauds-b0001",
+        "lauds-b0002",
+        "lauds-b0003",
+        "lauds-b0004",
+        "lauds-b0005",
+        "lauds-b0006"
+      ],
+      "sourcePages": [
+        248,
+        251
+      ],
+      "note": "The printed Introduction / As at Lauds refers to the silent Hail Mary and opening versicles printed at Lauds on p.248; no psalms are included in the introduction."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
@@ -1460,7 +2275,44 @@
     ],
     "kind": "internal-reference",
     "text": "Introduction As at Lauds",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "lauds-b0001",
+        "lauds-b0002",
+        "lauds-b0003",
+        "lauds-b0004",
+        "lauds-b0005",
+        "lauds-b0006"
+      ],
+      "sourcePages": [
+        248,
+        253
+      ],
+      "note": "The printed Introduction / As at Lauds refers to the silent Hail Mary and opening versicles printed at Lauds on p.248; no psalms are included in the introduction."
+    }
+  },
+  {
+    "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
+    "section": "terce",
+    "block": "terce-b0040",
+    "pages": [
+      256
+    ],
+    "kind": "internal-reference",
+    "text": "Concede nos famulos tuos.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "lauds-b0044",
+        "lauds-b0045"
+      ],
+      "sourcePages": [
+        251,
+        256
+      ],
+      "note": "The Concede nos collect is printed in full at Lauds on p.251; its printed Amen is included."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
@@ -1471,7 +2323,17 @@
     ],
     "kind": "internal-reference",
     "text": "℣. Dulce nomen Domini. ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "lauds-b0053"
+      ],
+      "sourcePages": [
+        251,
+        256
+      ],
+      "note": "The complete Dulce nomen conclusion is printed at Lauds on p.251, followed by the explicit instruction that all the hours end this way. The incipit is retained as the reference rubric."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
@@ -1482,7 +2344,22 @@
     ],
     "kind": "internal-reference",
     "text": "Introduction As at Lauds",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "lauds-b0001",
+        "lauds-b0002",
+        "lauds-b0003",
+        "lauds-b0004",
+        "lauds-b0005",
+        "lauds-b0006"
+      ],
+      "sourcePages": [
+        248,
+        256
+      ],
+      "note": "The printed Introduction / As at Lauds refers to the silent Hail Mary and opening versicles printed at Lauds on p.248; no psalms are included in the introduction."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
@@ -1493,7 +2370,17 @@
     ],
     "kind": "internal-reference",
     "text": "Dulce nomen. ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "lauds-b0053"
+      ],
+      "sourcePages": [
+        251,
+        258
+      ],
+      "note": "The complete Dulce nomen conclusion is printed at Lauds on p.251, followed by the explicit instruction that all the hours end this way. The incipit is retained as the reference rubric."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
@@ -1504,7 +2391,22 @@
     ],
     "kind": "internal-reference",
     "text": "Introduction As at Lauds",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "lauds-b0001",
+        "lauds-b0002",
+        "lauds-b0003",
+        "lauds-b0004",
+        "lauds-b0005",
+        "lauds-b0006"
+      ],
+      "sourcePages": [
+        248,
+        259
+      ],
+      "note": "The printed Introduction / As at Lauds refers to the silent Hail Mary and opening versicles printed at Lauds on p.248; no psalms are included in the introduction."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
@@ -1515,7 +2417,17 @@
     ],
     "kind": "internal-reference",
     "text": "Dulce nomen. ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "lauds-b0053"
+      ],
+      "sourcePages": [
+        251,
+        261
+      ],
+      "note": "The complete Dulce nomen conclusion is printed at Lauds on p.251, followed by the explicit instruction that all the hours end this way. The incipit is retained as the reference rubric."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
@@ -1526,7 +2438,22 @@
     ],
     "kind": "internal-reference",
     "text": "Introduction As at Lauds",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "lauds-b0001",
+        "lauds-b0002",
+        "lauds-b0003",
+        "lauds-b0004",
+        "lauds-b0005",
+        "lauds-b0006"
+      ],
+      "sourcePages": [
+        248,
+        261
+      ],
+      "note": "The printed Introduction / As at Lauds refers to the silent Hail Mary and opening versicles printed at Lauds on p.248; no psalms are included in the introduction."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
@@ -1537,7 +2464,35 @@
     ],
     "kind": "internal-reference",
     "text": "Capitulum. In omnibus requiem. ut supra",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "lauds-b0023"
+      ],
+      "sourcePages": [
+        250,
+        262
+      ],
+      "note": "The abbreviated In omnibus chapter at Vespers refers to the complete same chapter at Lauds on p.250."
+    }
+  },
+  {
+    "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
+    "section": "vespers",
+    "block": "vespers-b0014",
+    "pages": [
+      262
+    ],
+    "kind": "internal-reference",
+    "text": "Hymn. Ave, maris stella.",
+    "status": "unresolved",
+    "review": {
+      "status": "source-unavailable",
+      "pages": [
+        262
+      ],
+      "note": "The PDF gives only the hymn incipit “Ave, maris stella” here. This Cistercian office contains no full version of that hymn; a full text from another usage has not been substituted."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
@@ -1548,7 +2503,88 @@
     ],
     "kind": "internal-reference",
     "text": "℣. Speciosa facta es. ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "lauds-b0032",
+        "lauds-b0033"
+      ],
+      "sourcePages": [
+        250,
+        262
+      ],
+      "note": "The Speciosa facta es versicle and its response are printed together at Lauds on p.250."
+    }
+  },
+  {
+    "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
+    "section": "vespers",
+    "block": "vespers-b0020",
+    "pages": [
+      263
+    ],
+    "kind": "internal-reference",
+    "text": "Oratio. Concede nos.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "lauds-b0044",
+        "lauds-b0045"
+      ],
+      "sourcePages": [
+        251,
+        263
+      ],
+      "note": "The Concede nos collect is printed in full at Lauds on p.251; its printed Amen is included."
+    }
+  },
+  {
+    "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
+    "section": "vespers",
+    "block": "vespers-b0021",
+    "pages": [
+      263
+    ],
+    "kind": "internal-reference",
+    "text": "Et postea fit commemoratio de Sanctis, et ut in Laudibus.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "lauds-b0046",
+        "lauds-b0047",
+        "lauds-b0048",
+        "lauds-b0049",
+        "lauds-b0050",
+        "lauds-b0051",
+        "lauds-b0052"
+      ],
+      "sourcePages": [
+        251,
+        263
+      ],
+      "note": "The Vespers instruction refers to the saints commemoration at Lauds on p.251, including its printed omission on All Saints and during the octave. This instruction is displayed without calculating a calendar."
+    }
+  },
+  {
+    "office": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
+    "section": "compline",
+    "block": "compline-b0030",
+    "pages": [
+      264
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Dulce nomen Domini nostri.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "lauds-b0053"
+      ],
+      "sourcePages": [
+        251,
+        264
+      ],
+      "note": "The complete Dulce nomen conclusion is printed at Lauds on p.251, followed by the explicit instruction that all the hours end this way. The incipit is retained as the reference rubric."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-lyon",
@@ -1559,7 +2595,20 @@
     ],
     "kind": "internal-reference",
     "text": "℟. Benedicam. ut supra.",
-    "status": "unresolved"
+    "status": "unresolved",
+    "review": {
+      "status": "source-unavailable",
+      "pages": [
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271
+      ],
+      "note": "This “ut supra” incipit has no complete antecedent in the Lyon office on PDF pp.265–279. The referenced responsory or hymn cannot be expanded from this volume without selecting an external edition; its printed incipit is retained."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-lyon",
@@ -1570,7 +2619,20 @@
     ],
     "kind": "internal-reference",
     "text": "℟. Quod in ea. ut supra.",
-    "status": "unresolved"
+    "status": "unresolved",
+    "review": {
+      "status": "source-unavailable",
+      "pages": [
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271
+      ],
+      "note": "This “ut supra” incipit has no complete antecedent in the Lyon office on PDF pp.265–279. The referenced responsory or hymn cannot be expanded from this volume without selecting an external edition; its printed incipit is retained."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-lyon",
@@ -1581,7 +2643,20 @@
     ],
     "kind": "internal-reference",
     "text": "℟. Deus ex femine. ut supra.",
-    "status": "unresolved"
+    "status": "unresolved",
+    "review": {
+      "status": "source-unavailable",
+      "pages": [
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271
+      ],
+      "note": "This “ut supra” incipit has no complete antecedent in the Lyon office on PDF pp.265–279. The referenced responsory or hymn cannot be expanded from this volume without selecting an external edition; its printed incipit is retained."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-lyon",
@@ -1592,7 +2667,17 @@
     ],
     "kind": "internal-reference",
     "text": "Si Laudes non sequantur, dicitur hic Oratio, Concede, ut infra ad Sextam, ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "sext-b0017"
+      ],
+      "sourcePages": [
+        269,
+        275
+      ],
+      "note": "The printed rubric explicitly names the Sext collect, Concede misericors Deus, printed in full on p.275. It is used here only when Lauds does not follow, as stated in the retained rubric."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-lyon",
@@ -1603,7 +2688,20 @@
     ],
     "kind": "internal-reference",
     "text": "Hymnus, Nunc aurora. ut supra.",
-    "status": "unresolved"
+    "status": "unresolved",
+    "review": {
+      "status": "source-unavailable",
+      "pages": [
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271
+      ],
+      "note": "This “ut supra” incipit has no complete antecedent in the Lyon office on PDF pp.265–279. The referenced responsory or hymn cannot be expanded from this volume without selecting an external edition; its printed incipit is retained."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-lyon",
@@ -1614,7 +2712,19 @@
     ],
     "kind": "internal-reference",
     "text": "Hymnus ut supra",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "prime-b0002",
+        "prime-b0003",
+        "prime-b0004"
+      ],
+      "sourcePages": [
+        271,
+        272
+      ],
+      "note": "The repeated “Hymnus ut supra” at the little hours refers to the Memento de Deo Deus hymn printed in full at Prime on p.271."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-lyon",
@@ -1625,7 +2735,19 @@
     ],
     "kind": "internal-reference",
     "text": "Hymnus ut supra",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "prime-b0002",
+        "prime-b0003",
+        "prime-b0004"
+      ],
+      "sourcePages": [
+        271,
+        274
+      ],
+      "note": "The repeated “Hymnus ut supra” at the little hours refers to the Memento de Deo Deus hymn printed in full at Prime on p.271."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-lyon",
@@ -1636,7 +2758,19 @@
     ],
     "kind": "internal-reference",
     "text": "Hymnus ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "prime-b0002",
+        "prime-b0003",
+        "prime-b0004"
+      ],
+      "sourcePages": [
+        271,
+        275
+      ],
+      "note": "The repeated “Hymnus ut supra” at the little hours refers to the Memento de Deo Deus hymn printed in full at Prime on p.271."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-lyon",
@@ -1647,7 +2781,168 @@
     ],
     "kind": "internal-reference",
     "text": "Commendationes ut supra ad Laudes.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "lauds-b0021",
+        "lauds-b0022",
+        "lauds-b0023",
+        "lauds-b0024",
+        "lauds-b0025",
+        "lauds-b0026"
+      ],
+      "sourcePages": [
+        271,
+        278
+      ],
+      "note": "The Vespers rubric points to the commemoration printed at Lauds on p.271, including its antiphon, versicle, response, prayer and Amen."
+    }
+  },
+  {
+    "office": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+    "section": "terce",
+    "block": "terce-b0005",
+    "pages": [
+      298
+    ],
+    "kind": "internal-reference",
+    "text": "Hymnus Memento, salutis auctor.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "prime-b0006",
+        "prime-b0007",
+        "prime-b0008"
+      ],
+      "sourcePages": [
+        298
+      ],
+      "note": "Printed hymn incipit points to the complete Memento hymn at Prime."
+    }
+  },
+  {
+    "office": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+    "section": "sext",
+    "block": "sext-b0005",
+    "pages": [
+      300
+    ],
+    "kind": "internal-reference",
+    "text": "Hymnus Memento, salutis auctor.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "prime-b0006",
+        "prime-b0007",
+        "prime-b0008"
+      ],
+      "sourcePages": [
+        300
+      ],
+      "note": "Printed hymn incipit points to the complete Memento hymn at Prime."
+    }
+  },
+  {
+    "office": "little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-preachers-dominicans",
+    "section": "none",
+    "block": "none-b0005",
+    "pages": [
+      302
+    ],
+    "kind": "internal-reference",
+    "text": "Hymnus Memento, salutis auctor.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "prime-b0006",
+        "prime-b0007",
+        "prime-b0008"
+      ],
+      "sourcePages": [
+        302
+      ],
+      "note": "Printed hymn incipit points to the complete Memento hymn at Prime."
+    }
+  },
+  {
+    "office": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+    "section": "matins",
+    "block": "matins-b0035",
+    "pages": [
+      323
+    ],
+    "kind": "internal-reference",
+    "text": "Pater noster... [continue silently]",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "lauds-b0099"
+      ],
+      "sourcePages": [
+        323
+      ],
+      "note": "Full Our Father printed at Lauds; the source directs that it be continued silently."
+    }
+  },
+  {
+    "office": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+    "section": "matins",
+    "block": "matins-b0051",
+    "pages": [
+      324
+    ],
+    "kind": "internal-reference",
+    "text": "Pater noster... [continue silently]",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "lauds-b0099"
+      ],
+      "sourcePages": [
+        324
+      ],
+      "note": "Full Our Father printed at Lauds; the source directs that it be continued silently."
+    }
+  },
+  {
+    "office": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+    "section": "matins",
+    "block": "matins-b0067",
+    "pages": [
+      325
+    ],
+    "kind": "internal-reference",
+    "text": "Pater noster... [continue silently]",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "lauds-b0099"
+      ],
+      "sourcePages": [
+        325
+      ],
+      "note": "Full Our Father printed at Lauds; the source directs that it be continued silently."
+    }
+  },
+  {
+    "office": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
+    "section": "matins",
+    "block": "matins-b0164",
+    "pages": [
+      328
+    ],
+    "kind": "internal-reference",
+    "text": "The Our Father is prayed silently.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "lauds-b0099"
+      ],
+      "sourcePages": [
+        328
+      ],
+      "note": "The complete Our Father is printed at Lauds in this same office; the rubric directs silent recitation."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-monastic-usage",
@@ -1928,7 +3223,17 @@
     ],
     "kind": "internal-reference",
     "text": "Laetetur Ecclesia, ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "vespers-b0111"
+      ],
+      "sourcePages": [
+        365,
+        366
+      ],
+      "note": "The Laetetur Ecclesia prayer is printed in full under the commemoration of all saints on p.366, later than this printed “ut supra” pointer. The same-office complete text is used without replacing its printed Latin."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-premonstratensian-use-norbetines",
@@ -1951,7 +3256,14 @@
     ],
     "kind": "internal-reference",
     "text": "Post Completorium Antiphona dicitur qua pro veriente temporia signatur supra in Psalt. 135.",
-    "status": "unresolved"
+    "status": "unresolved",
+    "review": {
+      "status": "source-unavailable",
+      "pages": [
+        369
+      ],
+      "note": "The printed rubric refers to an antiphon in “Psalt. 135,” an external psalter page, not PDF p.135 (which belongs to the Roman office). No seasonal antiphon is chosen from a different usage; this requires the referenced psalter."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-premonstratensian-use-norbetines",
@@ -1962,7 +3274,17 @@
     ],
     "kind": "internal-reference",
     "text": "Oratio. Deus qui de Beatae... usque supra in Vesp..",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "vespers-b0049"
+      ],
+      "sourcePages": [
+        364,
+        378
+      ],
+      "note": "The Lauds/None collect incipit expressly points to the full same-office prayer at Vespers on pp.364–365. The original reference and the target text are both retained."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-premonstratensian-use-norbetines",
@@ -1973,7 +3295,17 @@
     ],
     "kind": "internal-reference",
     "text": "Deus qui salutis, usque supra in Vesp.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "vespers-b0056"
+      ],
+      "sourcePages": [
+        365,
+        378
+      ],
+      "note": "The Lauds/None collect incipit expressly points to the full same-office prayer at Vespers on pp.364–365. The original reference and the target text are both retained."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-premonstratensian-use-norbetines",
@@ -1984,7 +3316,17 @@
     ],
     "kind": "internal-reference",
     "text": "Concede nos, usque supra in Vesperis.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "vespers-b0042"
+      ],
+      "sourcePages": [
+        364,
+        378
+      ],
+      "note": "The Lauds/None collect incipit expressly points to the full same-office prayer at Vespers on pp.364–365. The original reference and the target text are both retained."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-premonstratensian-use-norbetines",
@@ -1995,7 +3337,45 @@
     ],
     "kind": "internal-reference",
     "text": "In Adventu post Orat. dicitur Suffragium solum de omnibus sanctis. Ecce Dominus venit cum suis Vesperis et Oratione, usque supra in Vesp.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "vespers-b0061",
+        "vespers-b0062",
+        "vespers-b0063",
+        "vespers-b0064",
+        "vespers-b0065",
+        "vespers-b0066"
+      ],
+      "sourcePages": [
+        365,
+        378
+      ],
+      "note": "The Advent suffrage points to Ecce Dominus with its versicle, response and Conscientias prayer printed at Vespers on p.365. It applies in Advent as specified by the retained rubric."
+    }
+  },
+  {
+    "office": "little-office-of-the-blessed-virgin-mary-according-to-the-premonstratensian-use-norbetines",
+    "section": "lauds",
+    "block": "lauds-b0052",
+    "pages": [
+      378
+    ],
+    "kind": "internal-reference",
+    "text": "Vers. et Orat. ut sup. in Vesp.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "vespers-b0070",
+        "vespers-b0071",
+        "vespers-b0073"
+      ],
+      "sourcePages": [
+        365,
+        378
+      ],
+      "note": "The Paschal suffrage already has its own Lauds antiphon; only the versicle, response and Laetetur prayer are taken from Vespers on pp.365–366."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-premonstratensian-use-norbetines",
@@ -2010,6 +3390,29 @@
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-premonstratensian-use-norbetines",
+    "section": "prime",
+    "block": "prime-b0004",
+    "pages": [
+      378
+    ],
+    "kind": "internal-reference",
+    "text": "Memento salutis, usque supra ad Completorium.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "compline-b0016",
+        "compline-b0017",
+        "compline-b0018"
+      ],
+      "sourcePages": [
+        368,
+        378
+      ],
+      "note": "The Memento salutis hymn is printed in full at Compline on p.368, and the little-hour incipits explicitly refer back to it."
+    }
+  },
+  {
+    "office": "little-office-of-the-blessed-virgin-mary-according-to-the-premonstratensian-use-norbetines",
     "section": "terce",
     "block": "terce-b0004",
     "pages": [
@@ -2017,7 +3420,19 @@
     ],
     "kind": "internal-reference",
     "text": "Memento salutis auctor ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "compline-b0016",
+        "compline-b0017",
+        "compline-b0018"
+      ],
+      "sourcePages": [
+        368,
+        379
+      ],
+      "note": "The Memento salutis hymn is printed in full at Compline on p.368, and the little-hour incipits explicitly refer back to it."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-premonstratensian-use-norbetines",
@@ -2028,7 +3443,19 @@
     ],
     "kind": "internal-reference",
     "text": "Memento salutis auctor ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "compline-b0016",
+        "compline-b0017",
+        "compline-b0018"
+      ],
+      "sourcePages": [
+        368,
+        380
+      ],
+      "note": "The Memento salutis hymn is printed in full at Compline on p.368, and the little-hour incipits explicitly refer back to it."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-premonstratensian-use-norbetines",
@@ -2039,7 +3466,19 @@
     ],
     "kind": "internal-reference",
     "text": "Memento salutis auctor ut supra.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "compline-b0016",
+        "compline-b0017",
+        "compline-b0018"
+      ],
+      "sourcePages": [
+        368,
+        381
+      ],
+      "note": "The Memento salutis hymn is printed in full at Compline on p.368, and the little-hour incipits explicitly refer back to it."
+    }
   },
   {
     "office": "little-office-of-the-blessed-virgin-mary-according-to-the-premonstratensian-use-norbetines",
@@ -2050,7 +3489,37 @@
     ],
     "kind": "internal-reference",
     "text": "Deus qui de beatae Mariae, usque supra in Vesp., cum Orat.",
-    "status": "unresolved"
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "vespers-b0049"
+      ],
+      "sourcePages": [
+        364,
+        382
+      ],
+      "note": "The Lauds/None collect incipit expressly points to the full same-office prayer at Vespers on pp.364–365. The original reference and the target text are both retained."
+    }
+  },
+  {
+    "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
+    "section": "prime",
+    "block": "prime-b0002",
+    "pages": [
+      395
+    ],
+    "kind": "internal-reference",
+    "text": "Ave Maria.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0002"
+      ],
+      "sourcePages": [
+        395
+      ],
+      "note": "The printed incipit repeats the full Hail Mary from Matins."
+    }
   },
   {
     "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
@@ -2070,6 +3539,431 @@
         395
       ],
       "note": "The printed abbreviation repeats this office’s Matins collect."
+    }
+  },
+  {
+    "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
+    "section": "terce",
+    "block": "terce-b0002",
+    "pages": [
+      396
+    ],
+    "kind": "internal-reference",
+    "text": "Ave Maria.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0002"
+      ],
+      "sourcePages": [
+        396
+      ],
+      "note": "The printed incipit repeats the full Hail Mary from Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
+    "section": "terce",
+    "block": "terce-b0011",
+    "pages": [
+      396
+    ],
+    "kind": "internal-reference",
+    "text": "Oremus, Interveniat, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0015"
+      ],
+      "sourcePages": [
+        396
+      ],
+      "note": "The printed abbreviation repeats this office’s Matins collect."
+    }
+  },
+  {
+    "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
+    "section": "sext",
+    "block": "sext-b0002",
+    "pages": [
+      396
+    ],
+    "kind": "internal-reference",
+    "text": "Ave Maria.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0002"
+      ],
+      "sourcePages": [
+        396
+      ],
+      "note": "The printed incipit repeats the full Hail Mary from Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
+    "section": "sext",
+    "block": "sext-b0011",
+    "pages": [
+      396
+    ],
+    "kind": "internal-reference",
+    "text": "Oremus, Interveniat, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0015"
+      ],
+      "sourcePages": [
+        396
+      ],
+      "note": "The printed abbreviation repeats this office’s Matins collect."
+    }
+  },
+  {
+    "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
+    "section": "none",
+    "block": "none-b0002",
+    "pages": [
+      396
+    ],
+    "kind": "internal-reference",
+    "text": "Ave Maria.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0002"
+      ],
+      "sourcePages": [
+        396
+      ],
+      "note": "The printed incipit repeats the full Hail Mary from Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
+    "section": "none",
+    "block": "none-b0011",
+    "pages": [
+      396
+    ],
+    "kind": "internal-reference",
+    "text": "Oremus, Interveniat, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0015"
+      ],
+      "sourcePages": [
+        396
+      ],
+      "note": "The printed abbreviation repeats this office’s Matins collect."
+    }
+  },
+  {
+    "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
+    "section": "vespers",
+    "block": "vespers-b0010",
+    "pages": [
+      397
+    ],
+    "kind": "internal-reference",
+    "text": "Oremus, Interveniat, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0015"
+      ],
+      "sourcePages": [
+        397
+      ],
+      "note": "The printed abbreviation repeats this office’s Matins collect."
+    }
+  },
+  {
+    "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
+    "section": "compline",
+    "block": "compline-b0002",
+    "pages": [
+      397
+    ],
+    "kind": "internal-reference",
+    "text": "Ave Maria.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0002"
+      ],
+      "sourcePages": [
+        397
+      ],
+      "note": "The printed incipit repeats the full Hail Mary from Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-seven-dolours-of-the-blessed-virgin-mary",
+    "section": "compline",
+    "block": "compline-b0014",
+    "pages": [
+      397
+    ],
+    "kind": "internal-reference",
+    "text": "Oremus, Interveniat, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0015"
+      ],
+      "sourcePages": [
+        397
+      ],
+      "note": "The printed abbreviation repeats this office’s Matins collect."
+    }
+  },
+  {
+    "office": "little-office-of-the-seven-joys-of-the-blessed-virgin-mary",
+    "section": "prime",
+    "block": "prime-b0001",
+    "pages": [
+      398
+    ],
+    "kind": "internal-reference",
+    "text": "Ave Maria, etc. Sicut laetantium omnium, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001"
+      ],
+      "sourcePages": [
+        398
+      ],
+      "note": "The printed abbreviation repeats the opening from this office’s Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-seven-joys-of-the-blessed-virgin-mary",
+    "section": "prime",
+    "block": "prime-b0003",
+    "pages": [
+      398
+    ],
+    "kind": "internal-reference",
+    "text": "℟. A moerore animi, etc. Gloria Patri, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0005"
+      ],
+      "sourcePages": [
+        398
+      ],
+      "note": "The printed abbreviation repeats the complete response and Glory be from this office’s Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-seven-joys-of-the-blessed-virgin-mary",
+    "section": "terce",
+    "block": "terce-b0001",
+    "pages": [
+      398
+    ],
+    "kind": "internal-reference",
+    "text": "Ave Maria, etc. Sicut laetantium omnium, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001"
+      ],
+      "sourcePages": [
+        398
+      ],
+      "note": "The printed abbreviation repeats the opening from this office’s Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-seven-joys-of-the-blessed-virgin-mary",
+    "section": "terce",
+    "block": "terce-b0003",
+    "pages": [
+      398
+    ],
+    "kind": "internal-reference",
+    "text": "℟. A moerore animi, etc. Gloria Patri, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0005"
+      ],
+      "sourcePages": [
+        398
+      ],
+      "note": "The printed abbreviation repeats the complete response and Glory be from this office’s Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-seven-joys-of-the-blessed-virgin-mary",
+    "section": "sext",
+    "block": "sext-b0001",
+    "pages": [
+      399
+    ],
+    "kind": "internal-reference",
+    "text": "Ave Maria, etc. Sicut laetantium omnium, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001"
+      ],
+      "sourcePages": [
+        399
+      ],
+      "note": "The printed abbreviation repeats the opening from this office’s Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-seven-joys-of-the-blessed-virgin-mary",
+    "section": "sext",
+    "block": "sext-b0003",
+    "pages": [
+      399
+    ],
+    "kind": "internal-reference",
+    "text": "℟. A moerore animi, etc. Gloria Patri, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0005"
+      ],
+      "sourcePages": [
+        399
+      ],
+      "note": "The printed abbreviation repeats the complete response and Glory be from this office’s Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-seven-joys-of-the-blessed-virgin-mary",
+    "section": "none",
+    "block": "none-b0001",
+    "pages": [
+      399
+    ],
+    "kind": "internal-reference",
+    "text": "Ave Maria, etc. Sicut laetantium omnium, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001"
+      ],
+      "sourcePages": [
+        399
+      ],
+      "note": "The printed abbreviation repeats the opening from this office’s Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-seven-joys-of-the-blessed-virgin-mary",
+    "section": "vespers",
+    "block": "vespers-b0001",
+    "pages": [
+      399
+    ],
+    "kind": "internal-reference",
+    "text": "Ave Maria, etc. Sicut laetantium omnium, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001"
+      ],
+      "sourcePages": [
+        399
+      ],
+      "note": "The printed abbreviation repeats the opening from this office’s Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-seven-joys-of-the-blessed-virgin-mary",
+    "section": "vespers",
+    "block": "vespers-b0003",
+    "pages": [
+      400
+    ],
+    "kind": "internal-reference",
+    "text": "℟. A moerore animi, etc. Gloria Patri, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0005"
+      ],
+      "sourcePages": [
+        400
+      ],
+      "note": "The printed abbreviation repeats the complete response and Glory be from this office’s Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-seven-joys-of-the-blessed-virgin-mary",
+    "section": "compline",
+    "block": "compline-b0001",
+    "pages": [
+      400
+    ],
+    "kind": "internal-reference",
+    "text": "Ave Maria, etc. Sicut laetantium omnium, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001"
+      ],
+      "sourcePages": [
+        400
+      ],
+      "note": "The printed abbreviation repeats the opening from this office’s Matins."
+    }
+  },
+  {
+    "office": "little-office-of-the-seven-joys-of-the-blessed-virgin-mary",
+    "section": "compline",
+    "block": "compline-b0005",
+    "pages": [
+      400
+    ],
+    "kind": "internal-reference",
+    "text": "℟. A moerore animi, etc. Gloria Patri, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0005"
+      ],
+      "sourcePages": [
+        400
+      ],
+      "note": "The printed abbreviation repeats the complete response and Glory be from this office’s Matins."
+    }
+  },
+  {
+    "office": "little-office-of-all-saints",
+    "section": "lauds",
+    "block": "lauds-b0012",
+    "pages": [
+      425
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Domine, exaudi, supra.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0016",
+        "matins-b0017",
+        "matins-b0018",
+        "matins-b0019",
+        "matins-b0020",
+        "matins-b0021"
+      ],
+      "sourcePages": [
+        425
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
     }
   },
   {
@@ -2344,6 +4238,150 @@
   },
   {
     "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "section": "sext",
+    "block": "sext-b0001",
+    "pages": [
+      433
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Deus in adjutorium, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0003"
+      ],
+      "sourcePages": [
+        433
+      ],
+      "note": "The printed abbreviation repeats the full opening versicle at Matins."
+    }
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "section": "sext",
+    "block": "sext-b0002",
+    "pages": [
+      433
+    ],
+    "kind": "internal-reference",
+    "text": "℟. Domine, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "prime-b0002"
+      ],
+      "sourcePages": [
+        433
+      ],
+      "note": "The printed abbreviation repeats the non-Alleluia response and doxology printed at Prime."
+    }
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "section": "sext",
+    "block": "sext-b0009",
+    "pages": [
+      433
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Domine exaudi, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0017",
+        "matins-b0018"
+      ],
+      "sourcePages": [
+        433
+      ],
+      "note": "The printed incipit repeats the full Matins closing versicle and response."
+    }
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "section": "sext",
+    "block": "sext-b0013",
+    "pages": [
+      434
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Domine exaudi.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0017",
+        "matins-b0018"
+      ],
+      "sourcePages": [
+        434
+      ],
+      "note": "The printed incipit repeats the full Matins closing versicle and response."
+    }
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "section": "sext",
+    "block": "sext-b0014",
+    "pages": [
+      434
+    ],
+    "kind": "internal-reference",
+    "text": "℟.Benedicamus.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0019",
+        "matins-b0020"
+      ],
+      "sourcePages": [
+        434
+      ],
+      "note": "The closing prayer is given in full at Matins; its full printed signs are retained, while the later abbreviated response sign is documented as differing."
+    }
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "section": "sext",
+    "block": "sext-b0015",
+    "pages": [
+      434
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Et Fidelium, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0021",
+        "matins-b0022"
+      ],
+      "sourcePages": [
+        434
+      ],
+      "note": "The printed incipit repeats the full Matins prayer for the faithful departed and its Amen."
+    }
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "section": "none",
+    "block": "none-b0001",
+    "pages": [
+      434
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Deus in adjutorium, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0003"
+      ],
+      "sourcePages": [
+        434
+      ],
+      "note": "The printed abbreviation repeats the full opening versicle at Matins."
+    }
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
     "section": "none",
     "block": "none-b0002",
     "pages": [
@@ -2360,6 +4398,110 @@
         434
       ],
       "note": "The printed abbreviation repeats the non-Alleluia response and doxology printed at Prime."
+    }
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "section": "none",
+    "block": "none-b0009",
+    "pages": [
+      434
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Domine exaudi, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0017",
+        "matins-b0018"
+      ],
+      "sourcePages": [
+        434
+      ],
+      "note": "The printed incipit repeats the full Matins closing versicle and response."
+    }
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "section": "none",
+    "block": "none-b0013",
+    "pages": [
+      434
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Domine exaudi.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0017",
+        "matins-b0018"
+      ],
+      "sourcePages": [
+        434
+      ],
+      "note": "The printed incipit repeats the full Matins closing versicle and response."
+    }
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "section": "none",
+    "block": "none-b0014",
+    "pages": [
+      434
+    ],
+    "kind": "internal-reference",
+    "text": "℟. Benedicamus.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0019",
+        "matins-b0020"
+      ],
+      "sourcePages": [
+        434
+      ],
+      "note": "The closing prayer is given in full at Matins; its full printed signs are retained, while the later abbreviated response sign is documented as differing."
+    }
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "section": "none",
+    "block": "none-b0015",
+    "pages": [
+      434
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Et Fidelium, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0021",
+        "matins-b0022"
+      ],
+      "sourcePages": [
+        434
+      ],
+      "note": "The printed incipit repeats the full Matins prayer for the faithful departed and its Amen."
+    }
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "section": "vespers",
+    "block": "vespers-b0001",
+    "pages": [
+      434
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Deus in adjutorium, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0003"
+      ],
+      "sourcePages": [
+        434
+      ],
+      "note": "The printed abbreviation repeats the full opening versicle at Matins."
     }
   },
   {
@@ -2384,6 +4526,110 @@
   },
   {
     "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "section": "vespers",
+    "block": "vespers-b0009",
+    "pages": [
+      434
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Domine exaudi, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0017",
+        "matins-b0018"
+      ],
+      "sourcePages": [
+        434
+      ],
+      "note": "The printed incipit repeats the full Matins closing versicle and response."
+    }
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "section": "vespers",
+    "block": "vespers-b0013",
+    "pages": [
+      434
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Domine exaudi.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0017",
+        "matins-b0018"
+      ],
+      "sourcePages": [
+        434
+      ],
+      "note": "The printed incipit repeats the full Matins closing versicle and response."
+    }
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "section": "vespers",
+    "block": "vespers-b0014",
+    "pages": [
+      434
+    ],
+    "kind": "internal-reference",
+    "text": "℟. Benedicamus.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0019",
+        "matins-b0020"
+      ],
+      "sourcePages": [
+        434
+      ],
+      "note": "The closing prayer is given in full at Matins; its full printed signs are retained, while the later abbreviated response sign is documented as differing."
+    }
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "section": "vespers",
+    "block": "vespers-b0015",
+    "pages": [
+      434
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Et Fidelium, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0021",
+        "matins-b0022"
+      ],
+      "sourcePages": [
+        434
+      ],
+      "note": "The printed incipit repeats the full Matins prayer for the faithful departed and its Amen."
+    }
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "section": "compline",
+    "block": "compline-b0003",
+    "pages": [
+      434
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Deus in adjutorium, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0003"
+      ],
+      "sourcePages": [
+        434
+      ],
+      "note": "The printed abbreviation repeats the full opening versicle at Matins."
+    }
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
     "section": "compline",
     "block": "compline-b0004",
     "pages": [
@@ -2400,6 +4646,90 @@
         434
       ],
       "note": "The printed abbreviation repeats the non-Alleluia response and doxology printed at Prime."
+    }
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "section": "compline",
+    "block": "compline-b0011",
+    "pages": [
+      435
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Domine exaudi, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0017",
+        "matins-b0018"
+      ],
+      "sourcePages": [
+        435
+      ],
+      "note": "The printed incipit repeats the full Matins closing versicle and response."
+    }
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "section": "compline",
+    "block": "compline-b0015",
+    "pages": [
+      435
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Domine exaudi.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0017",
+        "matins-b0018"
+      ],
+      "sourcePages": [
+        435
+      ],
+      "note": "The printed incipit repeats the full Matins closing versicle and response."
+    }
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "section": "compline",
+    "block": "compline-b0016",
+    "pages": [
+      435
+    ],
+    "kind": "internal-reference",
+    "text": "℟. Benedicamus.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0019",
+        "matins-b0020"
+      ],
+      "sourcePages": [
+        435
+      ],
+      "note": "The closing prayer is given in full at Matins; its full printed signs are retained, while the later abbreviated response sign is documented as differing."
+    }
+  },
+  {
+    "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
+    "section": "compline",
+    "block": "compline-b0017",
+    "pages": [
+      435
+    ],
+    "kind": "internal-reference",
+    "text": "℣. Et Fidelium, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0021",
+        "matins-b0022"
+      ],
+      "sourcePages": [
+        435
+      ],
+      "note": "The printed incipit repeats the full Matins prayer for the faithful departed and its Amen."
     }
   },
   {
@@ -3510,6 +5840,126 @@
     }
   },
   {
+    "office": "little-office-of-s-francis-xavier-of-the-society-of-jesus",
+    "section": "prime",
+    "block": "prime-b0009",
+    "pages": [
+      505
+    ],
+    "kind": "internal-reference",
+    "text": "Oremus, Deus, qui, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012"
+      ],
+      "sourcePages": [
+        505
+      ],
+      "note": "Full collect printed at Matins in this same office."
+    }
+  },
+  {
+    "office": "little-office-of-s-francis-xavier-of-the-society-of-jesus",
+    "section": "terce",
+    "block": "terce-b0010",
+    "pages": [
+      506
+    ],
+    "kind": "internal-reference",
+    "text": "Oremus, Deus, qui Evangelium, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012"
+      ],
+      "sourcePages": [
+        506
+      ],
+      "note": "Full collect printed at Matins in this same office."
+    }
+  },
+  {
+    "office": "little-office-of-s-francis-xavier-of-the-society-of-jesus",
+    "section": "sext",
+    "block": "sext-b0009",
+    "pages": [
+      506
+    ],
+    "kind": "internal-reference",
+    "text": "Oremus, Deus, qui, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012"
+      ],
+      "sourcePages": [
+        506
+      ],
+      "note": "Full collect printed at Matins in this same office."
+    }
+  },
+  {
+    "office": "little-office-of-s-francis-xavier-of-the-society-of-jesus",
+    "section": "none",
+    "block": "none-b0009",
+    "pages": [
+      506
+    ],
+    "kind": "internal-reference",
+    "text": "Oremus, Deus, qui Evangelium, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012"
+      ],
+      "sourcePages": [
+        506
+      ],
+      "note": "Full collect printed at Matins in this same office."
+    }
+  },
+  {
+    "office": "little-office-of-s-francis-xavier-of-the-society-of-jesus",
+    "section": "vespers",
+    "block": "vespers-b0009",
+    "pages": [
+      507
+    ],
+    "kind": "internal-reference",
+    "text": "Oremus, Deus, qui Evangelium, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012"
+      ],
+      "sourcePages": [
+        507
+      ],
+      "note": "Full collect printed at Matins in this same office."
+    }
+  },
+  {
+    "office": "little-office-of-s-francis-xavier-of-the-society-of-jesus",
+    "section": "compline",
+    "block": "compline-b0011",
+    "pages": [
+      507
+    ],
+    "kind": "internal-reference",
+    "text": "Oremus, Deus, qui Evangelium, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012"
+      ],
+      "sourcePages": [
+        507
+      ],
+      "note": "Full collect printed at Matins in this same office."
+    }
+  },
+  {
     "office": "little-office-of-s-igantius-founder-of-the-society-of-jesus",
     "section": "prime",
     "block": "prime-b0010",
@@ -3615,6 +6065,48 @@
     }
   },
   {
+    "office": "little-office-of-s-igantius-founder-of-the-society-of-jesus",
+    "section": "compline",
+    "block": "compline-b0013",
+    "pages": [
+      518
+    ],
+    "kind": "internal-reference",
+    "text": "Oremus, Deus, qui, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0013",
+        "matins-b0014"
+      ],
+      "sourcePages": [
+        518
+      ],
+      "note": "The printed reference repeats the indicated prayer group from this office’s Matins; abbreviations within the target are retained."
+    }
+  },
+  {
+    "office": "little-office-of-s-ignatius-founder-of-the-society-of-jesus-and-s-francis-xavier-apostle-of-the-indies",
+    "section": "prime",
+    "block": "prime-b0007",
+    "pages": [
+      520
+    ],
+    "kind": "internal-reference",
+    "text": "℣. In omnem terram, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012",
+        "matins-b0013"
+      ],
+      "sourcePages": [
+        520
+      ],
+      "note": "Complete versicle and response printed at Matins in this same office."
+    }
+  },
+  {
     "office": "little-office-of-s-ignatius-founder-of-the-society-of-jesus-and-s-francis-xavier-apostle-of-the-indies",
     "section": "prime",
     "block": "prime-b0008",
@@ -3632,6 +6124,27 @@
         520
       ],
       "note": "Collect printed at Matins in this same office."
+    }
+  },
+  {
+    "office": "little-office-of-s-ignatius-founder-of-the-society-of-jesus-and-s-francis-xavier-apostle-of-the-indies",
+    "section": "terce",
+    "block": "terce-b0008",
+    "pages": [
+      521
+    ],
+    "kind": "internal-reference",
+    "text": "℣. In omnem terram, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012",
+        "matins-b0013"
+      ],
+      "sourcePages": [
+        521
+      ],
+      "note": "Complete versicle and response printed at Matins in this same office."
     }
   },
   {
@@ -3657,6 +6170,27 @@
   {
     "office": "little-office-of-s-ignatius-founder-of-the-society-of-jesus-and-s-francis-xavier-apostle-of-the-indies",
     "section": "sext",
+    "block": "sext-b0008",
+    "pages": [
+      521
+    ],
+    "kind": "internal-reference",
+    "text": "℣. In omnem terram, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012",
+        "matins-b0013"
+      ],
+      "sourcePages": [
+        521
+      ],
+      "note": "Complete versicle and response printed at Matins in this same office."
+    }
+  },
+  {
+    "office": "little-office-of-s-ignatius-founder-of-the-society-of-jesus-and-s-francis-xavier-apostle-of-the-indies",
+    "section": "sext",
     "block": "sext-b0009",
     "pages": [
       521
@@ -3672,6 +6206,27 @@
         521
       ],
       "note": "Collect printed at Matins in this same office."
+    }
+  },
+  {
+    "office": "little-office-of-s-ignatius-founder-of-the-society-of-jesus-and-s-francis-xavier-apostle-of-the-indies",
+    "section": "none",
+    "block": "none-b0007",
+    "pages": [
+      521
+    ],
+    "kind": "internal-reference",
+    "text": "℣. In omnem terram, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012",
+        "matins-b0013"
+      ],
+      "sourcePages": [
+        521
+      ],
+      "note": "Complete versicle and response printed at Matins in this same office."
     }
   },
   {
@@ -3697,6 +6252,27 @@
   {
     "office": "little-office-of-s-ignatius-founder-of-the-society-of-jesus-and-s-francis-xavier-apostle-of-the-indies",
     "section": "vespers",
+    "block": "vespers-b0007",
+    "pages": [
+      521
+    ],
+    "kind": "internal-reference",
+    "text": "℣. In omnem terram, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012",
+        "matins-b0013"
+      ],
+      "sourcePages": [
+        521
+      ],
+      "note": "Complete versicle and response printed at Matins in this same office."
+    }
+  },
+  {
+    "office": "little-office-of-s-ignatius-founder-of-the-society-of-jesus-and-s-francis-xavier-apostle-of-the-indies",
+    "section": "vespers",
     "block": "vespers-b0008",
     "pages": [
       522
@@ -3712,6 +6288,27 @@
         522
       ],
       "note": "Collect printed at Matins in this same office."
+    }
+  },
+  {
+    "office": "little-office-of-s-ignatius-founder-of-the-society-of-jesus-and-s-francis-xavier-apostle-of-the-indies",
+    "section": "compline",
+    "block": "compline-b0009",
+    "pages": [
+      522
+    ],
+    "kind": "internal-reference",
+    "text": "℣. In omnem terram, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012",
+        "matins-b0013"
+      ],
+      "sourcePages": [
+        522
+      ],
+      "note": "Complete versicle and response printed at Matins in this same office."
     }
   },
   {
@@ -4188,6 +6785,111 @@
     }
   },
   {
+    "office": "little-office-of-s-john-nepomucene-martyr-the-singular-patron-of-penitents-and-those-in-danger-of-reputation",
+    "section": "terce",
+    "block": "terce-b0013",
+    "pages": [
+      537
+    ],
+    "kind": "internal-reference",
+    "text": "Oremus, Omnipotens sempiterne Deus, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0017",
+        "matins-b0018"
+      ],
+      "sourcePages": [
+        537
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
+  },
+  {
+    "office": "little-office-of-s-john-nepomucene-martyr-the-singular-patron-of-penitents-and-those-in-danger-of-reputation",
+    "section": "sext",
+    "block": "sext-b0013",
+    "pages": [
+      538
+    ],
+    "kind": "internal-reference",
+    "text": "Oremus, Omnipotens sempiterne Deus, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0017",
+        "matins-b0018"
+      ],
+      "sourcePages": [
+        538
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
+  },
+  {
+    "office": "little-office-of-s-john-nepomucene-martyr-the-singular-patron-of-penitents-and-those-in-danger-of-reputation",
+    "section": "none",
+    "block": "none-b0013",
+    "pages": [
+      538
+    ],
+    "kind": "internal-reference",
+    "text": "Oremus, Omnipotens sempiterne Deus, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0017",
+        "matins-b0018"
+      ],
+      "sourcePages": [
+        538
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
+  },
+  {
+    "office": "little-office-of-s-john-nepomucene-martyr-the-singular-patron-of-penitents-and-those-in-danger-of-reputation",
+    "section": "vespers",
+    "block": "vespers-b0013",
+    "pages": [
+      539
+    ],
+    "kind": "internal-reference",
+    "text": "Oremus, Omnipotens sempiterne Deus, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0017",
+        "matins-b0018"
+      ],
+      "sourcePages": [
+        539
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
+  },
+  {
+    "office": "little-office-of-s-john-nepomucene-martyr-the-singular-patron-of-penitents-and-those-in-danger-of-reputation",
+    "section": "compline",
+    "block": "compline-b0017",
+    "pages": [
+      540
+    ],
+    "kind": "internal-reference",
+    "text": "Oremus, Omnipotens sempiterne Deus, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0017",
+        "matins-b0018"
+      ],
+      "sourcePages": [
+        540
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
+  },
+  {
     "office": "little-office-of-s-liborius-bishop-great-miracle-worker-and-special-patron-against-kidney-stones",
     "section": "lauds",
     "block": "lauds-b0009",
@@ -4634,6 +7336,26 @@
     }
   },
   {
+    "office": "little-office-of-saint-mary-magdalene-patroness-of-penitents",
+    "section": "commendatio",
+    "block": "commendatio-b0004",
+    "pages": [
+      568
+    ],
+    "kind": "internal-reference",
+    "text": "℟. Ut digni efficiamur etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0011"
+      ],
+      "sourcePages": [
+        568
+      ],
+      "note": "Complete response printed at Matins in this same office."
+    }
+  },
+  {
     "office": "little-office-of-b-niccolo-albergati",
     "section": "prime",
     "block": "prime-b0012",
@@ -4871,6 +7593,26 @@
   {
     "office": "little-office-of-s-paul-the-apostle-doctor-to-the-gentiles",
     "section": "lauds",
+    "block": "lauds-b0001",
+    "pages": [
+      583
+    ],
+    "kind": "internal-reference",
+    "text": "Vas electionis est mihi iste etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001"
+      ],
+      "sourcePages": [
+        583
+      ],
+      "note": "The printed incipit repeats the Matins opening antiphon."
+    }
+  },
+  {
+    "office": "little-office-of-s-paul-the-apostle-doctor-to-the-gentiles",
+    "section": "lauds",
     "block": "lauds-b0007",
     "pages": [
       583
@@ -4889,6 +7631,26 @@
         583
       ],
       "note": "The printed direction repeats this office’s Matins versicle, response, and collect."
+    }
+  },
+  {
+    "office": "little-office-of-s-paul-the-apostle-doctor-to-the-gentiles",
+    "section": "prime",
+    "block": "prime-b0001",
+    "pages": [
+      583
+    ],
+    "kind": "internal-reference",
+    "text": "Vas electionis est mihi iste etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001"
+      ],
+      "sourcePages": [
+        583
+      ],
+      "note": "The printed incipit repeats the Matins opening antiphon."
     }
   },
   {
@@ -4917,6 +7679,26 @@
   {
     "office": "little-office-of-s-paul-the-apostle-doctor-to-the-gentiles",
     "section": "terce",
+    "block": "terce-b0001",
+    "pages": [
+      584
+    ],
+    "kind": "internal-reference",
+    "text": "Vas electionis est mihi iste etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001"
+      ],
+      "sourcePages": [
+        584
+      ],
+      "note": "The printed incipit repeats the Matins opening antiphon."
+    }
+  },
+  {
+    "office": "little-office-of-s-paul-the-apostle-doctor-to-the-gentiles",
+    "section": "terce",
     "block": "terce-b0006",
     "pages": [
       584
@@ -4935,6 +7717,26 @@
         584
       ],
       "note": "The printed direction repeats this office’s Matins versicle, response, and collect."
+    }
+  },
+  {
+    "office": "little-office-of-s-paul-the-apostle-doctor-to-the-gentiles",
+    "section": "sext",
+    "block": "sext-b0001",
+    "pages": [
+      584
+    ],
+    "kind": "internal-reference",
+    "text": "Vas electionis est mihi iste etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001"
+      ],
+      "sourcePages": [
+        584
+      ],
+      "note": "The printed incipit repeats the Matins opening antiphon."
     }
   },
   {
@@ -4963,6 +7765,26 @@
   {
     "office": "little-office-of-s-paul-the-apostle-doctor-to-the-gentiles",
     "section": "none",
+    "block": "none-b0001",
+    "pages": [
+      584
+    ],
+    "kind": "internal-reference",
+    "text": "Vas electionis est mihi iste etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001"
+      ],
+      "sourcePages": [
+        584
+      ],
+      "note": "The printed incipit repeats the Matins opening antiphon."
+    }
+  },
+  {
+    "office": "little-office-of-s-paul-the-apostle-doctor-to-the-gentiles",
+    "section": "none",
     "block": "none-b0006",
     "pages": [
       584
@@ -4986,6 +7808,26 @@
   {
     "office": "little-office-of-s-paul-the-apostle-doctor-to-the-gentiles",
     "section": "vespers",
+    "block": "vespers-b0001",
+    "pages": [
+      584
+    ],
+    "kind": "internal-reference",
+    "text": "Vas electionis est mihi iste etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001"
+      ],
+      "sourcePages": [
+        584
+      ],
+      "note": "The printed incipit repeats the Matins opening antiphon."
+    }
+  },
+  {
+    "office": "little-office-of-s-paul-the-apostle-doctor-to-the-gentiles",
+    "section": "vespers",
     "block": "vespers-b0006",
     "pages": [
       585
@@ -5004,6 +7846,26 @@
         585
       ],
       "note": "The printed direction repeats this office’s Matins versicle, response, and collect."
+    }
+  },
+  {
+    "office": "little-office-of-s-paul-the-apostle-doctor-to-the-gentiles",
+    "section": "compline",
+    "block": "compline-b0001",
+    "pages": [
+      585
+    ],
+    "kind": "internal-reference",
+    "text": "Vas electionis est mihi iste etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0001"
+      ],
+      "sourcePages": [
+        585
+      ],
+      "note": "The printed incipit repeats the Matins opening antiphon."
     }
   },
   {
@@ -5240,6 +8102,26 @@
       ],
       "sourcePages": [
         597
+      ],
+      "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+    }
+  },
+  {
+    "office": "little-office-of-s-thomas-aquinas",
+    "section": "terce",
+    "block": "terce-b0007",
+    "pages": [
+      598
+    ],
+    "kind": "internal-reference",
+    "text": "Laus Patri, etc.",
+    "status": "resolved",
+    "resolution": {
+      "targets": [
+        "matins-b0012"
+      ],
+      "sourcePages": [
+        598
       ],
       "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
     }

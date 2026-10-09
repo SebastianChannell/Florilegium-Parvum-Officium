@@ -1932,9 +1932,9 @@
         }
       ],
       "status": {
-        "extraction": "candidate",
+        "extraction": "reviewed",
         "translation": "source-English",
-        "verification": "pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 67,
@@ -2240,12 +2240,14 @@
           "id": "vespers",
           "title": "Vespers",
           "pages": [
-            77
+            76,
+            77,
+            78
           ]
         },
         {
           "id": "compline",
-          "title": "Compline",
+          "title": "Vespers continuation (printed “Compline”)",
           "pages": [
             77,
             78
@@ -2274,9 +2276,9 @@
       "variantMentions": [],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
+        "extraction": "reviewed",
         "translation": "source-English",
-        "verification": "pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 261,
@@ -8676,9 +8678,9 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
+        "extraction": "reviewed",
         "translation": "source-English",
-        "verification": "pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 144,
@@ -9014,7 +9016,7 @@
     },
     {
       "id": "akathist-hymn-to-the-theotokos-and-ever-vrgin-mary",
-      "title": "Akathist Hymn to the Theotokos and Ever-Vrgin Mary",
+      "title": "Akathist Hymn to the Theotokos and Ever-Virgin Mary",
       "category": "Blessed Virgin Mary",
       "source": {
         "pdfPages": [
@@ -9291,9 +9293,9 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
+        "extraction": "reviewed",
         "translation": "source-English",
-        "verification": "pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 48,
@@ -12270,9 +12272,9 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
+        "extraction": "reviewed",
         "translation": "source-English",
-        "verification": "pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 307,
@@ -13285,9 +13287,9 @@
       "variantMentions": [],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
+        "extraction": "reviewed",
         "translation": "source-English",
-        "verification": "pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 59,
@@ -15867,9 +15869,9 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
+        "extraction": "reviewed",
         "translation": "source-English",
-        "verification": "pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 90,
@@ -17934,9 +17936,9 @@
       "variantMentions": [],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
+        "extraction": "reviewed",
         "translation": "source-English",
-        "verification": "pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 80,

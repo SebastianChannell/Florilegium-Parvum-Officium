@@ -28,3 +28,9 @@ Printed/PDF page numbers coincide. This log does not certify the rest of the boo
 | Throughout | References | 246 detected candidates; additional abbreviations may not be detected. Resolution unfinished; publication blocked. |
 
 Individual rendered pages visually inspected: 21, 22, 43, 48, 86, 90, 91, 413, 414, 415. Text/layout inspection sampled first pages and several Marian/Mozarabic boundaries. This is not visual review of all 661 pages. The full PDF and geometric extraction are committed for continuation.
+
+## 9 October 2026 full English-only review
+
+Every page and source passage was visually compared for Holy Tear (60–63), Bonaventure Passion (68–80), Immaculate Heart (390–394), Akathist (402–408), Dominic (480–490), Gertrude (513–515), Norbert (573–577) and Serotina (653–656). These eight offices are now marked visually reviewed. Earlier candidate labels in this historical log are superseded for those offices only.
+
+Printed repetitions and irregular wording are retained. Bonaventure p.77 has a misplaced Compline heading within Vespers, established by its Magnificat and explicitly Vespers collect; reader assembly reconnects the continuation while retaining its printed heading and legacy section. Holy Tear drop-capital word spacing and the Akathist title extraction were corrected with original extracted readings recorded. No Latin column or absent hour is invented. Full remaining blockers are in [READINESS-2026-10-09.md](READINESS-2026-10-09.md).
