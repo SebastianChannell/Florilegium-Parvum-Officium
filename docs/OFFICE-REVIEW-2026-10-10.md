@@ -29,3 +29,21 @@ Rubrics, introductory notes, paragraph continuations, repeated prayers, seven pr
 The previously committed `docs/coverage.json` contained a tool-output warning prefix and truncated pending entries. It was not valid JSON. Regenerated directly with `npm run coverage`: 37 of 82 offices reviewed, 45 outstanding; 4,485 passages await review; no missing English or unpaired English; eleven reference issues remain independently tracked. Four passages were verified in this pass; no office was falsely promoted.
 
 `npm run check`, all 44 tests and `npm run build:preview` pass. `npm run coverage` intentionally fails with 4,541 pending checks (4,485 passages + 45 offices + 11 references). This is an incomplete review checkpoint, not release acceptance. Nothing merged or deployed.
+
+## Subsequent Lawrence review
+
+Personally inspected all of PDF pp.552–554 and compared all 79 passages, source introduction, seven printed hours, every six-hour `Vers. et Oratio ut supra` expansion against Matins, and the separate Conclusion. Source paragraphs continued across pp.552/553 and pp.553/554 were checked in order. No Lauds, external collect ending or missing hymn line was supplied.
+
+| Pending block | Page | Actual printed reading and disposition |
+| --- | --- | --- |
+| `matins-b0007` | 552 | `Martyum Delitio`; the earlier “martyrs” silently supplied an unverified genitive. Uncertainty now identified in English. |
+| `sext-b0005` | 553 | `Hosce Christo coacervat`, following `Tibi; sed Laurentio`; old second-person “Thou heapest” contradicted the printed third-person verb. Subject/construction bracketed rather than harmonised. |
+| `vespers-b0006` | 554 | `Lecatulum Craticulum`; previously certified English silently repaired the former word into a little bed. Passage returned to pending; old prepared English/provenance preserved. |
+| `compline-b0006` | 554 | `parum fragrata`; earlier English supplied a finite verb. Printed irregular form now identified without replacement Latin. |
+| `conclusion-b0001` | 554 | `Magna Martyr`, `0Tua`; adjective agreement unresolved; zero retained as printed rather than normalised into a role sign or word. |
+| `conclusion-b0002` | 554 | `0Digna`; printed zero retained; stanza remains part of the unresolved conclusion invocation. |
+| `conclusion-b0003` | 554 | `Omnes ardeat immensius`, `0Aevi`; object/construction unresolved; zero retained. |
+
+Lawrence remains blocked by these independently identified readings. Across this session’s five fully compared offices, thirteen passages remain source blockers. Four other passages were verified; one previously certified passage was returned to pending after finding its unsupported English repair.
+
+Latest strict coverage: 37 offices reviewed, 45 outstanding, **4,486 pending passages**, and the eleven separate reference issues (4,542 outstanding checks in all). Check, all 44 tests and preview build pass; strict release coverage remains blocked. Earlier numeric checkpoint above remains historical. This goal is still in progress: the other forty outstanding offices have not been fully compared in this session and are not classified as source blockers by this record.
