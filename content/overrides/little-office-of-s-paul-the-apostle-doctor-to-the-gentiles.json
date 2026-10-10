@@ -44,7 +44,7 @@
         {
           "type": "prayer",
           "source": "Paule vas electionis, Magne Doctor gentium, Ardens fax dilectionis, Vera lux credentium! Accipe, quod pio corde Munuus hic deferimus, Tuis licet quaque sorte Meritis inferius.",
-          "english": "Paul, vessel of election, great Doctor of the nations, burning torch of love, true light of believers! Receive this gift which we bring here with a devout heart, though in every respect it falls below thy merits.",
+          "english": "Paul, vessel of election, great Doctor of the nations, burning torch of love, true light of believers! Receive [printed Munuus: unresolved noun] which we bring here with a devout heart, though in every respect it falls below thy merits.",
           "sourcePages": [
             583
           ],
@@ -58,7 +58,17 @@
           },
           "alignment": "reviewed",
           "id": "praefatio-b0001",
-          "verification": "visual-review"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "Paul, vessel of election, great Doctor of the nations, burning torch of love, true light of believers! Receive this gift which we bring here with a devout heart, though in every respect it falls below thy merits.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              583
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Printed malformed word now explicitly bracketed rather than supplied as a conjectural familiar word; prior prepared English/provenance archived, Latin unchanged. "
         }
       ]
     },
@@ -220,7 +230,7 @@
         {
           "type": "prayer",
           "source": "Ant. Supra modum persequebar Ecclesiam Dei, et proficiebam in Judaismo, super multos coartancos meos.",
-          "english": "Ant. Beyond measure I persecuted the Church of God, and advanced in Judaism beyond many of my contemporaries.",
+          "english": "Ant. Beyond measure I persecuted the Church of God, and advanced in Judaism beyond many of my [printed coartancos: unresolved noun].",
           "sourcePages": [
             583
           ],
@@ -235,7 +245,16 @@
           "alignment": "reviewed",
           "id": "matins-b0008",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed coartancos is retained; English provisionally reads the intended contemporaries from context."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Printed malformed word now explicitly bracketed rather than supplied as a conjectural familiar word; prior prepared English/provenance archived, Latin unchanged. The printed coartancos is retained; English provisionally reads the intended contemporaries from context.",
+          "originalPreparedEnglish": "Ant. Beyond measure I persecuted the Church of God, and advanced in Judaism beyond many of my contemporaries.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              583
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -619,7 +638,7 @@
           "alignment": "reviewed",
           "id": "prime-b0005",
           "verification": "source-reading-pending",
-          "editorialNote": "PDF p.584 visibly prints “Ter virgins caesus”. The earlier “with rods” silently adopted “virgis”; that emendation is not certified by this PDF. The defect is now explicit in the English.",
+          "editorialNote": "10 October 2026: actual rendered source independently inspected; source blocker confirmed. PDF p.584 visibly prints “Ter virgins caesus”. The earlier “with rods” silently adopted “virgis”; that emendation is not certified by this PDF. The defect is now explicit in the English.",
           "originalPreparedEnglish": "Ant. Three times I was beaten with rods, once I was stoned, three times I suffered shipwreck; by night and day I was in dangers, in labour, hardship, watchings, hunger, and thirst.",
           "originalTranslation": {
             "kind": "prepared",
@@ -928,7 +947,7 @@
           "alignment": "reviewed",
           "id": "sext-b0004",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed ad Dithalassium is not securely intelligible. English leaves this phrase explicitly unresolved rather than inventing a destination."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected; source blocker confirmed. The printed ad Dithalassium is not securely intelligible. English leaves this phrase explicitly unresolved rather than inventing a destination."
         },
         {
           "type": "prayer",
@@ -952,7 +971,7 @@
         {
           "type": "prayer",
           "source": "Ant. Cum autem Paulus sarmentorium aliquantam multitudinem imposuisset super ignem, vipera invasit manum ejus: Et ille quidem excutiens bestiam in igne, nihil mali passus est.",
-          "english": "Ant. When Paul had laid a quantity of brushwood upon the fire, a viper seized his hand. But he shook the creature into the fire and suffered no harm.",
+          "english": "Ant. When Paul had laid a quantity of [printed sarmentorium: unresolved form] upon the fire, a viper seized his hand. But he shook the creature into the fire and suffered no harm.",
           "sourcePages": [
             584
           ],
@@ -967,7 +986,16 @@
           "alignment": "reviewed",
           "id": "sext-b0006",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed sarmentorium is retained; English provisionally reads brushwood from the surrounding sentence."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Printed malformed word now explicitly bracketed rather than supplied as a conjectural familiar word; prior prepared English/provenance archived, Latin unchanged. The printed sarmentorium is retained; English provisionally reads brushwood from the surrounding sentence.",
+          "originalPreparedEnglish": "Ant. When Paul had laid a quantity of brushwood upon the fire, a viper seized his hand. But he shook the creature into the fire and suffered no harm.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              584
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1365,8 +1393,8 @@
         },
         {
           "type": "prayer",
-          "source": "℣. Converte nos Deus salutaris noster. ℟. Et averte iram tuam a nobis. ℣. Deus in adjutorium meum intende. ℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
-          "english": "℣. Convert us, O God our Saviour. ℟. And turn away Thine anger from us. ℣. O God, come to my assistance. ℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "source": "℣. Convertere nos Deus salutaris noster. ℟. Et averte iram tuam a nobis. ℣. Deus in adjutorium meum intende. ℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+          "english": "℣. [Printed Convertere nos: unresolved construction], O God our Saviour. ℟. And turn away Thine anger from us. ℣. O God, come to my assistance. ℟. O Lord, make haste to help me. Glory be to the Father, etc.",
           "sourcePages": [
             585
           ],
@@ -1380,15 +1408,30 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0002",
-          "verification": "visual-review",
+          "verification": "source-reading-pending",
           "originalExtractedSource": "OV. Converte nos Deus salutaris noster. NR. Et averte iram tuam a nobis. OV. Deus in adjutorium meum intende. NR. Domine ad adjuvandum me festina. Gloria Patri etc.",
           "transcriptionCorrections": [
             {
               "field": "source",
               "extracted": "OV. Converte nos Deus salutaris noster. NR. Et averte iram tuam a nobis. OV. Deus in adjutorium meum intende. NR. Domine ad adjuvandum me festina. Gloria Patri etc.",
               "reason": "The printed versicle and response signs on PDF pages 583–585 were extracted as OV and NR; their actual glyphs were checked visually."
+            },
+            {
+              "field": "source",
+              "extracted": "℣. Converte nos Deus salutaris noster. ℟. Et averte iram tuam a nobis. ℣. Deus in adjutorium meum intende. ℟. Domine ad adjuvandum me festina. Gloria Patri etc.",
+              "reason": "10 October 2026: actual rendered PDF p.585 visibly prints Convertere, including the extra re. Earlier reviewed transcription Converte silently normalised that word. Actual printed letters restored; original extracted source and previous reviewed text retained."
             }
-          ]
+          ],
+          "originalPreparedEnglish": "℣. Convert us, O God our Saviour. ℟. And turn away Thine anger from us. ℣. O God, come to my assistance. ℟. O Lord, make haste to help me. Glory be to the Father, etc.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              585
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: PDF p.585 personally inspected. Latin actually prints Convertere, not the prior normalised Converte transcription. Actual source restored with prior transcription/glyph archive retained. No customary active imperative or missing letters supplied; previous prepared English/provenance retained."
         },
         {
           "type": "rubric",
@@ -1414,7 +1457,7 @@
         {
           "type": "prayer",
           "source": "Jamque Paulus per lictotes Mancipatur vinculis: Flagellato per tortores Sed mandato Caesaris Postquam caput detruncatur, Lac cruorque profluit, Fonsque salva dum levatur Tertus terno profluit.",
-          "english": "And now Paul is bound in chains by the officers, scourged by the torturers. But after his head is cut off by Caesar’s command, milk and blood flow forth. [The printed final lines concerning the spring and its threefold flowing are defective and await clarification.]",
+          "english": "And now Paul is bound in chains by [printed lictotes: unresolved form], scourged by the torturers. But after his head is cut off by Caesar’s command, milk and blood flow forth. [The printed final lines concerning the spring and its threefold flowing are defective and await clarification.]",
           "sourcePages": [
             585
           ],
@@ -1429,7 +1472,16 @@
           "alignment": "reviewed",
           "id": "compline-b0004",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF itself prints lictotes and the defective closing Fonsque salva dum levatur / Tertus terno profluit. The opening is provisionally translated; the final clause is explicitly unresolved."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Printed malformed word now explicitly bracketed rather than supplied as a conjectural familiar word; prior prepared English/provenance archived, Latin unchanged. The PDF itself prints lictotes and the defective closing Fonsque salva dum levatur / Tertus terno profluit. The opening is provisionally translated; the final clause is explicitly unresolved.",
+          "originalPreparedEnglish": "And now Paul is bound in chains by the officers, scourged by the torturers. But after his head is cut off by Caesar’s command, milk and blood flow forth. [The printed final lines concerning the spring and its threefold flowing are defective and await clarification.]",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              585
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1511,7 +1563,7 @@
           "alignment": "reviewed",
           "id": "conclusion-b0001",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed Faustis, nec adversis merlos is defective; English marks the prosperity/adversity phrase unresolved."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected; source blocker confirmed. The printed Faustis, nec adversis merlos is defective; English marks the prosperity/adversity phrase unresolved."
         },
         {
           "type": "prayer",
@@ -1598,7 +1650,7 @@
           "alignment": "reviewed",
           "id": "conclusion-b0005",
           "verification": "source-reading-pending",
-          "editorialNote": "PDF p.585: “frigisque vitae anteacta” is confirmed as printed. The earlier “coldness of my former life” depended on an unverified repair. The English now displays this gap explicitly, retaining all securely translated surrounding clauses.",
+          "editorialNote": "10 October 2026: actual rendered source independently inspected; source blocker confirmed. PDF p.585: “frigisque vitae anteacta” is confirmed as printed. The earlier “coldness of my former life” depended on an unverified repair. The English now displays this gap explicitly, retaining all securely translated surrounding clauses.",
           "originalPreparedEnglish": "Almighty and wonderful God, Who didst make Saint Paul, formerly a persecutor of Thy Church, a vessel of election and Doctor of the nations, and didst inflame him with such tireless love and zeal for souls that he became all things to all: I beseech Thee, bring about in my soul through Thy abundant grace that I may immediately obey Thy most sacred inspirations and repay the coldness of my former life with an insatiable fervour of love. Grant, O Lord, through the example and intercession of this Thy Apostle, that henceforth I may no longer live, but Christ may live in me through the most ardent pursuit of His imitation, and that I may love or fear nothing except what could separate me from the charity of Christ. With Whom and the Holy Spirit Thou livest and reignest eternally, God, for ever and ever. Amen.",
           "originalTranslation": {
             "kind": "prepared",
@@ -1629,6 +1681,14 @@
         585
       ],
       "text": "9 October continuation: prepared English revised to distinguish securely translatable clauses from unresolved printed readings. Previous prepared English and translation provenance remain archived in each changed row. This comparison does not certify the defective readings or complete the office review."
+    },
+    {
+      "pages": [
+        583,
+        584,
+        585
+      ],
+      "text": "10 October 2026: every rendered page and all 62 source/English passages personally compared, including 1714 attribution, Preface, eight hours, page continuations, all seven same-office prayer expansions and Conclusion. Nine source-blocked passages independently confirmed; two previously certified rows returned to pending. Compline’s silently normalised Converte is restored to actual printed Convertere, retaining original extracted source and previous transcription. Prior English/provenance and existing earlier translation history preserved. No historical horse/wonders claim or malformed source regularised from outside this PDF."
     }
   ]
 }

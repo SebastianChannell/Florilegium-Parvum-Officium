@@ -277,3 +277,23 @@ Every rendered PDF page 446–449 and all 87 passages personally compared, inclu
 Nineteen offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Office remains pending; Dominican complete. No merge or deployment.
 
 Validated checkpoint: 38 offices reviewed, 44 pending; **4,093 passages pending**, eleven separate reference issues. One hundred twenty-three source blockers independently documented across twenty-one offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
+
+## Paul, Apostle and Doctor of the Gentiles
+
+Every rendered PDF page 583–585 and all 62 passages personally compared, including 1714 attribution, Preface, eight hours, all continuations, seven same-office prayer expansions and Conclusion. Seven existing blockers confirmed; two previously certified passages returned to pending: p.583 `praefatio-b0001` Munuus and p.585 `compline-b0002` actual Convertere nos. The latter had been silently normalised to Converte in the previous reviewed source transcription: actual printed letters now restored, with original extraction/glyph archive and previous reviewed transcription retained. Original source conservation remains verifiable through the archive.
+
+No customary active imperative supplied. Coartancos, sarmentorium and lictotes also explicitly bracketed rather than given unqualified expected words. Prior prepared English/provenance and existing earlier translation history remain preserved. Nine independently confirmed blockers:
+
+- `praefatio-b0001`, PDF 583: `Paule vas electionis, Magne Doctor gentium, Ardens fax dilectionis, Vera lux credentium! Accipe, quod pio corde Munuus hic deferimus, Tuis licet quaque sorte Meritis inferius.`
+- `matins-b0008`, PDF 583: `Ant. Supra modum persequebar Ecclesiam Dei, et proficiebam in Judaismo, super multos coartancos meos.`
+- `prime-b0005`, PDF 584: `Ant. Ter virgins caesus, semel lapidatus sum, ter naufragium feci, nocte et die in periculis fui, in labore, aerumna, vigiliis, fame et siti.`
+- `sext-b0004`, PDF 584: `Inter haec ad Dithalassium, Longum post circuitum, Paule te Melita passum Suscipit naufragium:`
+- `sext-b0006`, PDF 584: `Ant. Cum autem Paulus sarmentorium aliquantam multitudinem imposuisset super ignem, vipera invasit manum ejus: Et ille quidem excutiens bestiam in igne, nihil mali passus est.`
+- `compline-b0002`, PDF 585: `℣. Convertere nos Deus salutaris noster. ℟. Et averte iram tuam a nobis. ℣. Deus in adjutorium meum intende. ℟. Domine ad adjuvandum me festina. Gloria Patri etc.`
+- `compline-b0004`, PDF 585: `Jamque Paulus per lictotes Mancipatur vinculis: Flagellato per tortores Sed mandato Caesaris Postquam caput detruncatur, Lac cruorque profluit, Fonsque salva dum levatur Tertus terno profluit.`
+- `conclusion-b0001`, PDF 585: `Nostra tibi Dive Paule Sume haec obsequia! Qui coelestis inter aulae Jam triumphas gaudia, Fac nos serio conversos Christum sequi jugiter, Faustis, nec adversis merlos Plaudere perenniter.`
+- `conclusion-b0005`, PDF 585: `Omnipotens et mirabilis Deus, qui S. Paulum ex persecutore Ecclesiae tuae in Vas Electionis atque Doctorem Gentium constituisti, cumque tam indefesso animarum amore, zeloque inflammasti, ut omnibus omnia factus sit, Deprecor te, effice per copiosam gratiam tuam in anima mea, ut sacratissimis tuis inspirationibus illico obsequar, frigisque vitae anteacta insatiabili amoris fervore rependam. Praesta o Domine, per exemplum et intercessionem hujus Apostoli tui, ut posthac non ego, sed per ardentissimum imitationis studium Christus in me vivat, nec amem aliquid vel formidem, nisi quod separare me possit a charitate Christi; Cum quo et Spiritu S. aeternum vivis et regnas Deus in saecula saeculorum, Amen.`
+
+Twenty offices fully compared in this session, plus Monastic outstanding-passage and Roman fragment comparisons. Office remains pending; Dominican complete. No merge or deployment.
+
+Validated checkpoint: 38 offices reviewed, 44 pending; **4,095 passages pending**, eleven separate reference issues. One hundred thirty-two source blockers independently documented across twenty-two offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
