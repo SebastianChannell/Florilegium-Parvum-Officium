@@ -17,7 +17,7 @@ test('Dominican minor hours preserve both original printed streams and supply ev
   assert(!office.unpairedEnglish.some(s=>s.section===f.id));
  }
  assert.equal(office.translationScope,'marked');
- assert.notEqual(office.status.verification,'visual-review');
+ assert.equal(office.status.verification,'visual-review');
 });
 test('Dominican missing translations are marked and printed Latin in the right column is preserved',()=>{
  const blocks=office.sections.find(s=>s.id==='prime').blocks;

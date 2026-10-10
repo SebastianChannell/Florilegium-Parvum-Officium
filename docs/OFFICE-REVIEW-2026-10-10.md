@@ -109,3 +109,11 @@ Also personally inspected both columns of p.105: `labia ✠ea` is retained uncha
 The prior complete 59-page Roman review and its 529 previously verified passages remain authoritative. This session personally checked the five remaining discrepancies and opening versicle; it does not claim another full 59-page pass. All 534 Roman passages are now reviewed, completing this office. Eleven other offices fully compared this session retain thirty-eight documented source blockers. Five Roman pending passages and four dependent pending passages cleared, in addition to the earlier 166 clearances. The eleven separate reference issues remain unresolved. Nothing merged or deployed.
 
 Validated checkpoint: 38 offices reviewed, 44 pending; **4,319 passages pending**, eleven separate reference issues, 4,374 strict outstanding checks. Structural check, all 44 tests and preview build pass; strict coverage has no structural errors and remains blocked by the documented pending work.
+
+## Dominican: final Nunc dimittis pairing
+
+Personally inspected actual Latin p.313 and supplied English p.318. The sole pending passage `compline-b0027` now has marked prepared English including the printed `in pace`, while retaining the abbreviated `Gloria Patri` rather than completing an absent doxology. The entire original supplied English (with its omitted “in peace” and expanded doxology), original English pages and translation provenance remain archived and quoted in the visible note. Source Latin and both original printed-column conservation digests are unchanged.
+
+All 348 passages now reviewed. The previous complete visual comparison of pp.280–320 is preserved; this session checked the remaining pairing rather than claiming another full 41-page comparison. This completes the second office in this continuation; the eleven wholly compared offices with thirty-eight documented source blockers remain pending. No merge or deployment.
+
+Validated checkpoint: 39 offices reviewed, 43 pending; **4,318 passages pending**, eleven separate reference issues. Structural check, all 44 tests and preview build pass; strict coverage remains blocked by pending work.

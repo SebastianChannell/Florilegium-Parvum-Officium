@@ -80,8 +80,8 @@
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
     "extraction": "reviewed",
-    "translation": "complete",
-    "verification": "source-reading-pending"
+    "translation": "complete-mixed",
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -9944,19 +9944,22 @@
         {
           "type": "prayer",
           "source": "Nunc dimittis servum tuum, Domine, secundum verbum tuum in pace: Quia viderunt oculi mei salutare tuum, Quod parasti ante faciem omnium populorum: Lumen ad revelationem gentium, et gloriam plebis tuae Israel. Gloria Patri.",
-          "english": "Now Thou dost dismiss Thy servant, O Lord according to Thy word. Because mine eyes have seen Thy salvation, Which thou hast prepared before the face of all people; A light for the revelation of the gentiles, and to be the glory of Thy people Israel. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
+          "english": "Now Thou dost dismiss Thy servant, O Lord, according to Thy word in peace: For mine eyes have seen Thy salvation, Which Thou hast prepared before the face of all peoples: A light for the revelation of the gentiles, and the glory of Thy people Israel. Glory be to the Father.",
           "sourcePages": [
             313
           ],
           "translation": {
-            "kind": "supplied",
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
             "sourcePages": [
-              318
-            ]
+              313
+            ],
+            "review": "editorial-review-complete",
+            "method": "manual-translation-of-verified-source"
           },
-          "alignment": "source-discrepancy",
+          "alignment": "reviewed",
           "id": "compline-b0027",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "pairingReview": {
             "sourceBlockIds": [
               "compline-b0027"
@@ -9966,10 +9969,25 @@
             ],
             "method": "manual-source-comparison"
           },
-          "englishPages": [
+          "editorialNote": "10 October 2026: actual Latin p.313 and supplied English p.318 personally inspected. Prepared English now includes the printed in pace (“in peace”) and retains the Latin’s abbreviated Gloria Patri; it does not complete the absent doxology. The differing original supplied English, including its expanded doxology, remains unchanged in the archive and this quotation: “Now Thou dost dismiss Thy servant, O Lord according to Thy word. Because mine eyes have seen Thy salvation, Which thou hast prepared before the face of all people; A light for the revelation of the gentiles, and to be the glory of Thy people Israel. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.”",
+          "originalSuppliedEnglish": "Now Thou dost dismiss Thy servant, O Lord according to Thy word. Because mine eyes have seen Thy salvation, Which thou hast prepared before the face of all people; A light for the revelation of the gentiles, and to be the glory of Thy people Israel. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
+          "originalTranslation": {
+            "kind": "supplied",
+            "sourcePages": [
+              318
+            ]
+          },
+          "originalEnglishPages": [
             318
           ],
-          "editorialNote": "The printed English omits “in peace” from the opening Nunc dimittis verse. Both printed readings are retained; the English otherwise expands the abbreviated Glory be."
+          "originalAlignment": "source-discrepancy",
+          "printedParallelText": {
+            "text": "Now Thou dost dismiss Thy servant, O Lord according to Thy word. Because mine eyes have seen Thy salvation, Which thou hast prepared before the face of all people; A light for the revelation of the gentiles, and to be the glory of Thy people Israel. Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end. Amen.",
+            "pages": [
+              318
+            ],
+            "language": "English"
+          }
         },
         {
           "type": "prayer",
@@ -10780,6 +10798,13 @@
         319,
         320
       ]
+    },
+    {
+      "pages": [
+        313,
+        318
+      ],
+      "text": "10 October 2026: sole pending Nunc dimittis pairing verified against both actual pages and corrected with marked prepared English. Original printed English and provenance retained. All 348 passages now reviewed, preserving the previous complete visual review of pp.280–320; this session rechecked the remaining passage rather than claiming a new full 41-page comparison."
     }
   ]
 }
