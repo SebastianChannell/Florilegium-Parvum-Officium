@@ -17,7 +17,16 @@ test('Dominican minor hours preserve both original printed streams and supply ev
   assert(!office.unpairedEnglish.some(s=>s.section===f.id));
  }
  assert.equal(office.translationScope,'marked');
- assert.equal(office.status.verification,'visual-review');
+ assert.equal(office.status.verification,'pending');
+ const benedictus=office.sections.find(s=>s.id==='lauds').blocks.find(b=>b.id==='lauds-b0033');
+ assert.equal(benedictus.verification,'source-reading-pending');
+ assert(benedictus.source.includes('datum se nobis'));
+ assert(benedictus.english.includes('[datum se nobis: unresolved printed phrase]'));
+ assert(benedictus.english.endsWith('Glory to the Father.'));
+ assert.equal(benedictus.translation.kind,'prepared');
+ assert.equal(benedictus.printedParallelText.text,benedictus.originalSuppliedEnglish);
+ assert.deepEqual(benedictus.originalEnglishPages,[293,294]);
+ assert(benedictus.editorialNote.includes(benedictus.originalSuppliedEnglish));
 });
 test('Dominican missing translations are marked and printed Latin in the right column is preserved',()=>{
  const blocks=office.sections.find(s=>s.id==='prime').blocks;
