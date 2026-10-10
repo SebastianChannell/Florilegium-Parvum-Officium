@@ -297,3 +297,24 @@ No customary active imperative supplied. Coartancos, sarmentorium and lictotes a
 Twenty offices fully compared in this session, plus Monastic outstanding-passage and Roman fragment comparisons. Office remains pending; Dominican complete. No merge or deployment.
 
 Validated checkpoint: 38 offices reviewed, 44 pending; **4,095 passages pending**, eleven separate reference issues. One hundred thirty-two source blockers independently documented across twenty-two offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
+
+## Philip Neri, founder of the Oratory
+
+Every rendered PDF page 586–589 and all 73 passages personally compared, including 1714 attribution, seven actual hours (no Lauds), every distinct collect, all hymn/collect continuations and Commendation. Seven existing source blockers confirmed; three previously certified rows return to pending: p.588 `compline-b0001` Convertere nos; p.588 `compline-b0007` mortuorum without a secure governed object; p.588 `commendatio-b0001` Sint te hic dedicatae.
+
+Secure corrections retain printed person, negative and mood: p.586 te is “thee”; p.587 non/extorserat retains the negative/pluperfect rhetorical question; p.587 erumperent/viderentur remain two finite subjunctive predicates (burst/be seen), and hic refers to Philip rather than God. The valid fortes is predicative of nos, not an adjective agreeing with feminine patientiam. No omitted infinitive or changed Latin subject inserted. Prior prepared English/provenance archived, all Latin unchanged. Ten source-blocked passages:
+
+- `prime-b0009`, PDF 586: `Obenignissime Deus, qui dilectum famulum tuum Philippum Nerium ad singularem tui notitiam eveheti; adeo, ut sanctissimae tuae totum sese voluntati transcriberit: dignare, o Deus, et nos per sancti tui merita, ad talem tui notitiam perducere, ut nihil, quam tui soli fovere cupiamus. Per Dominum nostrum etc.`
+- `sext-b0004`, PDF 587: `Tu parabas afflictorum Cordibus solatia, Indurata peccatorum Molliens praecordia; Quotquot ad te proflugebant, Opem inter pericula Curas et pericula.`
+- `sext-b0005`, PDF 587: `Ant. Egenos et pauperes omni charitatis officio prosequebatur, absentibus inferendum apparatu, ipsis de periculantibus open cultu.`
+- `none-b0004`, PDF 587: `Illium Virginitatis Custodivit sedulo, Ut in flore puritatis Viveret perpetuo, Tela Cypridis vicit, Et illius vim fregit Forti precum gladio.`
+- `none-b0009`, PDF 587,588: `Opurissime Domine, et tenerime Virginis castitatis amator, qui sanctum Philippum Nerium speciali hoc gratiae dono exornasti, quod ejusdem corpus tam amabilem castitatis odorem reddidit, ut omnes, qui illud adstarent, mirabiliter suavi recrearet: oramus te igitur, per insignem hanc famuli tui castimoniam, ut nos ad candidam puritatis lilium donare digneris, et aliquando digni habeamur, te purissimum et divinissimum Sponsum a facie ad faciem intueri. Per Dominum nostrum Jesum etc.`
+- `vespers-b0004`, PDF 588: `Diu postquam praeluxit Mira patientia, Et virtutum coluit Ferrea constantia, Qua te per sanctam mortem Christus, o beatam sortem, Vocat ad convivia.`
+- `vespers-b0009`, PDF 588: `Opatientissime Domine, et virtutis praemiator, qui miram beati famuli tui Philippi Neri in adversis patientiam, et eximiam virtutis constantiam aeterni in coelo gloria remunerasti: quaesumus Domine, ut nos quoque, per gloriosa sancti tui suffragia, fortes in rebus omnibus adversis patientiam, et heroicam in virtutis tramite constantiam usque ad vitae nostrae exitum mereamur servare. Per Dominum nostrum Jesum etc.`
+- `compline-b0001`, PDF 588: `℣. Convertere nos Deus salutaris noster.`
+- `compline-b0007`, PDF 588: `Ant. Innumeros pene filios Christo peperit, aegrotos plurimos, mortique proximos restituit sanitati, et mortuorum revocavit ad vitam.`
+- `commendatio-b0001`, PDF 588: `Hasce supplices, beate, Preces tibi suscipe, Sint te hic dedicatae Intimo ex pectore: Adsis nobis o patrone, Nunc et mortis in agone Nos Philippe protege.`
+
+Twenty-one offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Office remains pending; Dominican complete. No merge or deployment.
+
+Validated checkpoint: 38 offices reviewed, 44 pending; **4,098 passages pending**, eleven separate reference issues. One hundred forty-two source blockers independently documented across twenty-three offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.

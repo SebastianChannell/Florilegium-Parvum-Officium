@@ -342,7 +342,7 @@
         {
           "type": "prayer",
           "source": "Iter Romam subiit, Charam linquens patriam, Raram ubi ostendit Indolis praestantiam, Totum Christo te sacrando, Libertatem resignando, Vitam et substantiam.",
-          "english": "He journeyed to Rome, leaving his beloved homeland, where he showed rare excellence of character, consecrating himself wholly to Christ and surrendering freedom, life, and possessions.",
+          "english": "He journeyed to Rome, leaving his beloved homeland, where he showed rare excellence of character, consecrating thee wholly to Christ and surrendering freedom, life, and possessions.",
           "sourcePages": [
             586
           ],
@@ -356,7 +356,17 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "visual-review"
+          "verification": "visual-review",
+          "originalPreparedEnglish": "He journeyed to Rome, leaving his beloved homeland, where he showed rare excellence of character, consecrating himself wholly to Christ and surrendering freedom, life, and possessions.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              586
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source personally compared. P.586 te is second-person thee, not se; printed shift of person retained. Previous English/provenance retained."
         },
         {
           "type": "prayer",
@@ -443,7 +453,7 @@
         {
           "type": "prayer",
           "source": "Obenignissime Deus, qui dilectum famulum tuum Philippum Nerium ad singularem tui notitiam eveheti; adeo, ut sanctissimae tuae totum sese voluntati transcriberit: dignare, o Deus, et nos per sancti tui merita, ad talem tui notitiam perducere, ut nihil, quam tui soli fovere cupiamus. Per Dominum nostrum etc.",
-          "english": "O most gracious God, who didst raise Thy beloved servant Philip Neri to a singular knowledge of Thee, so that he committed himself wholly to Thy most holy will, deign, O God, through the merits of Thy saint, to lead us also to such knowledge of Thee that we may desire to cherish nothing but Thee alone. Through our Lord, etc.",
+          "english": "O most gracious God, who [printed Philippum Nerium ad singularem tui notitiam eveheti: unresolved verb], so that [printed sanctissimae tuae totum sese voluntati transcriberit: unresolved verb], deign, O God, through the merits of Thy saint, to lead us also to such knowledge of Thee that we may desire [printed nihil, quam tui soli fovere: unresolved case/object construction]. Through our Lord, etc.",
           "sourcePages": [
             586
           ],
@@ -458,7 +468,16 @@
           "alignment": "reviewed",
           "id": "prime-b0009",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints the malformed verbs “eveheti” and “transcriberit.” The English provisionally follows the petition’s context of knowledge and dedication; the Latin remains."
+          "editorialNote": "10 October 2026: actual rendered pages personally compared. Printed uncertain forms/connections now bracketed rather than resolved by unqualified repairs; prior English/provenance archived, Latin unchanged. The PDF prints the malformed verbs “eveheti” and “transcriberit.” The English provisionally follows the petition’s context of knowledge and dedication; the Latin remains.",
+          "originalPreparedEnglish": "O most gracious God, who didst raise Thy beloved servant Philip Neri to a singular knowledge of Thee, so that he committed himself wholly to Thy most holy will, deign, O God, through the merits of Thy saint, to lead us also to such knowledge of Thee that we may desire to cherish nothing but Thee alone. Through our Lord, etc.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              586
+            ],
+            "review": "editorial-review-complete"
+          }
         }
       ]
     },
@@ -558,7 +577,7 @@
         {
           "type": "prayer",
           "source": "Dic! quot fervor animarum Iste fontes lachrymarum Tibi non extorserat?",
-          "english": "Tell me, how many fountains of tears did this zeal for souls draw forth from thee!",
+          "english": "Tell me, how many fountains of tears had this zeal for souls not drawn forth from thee!",
           "sourcePages": [
             587
           ],
@@ -572,7 +591,17 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0005",
-          "verification": "visual-review"
+          "verification": "visual-review",
+          "originalPreparedEnglish": "Tell me, how many fountains of tears did this zeal for souls draw forth from thee!",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              587
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source personally compared. P.587 preserves the rhetorical question’s non and pluperfect extorserat. Previous English/provenance retained."
         },
         {
           "type": "prayer",
@@ -659,7 +688,7 @@
         {
           "type": "prayer",
           "source": "Oamantissime Deus, qui famulum tuum Philippum Nerium tanto tui amoris incendio inflammasti, ut saepius igneae ex oculis erumperent scintillae viderentur, tantoque hic etiam proximi ardore flagraret, ut persaepe copiosissimos lachrymarum imbres effunderet: rogamus te igitur, o fons veri amoris, per merita famuli tui, ut tantum tui proximique amorem cordibus nostris infundas, quo nihil aliud quam te, et proximum diligere cogitemus. Per Dominum nostrum etc.",
-          "english": "O most loving God, who didst inflame Thy servant Philip Neri with so great a fire of Thy love that fiery sparks often seemed to burst from his eyes, and who burned also with such ardour for his neighbour that he often poured forth most abundant showers of tears, we therefore beseech Thee, fountain of true love, through the merits of Thy servant, to pour such love of Thee and our neighbour into our hearts that we may think of nothing but loving Thee and our neighbour. Through our Lord, etc.",
+          "english": "O most loving God, who didst inflame Thy servant Philip Neri with so great a fire of Thy love that fiery sparks might often burst from his eyes and be seen, and that this man also might burn with such ardour for his neighbour that he often poured forth most abundant showers of tears, we therefore beseech Thee, fountain of true love, through the merits of Thy servant, to pour such love of Thee and our neighbour into our hearts that we may think of nothing but loving Thee and our neighbour. Through our Lord, etc.",
           "sourcePages": [
             587
           ],
@@ -673,7 +702,17 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0010",
-          "verification": "visual-review"
+          "verification": "visual-review",
+          "originalPreparedEnglish": "O most loving God, who didst inflame Thy servant Philip Neri with so great a fire of Thy love that fiery sparks often seemed to burst from his eyes, and who burned also with such ardour for his neighbour that he often poured forth most abundant showers of tears, we therefore beseech Thee, fountain of true love, through the merits of Thy servant, to pour such love of Thee and our neighbour into our hearts that we may think of nothing but loving Thee and our neighbour. Through our Lord, etc.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              587
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source personally compared. P.587 erumperent and viderentur are retained as two finite subjunctive predicates, with viderentur literally be seen. Hic is this man (Philip), not a second assertion that God burned. No unprinted infinitive or changed subject is imported. Previous English/provenance retained."
         }
       ]
     },
@@ -751,7 +790,7 @@
         {
           "type": "prayer",
           "source": "Tu parabas afflictorum Cordibus solatia, Indurata peccatorum Molliens praecordia; Quotquot ad te proflugebant, Opem inter pericula Curas et pericula.",
-          "english": "Thou didst prepare consolations for the hearts of the afflicted, softening the hardened hearts of sinners; all who fled to thee sought help amid dangers, cares, and perils.",
+          "english": "Thou didst prepare consolations for the hearts of the afflicted, softening the hardened hearts of sinners; all who [printed proflugebant: unresolved verb] to thee; help amid dangers, cares and perils [printed ending lacks a governing clause].",
           "sourcePages": [
             587
           ],
@@ -766,7 +805,16 @@
           "alignment": "reviewed",
           "id": "sext-b0004",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF repeats dangers with incomplete syntax in the closing lines. The English provisionally understands seeking help amid cares and dangers; the Latin remains."
+          "editorialNote": "10 October 2026: actual rendered pages personally compared. Printed uncertain forms/connections now bracketed rather than resolved by unqualified repairs; prior English/provenance archived, Latin unchanged. The PDF repeats dangers with incomplete syntax in the closing lines. The English provisionally understands seeking help amid cares and dangers; the Latin remains.",
+          "originalPreparedEnglish": "Thou didst prepare consolations for the hearts of the afflicted, softening the hardened hearts of sinners; all who fled to thee sought help amid dangers, cares, and perils.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              587
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -786,7 +834,7 @@
           "alignment": "reviewed",
           "id": "sext-b0005",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed clause after the first statement of charity is unintelligible and explicitly marked untranslated in English. It requires source resolution."
+          "editorialNote": "10 October 2026: actual rendered source personally compared; source blocker independently confirmed. The printed clause after the first statement of charity is unintelligible and explicitly marked untranslated in English. It requires source resolution."
         },
         {
           "type": "prayer",
@@ -947,7 +995,7 @@
         {
           "type": "prayer",
           "source": "Illium Virginitatis Custodivit sedulo, Ut in flore puritatis Viveret perpetuo, Tela Cypridis vicit, Et illius vim fregit Forti precum gladio.",
-          "english": "He diligently guarded the lily of virginity, that he might live for ever in the flower of purity. He conquered the darts of Cypris and broke her power with the mighty sword of prayer.",
+          "english": "He diligently guarded [printed Illium Virginitatis: unresolved noun], that he might live for ever in the flower of purity. He conquered the darts of Cypris and broke her power with the mighty sword of prayer.",
           "sourcePages": [
             587
           ],
@@ -962,7 +1010,16 @@
           "alignment": "reviewed",
           "id": "none-b0004",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed “Illium Virginitatis” is provisionally understood as “Lilium,” lily; the Latin remains. Cypris, the classical name for Venus, is retained as the poem’s imagery."
+          "editorialNote": "10 October 2026: actual rendered pages personally compared. Printed uncertain forms/connections now bracketed rather than resolved by unqualified repairs; prior English/provenance archived, Latin unchanged. The printed “Illium Virginitatis” is provisionally understood as “Lilium,” lily; the Latin remains. Cypris, the classical name for Venus, is retained as the poem’s imagery.",
+          "originalPreparedEnglish": "He diligently guarded the lily of virginity, that he might live for ever in the flower of purity. He conquered the darts of Cypris and broke her power with the mighty sword of prayer.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              587
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1049,7 +1106,7 @@
         {
           "type": "prayer",
           "source": "Opurissime Domine, et tenerime Virginis castitatis amator, qui sanctum Philippum Nerium speciali hoc gratiae dono exornasti, quod ejusdem corpus tam amabilem castitatis odorem reddidit, ut omnes, qui illud adstarent, mirabiliter suavi recrearet: oramus te igitur, per insignem hanc famuli tui castimoniam, ut nos ad candidam puritatis lilium donare digneris, et aliquando digni habeamur, te purissimum et divinissimum Sponsum a facie ad faciem intueri. Per Dominum nostrum Jesum etc.",
-          "english": "O most pure Lord and tenderest lover of virginal chastity, who didst adorn Saint Philip Neri with this special gift of grace, that his body gave forth so lovely a fragrance of chastity that it refreshed all who stood near it with wondrous sweetness, we therefore pray through this outstanding purity of Thy servant that Thou mayest deign to grant us the white lily of purity, and that one day we may be found worthy to behold Thee, most pure and divine Bridegroom, face to face. Through Jesus our Lord, etc.",
+          "english": "O most pure Lord and tenderest lover of virginal chastity, who didst adorn Saint Philip Neri with this special gift of grace, that his body gave forth so lovely a fragrance of chastity that it refreshed all who stood near it with wondrous sweetness, we therefore pray through this outstanding purity of Thy servant that Thou mayest deign [printed nos ad candidam puritatis lilium donare: unresolved case/construction], and that one day we may be found worthy to behold Thee, most pure and divine Bridegroom, face to face. Through Jesus our Lord, etc.",
           "sourcePages": [
             587,
             588
@@ -1066,7 +1123,17 @@
           "alignment": "reviewed",
           "id": "none-b0009",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF has irregular endings and syntax, including “ad candidam puritatis lilium donare.” The English provisionally understands the petition for purity; the Latin remains."
+          "editorialNote": "10 October 2026: actual rendered pages personally compared. Printed uncertain forms/connections now bracketed rather than resolved by unqualified repairs; prior English/provenance archived, Latin unchanged. The PDF has irregular endings and syntax, including “ad candidam puritatis lilium donare.” The English provisionally understands the petition for purity; the Latin remains.",
+          "originalPreparedEnglish": "O most pure Lord and tenderest lover of virginal chastity, who didst adorn Saint Philip Neri with this special gift of grace, that his body gave forth so lovely a fragrance of chastity that it refreshed all who stood near it with wondrous sweetness, we therefore pray through this outstanding purity of Thy servant that Thou mayest deign to grant us the white lily of purity, and that one day we may be found worthy to behold Thee, most pure and divine Bridegroom, face to face. Through Jesus our Lord, etc.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              587,
+              588
+            ],
+            "review": "editorial-review-complete"
+          }
         }
       ]
     },
@@ -1144,7 +1211,7 @@
         {
           "type": "prayer",
           "source": "Diu postquam praeluxit Mira patientia, Et virtutum coluit Ferrea constantia, Qua te per sanctam mortem Christus, o beatam sortem, Vocat ad convivia.",
-          "english": "After long shining with wondrous patience and cultivating virtues with iron steadfastness, Christ, through holy death, calls thee to His banquet: O blessed lot!",
+          "english": "After he shone long with wondrous patience, and [printed Et virtutum coluit: unresolved object construction] with iron steadfastness, Christ, through holy death, calls thee to His banquet: O blessed lot!",
           "sourcePages": [
             588
           ],
@@ -1159,7 +1226,16 @@
           "alignment": "reviewed",
           "id": "vespers-b0004",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF changes grammatical person and has the irregular “Et virtutum coluit.” The English provisionally renders a narrative of steadfast virtue and the call to heaven; the Latin remains."
+          "editorialNote": "10 October 2026: actual rendered pages personally compared. Printed uncertain forms/connections now bracketed rather than resolved by unqualified repairs; prior English/provenance archived, Latin unchanged. The PDF changes grammatical person and has the irregular “Et virtutum coluit.” The English provisionally renders a narrative of steadfast virtue and the call to heaven; the Latin remains.",
+          "originalPreparedEnglish": "After long shining with wondrous patience and cultivating virtues with iron steadfastness, Christ, through holy death, calls thee to His banquet: O blessed lot!",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              588
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1246,7 +1322,7 @@
         {
           "type": "prayer",
           "source": "Opatientissime Domine, et virtutis praemiator, qui miram beati famuli tui Philippi Neri in adversis patientiam, et eximiam virtutis constantiam aeterni in coelo gloria remunerasti: quaesumus Domine, ut nos quoque, per gloriosa sancti tui suffragia, fortes in rebus omnibus adversis patientiam, et heroicam in virtutis tramite constantiam usque ad vitae nostrae exitum mereamur servare. Per Dominum nostrum Jesum etc.",
-          "english": "O most patient Lord and rewarder of virtue, who didst reward in heaven’s eternal glory the wondrous patience in adversity and outstanding steadfastness in virtue of Thy blessed servant Philip Neri, we beseech Thee, O Lord, that through the glorious prayers of Thy saint we too may be found worthy to preserve brave patience in all adversities and heroic steadfastness upon the path of virtue until the end of our life. Through Jesus our Lord, etc.",
+          "english": "O most patient Lord and rewarder of virtue, who didst reward [printed aeterni in coelo gloria: unresolved genitive relation] the wondrous patience in adversity and outstanding steadfastness in virtue of Thy blessed servant Philip Neri, we beseech Thee, O Lord, that through the glorious prayers of Thy saint we too, strong in all adversities, may be found worthy to preserve patience and heroic steadfastness upon the path of virtue until the end of our life. Through Jesus our Lord, etc.",
           "sourcePages": [
             588
           ],
@@ -1261,7 +1337,16 @@
           "alignment": "reviewed",
           "id": "vespers-b0009",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF has irregular case endings in the eternal-glory and patience clauses. The English provisionally renders the intelligible petition; the Latin remains."
+          "editorialNote": "10 October 2026: actual rendered pages personally compared. Printed uncertain forms/connections now bracketed rather than resolved by unqualified repairs; prior English/provenance archived, Latin unchanged. The PDF has irregular case endings in the eternal-glory and patience clauses. The English provisionally renders the intelligible petition; the Latin remains.",
+          "originalPreparedEnglish": "O most patient Lord and rewarder of virtue, who didst reward in heaven’s eternal glory the wondrous patience in adversity and outstanding steadfastness in virtue of Thy blessed servant Philip Neri, we beseech Thee, O Lord, that through the glorious prayers of Thy saint we too may be found worthy to preserve brave patience in all adversities and heroic steadfastness upon the path of virtue until the end of our life. Through Jesus our Lord, etc.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              588
+            ],
+            "review": "editorial-review-complete"
+          }
         }
       ]
     },
@@ -1276,7 +1361,7 @@
         {
           "type": "prayer",
           "source": "℣. Convertere nos Deus salutaris noster.",
-          "english": "℣. Convert us, O God our Saviour.",
+          "english": "℣. [Printed Convertere nos: unresolved construction], O God our Saviour.",
           "sourcePages": [
             588
           ],
@@ -1292,7 +1377,19 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "visual-review"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "℣. Convert us, O God our Saviour.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              588
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "99ecc4cd6516d1e9"
+          },
+          "editorialNote": "10 October 2026: actual rendered p.588 personally inspected. Convertere nos is not the customary active imperative Converte nos; no missing letter or repaired imperative certified. Prior English/provenance archived; Latin unchanged."
         },
         {
           "type": "prayer",
@@ -1400,7 +1497,7 @@
         {
           "type": "prayer",
           "source": "Ant. Innumeros pene filios Christo peperit, aegrotos plurimos, mortique proximos restituit sanitati, et mortuorum revocavit ad vitam.",
-          "english": "Ant. He brought forth almost innumerable children for Christ, restored very many sick persons and those near death to health, and recalled the dead to life.",
+          "english": "Ant. He brought forth almost innumerable children for Christ, restored very many sick persons and those near death to health, and [printed mortuorum: incomplete partitive/object construction] recalled to life.",
           "sourcePages": [
             588
           ],
@@ -1414,7 +1511,17 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "visual-review"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "Ant. He brought forth almost innumerable children for Christ, restored very many sick persons and those near death to health, and recalled the dead to life.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              588
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered pages personally compared. Printed uncertain forms/connections now bracketed rather than resolved by unqualified repairs; prior English/provenance archived, Latin unchanged. "
         },
         {
           "type": "prayer",
@@ -1512,7 +1619,7 @@
         {
           "type": "prayer",
           "source": "Hasce supplices, beate, Preces tibi suscipe, Sint te hic dedicatae Intimo ex pectore: Adsis nobis o patrone, Nunc et mortis in agone Nos Philippe protege.",
-          "english": "O blessed one, receive these humble prayers, dedicated to thee from the depths of our heart. Be with us, O patron, now and in death’s struggle; protect us, Philip.",
+          "english": "O blessed one, receive these humble prayers, [printed Sint te hic dedicatae: unresolved dedication case] from the depths of our heart. Be with us, O patron, now and in death’s struggle; protect us, Philip.",
           "sourcePages": [
             588
           ],
@@ -1526,7 +1633,17 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0001",
-          "verification": "visual-review"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "O blessed one, receive these humble prayers, dedicated to thee from the depths of our heart. Be with us, O patron, now and in death’s struggle; protect us, Philip.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              588
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered pages personally compared. Printed uncertain forms/connections now bracketed rather than resolved by unqualified repairs; prior English/provenance archived, Latin unchanged. "
         },
         {
           "type": "prayer",
@@ -1621,6 +1738,15 @@
         588,
         589
       ]
+    },
+    {
+      "pages": [
+        586,
+        587,
+        588,
+        589
+      ],
+      "text": "10 October 2026: every rendered page and all 73 source/English passages personally compared, including 1714 attribution, seven printed hours (no Lauds), every distinct collect, hymns/collect continuations and Commendation. Seven existing blockers independently confirmed, three falsely certified rows returned to pending (Convertere nos, mortuorum and Sint te hic dedicatae). Secure person/mood/negative corrections retain te, non, finite erumperent/viderentur and hic, with previous English/provenance archived. Ten genuine source passages remain pending; all Latin unchanged. No historical narrative or missing prayers imported."
     }
   ]
 }
