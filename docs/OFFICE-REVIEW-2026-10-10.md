@@ -522,3 +522,15 @@ Impera now retains enjoin, and calefasti warm with accusative apposition te/parv
 Thirty-one offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Office remains pending; Dominican complete. No merge or deployment.
 
 Validated checkpoint: 38 offices reviewed, 44 pending; **3,691 passages pending**, eleven separate reference issues. Two hundred thirty-two source blockers independently documented across thirty-three offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
+
+## Thomas Aquinas
+
+Every rendered PDF page 594–601 and all 224 passages personally compared, including New Raccolta (1903) attribution, eight actual hours, three Matins lessons and responsories, every psalm/canticle at its printed extent, conditional Matins-without-Lauds collect, eight actual collect copies including Matins abbreviated conclusion, printed hymn/refrain reuse and all page continuations. All 130 pending passages verified.
+
+P.595 `matins-b0025` dum has its complete finite predicate in Rigat totam sanctam Ecclesiam within the same printed passage; fluentis is ablative plural streams. The period/refrain boundary is preserved, no missing verb invented. P.595 `matins-b0033` infirma can agree in feminine ablative with qua in qua contemplante, referring to anima; stans is also the correct nominative neuter participle for corpus. Weak soul/contemplation and the body standing aloft are retained without an unprinted infirmum. P.596 `lauds-b0012` faculae/regulae are complete plural subjects, and Verbi/Scripturae sacrae numinis ordinary genitive modifiers. No external hymn text imported.
+
+Morum retains conduct, Quadripartite pervius open to passage in four ways, and the Compline chapter clarifies Dominus as subject of aperuit and eius as Thomas’s mouth. P.597 `prime-b0014` actual Capitulum corrects the previously transcribed Capitulium, with original extracted letters and correction provenance preserved. All other Latin unchanged; earlier prepared English/provenance archived. Supplied reused PDF English and provenance retained unchanged, with prepared notice applying only to marked prepared passages. Office complete.
+
+Thirty-two offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Dominican and Thomas Aquinas complete. No merge or deployment.
+
+Validated checkpoint: **39 offices reviewed**, 43 pending; **3,561 passages pending**, eleven separate reference issues. Two hundred thirty-two source blockers independently documented across thirty-three offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
