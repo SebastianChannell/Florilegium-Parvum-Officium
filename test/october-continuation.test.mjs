@@ -27,6 +27,18 @@ test('continued offices conserve source text, existing English, and printed hour
      assert.equal(row.translation.review,'editorial-review-complete');
      assert.equal(row.verification,'visual-review');
      assert(row.editorialNote?.includes(correction.requiredNoteText ?? 'Septuagesima'));
+    }else if(section.visualPreparedEnglishCorrections?.[id]){
+     const visual=section.visualPreparedEnglishCorrections[id];
+     assert(visual.review?.trim());
+     assert.equal(digest(row.originalPreparedEnglish),hash);
+     assert.equal(digest(row.english),visual.digest);
+     assert.equal(row.originalTranslation.method,'exact-source-memory');
+     assert.equal(row.translation.kind,'prepared');
+     assert.equal(row.translation.method,'visual-pdf-prepared-translation');
+     assert.equal(row.translation.review,'editorial-review-complete');
+     assert.equal(row.verification,'visual-review');
+     assert.deepEqual(row.sourcePages,visual.sourcePages);
+     assert(row.editorialNote?.includes(visual.requiredNoteText));
     }else if(section.pendingEnglishCorrections?.[id]){
      const pending=section.pendingEnglishCorrections[id];
      assert(pending.review?.trim());
