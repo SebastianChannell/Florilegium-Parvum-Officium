@@ -137,3 +137,13 @@ P.524 `sext-b0004` now translates present subjunctive iterent literally as “le
 Thirteen offices fully compared in this session now have forty-five independently documented source-blocked passages. Roman and Dominican separately completed remaining discrepancies on the basis of their preserved earlier complete reviews. No merge or deployment.
 
 Validated checkpoint: 39 offices reviewed, 43 pending; **4,314 passages pending**, eleven separate reference issues. Structural check, all 44 tests and preview pass; strict coverage remains blocked by pending work.
+
+## Sebastian, patron against epidemic disease
+
+Every rendered PDF page 590–593 and all 70 passages personally compared, including attribution, eight hours, hymn/collect continuations, Commendation and all seven same-office versicle/prayer expansions. Three existing blockers confirmed: p.590 `matins-b0012` tuam animam et corpus tuos; pp.590–591 `prime-b0005` spatium per horae (Heres itself translated literally as heir); pp.591–592 `none-b0005` Nostru. Est humatum retains “is buried” rather than an invented coming to bury.
+
+Six formerly certified passages also contain unresolved actual forms and return to pending: p.590 `matins-b0007` pariili/celiabis; p.591 `terce-b0005` perstistere; p.591 `terce-b0006` tribunalai; p.592 `vespers-b0005` cnectum; p.592 `compline-b0007` infane/corpus est sacratus; p.592 `commendatio-b0001` Magnae Martyr. English now brackets the actual unresolved forms, retaining originals/provenance and all Latin. Secure mutantes is “those changing”; tergi is literally “be wiped”, not changed into beaten. Terce’s haud qualifies celata, not potuit; no negative is invented before its unresolved infinitive.
+
+Fourteen offices fully compared in this session now have fifty-four independently documented blocked passages. Six falsely certified passages demoted; no passage certified merely because existing English is fluent. Roman and Dominican separately complete based on their preserved earlier full reviews. No merge or deployment.
+
+Validated checkpoint: 39 offices reviewed, 43 pending; **4,320 passages pending**, eleven separate reference issues. Structural check, all 44 tests and preview pass; strict coverage remains blocked by pending work.
