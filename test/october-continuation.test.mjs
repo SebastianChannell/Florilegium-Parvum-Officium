@@ -27,6 +27,16 @@ test('continued offices conserve source text, existing English, and printed hour
      assert.equal(row.translation.review,'editorial-review-complete');
      assert.equal(row.verification,'visual-review');
      assert(row.editorialNote?.includes(correction.requiredNoteText ?? 'Septuagesima'));
+    }else if(section.pendingEnglishCorrections?.[id]){
+     const pending=section.pendingEnglishCorrections[id];
+     assert(pending.review?.trim());
+     assert.equal(digest(row.originalPreparedEnglish),hash);
+     assert.equal(digest(row.english),pending.digest);
+     assert(row.originalTranslation);
+     assert.equal(row.translation.kind,'prepared');
+     assert.equal(row.verification,'source-reading-pending');
+     assert.deepEqual(row.sourcePages,pending.sourcePages);
+     assert(row.editorialNote?.includes(pending.requiredNoteText));
     }else assert.equal(digest(row.english),hash);
    }
    if(!entry.partial)assert(rows.every(b=>b.english?.trim()));

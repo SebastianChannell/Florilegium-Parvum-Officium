@@ -157,3 +157,35 @@ Dependency inspection also personally verified Roman p.114: `matins-b0066` print
 The fourteen offices fully compared this session retain fifty-four documented blocked passages; this four-passage Monastic audit adds three, and the separately inspected Roman passage adds one. Fifty-eight independently documented source blockers across sixteen offices. Dominican remains complete. No merge or deployment.
 
 Validated checkpoint: 38 offices reviewed, 44 pending; **4,320 passages pending**, eleven separate reference issues. Structural check, all 44 tests and preview pass; strict coverage remains blocked by pending work. Earlier reviewed-office counts are superseded by the Roman source-fragment demotion.
+
+## Francis of Paola, founder of the Minims
+
+Every rendered PDF page 501–504 and all 85 passages personally compared, including source attribution, eight hours, historical meditations, hymn/collect continuations, Commendation and seven same-office versicle/prayer expansions. 44 formerly pending passages verified. Secure unusual readings retained: mentem … oratorem as a predicative metaphor; puelli as the diminutive-boy genitive; apparuit tibi with its printed person; the printed sixty-ninth-year historical claim; the omitted copula after Dux vitae; abs laurea martyrii with its ablative. No external narrative or standard Psalm substituted.
+
+21 independently confirmed source passages remain blocked. Convertere nos is not silently changed to Converte nos. Other uncertain forms and damaged clauses are explicitly bracketed, with original prepared English/provenance retained and all Latin unchanged. Detailed literal blocker inventory follows:
+
+- `matins-b0008`, PDF 501: `Adam etiam intemperans Noctem tulit nepotibus, Reduxit lucem imperans Carnes caret carinibus;`
+- `matins-b0009`, PDF 501: `Pulsis dapum vaporibus Nam ut serenat cerebra, Lucidor sic spiritus Per carnis fit jejunia.`
+- `lauds-b0005`, PDF 501: `Preces fundit et cantica Pios incurvans poplites Tam grata Deo musices, Ipsi gaudent coelites;`
+- `lauds-b0006`, PDF 501: `Ora veretur spiritu Sublimis inter sydera, Claro virtutum ambitu Jam forte dignus coelis.`
+- `lauds-b0007`, PDF 501: `Nam sub carnis pondere Recusat corpus deprimi, Astra volavit scandere Mens valet haud difficili.`
+- `prime-b0001`, PDF 501: `Sanctus Franciscus de Paula perpetuus mundi contemnor et carnis domator.`
+- `terce-b0006`, PDF 502: `Nec tangitur molestia Remotus a sodalibus, Dei dat suam praesentiam Abstrusus latens specubus.`
+- `sext-b0005`, PDF 502: `Sylvae relictens fructices, Sub Charitatis exercitu Ad bella Christi milites Manu producit strenua,`
+- `sext-b0006`, PDF 502: `Quem manuevit Charitas, Praedignus hic et signifer, Quo conteratur vanitas, Quam fallax sufflat Lucifer.`
+- `sext-b0008`, PDF 503: `Ant. Charitas non exultatur, non inflatur, non est ambitiosa: sectamini charitatem, aemulamini spiritualia.`
+- `none-b0005`, PDF 503: `Ignas domat, et aequora, Terras, flatusque aetheris, Dat lingua mutis organa, Et caecis usum luminis;`
+- `none-b0006`, PDF 503: `Binis amorum nexibus Tum Numini, tum Proximi Miraclis claret pluribus Aeterno plenus Principi;`
+- `none-b0007`, PDF 503: `Nec diligenti potuit Ut Deus quidquam denegat, Quin, quo se plus abjicit, Hoc gratia plus eminet.`
+- `vespers-b0005`, PDF 503: `Die, qua fudit spiritum Christus in Crucis cathedra Franciscus hoc exilium Perennis intrat gloria,`
+- `vespers-b0006`, PDF 503: `Crucem dum tenens, coelici Amoris ictus spiculis, Pendens Jesu vertici Jungi meretur oculis,`
+- `compline-b0001`, PDF 503: `Sancti Francisci de Paula corpus incorruptum unicum Cruce ab haereticis combustur.`
+- `compline-b0002`, PDF 503: `℣. Convertere nos Deus salutaris noster.`
+- `compline-b0008`, PDF 504: `Quo rosae, tectae antea Sub castitatis frigore, Amoris tinctae purpura Flagrante furgant corpore.`
+- `commendatio-b0001`, PDF 504: `Francisce! laudes cordibus Has sume fusas intimis, Nuncen orans, coelestibus Ut nosque beet gaudiis.`
+- `commendatio-b0003`, PDF 504: `Comburus qui post funera Levem versus in pulverem, Non sentiens incendia Evehis in martyrem.`
+- `commendatio-b0007`, PDF 504: `Oremus, O sancte Francisce de Paula! mitissimi Jesu humilime imitator, in quo manifeste apparet, humilia Deum respicere, et esse mirabilem in sanctis suis, quique quem paternis intercessionibus beati Francisci Stephani consequum in filium, divina vero providentia in tenera adhuc aetate eduxit, ut humilitationis ac coarctationis solitudinem sponte ingressus, inter asperrimas corporis, animique mortificationes, sexenio ibidem delapseceres, donec adduce divino spiritu progressus faciam, plenamque humilitate Fratrum Minimorum originem fundas; etiam omnibus qua pluries, in summo ignis injectus, sicut nec pedem transgrediens mare, nec amnem innatans, incolumis evasisti, nec innumera illustratus prodigiis; quaesumus, benigne Pater, gloriosae coelorum laetitia! efficaciter apud Deum, ut et nos devoti clientes tui, ab infimo humilitatis gradu ad summum divini amoris culmen pertingere, unaque tecum atque omnibus sanctis, aeternis recreari gaudiis mereamur. Per Christum Dominum nostrum. Amen.`
+
+Fifteen offices fully compared in this session, plus the Monastic outstanding-passage audit and separately inspected Roman source fragment. Office remains pending; Dominican complete. No merge or deployment.
+
+Validated checkpoint: 38 offices reviewed, 44 pending; **4,276 passages pending**, eleven separate reference issues. Seventy-nine source-blocked passages independently documented across seventeen offices (fifteen complete office comparisons, Monastic outstanding-passage comparison and Roman fragment comparison). Structural check, all 44 tests and preview pass; strict coverage remains blocked.
