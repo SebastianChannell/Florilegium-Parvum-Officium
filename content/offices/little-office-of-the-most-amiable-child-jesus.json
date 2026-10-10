@@ -145,7 +145,7 @@
         {
           "type": "prayer",
           "source": "Jesu puer dulcissime, ter millies ave to: cor moerens tu suavissime unguento mulces lato: qui amat te, prosentitur dulcedinum in mare; tuus dum amor cernitur, quis nollet te amare? qui meum te fraterculum nasci fecit pauperculum.",
-          "english": "Jesus, sweetest Child, three thousand times hail to Thee!\nWith Thy balm Thou most sweetly soothest the sorrowing heart.\nWhoever loves Thee plunges into a sea of sweetness.\nWhen Thy love is seen, who would not wish to love Thee,\nWhom it made to be born poor, as my little Brother?",
+          "english": "Jesus, sweetest Child, three thousand times hail to Thee! [The printed “ave to” is irregular.]\nThou most sweetly soothest the sorrowing heart with balm spread upon it.\nWhoever loves Thee [the printed verb “prosentitur” is unclear] into a sea of sweetness.\nWhen Thy love is seen, who would not wish to love Thee?\nThat love made Thee, my little Brother, to be born poor.",
           "sourcePages": [
             52
           ],
@@ -155,12 +155,21 @@
             "sourcePages": [
               52
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "matins-b0006",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed “ave to” and “prosentitur” are irregular. The provisional English understands an address to the Child and immersion in sweetness; the printed Latin is retained."
+          "editorialNote": "PDF p.52: the earlier “plunges” supplied an unverified meaning for “prosentitur”. This verb remains unresolved. The closing relative clause refers to the love just mentioned; the printed Latin is preserved.",
+          "originalPreparedEnglish": "Jesus, sweetest Child, three thousand times hail to Thee!\nWith Thy balm Thou most sweetly soothest the sorrowing heart.\nWhoever loves Thee plunges into a sea of sweetness.\nWhen Thy love is seen, who would not wish to love Thee,\nWhom it made to be born poor, as my little Brother?",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -354,7 +363,7 @@
         {
           "type": "prayer",
           "source": "℟. Ade funibus trahit ad se.",
-          "english": "℟. Draws thee to Himself with human cords.",
+          "english": "℟. Draws thee to Himself with cords [the printed “Ade” is unclear].",
           "sourcePages": [
             52
           ],
@@ -364,12 +373,21 @@
             "sourcePages": [
               52
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "prime-b0006",
           "verification": "source-reading-pending",
-          "editorialNote": "The source prints “Ade funibus”. The provisional translation “human cords” understands the phrase as a reference to the cords of Adam; this reading awaits editorial resolution."
+          "editorialNote": "PDF p.52 visibly prints “Ade funibus”. The earlier “human cords” assumed an emendation not established by the attached source. Only “funibus trahit ad se” is translated without conjecture; “Ade” remains unresolved.",
+          "originalPreparedEnglish": "℟. Draws thee to Himself with human cords.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              52
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -638,7 +656,7 @@
         {
           "type": "prayer",
           "source": "Fleo puer ac rideo, ridens cogor plorare tuisdum stellas video in oculis micare: candor ostrum eximitum rosarum genis nectit, ac lux corusca nivium se artubus implectit: auro dant crispo splendicant crines, cor sibi vindicant.",
-          "english": "O Child, I weep and smile; smiling, I am moved to weep\nWhen I see stars shining in Thine eyes.\nThy fair beauty sets the exquisite crimson of roses upon Thy cheeks,\nAnd the gleaming brightness of snow enfolds Thy limbs.\nThy curling hair shines like gold\nAnd claims the heart for itself.",
+          "english": "O Child, I weep and smile; smiling, I am compelled to weep\nWhen I see stars shining in Thine eyes.\nFairness binds the exquisite crimson of roses upon Thy cheeks,\nAnd the gleaming brightness of snow enfolds Thy limbs.\n[The printed “auro dant crispo splendicant” is irregular; its exact sense is unresolved.]\nThy hair claims the heart for itself.",
           "sourcePages": [
             53
           ],
@@ -648,12 +666,21 @@
             "sourcePages": [
               53
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "sext-b0004",
           "verification": "source-reading-pending",
-          "editorialNote": "Several phrases in the source hymn are irregular, including “tuisdum” and “auro dant crispo splendicant”. The provisional English gives the apparent sense of stars in the eyes and curling golden hair; the Latin is retained."
+          "editorialNote": "PDF p.53: the earlier curling golden hair translation silently repaired “auro dant crispo splendicant”. The uncertain clause is now identified in the English. “Candor” is translated as fairness rather than supplying “Thy beauty”; printed Latin is unchanged.",
+          "originalPreparedEnglish": "O Child, I weep and smile; smiling, I am moved to weep\nWhen I see stars shining in Thine eyes.\nThy fair beauty sets the exquisite crimson of roses upon Thy cheeks,\nAnd the gleaming brightness of snow enfolds Thy limbs.\nThy curling hair shines like gold\nAnd claims the heart for itself.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              53
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1252,6 +1279,13 @@
         53
       ],
       "text": "Both pages have been visually compared. English is prepared from the printed Latin. The recurring “Prayer as above” displays the prayer printed at Matins. The source gives seven hours without Lauds. Three irregular hymn or versicle readings retain their printed Latin and have explicitly provisional English."
+    },
+    {
+      "pages": [
+        52,
+        53
+      ],
+      "text": "9 October continuation: prepared English revised to distinguish securely translatable clauses from unresolved printed readings. Previous prepared English and translation provenance remain archived in each changed row. This comparison does not certify the defective readings or complete the office review."
     }
   ]
 }

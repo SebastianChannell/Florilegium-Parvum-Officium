@@ -4,7 +4,7 @@ English coverage is complete across the 82 offices: 11,282 rows, zero missing al
 
 This pass visually reviewed all eight English-only offices (Holy Tear, Bonaventure Passion, Immaculate Heart, Akathist, Dominic, Gertrude, Norbert and Serotina). Thirty-seven offices now have full visual review. The other 45 offices still require source and translation review. The current target of 45 remaining offices has been reached.
 
-The strict release audit reports 4,544 outstanding checks: 4,488 passage reviews, 45 office reviews and 11 unresolved references. Prepared English attached to malformed Latin remains provisional; English coverage alone does not certify it.
+The strict release audit reports 4,545 outstanding checks: 4,489 passage reviews, 45 office reviews and 11 unresolved references. Prepared English attached to malformed Latin remains provisional; English coverage alone does not certify it.
 
 ## Reader corrections
 
@@ -53,3 +53,13 @@ Seven previously completed local reviews were restored after the workspace reset
 Three additional offices completed full review: Ludger (555–560), Joachim and Anne (527–530), and Anne (436–439). Ludger was compared with the ULB Düsseldorf original booklet, catalogued after 1712; the 1712 date inside concerns indulgences and is not represented as a publication colophon. The printed persecutionem, lessus (lamentations), and conscendisti repair defective prepared English. Angliam is retained as printed; lucis is read as the ablative plural of lucus, groves. Joachim and Anne were compared with the cited Palmetum 1879 PDF 300–304: Marite resolves the unclear address, missing hymn lines are restored in prepared English, and the offering concerns a pair of turtledoves and the speaker’s heart. Anne uses earlier Rakoczianum 1745 PDF 225–227; its unusual stella maris address is retained literally with a visible ambiguity note, without certifying 1783.
 
 Three reused English rubrics said Lent although the Latin begins at Septuagesima. Their corrected English is now prepared, with original English and exact reuse provenance retained. Regression fixtures check both the original and the explicitly reviewed correction; source digests are unchanged. There are 7,728 prepared English rows, zero missing English and 11 unresolved references.
+
+## Further prepared-English review
+
+Compared all attached pages for Child Jesus (52–53), Paul (583–585) and the opening passage of Bruno (472). Six prepared-English rows were corrected, with previous English and translation metadata retained in the overrides. The Latin, IDs, printed sections and supplied English were unchanged.
+
+- Child Jesus: removed the unsupported “plunges” for `prosentitur`, “human” for `Ade`, and silently reconstructed curling golden hair for `auro dant crispo splendicant`. The English now identifies those unresolved words explicitly. The securely translated surrounding clauses and closing reference to love were revised.
+- Paul: the Prime antiphon's printed `virgins` does not certify “with rods”; the conclusion's `frigisque vitae anteacta` does not certify “coldness of my former life”. These gaps are now explicit in the prepared English.
+- Bruno: the opening prints `investigabiles`, meaning searchable, whereas the previous English silently read unsearchable. The English now follows the printed wording, explains the missing negative prefix, and marks the passage pending comparison.
+
+These are corrections to provisional translations, not completed office certifications. There remain 45 pending offices and 11 unresolved references. The strict audit has 4,545 checks, one more because Bruno's previously unflagged discrepancy is now correctly pending. Structural validation, all 44 tests and the preview build pass.

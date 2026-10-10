@@ -604,7 +604,7 @@
         {
           "type": "prayer",
           "source": "Ant. Ter virgins caesus, semel lapidatus sum, ter naufragium feci, nocte et die in periculis fui, in labore, aerumna, vigiliis, fame et siti.",
-          "english": "Ant. Three times I was beaten with rods, once I was stoned, three times I suffered shipwreck; by night and day I was in dangers, in labour, hardship, watchings, hunger, and thirst.",
+          "english": "Ant. Three times I was beaten [the printed “virgins” is defective], once I was stoned, three times I suffered shipwreck; by night and day I was in dangers, in labour, hardship, watchings, hunger, and thirst.",
           "sourcePages": [
             584
           ],
@@ -614,12 +614,21 @@
             "sourcePages": [
               584
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "prime-b0005",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints Ter virgins caesus. English provisionally reads beaten with rods from the context; the defective printed word is retained in Latin."
+          "editorialNote": "PDF p.584 visibly prints “Ter virgins caesus”. The earlier “with rods” silently adopted “virgis”; that emendation is not certified by this PDF. The defect is now explicit in the English.",
+          "originalPreparedEnglish": "Ant. Three times I was beaten with rods, once I was stoned, three times I suffered shipwreck; by night and day I was in dangers, in labour, hardship, watchings, hunger, and thirst.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              584
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1574,7 +1583,7 @@
         {
           "type": "prayer",
           "source": "Omnipotens et mirabilis Deus, qui S. Paulum ex persecutore Ecclesiae tuae in Vas Electionis atque Doctorem Gentium constituisti, cumque tam indefesso animarum amore, zeloque inflammasti, ut omnibus omnia factus sit, Deprecor te, effice per copiosam gratiam tuam in anima mea, ut sacratissimis tuis inspirationibus illico obsequar, frigisque vitae anteacta insatiabili amoris fervore rependam. Praesta o Domine, per exemplum et intercessionem hujus Apostoli tui, ut posthac non ego, sed per ardentissimum imitationis studium Christus in me vivat, nec amem aliquid vel formidem, nisi quod separare me possit a charitate Christi; Cum quo et Spiritu S. aeternum vivis et regnas Deus in saecula saeculorum, Amen.",
-          "english": "Almighty and wonderful God, Who didst make Saint Paul, formerly a persecutor of Thy Church, a vessel of election and Doctor of the nations, and didst inflame him with such tireless love and zeal for souls that he became all things to all: I beseech Thee, bring about in my soul through Thy abundant grace that I may immediately obey Thy most sacred inspirations and repay the coldness of my former life with an insatiable fervour of love. Grant, O Lord, through the example and intercession of this Thy Apostle, that henceforth I may no longer live, but Christ may live in me through the most ardent pursuit of His imitation, and that I may love or fear nothing except what could separate me from the charity of Christ. With Whom and the Holy Spirit Thou livest and reignest eternally, God, for ever and ever. Amen.",
+          "english": "Almighty and wonderful God, Who didst make Saint Paul, formerly a persecutor of Thy Church, a vessel of election and Doctor of the nations, and didst inflame him with such tireless love and zeal for souls that he became all things to all: I beseech Thee, bring about in my soul through Thy abundant grace that I may immediately obey Thy most sacred inspirations and repay [the printed “frigisque vitae anteacta” is defective] with an insatiable fervour of love. Grant, O Lord, through the example and intercession of this Thy Apostle, that henceforth I may no longer live, but Christ may live in me through the most ardent pursuit of His imitation, and that I may love or fear nothing except what could separate me from the charity of Christ. With Whom and the Holy Spirit Thou livest and reignest eternally, God, for ever and ever. Amen.",
           "sourcePages": [
             585
           ],
@@ -1584,12 +1593,21 @@
             "sourcePages": [
               585
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "conclusion-b0005",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed frigisque vitae anteacta is defective. English provisionally reads coldness of the former life from context, without changing the Latin."
+          "editorialNote": "PDF p.585: “frigisque vitae anteacta” is confirmed as printed. The earlier “coldness of my former life” depended on an unverified repair. The English now displays this gap explicitly, retaining all securely translated surrounding clauses.",
+          "originalPreparedEnglish": "Almighty and wonderful God, Who didst make Saint Paul, formerly a persecutor of Thy Church, a vessel of election and Doctor of the nations, and didst inflame him with such tireless love and zeal for souls that he became all things to all: I beseech Thee, bring about in my soul through Thy abundant grace that I may immediately obey Thy most sacred inspirations and repay the coldness of my former life with an insatiable fervour of love. Grant, O Lord, through the example and intercession of this Thy Apostle, that henceforth I may no longer live, but Christ may live in me through the most ardent pursuit of His imitation, and that I may love or fear nothing except what could separate me from the charity of Christ. With Whom and the Holy Spirit Thou livest and reignest eternally, God, for ever and ever. Amen.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              585
+            ],
+            "review": "editorial-review-complete"
+          }
         }
       ]
     }
@@ -1603,6 +1621,14 @@
         584,
         585
       ]
+    },
+    {
+      "pages": [
+        583,
+        584,
+        585
+      ],
+      "text": "9 October continuation: prepared English revised to distinguish securely translatable clauses from unresolved printed readings. Previous prepared English and translation provenance remain archived in each changed row. This comparison does not certify the defective readings or complete the office review."
     }
   ]
 }

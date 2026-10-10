@@ -44,7 +44,7 @@
         {
           "type": "prayer",
           "source": "O altitudo divitiarum, sapientiae et scientiae Dei! quam incomprehensibilia sunt judicia ejus, et investigabiles viae ejus.",
-          "english": "O depth of the riches, wisdom, and knowledge of God! How incomprehensible are His judgments, and unsearchable His ways!",
+          "english": "O depth of the riches, wisdom, and knowledge of God! How incomprehensible are His judgments, and searchable His ways! [The source prints “investigabiles”, without the negative prefix.]",
           "sourcePages": [
             472
           ],
@@ -54,11 +54,21 @@
             "sourcePages": [
               472
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "visual-review"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "O depth of the riches, wisdom, and knowledge of God! How incomprehensible are His judgments, and unsearchable His ways!",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              472
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "PDF p.472 prints “investigabiles”, which means searchable. The previous “unsearchable” silently supplied the expected negative prefix. The unusual printed reading is now translated literally and flagged for source comparison."
         },
         {
           "type": "prayer",
@@ -1319,6 +1329,15 @@
         474,
         475
       ]
+    },
+    {
+      "pages": [
+        472,
+        473,
+        474,
+        475
+      ],
+      "text": "9 October continuation: prepared English revised to distinguish securely translatable clauses from unresolved printed readings. Previous prepared English and translation provenance remain archived in each changed row. This comparison does not certify the defective readings or complete the office review."
     }
   ]
 }
