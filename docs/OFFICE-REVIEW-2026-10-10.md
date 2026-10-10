@@ -208,3 +208,31 @@ Every rendered PDF page 578–582 and all 104 passages personally compared, incl
 Sixteen offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Office remains pending; Dominican complete. No merge or deployment.
 
 Validated checkpoint: 38 offices reviewed, 44 pending; **4,230 passages pending**, eleven separate reference issues. Eighty-seven source blockers independently documented across eighteen offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
+
+## John the Baptist
+
+Every rendered PDF page 531–535 and all 104 passages personally compared, including Ruth Officiosa (1715) attribution, eight hours, hymn/collect continuations, Commendation and seven same-office collect expansions. 49 formerly pending passages verified. P.532 `terce-b0006` now retains Prophetia/Monarchia as ablatives, the parallel Hi/Hic omitted-verb clauses and promissum as a participle. No invented comparative above, extra promise or external prophetic text.
+
+Three previously certified forms return to pending after actual inspection: p.532 `prime-b0008` camelii; p.533 `none-b0005` Quaeis; p.534 `compline-b0009` Tu reddimus. Their earlier confident English/provenance archived; actual source remains unchanged. In all, 17 independently confirmed source passages remain pending:
+
+- `lauds-b0006`, PDF 531,532: `Alvo Deum Virgo claudit, Clauso clausus hic applaudid, Ventris ex custodia; Linguae gestus obsequuntur, Dum infantum colloquuntur Muta jam prodigia.`
+- `prime-b0004`, PDF 532: `Mater parit; Pater credit; Reduente fide, redit Linguae beneficium. Eja felix partus Matris, Quo soluta lingua Patris Celebrat mysterium.`
+- `prime-b0005`, PDF 532: `Thori fructus Matri dantur; Ejam Matris expiantur Sterilis opprobria; Ortu tanti praecursoris Multi timent, sed timoris Comes est laetitia.`
+- `prime-b0006`, PDF 532: `Se de munde servans mundum, Munde vivit intra mundum In aetate tenera, Sed e mundi mox convictu Cedens, loco, veste, vietu Mera perfert aspera!`
+- `prime-b0008`, PDF 532: `Erat Joannes vestitus pilis camelii, et zona pellicea circa lumbos ejus, et locustas et mel sylvestre edebat.`
+- `terce-b0005`, PDF 532: `Quem dum replet lux superna, Verae lucis fit lucerna: Veri solis Lucifer. Novus novae praecone legis, Imo novus novi Regis Pugnatur signifer.`
+- `sext-b0005`, PDF 533: `Non lux quidem fuit iste, Sed ut daret tibi, Christe, Luci testimonium. Non lux erat, sed lucerna: Verbum Christus luc aeterma, Lucem cerans omnium.`
+- `sext-b0006`, PDF 533: `Dum baptizat Christum soris, Reddit Christus dignioris Aquae beneficium; En! ut ambos curat Numen! Isti Flamen, illi flumen Addidit praeconium.`
+- `none-b0005`, PDF 533: `Qui baptizat, elevatur, Baptizatus non lavatur, In quo nulla macula, Aquae lavant, quin lavantur, Quaeis lavandi vires dantur, Vi mundantis omnia.`
+- `none-b0006`, PDF 533: `Contemplatur omnes istum, Quem putabat turba Christum, Stupens ad prodigia, Qui cervicem non erexit, Sed Dominum se despexit, Domini corrigia.`
+- `none-b0007`, PDF 533: `Attestante palam Christo: Non surrexit major isto Natus de muliere, Solum Christus se excepit, Qui de carne carnem cept. Sine carnis opere.`
+- `vespers-b0006`, PDF 534: `Inde saevit vis Tyranni, Sed ut crevite laus Joanni, Regi sic supplicium, Servit stultus nam prudenti, Dum probatur in persenti Innocens per impium.`
+- `compline-b0006`, PDF 534: `In natalis sui coena, Capitali plecti poena Rex Joannem jusserat, Spiculator saltatrici, Laena desert Genitrici Caput quod petierat;`
+- `compline-b0008`, PDF 534: `O mors vere pretiosa Prae quoa est tam gloriosa Vitae conversatio!`
+- `compline-b0009`, PDF 534: `Atque haec in laudem, Christe! Tu reddimus Baptistae Vota, et encomia, Nos ad vitam recto calle Ex hac mortis ducas valle Ejus ut per merita.`
+- `commendatio-ad-s-joannem-baptistam-b0002`, PDF 534: `Caput sacrum dum truncatur, Et Herodi praesentatur In fatali phiala, Aures claudis atque ora, Cassa vultus et aurora, Dive claudis lumina, Sed quid nobis denum erit, Caput nostrum si mors ferit! Urget ira Judicis? Ni tu audias clamantes, Ni respicias peccantes, Reos mi defenderis! Audi ergo, interpella, Ut gehennae ex procella Caput nostrum eruas, Christus sed benigne donet, Ne in illud dira tonet, Sedes nobis coelicas.`
+- `commendatio-ad-s-joannem-baptistam-b0006`, PDF 535: `O Sancte Joannes Baptista, electe Praecursor et Angele Dei, qui venisti ante faciem Domini parare vias ejus, ostendens Agnum Dei, Dominum et Salvatorem nostrum, qui tollit peccata mundi: Intercede, quaesumus, pro nobis ad Dominum, ut sicut sanctitate nemini minor, humilitate omnibus major, Prophetarum potissimus, primus Martyrum exstitisti, ita, quem praedicando humiliter praecurristi, ejusdem fideliter mandata sequendo, vitam capiamus aeternam. Per eundem Christum Dominum nostrum, cui cum Patre et Spiritu Sancto vivit et regnat Deus in saecula saeculorum. Amen.`
+
+Seventeen offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Office remains pending; Dominican complete. No merge or deployment.
+
+Validated checkpoint: 38 offices reviewed, 44 pending; **4,184 passages pending**, eleven separate reference issues. One hundred four independently documented source blockers across nineteen offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
