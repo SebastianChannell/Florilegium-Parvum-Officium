@@ -6218,6 +6218,18 @@
           "night-office-b0019": "c9d21c5212efc111415c65d54b6f2176a987a58b1e636215d59bfaa7d5d0ed14",
           "night-office-b0041": "300c45886884cab8ba831145a76b676e2085a936b604ce742ccd1c81459d4150",
           "night-office-b0051": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "suppliedEnglishCorrections": {
+          "night-office-b0041": {
+            "digest": "0dcaf3080e6b79f91ec93ff69d2a4773097a5e068b403350f46b83c6c0ae1d68",
+            "sourcePages": [
+              268,
+              269
+            ],
+            "verification": "visual-review",
+            "review": "Printed English pp.113–114 omits the two final psalm verses present in the Latin pp.268–269; a prepared reading restores their actual extent.",
+            "requiredNoteText": "Printed English pp"
+          }
         }
       },
       {
@@ -6233,6 +6245,27 @@
           "lauds-b0018": "5e934ec89c53e4f8132e7786c4c9906265931b942041b3e1808f6c4e637a2ebc",
           "lauds-b0019": "a7a92efb40bb9cd9e522462a29170cdd22fc8f3e3d8501fd50f86408ca402760",
           "lauds-b0026": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "suppliedEnglishCorrections": {
+          "lauds-b0003": {
+            "digest": "06de66f2835578fb96e0e627f6ff1c1cf37e2d25a071014f476a69c2375d5bbb",
+            "sourcePages": [
+              269,
+              270
+            ],
+            "verification": "visual-review",
+            "review": "Printed English p.125 omits Terra dedit fructum suum, actually present p.270; prepared reading restores the verse.",
+            "requiredNoteText": "Printed English p"
+          },
+          "lauds-b0018": {
+            "digest": "eb4b0f06ad315a0e9763931e240a568ee30d00a806ec885ba0b28a413a0379ae",
+            "sourcePages": [
+              271
+            ],
+            "verification": "source-reading-pending",
+            "review": "Actual p.271 prints datum se nobis and only Gloria Patri; printed English pp.293–294 supplies a normalised clause and the full doxology. Unresolved Latin remains explicitly bracketed and the abbreviated ending is retained.",
+            "requiredNoteText": "Actual p"
+          }
         }
       },
       {
@@ -6309,6 +6342,26 @@
           "compline-b0009": "74905896f23eb41cc4351fd63998d5f83db64e2282ee62a153fbe994d22eca82",
           "compline-b0017": "a98a6928cd48efd3ef086621864d728a1b6bb7decb362b824210445ceb485bbe",
           "compline-b0018": "a7a92efb40bb9cd9e522462a29170cdd22fc8f3e3d8501fd50f86408ca402760"
+        },
+        "suppliedEnglishCorrections": {
+          "compline-b0007": {
+            "digest": "1b7a8d33b6b65c020ec8bc70e5a681e7ec80fdaa7350f0f2d7f42bc9157d43e8",
+            "sourcePages": [
+              278
+            ],
+            "verification": "visual-review",
+            "review": "Actual supplied English p.160 omits for in its phrase too wonderful me and renders ambulavi in the present; prepared English corrects the grammatical omission and retains the Latin past tense.",
+            "requiredNoteText": "Actual supplied English p"
+          },
+          "compline-b0017": {
+            "digest": "8531a1b84526beeb11dcffef55f1c9acdff93cebf83540b246d26e9fccbb715d",
+            "sourcePages": [
+              279
+            ],
+            "verification": "visual-review",
+            "review": "Actual p.279 prints one cross before servum, while supplied English p.161 prints two; prepared reading retains one sign at its actual source location.",
+            "requiredNoteText": "Actual p"
+          }
         }
       }
     ]

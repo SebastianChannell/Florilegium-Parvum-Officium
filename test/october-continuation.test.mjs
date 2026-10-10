@@ -17,7 +17,23 @@ test('continued offices conserve source text, existing English, and printed hour
    for(const [id,hash] of Object.entries(section.existingEnglish)){
     const row=rows.find(b=>b.id===id);
     const correction=section.reviewedEnglishCorrections?.[id];
-    if(correction){
+    const supplied=section.suppliedEnglishCorrections?.[id];
+    if(supplied){
+     assert(supplied.review?.trim());
+     assert.equal(digest(row.originalSuppliedEnglish),hash);
+     assert.equal(digest(row.english),supplied.digest);
+     assert.equal(row.originalTranslation.kind,'supplied');
+     assert(row.originalEnglishPages.length>0);
+     assert.equal(row.printedParallelText.text,row.originalSuppliedEnglish);
+     assert.deepEqual(row.printedParallelText.pages,row.originalEnglishPages);
+     assert.equal(row.translation.kind,'prepared');
+     assert.equal(row.translation.method,'visual-pdf-prepared-translation');
+     assert.equal(row.translation.review,'editorial-review-complete');
+     assert.equal(row.verification,supplied.verification);
+     assert.deepEqual(row.sourcePages,supplied.sourcePages);
+     assert(row.editorialNote.includes(row.originalSuppliedEnglish));
+     assert(row.editorialNote.includes(supplied.requiredNoteText));
+    }else if(correction){
      assert(correction.review?.trim());
      assert.equal(digest(row.originalPreparedEnglish),hash);
      assert.equal(digest(row.english),correction.digest);
