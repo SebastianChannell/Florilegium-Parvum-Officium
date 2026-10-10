@@ -26,7 +26,7 @@ test('continued offices conserve source text, existing English, and printed hour
      assert.equal(row.translation.kind,'prepared');
      assert.equal(row.translation.review,'editorial-review-complete');
      assert.equal(row.verification,'visual-review');
-     assert(row.editorialNote?.includes('Septuagesima'));
+     assert(row.editorialNote?.includes(correction.requiredNoteText ?? 'Septuagesima'));
     }else assert.equal(digest(row.english),hash);
    }
    if(!entry.partial)assert(rows.every(b=>b.english?.trim()));

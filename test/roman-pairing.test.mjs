@@ -22,7 +22,7 @@ test('Roman pairing preserves both printed columns across all eight hours', () =
     assert.equal(digest(printed), section.printedRightDigest, `${section.id} right column`);
     assert(blocks.every(b => b.english?.trim()));
   }
-  assert.equal(office.status.verification, 'source-reading-pending');
+  assert.equal(office.status.verification, 'visual-review');
   for (const b of office.sections.flatMap(s => s.blocks).filter(b => b.translation?.reusedFrom)) {
     const original = office.sections.flatMap(s => s.blocks).find(t => t.id === b.translation.reusedFrom);
     assert.equal(b.source, original.source);
@@ -47,11 +47,15 @@ test('Roman weekday selector includes exactly the printed psalm group and refere
   assert(!compline.some(b => /Alma Redemptoris Mater/.test(b.source)));
 });
 
-test('differing printed collects require visible notes and cannot be certified reviewed', () => {
+test('unaligned printed texts require visible notes and cannot be certified reviewed', () => {
   const changed = structuredClone(input);
   const block = changed.documents.get(expected.office).sections.flatMap(s => s.blocks)
-    .find(b => b.alignment === 'source-discrepancy');
+    .find(b => b.originalAlignment === 'source-discrepancy');
   assert(block.editorialNote);
+  block.alignment = 'source-discrepancy';
+  block.english = block.originalSuppliedEnglish;
+  block.translation = block.originalTranslation;
+  block.verification = 'source-reading-pending';
   block.editorialNote = '';
   assert(validateContent(changed).errors.some(e => /Source discrepancy/.test(e.message)));
   block.editorialNote = 'The printed collects differ.';

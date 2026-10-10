@@ -26,11 +26,11 @@
       "language": "English"
     }
   ],
-  "translationNotice": null,
+  "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
     "extraction": "reviewed-with-source-discrepancies",
-    "translation": "complete-supplied-reading-pending",
-    "verification": "source-reading-pending"
+    "translation": "complete-mixed",
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -148,22 +148,22 @@
         {
           "type": "prayer",
           "source": "℣. Domine, labia ✠ea aperies.",
-          "english": "℣. Lord, ✠Thou shalt open my lips.",
+          "english": "℣. O Lord, Thou shalt open ✠those lips.",
           "sourcePages": [
             105
           ],
           "translation": {
-            "kind": "supplied",
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
             "sourcePages": [
               105
-            ]
+            ],
+            "review": "editorial-review-complete",
+            "method": "manual-translation-of-verified-source"
           },
           "alignment": "reviewed",
           "id": "matins-b0004",
           "verification": "visual-review",
-          "englishPages": [
-            105
-          ],
           "pairingReview": {
             "sourceBlockIds": [
               "matins-b0004"
@@ -173,7 +173,25 @@
             ],
             "method": "manual-source-comparison"
           },
-          "editorialNote": "The PDF prints “Domine, labia ✠ea aperies,” with an incomplete Latin word. The printed source and its supplied English are retained."
+          "editorialNote": "10 October 2026: actual PDF p.105 personally inspected. Latin prints “labia ✠ea”: ea is a complete neuter-plural demonstrative agreeing with labia, literally “those lips”. The cross is retained as a gesture sign. Prepared English translates the printed words without adding an unprinted m or claiming what the compiler intended. The earlier description of ea as incomplete is superseded by this literal grammatical reading. Original supplied English (printed on PDF p.105, or reused from that page) retained unchanged: “℣. Lord, ✠Thou shalt open my lips.”",
+          "originalSuppliedEnglish": "℣. Lord, ✠Thou shalt open my lips.",
+          "originalPreparedEnglish": "℣. Lord, ✠Thou shalt open my lips.",
+          "originalTranslation": {
+            "kind": "supplied",
+            "sourcePages": [
+              105
+            ]
+          },
+          "originalEnglishPages": [
+            105
+          ],
+          "printedParallelText": {
+            "text": "℣. Lord, ✠Thou shalt open my lips.",
+            "pages": [
+              105
+            ],
+            "language": "English"
+          }
         },
         {
           "type": "prayer",
@@ -5629,22 +5647,22 @@
         {
           "type": "prayer",
           "source": "Ant. from Christmas to Candlemas Quando natus es ineffabiliter ex Virgine, tunc impletae sunt Scripturae: sicut pluvia in vellus descendisti, ut salvum faceres genus humanum: te laudamus, Deus noster. Ant. from Christmas to Candlemas Rubum, quem viderat Moyses.",
-          "english": "Ant. from Christmas to Candlemas When thou wert wondrously born of a virgin, and becoming man without man’s concurrence, bestowed upon us His Godhead. Ant. from Christmas to Candlemas The bush which Moses saw.",
+          "english": "Ant. from Christmas to Candlemas When thou wert ineffably born of a Virgin, then were the Scriptures fulfilled: as rain upon the fleece Thou didst descend, that Thou mightest save the human race: we praise Thee, our God. Ant. from Christmas to Candlemas The bush which Moses saw.",
           "sourcePages": [
             124
           ],
           "translation": {
-            "kind": "supplied",
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
             "sourcePages": [
               124
-            ]
+            ],
+            "review": "editorial-review-complete",
+            "method": "manual-translation-of-verified-source"
           },
-          "alignment": "source-discrepancy",
+          "alignment": "reviewed",
           "id": "lauds-b0020",
-          "verification": "source-reading-pending",
-          "englishPages": [
-            124
-          ],
+          "verification": "visual-review",
           "pairingReview": {
             "sourceBlockIds": [
               "lauds-b0020"
@@ -5654,7 +5672,25 @@
             ],
             "method": "manual-source-comparison"
           },
-          "editorialNote": "The supplied English of “Quando natus es” changes to wording from another antiphon. Both printed versions are retained; they are not equivalent translations."
+          "editorialNote": "10 October 2026: Both columns personally compared on PDF p.124. The supplied English changes to another antiphon after its incipit and omits the Latin’s fulfilled Scriptures, rain on the fleece, saving the human race and praise. English faithful to the complete verified Latin is now prepared and marked as such. The following Rubum incipit and printed Christmas-to-Candlemas labels are retained. The entire differing printed English and its pages/provenance remain archived and quoted; no Latin is changed. Original English printed beside this Latin (retained unchanged): “Ant. from Christmas to Candlemas When thou wert wondrously born of a virgin, and becoming man without man’s concurrence, bestowed upon us His Godhead. Ant. from Christmas to Candlemas The bush which Moses saw.”",
+          "originalSuppliedEnglish": "Ant. from Christmas to Candlemas When thou wert wondrously born of a virgin, and becoming man without man’s concurrence, bestowed upon us His Godhead. Ant. from Christmas to Candlemas The bush which Moses saw.",
+          "originalTranslation": {
+            "kind": "supplied",
+            "sourcePages": [
+              124
+            ]
+          },
+          "originalEnglishPages": [
+            124
+          ],
+          "originalAlignment": "source-discrepancy",
+          "printedParallelText": {
+            "text": "Ant. from Christmas to Candlemas When thou wert wondrously born of a virgin, and becoming man without man’s concurrence, bestowed upon us His Godhead. Ant. from Christmas to Candlemas The bush which Moses saw.",
+            "pages": [
+              124
+            ],
+            "language": "English"
+          }
         },
         {
           "type": "rubric",
@@ -9330,21 +9366,26 @@
         {
           "type": "prayer",
           "source": "Deus, qui virginalem aulam beatae Mariae, in qua habitares, eligere dignatus es: da, quaesumus; ut, sua nos defensione munitos, jucundos facias suae interesse commemorationi. Qui vivis et regnas cum Deo Patre, in unitate Spiritus Sancti, Deus, per omnia saecula saeculorum. Amen.",
-          "english": "O God, Who, by the fruitful virginity of blessed Mary, hast given to mankind the rewards of eternal salvation: grant, we beseech Thee, that we may experience her intercession for us, by whom we deserved to receive the Author of life, Our Lord Jesus Christ, Thy Son. Who liveth and reigneth with Thee in the unity of the Holy Ghost, God, world without end. Amen.",
+          "english": "O God, Who didst vouchsafe to choose the virgin palace of blessed Mary for Thy dwelling; grant, we beseech Thee, that we, who are shielded by her protection, may by Thy grace join with gladness in her commemoration. Who livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end. Amen.",
           "sourcePages": [
             138,
             139
           ],
           "translation": {
             "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "prime-b0030",
             "sourcePages": [
+              138,
               139
             ]
           },
-          "alignment": "source-discrepancy",
+          "alignment": "reviewed",
           "id": "prime-b0033",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "englishPages": [
+            138,
             139
           ],
           "pairingReview": {
@@ -9356,7 +9397,25 @@
             ],
             "method": "manual-source-comparison"
           },
-          "editorialNote": "The PDF prints “Deus, qui virginalem aulam” in Latin but the English of “Deus, qui salutis aeternae.” These are different collects. Both printed texts are retained here; this pairing requires editorial resolution."
+          "editorialNote": "10 October 2026: PDF pp.138–139 personally compared in both columns. During Advent repeats the Latin collect of Outside Advent but prints a different English collect. The reader now uses the unchanged English actually printed for the identical complete Latin immediately above. The seasonal headings and Latin order remain exactly as printed; this is a documented English reuse, not a change to the printed source. Original English printed beside this Latin (retained unchanged): “O God, Who, by the fruitful virginity of blessed Mary, hast given to mankind the rewards of eternal salvation: grant, we beseech Thee, that we may experience her intercession for us, by whom we deserved to receive the Author of life, Our Lord Jesus Christ, Thy Son. Who liveth and reigneth with Thee in the unity of the Holy Ghost, God, world without end. Amen.”",
+          "originalSuppliedEnglish": "O God, Who, by the fruitful virginity of blessed Mary, hast given to mankind the rewards of eternal salvation: grant, we beseech Thee, that we may experience her intercession for us, by whom we deserved to receive the Author of life, Our Lord Jesus Christ, Thy Son. Who liveth and reigneth with Thee in the unity of the Holy Ghost, God, world without end. Amen.",
+          "originalTranslation": {
+            "kind": "supplied",
+            "sourcePages": [
+              139
+            ]
+          },
+          "originalEnglishPages": [
+            139
+          ],
+          "originalAlignment": "source-discrepancy",
+          "printedParallelText": {
+            "text": "O God, Who, by the fruitful virginity of blessed Mary, hast given to mankind the rewards of eternal salvation: grant, we beseech Thee, that we may experience her intercession for us, by whom we deserved to receive the Author of life, Our Lord Jesus Christ, Thy Son. Who liveth and reigneth with Thee in the unity of the Holy Ghost, God, world without end. Amen.",
+            "pages": [
+              139
+            ],
+            "language": "English"
+          }
         },
         {
           "type": "rubric",
@@ -10380,21 +10439,26 @@
         {
           "type": "prayer",
           "source": "Deus, qui de beatae Mariae Virginis utero, Verbum tuum, angelo nuntiante, carnem suscipere voluisti; praesta supplicibus tuis, ut qui vere eam Genetricem Dei credimus, ejus apud te intercessionibus adjuvemur. Per eundem Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti, Deus, per omnia saecula saeculorum. Amen.",
-          "english": "O God, Who, by the fruitful virginity of blessed Mary, hast given to mankind the rewards of eternal salvation: grant, we beseech Thee, that we may experience her intercession for us, by whom we deserved to receive the Author of life, Our Lord Jesus Christ, Thy Son. Who liveth and reigneth with Thee in the unity of the Holy Ghost, God, world without end. Amen.",
+          "english": "O God, Who didst will that Thine eternal Word should take flesh in the womb of the Blessed Virgin Mary, when the angel delivered his message: grant that Thy petitioners, who verily believe her to be the Mother of God, may be assisted by her intercession with Thee through the same Jesus Christ, Thy Son, our Lord, Who liveth and reigneth with Thee, in the unity of the Holy Ghost, God, world without end. Amen.",
           "sourcePages": [
             142
           ],
           "translation": {
             "kind": "supplied",
+            "method": "manual-printed-collect-realignment",
             "sourcePages": [
-              142
-            ]
+              142,
+              143
+            ],
+            "alignedFromPrintedBlock": "terce-b0031",
+            "review": "editorial-review-complete"
           },
-          "alignment": "source-discrepancy",
+          "alignment": "reviewed",
           "id": "terce-b0028",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "englishPages": [
-            142
+            142,
+            143
           ],
           "pairingReview": {
             "sourceBlockIds": [
@@ -10403,9 +10467,38 @@
             "suppliedEnglishIndices": [
               28
             ],
-            "method": "manual-source-comparison"
+            "method": "manual-source-comparison",
+            "alignedEnglishFrom": {
+              "block": "terce-b0031",
+              "suppliedEnglishIndices": [
+                31,
+                32
+              ],
+              "pages": [
+                142,
+                143
+              ]
+            }
           },
-          "editorialNote": "The two seasonal English collects at Terce are reversed relative to the Latin in the PDF. This row retains the printed “Outside Advent” texts, which are different collects."
+          "editorialNote": "10 October 2026: Both complete Latin collects and both complete printed English paragraphs personally compared on PDF pp.142–143. The English paragraphs are transposed under the printed seasonal labels; they are now manually aligned with their actual matching Latin. Their wording is unchanged. The original text beside this row and its original pages remain archived and quoted. Printed seasonal headings are retained, without an inferred calendar correction. Original English printed beside this Latin (retained unchanged): “O God, Who, by the fruitful virginity of blessed Mary, hast given to mankind the rewards of eternal salvation: grant, we beseech Thee, that we may experience her intercession for us, by whom we deserved to receive the Author of life, Our Lord Jesus Christ, Thy Son. Who liveth and reigneth with Thee in the unity of the Holy Ghost, God, world without end. Amen.”",
+          "originalSuppliedEnglish": "O God, Who, by the fruitful virginity of blessed Mary, hast given to mankind the rewards of eternal salvation: grant, we beseech Thee, that we may experience her intercession for us, by whom we deserved to receive the Author of life, Our Lord Jesus Christ, Thy Son. Who liveth and reigneth with Thee in the unity of the Holy Ghost, God, world without end. Amen.",
+          "originalTranslation": {
+            "kind": "supplied",
+            "sourcePages": [
+              142
+            ]
+          },
+          "originalEnglishPages": [
+            142
+          ],
+          "originalAlignment": "source-discrepancy",
+          "printedParallelText": {
+            "text": "O God, Who, by the fruitful virginity of blessed Mary, hast given to mankind the rewards of eternal salvation: grant, we beseech Thee, that we may experience her intercession for us, by whom we deserved to receive the Author of life, Our Lord Jesus Christ, Thy Son. Who liveth and reigneth with Thee in the unity of the Holy Ghost, God, world without end. Amen.",
+            "pages": [
+              142
+            ],
+            "language": "English"
+          }
         },
         {
           "type": "rubric",
@@ -10468,23 +10561,24 @@
         {
           "type": "prayer",
           "source": "Deus, qui salutis aeternae, beatae Mariae virginitate fecunda, humano generi praemia praestitisti: tribue, quaesumus; ut ipsam pro nobis intercedere sentiamus, per quam meruimus auctorem vitae suscipere, Dominum nostrum Jesum Christum Filium tuum: Qui tecum vivit et regnat in unitate Spiritus Sancti, Deus, per omnia saecula saeculorum. Amen.",
-          "english": "O God, Who didst will that Thine eternal Word should take flesh in the womb of the Blessed Virgin Mary, when the angel delivered his message: grant that Thy petitioners, who verily believe her to be the Mother of God, may be assisted by her intercession with Thee through the same Jesus Christ, Thy Son, our Lord, Who liveth and reigneth with Thee, in the unity of the Holy Ghost, God, world without end. Amen.",
+          "english": "O God, Who, by the fruitful virginity of blessed Mary, hast given to mankind the rewards of eternal salvation: grant, we beseech Thee, that we may experience her intercession for us, by whom we deserved to receive the Author of life, Our Lord Jesus Christ, Thy Son. Who liveth and reigneth with Thee in the unity of the Holy Ghost, God, world without end. Amen.",
           "sourcePages": [
             142
           ],
           "translation": {
             "kind": "supplied",
+            "method": "manual-printed-collect-realignment",
             "sourcePages": [
-              142,
-              143
-            ]
+              142
+            ],
+            "alignedFromPrintedBlock": "terce-b0028",
+            "review": "editorial-review-complete"
           },
-          "alignment": "source-discrepancy",
+          "alignment": "reviewed",
           "id": "terce-b0031",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "englishPages": [
-            142,
-            143
+            142
           ],
           "pairingReview": {
             "sourceBlockIds": [
@@ -10494,9 +10588,39 @@
               31,
               32
             ],
-            "method": "manual-source-comparison"
+            "method": "manual-source-comparison",
+            "alignedEnglishFrom": {
+              "block": "terce-b0028",
+              "suppliedEnglishIndices": [
+                28
+              ],
+              "pages": [
+                142
+              ]
+            }
           },
-          "editorialNote": "The two seasonal English collects at Terce are reversed relative to the Latin in the PDF. This row retains the printed “During Advent” texts, which are different collects."
+          "editorialNote": "10 October 2026: Both complete Latin collects and both complete printed English paragraphs personally compared on PDF pp.142–143. The English paragraphs are transposed under the printed seasonal labels; they are now manually aligned with their actual matching Latin. Their wording is unchanged. The original text beside this row and its original pages remain archived and quoted. Printed seasonal headings are retained, without an inferred calendar correction. Original English printed beside this Latin (retained unchanged): “O God, Who didst will that Thine eternal Word should take flesh in the womb of the Blessed Virgin Mary, when the angel delivered his message: grant that Thy petitioners, who verily believe her to be the Mother of God, may be assisted by her intercession with Thee through the same Jesus Christ, Thy Son, our Lord, Who liveth and reigneth with Thee, in the unity of the Holy Ghost, God, world without end. Amen.”",
+          "originalSuppliedEnglish": "O God, Who didst will that Thine eternal Word should take flesh in the womb of the Blessed Virgin Mary, when the angel delivered his message: grant that Thy petitioners, who verily believe her to be the Mother of God, may be assisted by her intercession with Thee through the same Jesus Christ, Thy Son, our Lord, Who liveth and reigneth with Thee, in the unity of the Holy Ghost, God, world without end. Amen.",
+          "originalTranslation": {
+            "kind": "supplied",
+            "sourcePages": [
+              142,
+              143
+            ]
+          },
+          "originalEnglishPages": [
+            142,
+            143
+          ],
+          "originalAlignment": "source-discrepancy",
+          "printedParallelText": {
+            "text": "O God, Who didst will that Thine eternal Word should take flesh in the womb of the Blessed Virgin Mary, when the angel delivered his message: grant that Thy petitioners, who verily believe her to be the Mother of God, may be assisted by her intercession with Thee through the same Jesus Christ, Thy Son, our Lord, Who liveth and reigneth with Thee, in the unity of the Holy Ghost, God, world without end. Amen.",
+            "pages": [
+              142,
+              143
+            ],
+            "language": "English"
+          }
         },
         {
           "type": "rubric",
@@ -12886,24 +13010,22 @@
         {
           "type": "prayer",
           "source": "Ant. from Christmas to Candlemas Quando natus es ineffabiliter ex Virgine, tunc impletae sunt Scripturae: sicut pluvia in vellus descendisti, ut salvum faceres genus humanum: te laudamus, Deus noster. Ant. from Christmas to Candlemas Rubum, quem viderat Moyses.",
-          "english": "Ant. from Christmas to Candlemas When thou wert wondrously born of a virgin, and becoming man without man’s concurrence, bestowed upon us His Godhead. Ant. from Christmas to Candlemas The bush which Moses saw.",
+          "english": "Ant. from Christmas to Candlemas When thou wert ineffably born of a Virgin, then were the Scriptures fulfilled: as rain upon the fleece Thou didst descend, that Thou mightest save the human race: we praise Thee, our God. Ant. from Christmas to Candlemas The bush which Moses saw.",
           "sourcePages": [
             151
           ],
           "translation": {
-            "kind": "supplied",
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
             "sourcePages": [
-              151,
-              152
-            ]
+              151
+            ],
+            "review": "editorial-review-complete",
+            "method": "manual-translation-of-verified-source"
           },
-          "alignment": "source-discrepancy",
+          "alignment": "reviewed",
           "id": "vespers-b0013",
-          "verification": "source-reading-pending",
-          "englishPages": [
-            151,
-            152
-          ],
+          "verification": "visual-review",
           "pairingReview": {
             "sourceBlockIds": [
               "vespers-b0013"
@@ -12914,7 +13036,28 @@
             ],
             "method": "manual-source-comparison"
           },
-          "editorialNote": "The supplied English of “Quando natus es” changes to wording from a different antiphon (“bestowed upon us His Godhead”). The PDF’s differing texts are retained; this is not an exact translation of the Latin."
+          "editorialNote": "10 October 2026: Both columns personally compared on PDF pp.151–152. The supplied English changes to another antiphon after its incipit and omits the Latin’s fulfilled Scriptures, rain on the fleece, saving the human race and praise. English faithful to the complete verified Latin is now prepared and marked as such. The following Rubum incipit and printed Christmas-to-Candlemas labels are retained. The entire differing printed English and its pages/provenance remain archived and quoted; no Latin is changed. Original English printed beside this Latin (retained unchanged): “Ant. from Christmas to Candlemas When thou wert wondrously born of a virgin, and becoming man without man’s concurrence, bestowed upon us His Godhead. Ant. from Christmas to Candlemas The bush which Moses saw.”",
+          "originalSuppliedEnglish": "Ant. from Christmas to Candlemas When thou wert wondrously born of a virgin, and becoming man without man’s concurrence, bestowed upon us His Godhead. Ant. from Christmas to Candlemas The bush which Moses saw.",
+          "originalTranslation": {
+            "kind": "supplied",
+            "sourcePages": [
+              151,
+              152
+            ]
+          },
+          "originalEnglishPages": [
+            151,
+            152
+          ],
+          "originalAlignment": "source-discrepancy",
+          "printedParallelText": {
+            "text": "Ant. from Christmas to Candlemas When thou wert wondrously born of a virgin, and becoming man without man’s concurrence, bestowed upon us His Godhead. Ant. from Christmas to Candlemas The bush which Moses saw.",
+            "pages": [
+              151,
+              152
+            ],
+            "language": "English"
+          }
         },
         {
           "type": "rubric",
@@ -16447,6 +16590,19 @@
         112
       ],
       "text": "The Matins psalm-group selector follows the three weekday groups printed in the PDF. Other seasonal alternatives remain inline. Openings, conclusions, and the Compline anthem reference expand from their named hours in this office."
+    },
+    {
+      "pages": [
+        105,
+        124,
+        138,
+        139,
+        142,
+        143,
+        151,
+        152
+      ],
+      "text": "10 October 2026: five remaining pairing discrepancies corrected after inspection of both actual columns on pp.124,138–139,142–143,151–152. Original printed English, pages and provenance retained. P.105 opening now receives prepared literal English for grammatical ea, retaining the differing printed “my lips” in full. No Latin or seasonal labels changed. Prior 59-page review preserved; this session rechecked the affected passages, not all 59 pages. All 534 passages now visually reviewed."
     }
   ],
   "variants": [
@@ -16474,5 +16630,6 @@
         }
       ]
     }
-  ]
+  ],
+  "translationScope": "marked"
 }

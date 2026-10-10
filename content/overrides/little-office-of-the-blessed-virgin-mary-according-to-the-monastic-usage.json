@@ -123,11 +123,28 @@
         {
           "type": "prayer",
           "source": "℣. Domine, labia ✠ea aperies.",
-          "english": "℣. Lord, ✠Thou shalt open my lips.",
+          "english": "℣. O Lord, Thou shalt open ✠those lips.",
           "sourcePages": [
             321
           ],
           "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              321
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "matins-b0004"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0004",
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual PDF p.321 personally inspected. Latin prints “labia ✠ea”: ea is a complete neuter-plural demonstrative agreeing with labia, literally “those lips”. The cross is retained as a gesture sign. Prepared English translates the printed words without adding an unprinted m or claiming what the compiler intended. The earlier description of ea as incomplete is superseded by this literal grammatical reading. Original supplied English (printed on PDF p.105, or reused from that page) retained unchanged: “℣. Lord, ✠Thou shalt open my lips.”",
+          "originalSuppliedEnglish": "℣. Lord, ✠Thou shalt open my lips.",
+          "originalPreparedEnglish": "℣. Lord, ✠Thou shalt open my lips.",
+          "originalTranslation": {
             "kind": "supplied",
             "method": "exact-reviewed-pdf-reuse",
             "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
@@ -136,13 +153,9 @@
               105
             ]
           },
-          "alignment": "reviewed",
-          "id": "matins-b0004",
-          "verification": "source-reading-pending",
-          "englishPages": [
+          "originalEnglishPages": [
             105
-          ],
-          "editorialNote": "The PDF prints “labia ✠ea,” where the expected possessive is “mea.” The supplied English renders “my lips”; the irregular Latin remains visible."
+          ]
         },
         {
           "type": "prayer",
