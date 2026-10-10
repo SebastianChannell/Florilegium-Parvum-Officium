@@ -22,7 +22,7 @@ test('Roman pairing preserves both printed columns across all eight hours', () =
     assert.equal(digest(printed), section.printedRightDigest, `${section.id} right column`);
     assert(blocks.every(b => b.english?.trim()));
   }
-  assert.equal(office.status.verification, 'visual-review');
+  assert.equal(office.status.verification, 'source-reading-pending');
   for (const b of office.sections.flatMap(s => s.blocks).filter(b => b.translation?.reusedFrom)) {
     const original = office.sections.flatMap(s => s.blocks).find(t => t.id === b.translation.reusedFrom);
     assert.equal(b.source, original.source);

@@ -147,3 +147,13 @@ Six formerly certified passages also contain unresolved actual forms and return 
 Fourteen offices fully compared in this session now have fifty-four independently documented blocked passages. Six falsely certified passages demoted; no passage certified merely because existing English is fluent. Roman and Dominican separately complete based on their preserved earlier full reviews. No merge or deployment.
 
 Validated checkpoint: 39 offices reviewed, 43 pending; **4,320 passages pending**, eleven separate reference issues. Structural check, all 44 tests and preview pass; strict coverage remains blocked by pending work.
+
+## Monastic: four remaining passages and Roman origin correction
+
+Personally inspected Monastic pp.323,325,328,347 and compared all four remaining pending passages. P.323 `matins-b0032` cleared: dramatis is a valid genitive, already accurately translated by the unchanged supplied/reused “of the play”; the old note’s claim that current English followed dogmatis was stale. Three independently documented blockers remain: p.325 `matins-b0063` incomplete tionis ejus; p.328 `matins-b0152` liber; p.347 `compline-b0051` pre quam. Unsupported prepared imperative/preposition repairs now bracketed with originals/provenance archived. Supplied Psalm English remains unchanged; its visible note identifies the omitted fragment. Prior complete pp.321–347 comparison preserved; no new full 27-page pass claimed.
+
+Dependency inspection also personally verified Roman p.114: `matins-b0066` prints the same incomplete tionis ejus, despite prior certification. This passage and the Roman office return to source-reading-pending. Earlier Roman completion checkpoint is superseded; its five corrected pairing discrepancies and literal ea opening remain valid. Original supplied English and pages remain unchanged. Both Monastic and Carmelite Psalm reuse rows retain archived original exact-reviewed provenance and their unchanged supplied English, but now explicitly identify historical reuse from a pending origin. No fully reviewed reuse claim is retained.
+
+The fourteen offices fully compared this session retain fifty-four documented blocked passages; this four-passage Monastic audit adds three, and the separately inspected Roman passage adds one. Fifty-eight independently documented source blockers across sixteen offices. Dominican remains complete. No merge or deployment.
+
+Validated checkpoint: 38 offices reviewed, 44 pending; **4,320 passages pending**, eleven separate reference issues. Structural check, all 44 tests and preview pass; strict coverage remains blocked by pending work. Earlier reviewed-office counts are superseded by the Roman source-fragment demotion.

@@ -29,8 +29,8 @@
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
     "extraction": "reviewed-with-source-discrepancies",
-    "translation": "complete-mixed",
-    "verification": "visual-review"
+    "translation": "complete-mixed-reading-pending",
+    "verification": "source-reading-pending"
   },
   "sections": [
     {
@@ -2090,7 +2090,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0066",
-          "verification": "visual-review",
+          "verification": "source-reading-pending",
           "englishPages": [
             114,
             115
@@ -2108,7 +2108,8 @@
             "matins-psalms": [
               "wed-sat"
             ]
-          }
+          },
+          "editorialNote": "10 October 2026: actual rendered PDF p.114 personally inspected. The Latin visibly appends incomplete tionis ejus to the Psalm’s final verse before Gloria Patri. Supplied English omits that fragment and remains unchanged, with its actual printed pages/provenance retained. No missing initial letters are supplied. This previously certified passage returns to source-reading-pending; the prior office completion is superseded by this genuine source blocker."
         },
         {
           "type": "prayer",
@@ -16603,6 +16604,12 @@
         152
       ],
       "text": "10 October 2026: five remaining pairing discrepancies corrected after inspection of both actual columns on pp.124,138–139,142–143,151–152. Original printed English, pages and provenance retained. P.105 opening now receives prepared literal English for grammatical ea, retaining the differing printed “my lips” in full. No Latin or seasonal labels changed. Prior 59-page review preserved; this session rechecked the affected passages, not all 59 pages. All 534 passages now visually reviewed."
+    },
+    {
+      "pages": [
+        114
+      ],
+      "text": "10 October 2026 later checkpoint: personally inspected p.114 while auditing Monastic dependencies. The incomplete tionis ejus was previously falsely certified; matins-b0066 and the office return to source-reading-pending. Earlier completion entry is historical and superseded. All five corrected pairing discrepancies and the literal ea opening remain reviewed."
     }
   ],
   "variants": [

@@ -1570,13 +1570,14 @@
           ],
           "translation": {
             "kind": "supplied",
-            "method": "exact-reviewed-pdf-reuse",
+            "method": "archived-pdf-english-reuse",
             "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
             "reusedFrom": "matins-b0066",
             "sourcePages": [
               114,
               115
-            ]
+            ],
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "matins-b0059",
@@ -1585,7 +1586,17 @@
             114,
             115
           ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+          "editorialNote": "10 October 2026: original supplied PDF English reused from Roman pp.114–115 is retained unchanged. The former exact-reviewed-pdf-reuse certification is archived: its origin is now source-reading-pending after actual inspection of p.114 revealed incomplete tionis ejus. This row remains pending; no omitted letters are invented and no fully reviewed reuse claim remains.",
+          "originalTranslation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "matins-b0066",
+            "sourcePages": [
+              114,
+              115
+            ]
+          }
         },
         {
           "type": "prayer",
