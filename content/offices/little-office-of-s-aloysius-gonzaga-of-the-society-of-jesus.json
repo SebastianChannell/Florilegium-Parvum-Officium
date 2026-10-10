@@ -30,7 +30,7 @@
   "status": {
     "extraction": "reviewed",
     "translation": "complete-prepared",
-    "verification": "source-reading-pending"
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -140,8 +140,16 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed hymn uses unusual lunar, Martian, and Ides imagery. The English retains that imagery literally; no birth date or astrological explanation has been supplied."
+          "verification": "visual-review",
+          "editorialNote": "The earlier 1745 edition, p.283, confirms the printed lunar, Martian and Ides imagery. English preserves it without adding a birth date or an astrological interpretation. The attached Latin remains unchanged. The comparison uses the earlier 1745 edition, not the unexamined cited 1783 edition.",
+          "sourceReading": {
+            "status": "literal-reading-verified",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 327,
+            "printedPage": "283",
+            "reading": "Te luna Martis edidit, Te Martiale sidus;",
+            "attachedReading": "Te luna Martis edidit, Te Martiale sidus;"
+          }
         },
         {
           "type": "prayer",
@@ -297,7 +305,7 @@
         {
           "type": "prayer",
           "source": "Quem te vocabo vernulam Num tulipam colore? Violamne, veris gemmula, Casto fragrantem odore? Uterque flos est Virginis, Flos est uterque Flora Gonzaga tu propaginis Cujus flagras amore.",
-          "english": "What spring blossom shall I call thee? A tulip for thy colour? Or a violet, little jewel of spring, fragrant with a chaste scent? Each is a flower of the Virgin, each a flower of Flora. Gonzaga, thou art a shoot of Him with whose love thou burnest.",
+          "english": "What spring blossom shall I call thee? A tulip for thy colour? Or a violet, little jewel of spring, fragrant with a chaste scent? Each is a flower of the Virgin, each a flower of Flora. Gonzaga, thou art of the stock with whose love thou burnest.",
           "sourcePages": [
             429
           ],
@@ -311,8 +319,17 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed hymn’s “Flora” and “propaginis” lines have uncertain grammar. The prepared English retains Flora and provisionally understands the closing lines as a shoot of the beloved divine source."
+          "verification": "visual-review",
+          "editorialNote": "The earlier 1745 edition, p.284, prints the genitive “Florae”, corresponding to the attached “Flora”. The closing genitive “Propaginis” is retained as “of the stock”; the English no longer invents a masculine divine referent (“Him”). It preserves the relative wording and floral imagery without assigning an unstated identity to the stock. The attached Latin remains unchanged. The comparison uses the earlier 1745 edition, not the unexamined cited 1783 edition.",
+          "originalPreparedEnglish": "What spring blossom shall I call thee? A tulip for thy colour? Or a violet, little jewel of spring, fragrant with a chaste scent? Each is a flower of the Virgin, each a flower of Flora. Gonzaga, thou art a shoot of Him with whose love thou burnest.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 328,
+            "printedPage": "284",
+            "reading": "Flos est uterque Florae; Gonzaga tu Propaginis Cujus flagras amore.",
+            "attachedReading": "Flos est uterque Flora Gonzaga tu propaginis Cujus flagras amore."
+          }
         },
         {
           "type": "prayer",
@@ -798,7 +815,7 @@
         {
           "type": "prayer",
           "source": "Undene major paulum Hortum tuum colebas, Et suaviorum flosculum Cor ut daret, volebas? Quare supremo Numini Audes, sacraque Virgini Offerre puritatem.",
-          "english": "A little older, thou didst tend thy garden, wishing thy heart to yield a sweeter little flower. Therefore thou darest offer purity to the Most High God and to the holy Virgin.",
+          "english": "A little older than eleven, thou didst tend thy garden, wishing thy heart to yield a sweeter little flower. Therefore thou darest offer purity to the Most High God and to the holy Virgin.",
           "sourcePages": [
             430
           ],
@@ -812,8 +829,17 @@
           },
           "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints the malformed opening “Undene major paulum.” The English provisionally gives “a little older” without inventing a numerical age; the Latin is retained."
+          "verification": "visual-review",
+          "editorialNote": "The earlier 1745 edition, p.285, prints “Undenne major paulum”: a little older than eleven. It also includes “Vovere castitatem” (to vow chastity), absent from the attached stanza; that extra line is not imported. The English specifies the age supported by the checked earlier reading. The attached Latin remains unchanged. The comparison uses the earlier 1745 edition, not the unexamined cited 1783 edition.",
+          "originalPreparedEnglish": "A little older, thou didst tend thy garden, wishing thy heart to yield a sweeter little flower. Therefore thou darest offer purity to the Most High God and to the holy Virgin.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 329,
+            "printedPage": "285",
+            "reading": "Undenne major paulum",
+            "attachedReading": "Undene major paulum"
+          }
         },
         {
           "type": "prayer",
@@ -1161,7 +1187,7 @@
         {
           "type": "prayer",
           "source": "Transfertur ergo patria Gonzaga flos ab urbe, Romanae in Urbis atria: Sed saeviente sede In urbe pestilentia, Dum gnaviter ministrat Aegris, febris constantia Victus sub astra migrat.",
-          "english": "Thus Gonzaga, the flower, is transplanted from his native city into the courts of Rome. But when pestilence rages in the city, while diligently ministering to the sick, overcome by persistent fever, he passes to the stars.",
+          "english": "Thus Gonzaga, the flower, is transplanted from his native city into the courts of Rome. But when pestilence rages foully in the city, while diligently ministering to the sick, overcome by persistent fever, he passes to the stars.",
           "sourcePages": [
             430
           ],
@@ -1175,8 +1201,17 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0006",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints the awkward phrase “Sed saeviente sede / In urbe pestilentia.” The English provisionally renders pestilence raging in the city; the printed Latin is retained."
+          "verification": "visual-review",
+          "editorialNote": "The earlier 1745 edition, p.285, prints “foede” (foully) rather than the attached “sede”. The English follows the checked earlier wording, describing pestilence raging foully in the city. The attached Latin remains unchanged. The comparison uses the earlier 1745 edition, not the unexamined cited 1783 edition.",
+          "originalPreparedEnglish": "Thus Gonzaga, the flower, is transplanted from his native city into the courts of Rome. But when pestilence rages in the city, while diligently ministering to the sick, overcome by persistent fever, he passes to the stars.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 329,
+            "printedPage": "285",
+            "reading": "Sed saeviente foede In urbe pestilentia,",
+            "attachedReading": "Sed saeviente sede In urbe pestilentia,"
+          }
         },
         {
           "type": "prayer",
@@ -1259,7 +1294,7 @@
         {
           "type": "prayer",
           "source": "Flos amice Numina O gemma Tuliparum! Infense flos cupidini Splendor, decus stolorum, O castitatis lilium Gonzaga! digne caelos; Da, da tuorum insignium Nos aestuare zelo: Da, da superna quaerere; Ridere cuncta vana; Terrena da contemnere; Vitare da profana.",
-          "english": "O flower dear to the divine powers, O jewel among tulips! O flower hostile to lust, splendour and honour of robes, O lily of chastity, Gonzaga, worthy of heaven! Grant, grant that we may burn with zeal for thy distinctions. Grant that we may seek heavenly things and laugh at all that is vain; grant that we may despise earthly things and shun what is profane.",
+          "english": "O flower dear to the God, O jewel among tulips! O flower hostile to lust, splendour and honour of roses, O lily of chastity, Gonzaga, worthy of heaven! Grant, grant that we may burn with zeal for thy distinctions. Grant that we may seek heavenly things and laugh at all that is vain; grant that we may despise earthly things and shun what is profane.",
           "sourcePages": [
             431
           ],
@@ -1273,8 +1308,17 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0001",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “Numina” and “stolorum,” with uncertain grammar in this address. The English retains the literal divine-powers and robes imagery for editorial review."
+          "verification": "visual-review",
+          "editorialNote": "The earlier 1745 edition, p.286, prints “Numini” and “rosarum”, corresponding to the attached “Numina” and “stolorum”. The English now follows that attested reading: a flower dear to God, splendour and glory of roses. The prior literal divine-powers and robes rendering is preserved in the review history. The attached Latin remains unchanged. The comparison uses the earlier 1745 edition, not the unexamined cited 1783 edition.",
+          "originalPreparedEnglish": "O flower dear to the divine powers, O jewel among tulips! O flower hostile to lust, splendour and honour of robes, O lily of chastity, Gonzaga, worthy of heaven! Grant, grant that we may burn with zeal for thy distinctions. Grant that we may seek heavenly things and laugh at all that is vain; grant that we may despise earthly things and shun what is profane.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 330,
+            "printedPage": "286",
+            "reading": "Flos amice Numini; Splendor, decus rosarum!",
+            "attachedReading": "Flos amice Numina"
+          }
         }
       ]
     }

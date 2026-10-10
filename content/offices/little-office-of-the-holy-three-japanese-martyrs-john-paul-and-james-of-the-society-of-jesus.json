@@ -30,7 +30,7 @@
   "status": {
     "extraction": "reviewed",
     "translation": "complete-prepared",
-    "verification": "source-reading-pending"
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -258,8 +258,16 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints irregular case endings in “Martyrio gloria” and “quorum gloria coronam.” The prepared English provisionally renders the intended crown and glory of martyrdom; the printed Latin is retained."
+          "verification": "visual-review",
+          "editorialNote": "Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “Martyrii gloria; quorum gloriae coronam”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 339,
+            "printedPage": "295",
+            "reading": "Martyrii gloria; quorum gloriae coronam",
+            "attachedReading": "Martyrio gloria"
+          }
         }
       ]
     },
@@ -985,8 +993,16 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0005",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “depositae,” where the context calls for a petition to ask steadfastness. The prepared English provisionally gives “ask”; the printed Latin remains for editorial resolution."
+          "verification": "visual-review",
+          "editorialNote": "Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “Constantiam deposcite”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 340,
+            "printedPage": "296",
+            "reading": "Constantiam deposcite",
+            "attachedReading": "Constantiam depositae"
+          }
         },
         {
           "type": "prayer",
@@ -1350,8 +1366,16 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0005",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF’s “ipsis, et Passionis Sociis ... et consolationis” construction is irregular. The prepared English provisionally renders fellowship in their suffering and consolation; the printed Latin is retained."
+          "verification": "visual-review",
+          "editorialNote": "Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “ipsis, et Passionis Socii in hoc mundo, et consolationis deinde in aeterna beatitudine esse mereamur”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 341,
+            "printedPage": "297",
+            "reading": "ipsis, et Passionis Socii in hoc mundo, et consolationis deinde in aeterna beatitudine esse mereamur",
+            "attachedReading": "ipsis, et Passionis Sociis"
+          }
         }
       ]
     }

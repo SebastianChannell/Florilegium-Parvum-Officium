@@ -44,7 +44,7 @@
         {
           "type": "prayer",
           "source": "Disma poenitens praeclare, Recolli non dedignare Oda hac canonica, Cui post seram poenitere Primo tamen patuere Paradisi ostia.",
-          "english": "Illustrious penitent Dismas, disdain not to be honoured by this canonical ode, thou to whom, after late repentance, the gates of Paradise nevertheless opened first.",
+          "english": "Illustrious penitent Dismas, disdain not [printed Recolli: unresolved infinitive] by this canonical ode, thou to whom, [printed post seram poenitere: unresolved construction], the gates of Paradise nevertheless opened first.",
           "sourcePages": [
             476
           ],
@@ -59,7 +59,16 @@
           "alignment": "reviewed",
           "id": "ingressus-b0001",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints Recolli and post seram poenitere. English provisionally follows the intended honour and late repentance; printed wording is retained."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Recolli and post seram poenitere remain unresolved. Original English/provenance archived; printed Latin unchanged.",
+          "originalPreparedEnglish": "Illustrious penitent Dismas, disdain not to be honoured by this canonical ode, thou to whom, after late repentance, the gates of Paradise nevertheless opened first.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              476
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -278,7 +287,7 @@
         {
           "type": "prayer",
           "source": "Non Aegyptus thura dabat Tot Idolis: abundabat Saevis quot latronibus; Inter quales et fuisse, Disma! datur, te legisse, Huc dum fugit Jesulus.",
-          "english": "Egypt did not offer incense to so many idols as the fierce robbers with which it abounded. Dismas, it is given us to read that thou also wast among them when the little Jesus fled there.",
+          "english": "Egypt did not offer incense to so many idols as the fierce robbers with which it abounded. Dismas, it is granted to have read that thou also wast among them when the little Jesus fled there.",
           "sourcePages": [
             476
           ],
@@ -292,13 +301,22 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0008",
-          "verification": "source-reading-pending",
-          "editorialNote": "The historical scene belongs to the printed devotional hymn; it is translated as the hymn’s narrative, without independent historical certification."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Tot ... quot is the printed comparison; datur legisse governs te fuisse. The devotional narrative is translated as printed, without independently certifying its historical claim. Original English/provenance archived; printed Latin unchanged.",
+          "originalPreparedEnglish": "Egypt did not offer incense to so many idols as the fierce robbers with which it abounded. Dismas, it is given us to read that thou also wast among them when the little Jesus fled there.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              476
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Ant. Dispendentur a facie ejus idola Aegypti: lappa et tribulus ascendet super aras eorum.",
-          "english": "Ant. The idols of Egypt shall be scattered before His face; burdock and thistle shall grow over their altars.",
+          "english": "Ant. The idols of Egypt shall be spread out before His face; burdock and thistle shall grow over their altars.",
           "sourcePages": [
             476
           ],
@@ -312,8 +330,17 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0009",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed Dispendentur is retained; English provisionally reads the intended scattering of idols from context."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Dispendentur is the future passive of the attested rare dispendo variant of dispando (spread out), not an unprinted dispellentur or invented scattering verb. Lewis and Short, dispando/dispendo: https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n14284/ Original English/provenance archived; printed Latin unchanged.",
+          "originalPreparedEnglish": "Ant. The idols of Egypt shall be scattered before His face; burdock and thistle shall grow over their altars.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              476
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1178,7 +1205,7 @@
         {
           "type": "prayer",
           "source": "At, quam multum obliquabas Iter Dismae, et distabas Recta Christi semita, Tamen hi, per pares mortes, Viae sancti sunt consortes Rursum in Calvaria.",
-          "english": "Yet how greatly, Dismas, thou didst bend thy way aside and depart from Christ’s straight path! Nevertheless, through like deaths, [the defective printed clause concerning companions on the holy way is unresolved] again on Calvary.",
+          "english": "Yet how greatly thou didst bend Dismas’s way aside and depart from Christ’s straight path! Nevertheless these, through like deaths, are holy companions of the way again on Calvary.",
           "sourcePages": [
             477
           ],
@@ -1192,8 +1219,17 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0006",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed Iter Dismae and Viae sancti sunt consortes have defective agreement. The first sentence is provisional; the second clause remains explicitly unresolved rather than reconstructed."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Dismae is genitive modifying Iter; sancti is nominative plural with hi/consortes, and Viae genitive of the way. Neither requires a changed case or an unprinted adjective sanctae. Original English/provenance archived; printed Latin unchanged.",
+          "originalPreparedEnglish": "Yet how greatly, Dismas, thou didst bend thy way aside and depart from Christ’s straight path! Nevertheless, through like deaths, [the defective printed clause concerning companions on the holy way is unresolved] again on Calvary.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              477
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1402,7 +1438,7 @@
         {
           "type": "prayer",
           "source": "Disma, quae haec paradoxa? Par est poena, dispar noxa, Tu sons, Christus innocens: Porro nec vercundaris, Sons insolens, criminari, Probrum terrae, summum Ens.",
-          "english": "Dismas, what paradox is this? Equal punishment, unequal guilt: thou art guilty, Christ innocent. Yet thou art not ashamed, insolent in thy guilt, a disgrace to the earth, to accuse the Supreme Being.",
+          "english": "Dismas, what paradox is this? Equal punishment, unequal guilt: thou art guilty, Christ innocent. Yet thou art not [printed vercundaris: unresolved verb], insolent in thy guilt, a disgrace to the earth, to accuse the Supreme Being.",
           "sourcePages": [
             478
           ],
@@ -1417,7 +1453,16 @@
           "alignment": "reviewed",
           "id": "none-b0006",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed vercundaris is retained; English reads the evidently intended ashamed from context."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. The printed vercundaris is not silently replaced by verecundaris. Original English/provenance archived; printed Latin unchanged.",
+          "originalPreparedEnglish": "Dismas, what paradox is this? Equal punishment, unequal guilt: thou art guilty, Christ innocent. Yet thou art not ashamed, insolent in thy guilt, a disgrace to the earth, to accuse the Supreme Being.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              478
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1784,7 +1829,7 @@
         {
           "type": "prayer",
           "source": "℣. Convertere nos Deus salutaris noster.",
-          "english": "℣. Convert us, O God our Saviour.",
+          "english": "℣. [Printed Convertere nos: unresolved construction], O God our Saviour.",
           "sourcePages": [
             478
           ],
@@ -1800,7 +1845,19 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0003",
-          "verification": "visual-review"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "℣. Convert us, O God our Saviour.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              478
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "99ecc4cd6516d1e9"
+          },
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Convertere nos is not the customary active imperative Converte nos; no unprinted ending supplied. Original English/provenance archived; printed Latin unchanged."
         },
         {
           "type": "prayer",
@@ -1889,7 +1946,7 @@
         {
           "type": "prayer",
           "source": "Venia sic impetrata, Dismae Paradisi grata Jam et regna exspectat; Cui et Jesus prompto ore, Hodie se adhuc fore Ibi secum, innuit.",
-          "english": "Having thus obtained pardon, Dismas now awaits the pleasant realms of Paradise; and Jesus readily tells him that this very day he shall be there with Him.",
+          "english": "Pardon thus obtained, he now also awaits the realms of Paradise pleasing to Dismas; and Jesus readily indicates to him that this very day he shall be there with Him.",
           "sourcePages": [
             478
           ],
@@ -1903,8 +1960,17 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0008",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed Dismae and regna exspectat have defective agreement. English provisionally follows the clear Dismas and Paradise narrative."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Dismae is dative with grata, which agrees with accusative plural regna. Exspectat has an implicit subject; there is no defective agreement requiring a nominative Disma. The reported personal references retain the narrative’s Dismas/Jesus relation. Original English/provenance archived; printed Latin unchanged.",
+          "originalPreparedEnglish": "Having thus obtained pardon, Dismas now awaits the pleasant realms of Paradise; and Jesus readily tells him that this very day he shall be there with Him.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              478
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -2147,7 +2213,7 @@
         {
           "type": "prayer",
           "source": "Sancte Disma, qui mira Dei providentia ex nefario latrone in eximium poenitentiae speculum evasisti, et paucas intra horas aeterna tibi gaudia comparasti: dignare de excelso gloriae tuae throno, sicut in te de Cruce aspexit Christus, super miseriam hanc lachrymarum vallem oculos tuos defigere; et quoniam tibi cognita est mentis humanae fragilitas, semper ad malum magis, quam ad bonum proclivis; igitur nobis, apud dulcissimum Redemptorem nostrum, precibus tuis impetra, ut sicut per gratiam suam efficacem ad poenitentiam et Paradisi coelestis gloriam te perduxit, ita et nos famulos suos eadem efficaci gratia ad dignos poenitentiae fructus impellat, quo commissis nostris corditus deploratis, pie quondam tibi commoremur, ac una tandem in Deo Salvatori nostro jugiter exultemus, qui vivit et regnat in saecula saeculorum. Amen.",
-          "english": "Saint Dismas, who by the wonderful providence of God didst become, from a wicked robber, an outstanding example of repentance, and within a few hours didst obtain eternal joys for thyself: deign from the lofty throne of thy glory to fix thine eyes upon this misery, this valley of tears, as Christ looked upon thee from the Cross. And since thou knowest the frailty of the human mind, always more inclined to evil than to good, obtain for us by thy prayers before our sweetest Redeemer that, as He led thee by His efficacious grace to repentance and the glory of heavenly Paradise, so He may urge us His servants by that same efficacious grace to worthy fruits of repentance; that, having heartily bewailed our offences, we may one day dwell devoutly with thee, and at last together rejoice continually in God our Saviour, Who liveth and reigneth for ever and ever. Amen.",
+          "english": "Saint Dismas, who by the wonderful providence of God didst become, from a wicked robber, an outstanding example of repentance, and within a few hours didst obtain eternal joys for thyself: deign from the lofty throne of thy glory to fix thine eyes upon this misery, this valley of tears, as Christ looked upon thee from the Cross. And since thou knowest the frailty of the human mind, always more inclined to evil than to good, obtain for us by thy prayers before our sweetest Redeemer that, as He led thee by His efficacious grace to repentance and the glory of heavenly Paradise, so He may urge us His servants by that same efficacious grace to worthy fruits of repentance; that, having [printed corditus: unresolved adverb] bewailed our offences, we may one day dwell devoutly with thee, and at last together rejoice continually [printed in Deo Salvatori nostro: unresolved case connection], Who liveth and reigneth for ever and ever. Amen.",
           "sourcePages": [
             479
           ],
@@ -2162,7 +2228,16 @@
           "alignment": "reviewed",
           "id": "commendatio-b0008",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed corditus and Deo Salvatori nostro are retained. English provisionally follows the evident heartily and God our Saviour meaning."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Corditus and in Deo Salvatori nostro remain unresolved; no repaired case ending supplied. Original English/provenance archived; printed Latin unchanged.",
+          "originalPreparedEnglish": "Saint Dismas, who by the wonderful providence of God didst become, from a wicked robber, an outstanding example of repentance, and within a few hours didst obtain eternal joys for thyself: deign from the lofty throne of thy glory to fix thine eyes upon this misery, this valley of tears, as Christ looked upon thee from the Cross. And since thou knowest the frailty of the human mind, always more inclined to evil than to good, obtain for us by thy prayers before our sweetest Redeemer that, as He led thee by His efficacious grace to repentance and the glory of heavenly Paradise, so He may urge us His servants by that same efficacious grace to worthy fruits of repentance; that, having heartily bewailed our offences, we may one day dwell devoutly with thee, and at last together rejoice continually in God our Saviour, Who liveth and reigneth for ever and ever. Amen.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              479
+            ],
+            "review": "editorial-review-complete"
+          }
         }
       ]
     }
@@ -2177,6 +2252,15 @@
         478,
         479
       ]
+    },
+    {
+      "pages": [
+        476,
+        477,
+        478,
+        479
+      ],
+      "text": "10 October 2026: all four rendered PDF pages and all 97 passages personally compared, including Sulamittis Officiosa (1714) attribution, Ingressus, seven hours, Commendation, seven same-office collect expansions and continuations. Four pending passages resolved without changing Latin: printed historical narrative, attested rare Dispendentur, genitive Iter Dismae/nominative sancti, and dative Dismae with grata regna. Convertere nos returned to pending. Four source blockers explicitly bracketed; original English/provenance archived."
     }
   ]
 }

@@ -30,7 +30,7 @@
   "status": {
     "extraction": "reviewed",
     "translation": "complete-prepared",
-    "verification": "source-reading-pending"
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -1863,8 +1863,16 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0004",
-          "verification": "source-reading-pending",
-          "editorialNote": "The source prints “vaniae”. The provisional English “pardon” understands this as veniae; that conjecture awaits editorial resolution. The printed Latin is retained."
+          "verification": "visual-review",
+          "editorialNote": "Printed comparison edition, not certification of the cited office edition. The printed reading is “Jesu largitor veniae, honor caelestis curiae.”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "sourceReading": {
+            "status": "verified-against-comparison-edition",
+            "book": "cmaa-anerio-rex-virtutum-sab",
+            "pdfPage": 1,
+            "printedPage": "unnumbered, bars 9–13",
+            "reading": "Jesu largitor veniae, honor caelestis curiae.",
+            "attachedReading": "Jesu, largitor vaniae; Honor coelestis curiae."
+          }
         },
         {
           "type": "prayer",

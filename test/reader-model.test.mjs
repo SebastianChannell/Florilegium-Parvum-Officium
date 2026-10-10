@@ -74,3 +74,28 @@ test('Cistercian collect and Premonstratensian nested suffrage expand complete s
   const lauds=sectionBlocks(norbertine,'lauds');
   assert(lauds.some(b=>b.id==='lauds-b0052--vespers-b0073--vespers-b0111'));
 });
+test('Joseph, Anthony and Sacred Heart assemble their printed common opening and conclusion', () => {
+  for (const id of ['little-office-of-s-joseph','little-office-of-s-anthony-of-padua','little-office-of-the-sacred-heart-of-jesus']) {
+    const office=documents.get(id);
+    for (const hour of ['matins','prime','terce','sext','none','vespers','compline']) {
+      const rows=sectionBlocks(office,hour,{season:'ordinary'});
+      assert(rows.some(b=>/^℣. Deus in adiutorium/.test(b.source)));
+      assert(rows.some(b=>b.id.startsWith('conclusion-of-the-hours-b')));
+      assert(!rows.some(b=>b.source.startsWith('A Septuagesima')));
+      const seasonal=sectionBlocks(office,hour,{season:'septuagesima'});
+      assert(seasonal.some(b=>b.source.startsWith('A Septuagesima')));
+      assert(!seasonal.find(b=>b.source.startsWith('℟. Sicut erat')).source.includes('Alleluia'));
+      assert.equal(rows.some(b=>/^℣. Domine labia/.test(b.source)),hour==='matins');
+      if (id!=='little-office-of-the-sacred-heart-of-jesus') assert.equal(rows.some(b=>/^℣. Converte nos/.test(b.source)),hour==='compline');
+    }
+    if (id!=='little-office-of-the-sacred-heart-of-jesus') assert(!office.sections.some(s=>s.id==='lauds'));
+  }
+});
+test('Anthony Matins restores the reversed printed columns without discarding either text', () => {
+  const office=documents.get('little-office-of-s-anthony-of-padua');
+  const stanza=office.sections.find(s=>s.id==='matins').blocks[0];
+  assert.match(stanza.source,/^Dum mundi/);
+  assert.match(stanza.english,/^While in the world/);
+  assert.equal(stanza.originalExtractedSource,stanza.english);
+  assert.equal(stanza.originalExtractedEnglish,stanza.source);
+});

@@ -767,7 +767,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 102,
@@ -989,9 +989,9 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "complete-supplied-pending-review",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-supplied",
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 54,
@@ -2811,8 +2811,8 @@
       "crossReferences": [],
       "status": {
         "extraction": "reviewed",
-        "translation": "complete-prepared-reading-pending",
-        "verification": "source-reading-pending"
+        "translation": "complete-prepared",
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 23,
@@ -3028,10 +3028,10 @@
         "verification": "source-reading-pending"
       },
       "coverage": {
-        "blocks": 206,
+        "blocks": 203,
         "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 194
+        "preparedEnglish": 191
       }
     },
     {
@@ -3188,8 +3188,8 @@
       "crossReferences": [],
       "status": {
         "extraction": "reviewed",
-        "translation": "complete-prepared-reading-pending",
-        "verification": "source-reading-pending"
+        "translation": "complete-prepared",
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 75,
@@ -4747,14 +4747,14 @@
       "crossReferences": [],
       "status": {
         "extraction": "reviewed-with-source-discrepancies",
-        "translation": "complete-supplied-reading-pending",
+        "translation": "complete-mixed-reading-pending",
         "verification": "source-reading-pending"
       },
       "coverage": {
         "blocks": 534,
         "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 3
       }
     },
     {
@@ -5785,7 +5785,7 @@
         "blocks": 530,
         "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 426
+        "preparedEnglish": 427
       }
     },
     {
@@ -6332,7 +6332,7 @@
         "blocks": 292,
         "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 200
+        "preparedEnglish": 201
       }
     },
     {
@@ -6938,14 +6938,14 @@
       "crossReferences": [],
       "status": {
         "extraction": "reviewed",
-        "translation": "complete",
-        "verification": "source-reading-pending"
+        "translation": "complete-mixed",
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 348,
         "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 48
+        "preparedEnglish": 49
       }
     },
     {
@@ -7764,7 +7764,7 @@
         "blocks": 551,
         "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 221
+        "preparedEnglish": 222
       }
     },
     {
@@ -8315,7 +8315,7 @@
         "blocks": 420,
         "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 344
+        "preparedEnglish": 345
       }
     },
     {
@@ -8862,13 +8862,13 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 84,
         "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 82
+        "preparedEnglish": 83
       }
     },
     {
@@ -9916,9 +9916,9 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-supplied",
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 47,
@@ -10295,7 +10295,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 55,
@@ -10615,7 +10615,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 88,
@@ -10799,7 +10799,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 85,
@@ -11007,9 +11007,9 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-supplied",
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 24,
@@ -11356,7 +11356,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 65,
@@ -12628,7 +12628,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 77,
@@ -12978,7 +12978,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 70,
@@ -13650,13 +13650,13 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 75,
         "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 74
+        "preparedEnglish": 75
       }
     },
     {
@@ -14042,13 +14042,13 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 72,
         "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 71
+        "preparedEnglish": 72
       }
     },
     {
@@ -14680,7 +14680,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 61,
@@ -15190,7 +15190,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 117,
@@ -16906,7 +16906,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 75,
@@ -17180,7 +17180,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 65,

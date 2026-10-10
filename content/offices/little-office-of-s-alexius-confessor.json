@@ -30,7 +30,7 @@
   "status": {
     "extraction": "reviewed",
     "translation": "complete-prepared",
-    "verification": "source-reading-pending"
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -454,7 +454,7 @@
         {
           "type": "prayer",
           "source": "Tum apparatur nuptiae, Plus caeli crescit amor Hinc rapitur, et prope Solum consedit aequor. Egestas sponsa sumitur; Comes amor latendi: Beata mens, quae tangitur Hoc studio vivendi.",
-          "english": "When the wedding is prepared, love of heaven grows greater. Thence he is carried away and settles near the sea alone. Poverty is taken as bride; love of concealment as companion. Blessed the mind touched by this desire for living.",
+          "english": "When the wedding is prepared, love of heaven grows greater. Thence he is carried away and quickly embarks upon the sea alone. Poverty is taken as bride; love of concealment as companion. Blessed the mind touched by this desire for living.",
           "sourcePages": [
             440
           ],
@@ -468,8 +468,17 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0006",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed “Tum apparatur nuptiae” and “prope Solum consedit aequor” have irregular grammar. The English provisionally understands the wedding preparations and settling alone near the sea; the Latin remains."
+          "verification": "visual-review",
+          "editorialNote": "Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “Dum apparantur nuptiae; Hinc rapitur, et propere Solus conscendit aequor”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "When the wedding is prepared, love of heaven grows greater. Thence he is carried away and settles near the sea alone. Poverty is taken as bride; love of concealment as companion. Blessed the mind touched by this desire for living.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 248,
+            "printedPage": "212",
+            "reading": "Dum apparantur nuptiae; Hinc rapitur, et propere Solus conscendit aequor",
+            "attachedReading": "Tum apparatur nuptiae"
+          }
         },
         {
           "type": "rubric",
@@ -509,8 +518,16 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0008",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “fascitur,” rather than the familiar “pascitur.” The English provisionally renders feeds among the lilies; the source word remains."
+          "verification": "visual-review",
+          "editorialNote": "Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “qui pascitur inter lilia”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 248,
+            "printedPage": "212",
+            "reading": "qui pascitur inter lilia",
+            "attachedReading": "qui fascitur inter lilia"
+          }
         },
         {
           "type": "prayer",
@@ -714,7 +731,7 @@
         {
           "type": "prayer",
           "source": "Elapsus fuga, tegitur Mendiculi lacerna Nec amplius distinguitur per famulos a Verna. O alta mens Alexii! Quae siscitate quaesieris pro Christo velle despici, Quam rara res in terris!",
-          "english": "Having escaped by flight, he is covered with a beggar’s cloak and is no longer distinguished by the servants from a household slave. O lofty mind of Alexius [unclear printed words: “siscitate quaesieris”], desiring to be despised for Christ! How rare a thing upon earth!",
+          "english": "Having escaped by flight, he is covered with a beggar’s cloak and is no longer distinguished by the servants from a household slave. O lofty mind of Alexius, who seekest thus to remain hidden! To desire to be despised for Christ: how rare a thing upon earth!",
           "sourcePages": [
             441
           ],
@@ -728,8 +745,17 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0007",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints the unclear “siscitate quaesieris.” The English renders the intelligible desire to be despised for Christ without assigning that word an invented meaning; this clause requires source resolution."
+          "verification": "visual-review",
+          "editorialNote": "Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “Quae sic latere quaeris: Pro Christo velle despici”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "Having escaped by flight, he is covered with a beggar’s cloak and is no longer distinguished by the servants from a household slave. O lofty mind of Alexius [unclear printed words: “siscitate quaesieris”], desiring to be despised for Christ! How rare a thing upon earth!",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 249,
+            "printedPage": "213",
+            "reading": "Quae sic latere quaeris: Pro Christo velle despici",
+            "attachedReading": "Quae siscitate quaesieris"
+          }
         },
         {
           "type": "rubric",
@@ -755,7 +781,7 @@
         {
           "type": "prayer",
           "source": "Cum essem pauper, servum feci; mihi servivit Christus, et mihi lumen creavit.",
-          "english": "When I was poor, I made a servant; Christ served me and made light for me.",
+          "english": "Though I was free, I made myself the servant of all; for me, to live is Christ and to die is gain.",
           "sourcePages": [
             441
           ],
@@ -769,8 +795,17 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0009",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed “Cum essem pauper, servum feci” lacks an object or reflexive pronoun. The English retains the literal unusual clause rather than silently adding one."
+          "verification": "visual-review",
+          "editorialNote": "Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “Cum liber essem, omnium me servum feci; mihi vivere Christus, et mori lucrum”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "When I was poor, I made a servant; Christ served me and made light for me.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 249,
+            "printedPage": "213",
+            "reading": "Cum liber essem, omnium me servum feci; mihi vivere Christus, et mori lucrum",
+            "attachedReading": "Cum essem pauper, servum feci"
+          }
         },
         {
           "type": "prayer",
@@ -956,7 +991,7 @@
         {
           "type": "prayer",
           "source": "Edesse tenet litora; Pauper, mendicus, nudus: Cujus non tangat viscera Tam novus iste luctus? O nova res! ut senore Virtus pateat miro, Ditissimus cum paupere Miseri gaudet in Iro.",
-          "english": "He remains upon the shores of Edessa, poor, a beggar, naked. Whose heart would such an unusual sorrow not touch? O wondrous thing, that virtue should appear in a marvellous guise, when the richest man rejoices with the poor in wretched Irus.",
+          "english": "He remains upon the shores of Edessa, poor, a beggar, naked. Whose heart would such an unusual sorrow not touch? O wondrous thing, that virtue should appear with marvellous gain, when the richest man rejoices with the poor in wretched Irus.",
           "sourcePages": [
             441
           ],
@@ -970,8 +1005,17 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0006",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “senore” in the account of virtue appearing. The English provisionally gives guise and retains the classical name Irus; the source reading remains unresolved."
+          "verification": "visual-review",
+          "editorialNote": "Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “ut foenore Virtus pateat miro; Ditissimus cum paupere Miseri gaudet in Iro”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "He remains upon the shores of Edessa, poor, a beggar, naked. Whose heart would such an unusual sorrow not touch? O wondrous thing, that virtue should appear in a marvellous guise, when the richest man rejoices with the poor in wretched Irus.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 249,
+            "printedPage": "213",
+            "reading": "ut foenore Virtus pateat miro; Ditissimus cum paupere Miseri gaudet in Iro",
+            "attachedReading": "ut senore"
+          }
         },
         {
           "type": "rubric",
@@ -1473,8 +1517,16 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “Ignotos” and “singulatus” in otherwise identifiable narrative clauses. The English provisionally gives unknown and sobs; the Latin remains."
+          "verification": "visual-review",
+          "editorialNote": "Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “Ignotus domo Patris; Deo patent singultus”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 250,
+            "printedPage": "214",
+            "reading": "Ignotus domo Patris; Deo patent singultus",
+            "attachedReading": "Deo patent singulatus"
+          }
         },
         {
           "type": "rubric",
@@ -1742,7 +1794,7 @@
         {
           "type": "prayer",
           "source": "Queis natum se celaverat Toties quaesita proles. Ergo, ut notescat Patria Calamo consignant vitam Recondit illam pectore, Fideli loco fixam. Hoc acto, Coelo spiritum Corpusque reddit terris! O verum Jesu Filium Qui patriam sic quaesitis!",
-          "english": "During which he hid his identity as their son, the child sought so often. Therefore, that he might become known to his homeland, he records his life with a pen and hides it upon his breast, fixed in a faithful place. This done, he gives his spirit back to heaven and his body to earth. O true son of Jesus, who thus sought his homeland!",
+          "english": "During which he hid his identity as their son, the child sought so often. Therefore, that he might become known to his homeland, he records his life with a pen and hides it upon his breast, fixed in a faithful place. This done, he gives his spirit back to heaven and his body to earth. O true son of Jesus, who thus seekest thy homeland!",
           "sourcePages": [
             442
           ],
@@ -1756,8 +1808,17 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0009",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF changes number/person in “consignant” and “quaesitis.” The English provisionally follows the singular Alexius narrative; the printed Latin remains."
+          "verification": "visual-review",
+          "editorialNote": "Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “Calamo consignat vitam; Qui patriam sic quaeris”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "During which he hid his identity as their son, the child sought so often. Therefore, that he might become known to his homeland, he records his life with a pen and hides it upon his breast, fixed in a faithful place. This done, he gives his spirit back to heaven and his body to earth. O true son of Jesus, who thus sought his homeland!",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 250,
+            "printedPage": "214",
+            "reading": "Calamo consignat vitam; Qui patriam sic quaeris",
+            "attachedReading": "Calamo consignant vitam"
+          }
         },
         {
           "type": "rubric",
@@ -1880,7 +1941,7 @@
         {
           "type": "prayer",
           "source": "Alexii, o spes unica Sincere te amantis: Da sequi nos vestigia Aeternum jam ovantis: Has demum preces suscipe, Vota tui Clientis; Malisque cunctis eripe Periculisque mentis. Da vana cuncta spernere; Ne sit nobis gaudere, Jesu te diligere Nec aliud aevum. Amen.",
-          "english": "O sole hope of Alexius, who loves Thee sincerely, grant that we may follow the footsteps of him who now triumphs eternally. Receive at last these prayers, the vows of Thy client, and rescue us from all evils and dangers of the mind. Grant that we may despise all vanities, and that our joy may be to love Thee, Jesus, and nothing else for ever. Amen.",
+          "english": "O sole hope of Alexius, who loves Thee sincerely, grant that we may follow the footsteps of him who now triumphs eternally. Receive at last these prayers, the vows of Thy client, and rescue us from all evils and dangers of the mind. Grant that we may despise all vanities, rejoice in Jesus, love Thee, Jesus, and seek nothing else. Amen.",
           "sourcePages": [
             442
           ],
@@ -1894,8 +1955,17 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0001",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed closing “Ne sit nobis gaudere ... Nec aliud aevum” has incomplete syntax. The English provisionally understands a petition to find joy only in loving Jesus for ever; the Latin remains."
+          "verification": "visual-review",
+          "editorialNote": "Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “In Jesu nos gaudere, Jesu, te diligere, Nec aliud quaerere”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "O sole hope of Alexius, who loves Thee sincerely, grant that we may follow the footsteps of him who now triumphs eternally. Receive at last these prayers, the vows of Thy client, and rescue us from all evils and dangers of the mind. Grant that we may despise all vanities, and that our joy may be to love Thee, Jesus, and nothing else for ever. Amen.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 251,
+            "printedPage": "215",
+            "reading": "In Jesu nos gaudere, Jesu, te diligere, Nec aliud quaerere",
+            "attachedReading": "Ne sit nobis gaudere"
+          }
         }
       ]
     }

@@ -290,11 +290,28 @@
         {
           "type": "prayer",
           "source": "℣. Domine, labia ✠ea aperies.",
-          "english": "℣. Lord, ✠Thou shalt open my lips.",
+          "english": "℣. O Lord, Thou shalt open ✠those lips.",
           "sourcePages": [
             187
           ],
           "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              187
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "matins-b0004"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0003",
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual PDF p.187 personally inspected. Latin prints “labia ✠ea”: ea is a complete neuter-plural demonstrative agreeing with labia, literally “those lips”. The cross is retained as a gesture sign. Prepared English translates the printed words without adding an unprinted m or claiming what the compiler intended. The earlier description of ea as incomplete is superseded by this literal grammatical reading. Original supplied English (printed on PDF p.105, or reused from that page) retained unchanged: “℣. Lord, ✠Thou shalt open my lips.”",
+          "originalSuppliedEnglish": "℣. Lord, ✠Thou shalt open my lips.",
+          "originalPreparedEnglish": "℣. Lord, ✠Thou shalt open my lips.",
+          "originalTranslation": {
             "kind": "supplied",
             "method": "exact-reviewed-pdf-reuse",
             "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
@@ -303,13 +320,9 @@
               105
             ]
           },
-          "alignment": "reviewed",
-          "id": "matins-b0003",
-          "verification": "pending",
-          "englishPages": [
+          "originalEnglishPages": [
             105
-          ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review. Note on the original printed translation: The PDF prints “Domine, labia ✠ea aperies,” with an incomplete Latin word. The printed source and its supplied English are retained."
+          ]
         },
         {
           "type": "prayer",
@@ -1557,13 +1570,14 @@
           ],
           "translation": {
             "kind": "supplied",
-            "method": "exact-reviewed-pdf-reuse",
+            "method": "archived-pdf-english-reuse",
             "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
             "reusedFrom": "matins-b0066",
             "sourcePages": [
               114,
               115
-            ]
+            ],
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "matins-b0059",
@@ -1572,7 +1586,17 @@
             114,
             115
           ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+          "editorialNote": "10 October 2026: original supplied PDF English reused from Roman pp.114–115 is retained unchanged. The former exact-reviewed-pdf-reuse certification is archived: its origin is now source-reading-pending after actual inspection of p.114 revealed incomplete tionis ejus. This row remains pending; no omitted letters are invented and no fully reviewed reuse claim remains.",
+          "originalTranslation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "matins-b0066",
+            "sourcePages": [
+              114,
+              115
+            ]
+          }
         },
         {
           "type": "prayer",

@@ -14,7 +14,59 @@ test('continued offices conserve source text, existing English, and printed hour
   for(const section of entry.sections){
    const rows=office.sections.find(s=>s.id===section.id).blocks;
    assert.equal(digest(rows.map(b=>b.originalExtractedSource??b.source).join(' ')),section.sourceDigest);
-   for(const [id,hash] of Object.entries(section.existingEnglish))assert.equal(digest(rows.find(b=>b.id===id).english),hash);
+   for(const [id,hash] of Object.entries(section.existingEnglish)){
+    const row=rows.find(b=>b.id===id);
+    const correction=section.reviewedEnglishCorrections?.[id];
+    const supplied=section.suppliedEnglishCorrections?.[id];
+    if(supplied){
+     assert(supplied.review?.trim());
+     assert.equal(digest(row.originalSuppliedEnglish),hash);
+     assert.equal(digest(row.english),supplied.digest);
+     assert.equal(row.originalTranslation.kind,'supplied');
+     assert(row.originalEnglishPages.length>0);
+     assert.equal(row.printedParallelText.text,row.originalSuppliedEnglish);
+     assert.deepEqual(row.printedParallelText.pages,row.originalEnglishPages);
+     assert.equal(row.translation.kind,'prepared');
+     assert.equal(row.translation.method,'visual-pdf-prepared-translation');
+     assert.equal(row.translation.review,'editorial-review-complete');
+     assert.equal(row.verification,supplied.verification);
+     assert.deepEqual(row.sourcePages,supplied.sourcePages);
+     assert(row.editorialNote.includes(row.originalSuppliedEnglish));
+     assert(row.editorialNote.includes(supplied.requiredNoteText));
+    }else if(correction){
+     assert(correction.review?.trim());
+     assert.equal(digest(row.originalPreparedEnglish),hash);
+     assert.equal(digest(row.english),correction.digest);
+     assert.equal(row.originalTranslation.method,'exact-reviewed-pdf-reuse');
+     assert(row.originalEnglishPages.length>0);
+     assert.equal(row.translation.kind,'prepared');
+     assert.equal(row.translation.review,'editorial-review-complete');
+     assert.equal(row.verification,'visual-review');
+     assert(row.editorialNote?.includes(correction.requiredNoteText ?? 'Septuagesima'));
+    }else if(section.visualPreparedEnglishCorrections?.[id]){
+     const visual=section.visualPreparedEnglishCorrections[id];
+     assert(visual.review?.trim());
+     assert.equal(digest(row.originalPreparedEnglish),hash);
+     assert.equal(digest(row.english),visual.digest);
+     assert.equal(row.originalTranslation.method,'exact-source-memory');
+     assert.equal(row.translation.kind,'prepared');
+     assert.equal(row.translation.method,'visual-pdf-prepared-translation');
+     assert.equal(row.translation.review,'editorial-review-complete');
+     assert.equal(row.verification,'visual-review');
+     assert.deepEqual(row.sourcePages,visual.sourcePages);
+     assert(row.editorialNote?.includes(visual.requiredNoteText));
+    }else if(section.pendingEnglishCorrections?.[id]){
+     const pending=section.pendingEnglishCorrections[id];
+     assert(pending.review?.trim());
+     assert.equal(digest(row.originalPreparedEnglish),hash);
+     assert.equal(digest(row.english),pending.digest);
+     assert(row.originalTranslation);
+     assert.equal(row.translation.kind,'prepared');
+     assert.equal(row.verification,'source-reading-pending');
+     assert.deepEqual(row.sourcePages,pending.sourcePages);
+     assert(row.editorialNote?.includes(pending.requiredNoteText));
+    }else assert.equal(digest(row.english),hash);
+   }
    if(!entry.partial)assert(rows.every(b=>b.english?.trim()));
    assert(rows.filter(b=>b.english?.trim()).every(b=>['prepared','supplied'].includes(b.translation?.kind)));
    if(entry.partial)assert(rows.filter(b=>b.verification==='source-reading-pending'&&b.english).every(b=>b.editorialNote?.trim()));

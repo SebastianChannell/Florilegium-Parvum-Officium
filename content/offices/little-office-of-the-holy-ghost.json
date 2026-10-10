@@ -29,8 +29,8 @@
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
     "extraction": "reviewed",
-    "translation": "complete-prepared-reading-pending",
-    "verification": "source-reading-pending"
+    "translation": "complete-prepared",
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -191,7 +191,15 @@
           },
           "alignment": "reviewed",
           "id": "ordinary-b0008",
-          "verification": "visual-review"
+          "verification": "visual-review",
+          "forms": {
+            "season": {
+              "septuagesima": {
+                "source": "℣. Gloria Patri.",
+                "english": "℣. Glory be to the Father."
+              }
+            }
+          }
         },
         {
           "type": "rubric",
@@ -210,7 +218,12 @@
           },
           "alignment": "reviewed",
           "id": "ordinary-b0009",
-          "verification": "visual-review"
+          "verification": "visual-review",
+          "when": {
+            "season": [
+              "septuagesima"
+            ]
+          }
         }
       ]
     },
@@ -242,7 +255,25 @@
           "verification": "visual-review",
           "poetry": true
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0001",
+          "ordinary-b0002",
+          "ordinary-b0003",
+          "ordinary-b0006",
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009"
+        ],
+        "after": [
+          "conclusion-b0001",
+          "conclusion-b0002",
+          "conclusion-b0003",
+          "conclusion-b0004",
+          "conclusion-b0005"
+        ]
+      }
     },
     {
       "id": "prime",
@@ -269,10 +300,35 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "source-reading-pending",
-          "poetry": true
+          "verification": "visual-review",
+          "poetry": true,
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 217,
+            "printedPage": "187",
+            "reading": "Et ipsis cernentibus in cœlos elevatus.",
+            "attachedReading": "Et ipsis cernentibus in ccelos elevatus."
+          },
+          "editorialNote": "The attached PDF prints “ccelos”. Visual comparison with the cited 1879 Coeleste Palmetum, printed p.187 (scan PDF p.217), verifies the ligature reading “cœlos”, heaven. The attached Latin is preserved; the English “heaven” is supported by the original edition rather than a conjectural spelling repair."
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0001",
+          "ordinary-b0006",
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009"
+        ],
+        "after": [
+          "conclusion-b0001",
+          "conclusion-b0002",
+          "conclusion-b0003",
+          "conclusion-b0004",
+          "conclusion-b0005"
+        ]
+      }
     },
     {
       "id": "terce",
@@ -302,7 +358,23 @@
           "verification": "visual-review",
           "poetry": true
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0001",
+          "ordinary-b0006",
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009"
+        ],
+        "after": [
+          "conclusion-b0001",
+          "conclusion-b0002",
+          "conclusion-b0003",
+          "conclusion-b0004",
+          "conclusion-b0005"
+        ]
+      }
     },
     {
       "id": "sext",
@@ -332,7 +404,23 @@
           "verification": "visual-review",
           "poetry": true
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0001",
+          "ordinary-b0006",
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009"
+        ],
+        "after": [
+          "conclusion-b0001",
+          "conclusion-b0002",
+          "conclusion-b0003",
+          "conclusion-b0004",
+          "conclusion-b0005"
+        ]
+      }
     },
     {
       "id": "none",
@@ -362,7 +450,23 @@
           "verification": "visual-review",
           "poetry": true
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0001",
+          "ordinary-b0006",
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009"
+        ],
+        "after": [
+          "conclusion-b0001",
+          "conclusion-b0002",
+          "conclusion-b0003",
+          "conclusion-b0004",
+          "conclusion-b0005"
+        ]
+      }
     },
     {
       "id": "vespers",
@@ -392,7 +496,23 @@
           "verification": "visual-review",
           "poetry": true
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0001",
+          "ordinary-b0006",
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009"
+        ],
+        "after": [
+          "conclusion-b0001",
+          "conclusion-b0002",
+          "conclusion-b0003",
+          "conclusion-b0004",
+          "conclusion-b0005"
+        ]
+      }
     },
     {
       "id": "compline",
@@ -422,7 +542,25 @@
           "verification": "visual-review",
           "poetry": true
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0001",
+          "ordinary-b0004",
+          "ordinary-b0005",
+          "ordinary-b0006",
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009"
+        ],
+        "after": [
+          "conclusion-b0001",
+          "conclusion-b0002",
+          "conclusion-b0003",
+          "conclusion-b0004",
+          "conclusion-b0005"
+        ]
+      }
     },
     {
       "id": "conclusion",
@@ -584,9 +722,30 @@
   "unpairedEnglish": [],
   "editorialNotes": [
     {
-      "text": "At Prime the source visibly prints “ccelos.” The English “heaven” is an explicitly conjectural reading of that word; the source spelling remains unchanged. At None “fons vivificatus” is rendered literally as “a quickened fount.” The source abbreviations “Gloria Patri” and “Per Dominum” are retained as abbreviations.",
       "pages": [
+        90,
+        91
+      ],
+      "text": "Both attached PDF pages and all source/English passages were visually reviewed on 2026-10-09. The attached “ccelos” is preserved and its reading cœlos verified against the cited 1879 edition, printed p.187. The ordinary opening and concluding antiphon/versicles/collect are assembled around the seven printed hours. The cited edition pp.186–188 corroborates Matins-only Domine labia and Compline-only Converte nos. No Lauds is supplied. None’s fons vivificatus remains literal, a quickened fount; printed Gloria Patri and Per Dominum abbreviations remain abbreviated."
+    }
+  ],
+  "variants": [
+    {
+      "id": "season",
+      "label": "Season",
+      "default": "ordinary",
+      "sourcePages": [
         90
+      ],
+      "options": [
+        {
+          "id": "ordinary",
+          "label": "Ordinary (Alleluia)"
+        },
+        {
+          "id": "septuagesima",
+          "label": "Septuagesima to Easter"
+        }
       ]
     }
   ]

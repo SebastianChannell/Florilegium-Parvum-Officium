@@ -168,7 +168,7 @@
         {
           "type": "prayer",
           "source": "Ex stirpe nata Consulum, Amor, decusque siderum, Fausta Parentis unicum, Nostraque, salve, gaudium. Te Roma mundo protulit, Te Mater astris nutriit.",
-          "english": "Born of consular stock, love and glory of the stars, hail, our joy [the printed phrase Fausta Parentis unicum is uncertain]. Rome brought thee forth for the world; thy mother nurtured thee for the stars.",
+          "english": "Born of consular stock, love and glory of the stars, fortunate one, thy parent’s unique joy and our joy, hail. Rome brought thee forth for the world; thy mother nurtured thee for the stars.",
           "sourcePages": [
             432
           ],
@@ -182,8 +182,17 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0007",
-          "verification": "source-reading-pending",
-          "editorialNote": "Fausta may be a personal name or an adjective, but Parentis unicum is grammatically defective. The English leaves that phrase explicitly uncertain."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Fausta can be feminine vocative addressing Anastasia; Parentis unicum shares the printed neuter gaudium with Nostraque. Unicum agrees with gaudium, not with the parent. A grammatical adjective/apposition reading is retained without certifying a mother’s proper name or changing Fausta to Faustae. Prior prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "Born of consular stock, love and glory of the stars, hail, our joy [the printed phrase Fausta Parentis unicum is uncertain]. Rome brought thee forth for the world; thy mother nurtured thee for the stars.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              432
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -329,7 +338,7 @@
         {
           "type": "prayer",
           "source": "Concede, quaesumus, omnipotens Deus, ut beata Anastasia, quae martyrii promuit palmam, intercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem.Per Christum Dominum nostrum.",
-          "english": "Grant, we beseech Thee, almighty God, that blessed Anastasia, who attained the palm of martyrdom, may through her intercessions bestow upon us remedies for this present life and eternal salvation. Through Christ our Lord.",
+          "english": "Grant, we beseech Thee, almighty God, that blessed Anastasia, [printed quae martyrii promuit palmam: unresolved verb], may through her intercessions bestow upon us remedies for this present life and eternal salvation. Through Christ our Lord.",
           "sourcePages": [
             432
           ],
@@ -344,7 +353,16 @@
           "alignment": "reviewed",
           "id": "matins-b0015",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed promuit is retained; English provisionally reads attained the palm from context. The repeated collects have the same defect."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Promuit is not certified through the conjectural attained reading; the identical defect is visibly printed in all seven actual collects. Prior prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "Grant, we beseech Thee, almighty God, that blessed Anastasia, who attained the palm of martyrdom, may through her intercessions bestow upon us remedies for this present life and eternal salvation. Through Christ our Lord.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              432
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -573,7 +591,7 @@
         {
           "type": "prayer",
           "source": "O quam te memorem, diva, Dei tui, Dum fervens teneris parvula flammulis, Et spernens generis Romulei decus, Ad altiora provolas. Succendit docilem discipulae facem Ardor Chrysogoni. Mens, radiis sacris Leges docta pias Christianismum sequi, Ridet deorum inanias.",
-          "english": "O how shall I commemorate thee, holy one, while as a little girl thou burnest with tender flames for thy God, and, scorning the glory of Roman birth, fliest to higher things? The ardour of Chrysogonus kindles the receptive torch of his disciple. Thy mind, taught by sacred rays to follow the devout laws of Christianity, laughs at the vanities of the gods.",
+          "english": "O how shall I commemorate thee, holy one of thy God, while as a little girl thou burnest with tender flames, and, scorning the glory of Roman birth, fliest to higher things? The ardour of Chrysogonus kindles the receptive torch of his disciple. Thy mind, taught by sacred rays the devout laws and to follow Christianity, laughs at the vanities of the gods.",
           "sourcePages": [
             432
           ],
@@ -587,8 +605,17 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed Christianismum sequi construction is defective; English provisionally follows the Christian instruction imagery."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Mens/docta agree; passive doceo can retain accusative Leges pias and infinitive Christianismum sequi. Christianismum is accusative object of sequi, not a defective genitive modifying laws. Dei tui retained as genitive with diva. Prior prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "O how shall I commemorate thee, holy one, while as a little girl thou burnest with tender flames for thy God, and, scorning the glory of Roman birth, fliest to higher things? The ardour of Chrysogonus kindles the receptive torch of his disciple. Thy mind, taught by sacred rays to follow the devout laws of Christianity, laughs at the vanities of the gods.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              432
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -614,7 +641,7 @@
         {
           "type": "prayer",
           "source": "Domine, qui me creasti, et tulisti a me amorem saeculi, jube me ad tua misericordia pervenire.",
-          "english": "Lord, Who didst create me and take from me the love of the world, command that I may reach Thy mercy.",
+          "english": "Lord, Who didst create me and take from me the love of the world, command that I may [printed ad tua misericordia: unresolved governed case].",
           "sourcePages": [
             432
           ],
@@ -629,7 +656,16 @@
           "alignment": "reviewed",
           "id": "prime-b0006",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed ad tua misericordia has defective case agreement; English follows the evident Thy mercy meaning."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Actual case after ad remains unresolved. Prior prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "Lord, Who didst create me and take from me the love of the world, command that I may reach Thy mercy.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              432
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -735,7 +771,7 @@
         {
           "type": "prayer",
           "source": "Concede, quaesumus, omnipotens Deus, ut beata Anastasia, quae martyrii promuit palmam, intercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem.Per Christum Dominum nostrum.",
-          "english": "Grant, we beseech Thee, almighty God, that blessed Anastasia, who attained the palm of martyrdom, may through her intercessions bestow upon us remedies for this present life and eternal salvation. Through Christ our Lord.",
+          "english": "Grant, we beseech Thee, almighty God, that blessed Anastasia, [printed quae martyrii promuit palmam: unresolved verb], may through her intercessions bestow upon us remedies for this present life and eternal salvation. Through Christ our Lord.",
           "sourcePages": [
             433
           ],
@@ -750,7 +786,16 @@
           "alignment": "reviewed",
           "id": "prime-b0012",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed promuit is retained; English provisionally reads attained the palm from context, as in the Matins collect."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Promuit is not certified through the conjectural attained reading; the identical defect is visibly printed in all seven actual collects. Prior prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "Grant, we beseech Thee, almighty God, that blessed Anastasia, who attained the palm of martyrdom, may through her intercessions bestow upon us remedies for this present life and eternal salvation. Through Christ our Lord.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              433
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -978,7 +1023,7 @@
         {
           "type": "prayer",
           "source": "O diva, dives hortus es, Tempesque gratarum, Hic castitatis lilia, Flores benignitatis, Libertime progerminant, Fidesque pesque intentae. Sed una Christi caritas Spinae insita est merito.",
-          "english": "O holy one, thou art a rich garden [the printed Tempesque gratarum is unclear]. Here lilies of chastity and flowers of kindness spring forth freely [the printed phrase concerning faith and hope is defective]. But the charity of Christ alone is planted among thorns [the printed concluding construction is uncertain].",
+          "english": "O holy one, thou art a rich garden [the printed Tempesque gratarum is unclear]. Here lilies of chastity and flowers of kindness [printed Libertime: unresolved adverb] spring forth [the printed phrase concerning faith and hope is defective]. But the charity of Christ alone is deservedly grafted to a thorn.",
           "sourcePages": [
             433
           ],
@@ -993,7 +1038,16 @@
           "alignment": "reviewed",
           "id": "terce-b0004",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints Tempesque gratarum, Fidesque pesque intentae, and Spinae insita est merito. These defective clauses are not reconstructed from a standard hymn and remain explicitly uncertain in English."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Spinae is a regular dative with insita est; merito is the adverb deservedly. No need to invent among thorns. Tempesque gratarum, Libertime and Fidesque pesque remain bracketed. Prior prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "O holy one, thou art a rich garden [the printed Tempesque gratarum is unclear]. Here lilies of chastity and flowers of kindness spring forth freely [the printed phrase concerning faith and hope is defective]. But the charity of Christ alone is planted among thorns [the printed concluding construction is uncertain].",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              433
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -1139,7 +1193,7 @@
         {
           "type": "prayer",
           "source": "Concede, quaesumus, omnipotens Deus, ut beata Anastasia, quae martyrii promuit palmam, intercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem. Per Christum Dominum nostrum.",
-          "english": "Grant, we beseech Thee, almighty God, that blessed Anastasia, who attained the palm of martyrdom, may through her intercessions bestow upon us remedies for this present life and eternal salvation. Through Christ our Lord.",
+          "english": "Grant, we beseech Thee, almighty God, that blessed Anastasia, [printed quae martyrii promuit palmam: unresolved verb], may through her intercessions bestow upon us remedies for this present life and eternal salvation. Through Christ our Lord.",
           "sourcePages": [
             433
           ],
@@ -1154,7 +1208,16 @@
           "alignment": "reviewed",
           "id": "terce-b0012",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed promuit is retained; English provisionally reads attained the palm from context, as in the Matins collect."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Promuit is not certified through the conjectural attained reading; the identical defect is visibly printed in all seven actual collects. Prior prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "Grant, we beseech Thee, almighty God, that blessed Anastasia, who attained the palm of martyrdom, may through her intercessions bestow upon us remedies for this present life and eternal salvation. Through Christ our Lord.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              433
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1320,7 +1383,7 @@
         {
           "type": "prayer",
           "source": "℣. Deus in adjutorium, etc.",
-          "english": "℣. O God, come to my assistance, etc.",
+          "english": "℣. O God, to assistance, etc.",
           "sourcePages": [
             433
           ],
@@ -1331,8 +1394,7 @@
               433
             ],
             "review": "editorial-review-complete",
-            "method": "exact-source-memory",
-            "memoryId": "a254d6d752a3bd6a"
+            "method": "visual-pdf-prepared-translation"
           },
           "alignment": "reviewed",
           "id": "sext-b0001",
@@ -1345,7 +1407,19 @@
               433
             ],
             "note": "The printed abbreviation repeats the full opening versicle at Matins."
-          }
+          },
+          "originalPreparedEnglish": "℣. O God, come to my assistance, etc.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              433
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "a254d6d752a3bd6a"
+          },
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Printed abbreviated incipit contains no imperative or possessive meum; both omitted in this English incipit. Prior prepared English/provenance archived; all Latin unchanged."
         },
         {
           "type": "prayer",
@@ -1401,7 +1475,7 @@
         {
           "type": "prayer",
           "source": "Viro ligata conjugii Ligata sacris artibus Astris adhaeres nexibus, Viriquae amores respuis. Hinc lora, carcer te manent, Ergastulumque foetidum: Sed altior mens libera Quiescit inter sidera.",
-          "english": "Bound to a husband in marriage, bound by sacred ways, thou cleavest to the stars with bonds and rejectest thy husband’s loves. Hence lashes, prison, and a foul workhouse await thee; but thy higher mind, free, rests among the stars.",
+          "english": "Bound to a husband of marriage, bound by sacred ways, thou cleavest to the stars with bonds and rejectest [printed Viriquae: unresolved form] loves. Hence lashes, prison, and a foul workhouse await thee; but thy higher mind, free, rests among the stars.",
           "sourcePages": [
             433
           ],
@@ -1416,7 +1490,16 @@
           "alignment": "reviewed",
           "id": "sext-b0004",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed Viro ligata conjugii and Viriquae have defective forms. English provisionally follows the marriage, sacred bonds, and rejection imagery."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Conjugii can qualify viro as genitive of marriage; Viriquae remains unresolved without substituting virique. Prior prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "Bound to a husband in marriage, bound by sacred ways, thou cleavest to the stars with bonds and rejectest thy husband’s loves. Hence lashes, prison, and a foul workhouse await thee; but thy higher mind, free, rests among the stars.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              433
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -1442,7 +1525,7 @@
         {
           "type": "prayer",
           "source": "Facesset a me; pabulum mortis, quia jam ab alio amatore praeventa sum.",
-          "english": "Depart from me, food of death, for I have already been claimed by another lover.",
+          "english": "The food of death shall depart from me, for I have already been claimed by another lover.",
           "sourcePages": [
             433
           ],
@@ -1456,7 +1539,17 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0006",
-          "verification": "visual-review"
+          "verification": "visual-review",
+          "originalPreparedEnglish": "Depart from me, food of death, for I have already been claimed by another lover.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              433
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Facesset is future third person, with nominative neuter pabulum, not an unprinted second-person imperative. Prior prepared English/provenance archived; all Latin unchanged."
         },
         {
           "type": "prayer",
@@ -1551,7 +1644,7 @@
         {
           "type": "prayer",
           "source": "Concede, quaesumus, omnipotens Deus, ut beata Anastasia, quae Martyrii promuit palmam, intercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem. Per Christum Dominum nostrum.",
-          "english": "Grant, we beseech Thee, almighty God, that blessed Anastasia, who attained the palm of martyrdom, may through her intercessions bestow upon us remedies for this present life and eternal salvation. Through Christ our Lord.",
+          "english": "Grant, we beseech Thee, almighty God, that blessed Anastasia, [printed quae martyrii promuit palmam: unresolved verb], may through her intercessions bestow upon us remedies for this present life and eternal salvation. Through Christ our Lord.",
           "sourcePages": [
             433
           ],
@@ -1566,7 +1659,16 @@
           "alignment": "reviewed",
           "id": "sext-b0011",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed promuit is retained; English provisionally reads attained the palm from context, as in the Matins collect."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Promuit is not certified through the conjectural attained reading; the identical defect is visibly printed in all seven actual collects. Prior prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "Grant, we beseech Thee, almighty God, that blessed Anastasia, who attained the palm of martyrdom, may through her intercessions bestow upon us remedies for this present life and eternal salvation. Through Christ our Lord.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              433
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1635,7 +1737,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0014",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0019",
@@ -1646,12 +1748,12 @@
             ],
             "note": "The closing prayer is given in full at Matins; its full printed signs are retained, while the later abbreviated response sign is documented as differing."
           },
-          "editorialNote": "The abbreviated PDF prints Benedicamus with a response sign; the full Matins prayer has a versicle sign. Both printed forms are retained and this role discrepancy remains pending."
+          "editorialNote": "10 October 2026: actual rendered p.434 personally compared. The response sign and abbreviated Benedicamus are securely printed and faithfully retained. Their difference from the earlier versicle is documented source usage, not an unresolved reading; no liturgical role regularised."
         },
         {
           "type": "prayer",
           "source": "℣. Et Fidelium, etc.",
-          "english": "℣. And the faithful, etc.",
+          "english": "℣. And of the faithful, etc.",
           "sourcePages": [
             434
           ],
@@ -1675,7 +1777,17 @@
               434
             ],
             "note": "The printed incipit repeats the full Matins prayer for the faithful departed and its Amen."
-          }
+          },
+          "originalPreparedEnglish": "℣. And the faithful, etc.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              434
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Fidelium is the printed genitive incipit; the full plural souls predicate is not imported. Prior prepared English/provenance archived; all Latin unchanged."
         }
       ]
     },
@@ -1690,7 +1802,7 @@
         {
           "type": "prayer",
           "source": "℣. Deus in adjutorium, etc.",
-          "english": "℣. O God, come to my assistance, etc.",
+          "english": "℣. O God, to assistance, etc.",
           "sourcePages": [
             434
           ],
@@ -1701,8 +1813,7 @@
               434
             ],
             "review": "editorial-review-complete",
-            "method": "exact-source-memory",
-            "memoryId": "a254d6d752a3bd6a"
+            "method": "visual-pdf-prepared-translation"
           },
           "alignment": "reviewed",
           "id": "none-b0001",
@@ -1715,7 +1826,19 @@
               434
             ],
             "note": "The printed abbreviation repeats the full opening versicle at Matins."
-          }
+          },
+          "originalPreparedEnglish": "℣. O God, come to my assistance, etc.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              434
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "a254d6d752a3bd6a"
+          },
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Printed abbreviated incipit contains no imperative or possessive meum; both omitted in this English incipit. Prior prepared English/provenance archived; all Latin unchanged."
         },
         {
           "type": "prayer",
@@ -1918,7 +2041,7 @@
         {
           "type": "prayer",
           "source": "Concede, quaesumus, omnipotens Deus, ut beata Anastasia, quae Martyrii promuit palmam, intercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem. Per Christum Dominum nostrum.",
-          "english": "Grant, we beseech Thee, almighty God, that blessed Anastasia, who attained the palm of martyrdom, may through her intercessions bestow upon us remedies for this present life and eternal salvation. Through Christ our Lord.",
+          "english": "Grant, we beseech Thee, almighty God, that blessed Anastasia, [printed quae martyrii promuit palmam: unresolved verb], may through her intercessions bestow upon us remedies for this present life and eternal salvation. Through Christ our Lord.",
           "sourcePages": [
             434
           ],
@@ -1933,7 +2056,16 @@
           "alignment": "reviewed",
           "id": "none-b0011",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed promuit is retained; English provisionally reads attained the palm from context, as in the Matins collect."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Promuit is not certified through the conjectural attained reading; the identical defect is visibly printed in all seven actual collects. Prior prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "Grant, we beseech Thee, almighty God, that blessed Anastasia, who attained the palm of martyrdom, may through her intercessions bestow upon us remedies for this present life and eternal salvation. Through Christ our Lord.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              434
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -2002,7 +2134,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0014",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0019",
@@ -2013,12 +2145,12 @@
             ],
             "note": "The closing prayer is given in full at Matins; its full printed signs are retained, while the later abbreviated response sign is documented as differing."
           },
-          "editorialNote": "The abbreviated PDF prints Benedicamus with a response sign; the full Matins prayer has a versicle sign. Both printed forms are retained and this role discrepancy remains pending."
+          "editorialNote": "10 October 2026: actual rendered p.434 personally compared. The response sign and abbreviated Benedicamus are securely printed and faithfully retained. Their difference from the earlier versicle is documented source usage, not an unresolved reading; no liturgical role regularised."
         },
         {
           "type": "prayer",
           "source": "℣. Et Fidelium, etc.",
-          "english": "℣. And the faithful, etc.",
+          "english": "℣. And of the faithful, etc.",
           "sourcePages": [
             434
           ],
@@ -2042,7 +2174,17 @@
               434
             ],
             "note": "The printed incipit repeats the full Matins prayer for the faithful departed and its Amen."
-          }
+          },
+          "originalPreparedEnglish": "℣. And the faithful, etc.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              434
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Fidelium is the printed genitive incipit; the full plural souls predicate is not imported. Prior prepared English/provenance archived; all Latin unchanged."
         }
       ]
     },
@@ -2057,7 +2199,7 @@
         {
           "type": "prayer",
           "source": "℣. Deus in adjutorium, etc.",
-          "english": "℣. O God, come to my assistance, etc.",
+          "english": "℣. O God, to assistance, etc.",
           "sourcePages": [
             434
           ],
@@ -2068,8 +2210,7 @@
               434
             ],
             "review": "editorial-review-complete",
-            "method": "exact-source-memory",
-            "memoryId": "a254d6d752a3bd6a"
+            "method": "visual-pdf-prepared-translation"
           },
           "alignment": "reviewed",
           "id": "vespers-b0001",
@@ -2082,7 +2223,19 @@
               434
             ],
             "note": "The printed abbreviation repeats the full opening versicle at Matins."
-          }
+          },
+          "originalPreparedEnglish": "℣. O God, come to my assistance, etc.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              434
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "a254d6d752a3bd6a"
+          },
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Printed abbreviated incipit contains no imperative or possessive meum; both omitted in this English incipit. Prior prepared English/provenance archived; all Latin unchanged."
         },
         {
           "type": "prayer",
@@ -2151,7 +2304,16 @@
           "alignment": "reviewed",
           "id": "vespers-b0004",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF itself prints Pontus cupit furente, lacertimia, susum, and Nequitiae procul merita. English retains the intelligible shipwreck and charity imagery, while the unintelligible clauses are explicitly marked."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. The previously bracketed Pontus/furente, lacertimia and Nequitiae closing construction remain unresolved. Susum is retained as printed upward wording; it is not the reason for pending status. Prior prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "Florus wishes thee, holy one, conquered by no misfortunes or deceit, to perish shipwrecked upon a raging sea [the printed opening construction is defective]. Thou sittest in a ship with a company of martyrs [the printed lacertimia is unclear]; but charity draws upwards [the printed closing Nequitiae procul merita is unresolved].",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              434
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -2286,7 +2448,7 @@
         {
           "type": "prayer",
           "source": "Concede, quaesumus, omnipotens Deus, ut beata Anastasia, quae Martyrii promuit palmam, intercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem. Per Christum Dominum nostrum.",
-          "english": "Grant, we beseech Thee, almighty God, that blessed Anastasia, who attained the palm of martyrdom, may through her intercessions bestow upon us remedies for this present life and eternal salvation. Through Christ our Lord.",
+          "english": "Grant, we beseech Thee, almighty God, that blessed Anastasia, [printed quae martyrii promuit palmam: unresolved verb], may through her intercessions bestow upon us remedies for this present life and eternal salvation. Through Christ our Lord.",
           "sourcePages": [
             434
           ],
@@ -2301,7 +2463,16 @@
           "alignment": "reviewed",
           "id": "vespers-b0011",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed promuit is retained; English provisionally reads attained the palm from context, as in the Matins collect."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Promuit is not certified through the conjectural attained reading; the identical defect is visibly printed in all seven actual collects. Prior prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "Grant, we beseech Thee, almighty God, that blessed Anastasia, who attained the palm of martyrdom, may through her intercessions bestow upon us remedies for this present life and eternal salvation. Through Christ our Lord.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              434
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -2370,7 +2541,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0014",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0019",
@@ -2381,12 +2552,12 @@
             ],
             "note": "The closing prayer is given in full at Matins; its full printed signs are retained, while the later abbreviated response sign is documented as differing."
           },
-          "editorialNote": "The abbreviated PDF prints Benedicamus with a response sign; the full Matins prayer has a versicle sign. Both printed forms are retained and this role discrepancy remains pending."
+          "editorialNote": "10 October 2026: actual rendered p.434 personally compared. The response sign and abbreviated Benedicamus are securely printed and faithfully retained. Their difference from the earlier versicle is documented source usage, not an unresolved reading; no liturgical role regularised."
         },
         {
           "type": "prayer",
           "source": "℣. Et Fidelium, etc.",
-          "english": "℣. And the faithful, etc.",
+          "english": "℣. And of the faithful, etc.",
           "sourcePages": [
             434
           ],
@@ -2410,7 +2581,17 @@
               434
             ],
             "note": "The printed incipit repeats the full Matins prayer for the faithful departed and its Amen."
-          }
+          },
+          "originalPreparedEnglish": "℣. And the faithful, etc.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              434
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Fidelium is the printed genitive incipit; the full plural souls predicate is not imported. Prior prepared English/provenance archived; all Latin unchanged."
         }
       ]
     },
@@ -2468,7 +2649,7 @@
         {
           "type": "prayer",
           "source": "℣. Deus in adjutorium, etc.",
-          "english": "℣. O God, come to my assistance, etc.",
+          "english": "℣. O God, to assistance, etc.",
           "sourcePages": [
             434
           ],
@@ -2479,8 +2660,7 @@
               434
             ],
             "review": "editorial-review-complete",
-            "method": "exact-source-memory",
-            "memoryId": "a254d6d752a3bd6a"
+            "method": "visual-pdf-prepared-translation"
           },
           "alignment": "reviewed",
           "id": "compline-b0003",
@@ -2493,7 +2673,19 @@
               434
             ],
             "note": "The printed abbreviation repeats the full opening versicle at Matins."
-          }
+          },
+          "originalPreparedEnglish": "℣. O God, come to my assistance, etc.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              434
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "a254d6d752a3bd6a"
+          },
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Printed abbreviated incipit contains no imperative or possessive meum; both omitted in this English incipit. Prior prepared English/provenance archived; all Latin unchanged."
         },
         {
           "type": "prayer",
@@ -2547,7 +2739,7 @@
         {
           "type": "prayer",
           "source": "Qui palma stoter largior Palmariam per Insulam, Hic Coelites Victoriam Tuum videre gestiunt. Assita lentis ignibus Moras pati jam nescia, Conquesta flammis languida, Amoris igne concidis.",
-          "english": "[The printed opening Qui palma stoter largior is unintelligible.] Across the island of Palmaria, here the heavenly ones long to see thy victory. Set amid slow fires, no longer knowing how to endure delay, overcome and languishing in the flames, thou fallest through the fire of love.",
+          "english": "[The printed opening Qui palma stoter largior is unintelligible.] Across the island of Palmaria, here the heavenly ones long to see [printed Victoriam Tuum: unresolved agreement/reference]. Set amid slow fires, no longer knowing how to endure delay, having complained amid the flames, languishing, thou fallest through the fire of love.",
           "sourcePages": [
             434
           ],
@@ -2562,7 +2754,16 @@
           "alignment": "reviewed",
           "id": "compline-b0006",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed Qui palma stoter largior is not securely intelligible; English leaves the opening explicitly unresolved rather than inventing an intended line."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Tuum does not print a feminine possessive agreeing with Victoriam; no unprinted tuam supplied. Conquesta is a regular perfect deponent participle of complain, not an unprinted conquered/overcome form. Qui palma stoter largior remains unresolved. Prior prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "[The printed opening Qui palma stoter largior is unintelligible.] Across the island of Palmaria, here the heavenly ones long to see thy victory. Set amid slow fires, no longer knowing how to endure delay, overcome and languishing in the flames, thou fallest through the fire of love.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              434
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -2704,7 +2905,7 @@
         {
           "type": "prayer",
           "source": "Concede, quaesumus, omnipotens Deus, ut beata Anastasia, quae Martyrii promuit palmam, intercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem. Per Christum Dominum nostrum.",
-          "english": "Grant, we beseech Thee, almighty God, that blessed Anastasia, who attained the palm of martyrdom, may through her intercessions bestow upon us remedies for this present life and eternal salvation. Through Christ our Lord.",
+          "english": "Grant, we beseech Thee, almighty God, that blessed Anastasia, [printed quae martyrii promuit palmam: unresolved verb], may through her intercessions bestow upon us remedies for this present life and eternal salvation. Through Christ our Lord.",
           "sourcePages": [
             435
           ],
@@ -2719,7 +2920,16 @@
           "alignment": "reviewed",
           "id": "compline-b0013",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed promuit is retained; English provisionally reads attained the palm from context, as in the Matins collect."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Promuit is not certified through the conjectural attained reading; the identical defect is visibly printed in all seven actual collects. Prior prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "Grant, we beseech Thee, almighty God, that blessed Anastasia, who attained the palm of martyrdom, may through her intercessions bestow upon us remedies for this present life and eternal salvation. Through Christ our Lord.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              435
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -2788,7 +2998,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0016",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0019",
@@ -2799,12 +3009,12 @@
             ],
             "note": "The closing prayer is given in full at Matins; its full printed signs are retained, while the later abbreviated response sign is documented as differing."
           },
-          "editorialNote": "The abbreviated PDF prints Benedicamus with a response sign; the full Matins prayer has a versicle sign. Both printed forms are retained and this role discrepancy remains pending."
+          "editorialNote": "10 October 2026: actual rendered p.435 personally compared. The response sign and abbreviated Benedicamus are securely printed and faithfully retained. Their difference from the earlier versicle is documented source usage, not an unresolved reading; no liturgical role regularised."
         },
         {
           "type": "prayer",
           "source": "℣. Et Fidelium, etc.",
-          "english": "℣. And the faithful, etc.",
+          "english": "℣. And of the faithful, etc.",
           "sourcePages": [
             435
           ],
@@ -2828,7 +3038,17 @@
               435
             ],
             "note": "The printed incipit repeats the full Matins prayer for the faithful departed and its Amen."
-          }
+          },
+          "originalPreparedEnglish": "℣. And the faithful, etc.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              435
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Fidelium is the printed genitive incipit; the full plural souls predicate is not imported. Prior prepared English/provenance archived; all Latin unchanged."
         }
       ]
     },
@@ -2874,6 +3094,15 @@
         434,
         435
       ]
+    },
+    {
+      "pages": [
+        432,
+        433,
+        434,
+        435
+      ],
+      "text": "10 October 2026: all four rendered pages and all 123 passages personally compared, including 1702 attribution, seven actual hours (no Lauds), seven fully printed collects, seasonal rubric, four Benedicamus response signs, abbreviations, hymn continuations and Commendation. Six pending passages verified: adjectival Fausta/unicum gaudium, passive-doceo/Christianismum sequi construction and four securely printed response signs. Thirteen genuine source blockers remain explicitly bracketed. Future Facesset, deponent Conquesta, dative Spinae and genitive closing Fidelium retained literally; prior English/provenance archived; all Latin unchanged."
     }
   ]
 }

@@ -79,7 +79,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -100,7 +100,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -121,7 +121,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -142,7 +142,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -163,7 +163,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -204,12 +204,12 @@
           "id": "matins-b0008",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The PDF prints “Carnes caret carinibus”; its sense is unresolved. The earlier “Reduxit” has an uncertain subject. No missing fasting instruction is invented."
+          "editorialNote": "10 October 2026: actual rendered source independently compared; blocker confirmed. The PDF prints “Carnes caret carinibus”; its sense is unresolved. The earlier “Reduxit” has an uncertain subject. No missing fasting instruction is invented."
         },
         {
           "type": "prayer",
           "source": "Pulsis dapum vaporibus Nam ut serenat cerebra, Lucidor sic spiritus Per carnis fit jejunia.",
-          "english": "For, as the vapours of feasts are driven away\nAnd the mind is made clear,\nSo the spirit becomes more luminous\nThrough fasting of the flesh.",
+          "english": "For, as the vapours of feasts are driven away\nAnd the mind is made clear,\nSo the spirit becomes [printed Lucidor: unresolved comparative]\nThrough fasting of the flesh.",
           "sourcePages": [
             501
           ],
@@ -225,12 +225,21 @@
           "id": "matins-b0009",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The source’s comparative “Lucidor” is irregular; “more luminous” is provisional. The compressed first clause is rendered by its readable sense."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Unresolved printed forms are explicitly bracketed rather than translated as conjectural replacements. Previous prepared English/provenance retained; Latin unchanged. The source’s comparative “Lucidor” is irregular; “more luminous” is provisional. The compressed first clause is rendered by its readable sense.",
+          "originalPreparedEnglish": "For, as the vapours of feasts are driven away\nAnd the mind is made clear,\nSo the spirit becomes more luminous\nThrough fasting of the flesh.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              501
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Ant. Videsne, quid faciat jejunium? Demonas fugat, pravas cogitationes expellit, cor mundum efficit, et mentem reddit oratorem.",
-          "english": "Ant. Seest thou what fasting doth? It puts demons to flight, drives out evil thoughts, makes the heart pure, and renders the mind prayerful.",
+          "english": "Ant. Seest thou what fasting doth? It puts demons to flight, drives out evil thoughts, makes the heart pure, and renders the mind an orator.",
           "sourcePages": [
             501
           ],
@@ -244,8 +253,17 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "source-reading-pending",
-          "editorialNote": "“mentem reddit oratorem” is rendered as making the mind prayerful; the metaphor is retained in sense."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared. P.501 mentem reddit oratorem is a predicative noun metaphor, literally makes the mind an orator; the differing noun genders do not require replacement.",
+          "originalPreparedEnglish": "Ant. Seest thou what fasting doth? It puts demons to flight, drives out evil thoughts, makes the heart pure, and renders the mind prayerful.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              501
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -285,7 +303,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0012",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -306,7 +324,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0013",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -346,7 +364,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0015",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -396,7 +414,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -417,7 +435,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -438,12 +456,12 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Preces fundit et cantica Pios incurvans poplites Tam grata Deo musices, Ipsi gaudent coelites;",
-          "english": "He pours forth prayers and canticles,\nBending his knees in piety;\nIn music so pleasing to God\nThe heavenly ones themselves rejoice;",
+          "english": "He pours forth prayers and the canticles of music so pleasing to God, bending his knees in piety; the heavenly ones themselves rejoice;",
           "sourcePages": [
             501
           ],
@@ -457,9 +475,32 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0005",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "poetry": true,
-          "editorialNote": "The printed “musices” is grammatically irregular; the rendering of the musical clause is provisional."
+          "editorialNote": "10 October 2026: actual p.501 personally re-inspected. The earlier irregular-grammar flag was incorrect: musices is attested Greek-type genitive singular of musice (music). Cantica is accusative neuter plural object of fundit, with grata agreeing and Deo dative recipient. Musices modifies cantica across the parenthetical Pios incurvans poplites. Literal printed construction now translated, no Latin emended. Lexical evidence: https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=musica. First prepared English/provenance and intermediate bracketed English retained.",
+          "originalPreparedEnglish": "He pours forth prayers and canticles,\nBending his knees in piety;\nIn music so pleasing to God\nThe heavenly ones themselves rejoice;",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              501
+            ],
+            "review": "editorial-review-complete"
+          },
+          "preparedEnglishHistory": [
+            {
+              "date": "2026-10-10",
+              "english": "He pours forth prayers and canticles,\nBending his knees in piety;\n[Printed Tam grata Deo musices: unresolved musical construction]\nThe heavenly ones themselves rejoice;",
+              "translation": {
+                "kind": "prepared",
+                "preparedFor": "Sacrum Florilegium",
+                "sourcePages": [
+                  501
+                ],
+                "review": "editorial-review-complete"
+              }
+            }
+          ]
         },
         {
           "type": "prayer",
@@ -480,12 +521,12 @@
           "id": "lauds-b0006",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "“Ora veretur spiritu” is unresolved. The remaining lines are retained without inventing a subject for the first."
+          "editorialNote": "10 October 2026: actual rendered source independently compared; blocker confirmed. “Ora veretur spiritu” is unresolved. The remaining lines are retained without inventing a subject for the first."
         },
         {
           "type": "prayer",
           "source": "Nam sub carnis pondere Recusat corpus deprimi, Astra volavit scandere Mens valet haud difficili.",
-          "english": "For beneath the weight of the flesh\nHe refuses to let the body be weighed down;\n[The printed “Astra volavit scandere” is uncertain.]\nHis mind is able, with little difficulty.",
+          "english": "For beneath the weight of the flesh\nHe refuses to let the body be weighed down;\n[The printed “Astra volavit scandere” is uncertain.]\nHis mind is able [printed haud difficili: unresolved manner construction].",
           "sourcePages": [
             501
           ],
@@ -501,7 +542,16 @@
           "id": "lauds-b0007",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "“Astra volavit scandere” and “haud difficili” have defective syntax. The first is left uncertain; the final phrase is provisional."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Unresolved printed forms are explicitly bracketed rather than translated as conjectural replacements. Previous prepared English/provenance retained; Latin unchanged. “Astra volavit scandere” and “haud difficili” have defective syntax. The first is left uncertain; the final phrase is provisional.",
+          "originalPreparedEnglish": "For beneath the weight of the flesh\nHe refuses to let the body be weighed down;\n[The printed “Astra volavit scandere” is uncertain.]\nHis mind is able, with little difficulty.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              501
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -541,7 +591,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0009",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0011",
@@ -570,7 +620,7 @@
         {
           "type": "prayer",
           "source": "Sanctus Franciscus de Paula perpetuus mundi contemnor et carnis domator.",
-          "english": "Saint Francis of Paola, a constant contemner of the world and tamer of the flesh.",
+          "english": "Saint Francis of Paola, [printed perpetuus mundi contemnor: unresolved construction] and tamer of the flesh.",
           "sourcePages": [
             501
           ],
@@ -585,7 +635,16 @@
           "alignment": "reviewed",
           "id": "prime-b0001",
           "verification": "source-reading-pending",
-          "editorialNote": "The source prints the irregular “contemnor”; “contemner” is a provisional reading."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Unresolved printed forms are explicitly bracketed rather than translated as conjectural replacements. Previous prepared English/provenance retained; Latin unchanged. The source prints the irregular “contemnor”; “contemner” is a provisional reading.",
+          "originalPreparedEnglish": "Saint Francis of Paola, a constant contemner of the world and tamer of the flesh.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              501
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -606,7 +665,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -627,7 +686,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -648,7 +707,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -693,7 +752,7 @@
         {
           "type": "prayer",
           "source": "Blandis rebellis motibus Carnis terit potentiam, Castis puelli moribus Viri jungens prudentiam.",
-          "english": "Resisting enticing movements,\nHe wears down the power of the flesh,\nJoining to the chaste conduct of a boy\nThe prudence of a man.",
+          "english": "Resisting enticing movements,\nHe wears down the power of the flesh,\nJoining to the chaste conduct of a little boy\nThe prudence of a man.",
           "sourcePages": [
             502
           ],
@@ -707,9 +766,18 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0007",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "poetry": true,
-          "editorialNote": "The printed “puelli” is irregular; “of a boy” is provisional."
+          "editorialNote": "10 October 2026: actual rendered page personally compared. P.502 puelli is the genitive of the diminutive puellus, a little boy, not a word requiring replacement.",
+          "originalPreparedEnglish": "Resisting enticing movements,\nHe wears down the power of the flesh,\nJoining to the chaste conduct of a boy\nThe prudence of a man.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              502
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -749,7 +817,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0009",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0011",
@@ -812,7 +880,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -833,7 +901,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -854,7 +922,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -879,7 +947,7 @@
         {
           "type": "prayer",
           "source": "Nec tangitur molestia Remotus a sodalibus, Dei dat suam praesentiam Abstrusus latens specubus.",
-          "english": "Nor is he touched by distress,\nFar removed from his companions;\nGod gives His own presence\nTo him hidden deep within caves.",
+          "english": "Nor is he touched by distress,\nFar removed from his companions;\n[Printed Dei dat suam praesentiam: unresolved construction]\nHidden deep within caves.",
           "sourcePages": [
             502
           ],
@@ -895,7 +963,16 @@
           "id": "terce-b0006",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The printed “Dei dat suam praesentiam” is grammatically defective; the rendering “God gives His own presence” is conjectural."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Unresolved printed forms are explicitly bracketed rather than translated as conjectural replacements. Previous prepared English/provenance retained; Latin unchanged. The printed “Dei dat suam praesentiam” is grammatically defective; the rendering “God gives His own presence” is conjectural.",
+          "originalPreparedEnglish": "Nor is he touched by distress,\nFar removed from his companions;\nGod gives His own presence\nTo him hidden deep within caves.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              502
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -914,8 +991,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0007",
-          "verification": "source-reading-pending",
-          "editorialNote": "The source prints “apparuit tibi,” rather than a standard psalm text. The shift of person is preserved; no external psalm is substituted."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared. P.502 apparuit tibi is a secure printed perfect third-person clause; its shift of person is retained instead of substituting another Psalm."
         },
         {
           "type": "rubric",
@@ -936,7 +1013,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0008",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0011",
@@ -979,8 +1056,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "source-reading-pending",
-          "editorialNote": "The historical age is retained as printed; it is not silently corrected from another biography."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared. P.502 the sixty-ninth year is the printed historical claim; it does not require a different age from an external biography."
         },
         {
           "type": "prayer",
@@ -1001,7 +1078,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1022,7 +1099,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1043,12 +1120,12 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Sylvae relictens fructices, Sub Charitatis exercitu Ad bella Christi milites Manu producit strenua,",
-          "english": "Leaving the thickets of the forest,\nIn the army of charity,\nWith a vigorous hand he leads forth\nSoldiers for the battles of Christ,",
+          "english": "[Printed Sylvae relictens fructices: unresolved forms concerning the forest],\nIn the army of charity,\nWith a vigorous hand he leads forth\nSoldiers for the battles of Christ,",
           "sourcePages": [
             502
           ],
@@ -1064,12 +1141,21 @@
           "id": "sext-b0005",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The printed “relictens fructices” is irregular; “leaving the thickets” is provisional."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Unresolved printed forms are explicitly bracketed rather than translated as conjectural replacements. Previous prepared English/provenance retained; Latin unchanged. The printed “relictens fructices” is irregular; “leaving the thickets” is provisional.",
+          "originalPreparedEnglish": "Leaving the thickets of the forest,\nIn the army of charity,\nWith a vigorous hand he leads forth\nSoldiers for the battles of Christ,",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              502
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Quem manuevit Charitas, Praedignus hic et signifer, Quo conteratur vanitas, Quam fallax sufflat Lucifer.",
-          "english": "He whom charity has trained\nIs a most worthy standard-bearer,\nThat vanity may be crushed,\nWhich deceitful Lucifer puffs up.",
+          "english": "He whom charity [printed manuevit: unresolved verb]\nIs a most worthy standard-bearer,\nThat vanity may be crushed,\nWhich deceitful Lucifer puffs up.",
           "sourcePages": [
             502
           ],
@@ -1085,7 +1171,16 @@
           "id": "sext-b0006",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The source prints “manuevit.” “Has trained” is conjectural; the Latin remains unchanged."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Unresolved printed forms are explicitly bracketed rather than translated as conjectural replacements. Previous prepared English/provenance retained; Latin unchanged. The source prints “manuevit.” “Has trained” is conjectural; the Latin remains unchanged.",
+          "originalPreparedEnglish": "He whom charity has trained\nIs a most worthy standard-bearer,\nThat vanity may be crushed,\nWhich deceitful Lucifer puffs up.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              502
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1110,7 +1205,7 @@
         {
           "type": "prayer",
           "source": "Ant. Charitas non exultatur, non inflatur, non est ambitiosa: sectamini charitatem, aemulamini spiritualia.",
-          "english": "Ant. Charity is not exalted, is not puffed up, is not ambitious: pursue charity, be zealous for spiritual things.",
+          "english": "Ant. Charity [printed non exultatur: unresolved passive form], is not puffed up, is not ambitious: pursue charity, be zealous for spiritual things.",
           "sourcePages": [
             503
           ],
@@ -1125,7 +1220,16 @@
           "alignment": "reviewed",
           "id": "sext-b0008",
           "verification": "source-reading-pending",
-          "editorialNote": "The source prints “non exultatur”; the literal rendering “is not exalted” is retained instead of substituting a standard biblical text."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Unresolved printed forms are explicitly bracketed rather than translated as conjectural replacements. Previous prepared English/provenance retained; Latin unchanged. The source prints “non exultatur”; the literal rendering “is not exalted” is retained instead of substituting a standard biblical text.",
+          "originalPreparedEnglish": "Ant. Charity is not exalted, is not puffed up, is not ambitious: pursue charity, be zealous for spiritual things.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              503
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -1146,7 +1250,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0009",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0011",
@@ -1209,7 +1313,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1230,7 +1334,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1251,12 +1355,12 @@
           },
           "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ignas domat, et aequora, Terras, flatusque aetheris, Dat lingua mutis organa, Et caecis usum luminis;",
-          "english": "He tames fires and seas,\nEarth and the winds of the air;\nHis tongue gives speech to the mute,\nAnd to the blind the use of sight;",
+          "english": "He tames [printed Ignas: unresolved form] and seas,\nEarth and the winds of the air;\n[Printed Dat lingua mutis organa: unresolved agreement/construction],\nAnd to the blind the use of sight;",
           "sourcePages": [
             503
           ],
@@ -1272,12 +1376,21 @@
           "id": "none-b0005",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The printed “Ignas” and the compressed “Dat lingua mutis organa” are irregular; the English is provisional."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Unresolved printed forms are explicitly bracketed rather than translated as conjectural replacements. Previous prepared English/provenance retained; Latin unchanged. The printed “Ignas” and the compressed “Dat lingua mutis organa” are irregular; the English is provisional.",
+          "originalPreparedEnglish": "He tames fires and seas,\nEarth and the winds of the air;\nHis tongue gives speech to the mute,\nAnd to the blind the use of sight;",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              503
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Binis amorum nexibus Tum Numini, tum Proximi Miraclis claret pluribus Aeterno plenus Principi;",
-          "english": "Through the twofold bonds of love,\nBoth of God and of his neighbour,\nHe shines with many miracles,\nFilled with the eternal Prince;",
+          "english": "Through the twofold bonds of love,\n[Printed Tum Numini, tum Proximi: unresolved case relation],\nHe shines with many [printed Miraclis: unresolved form],\nFilled [printed Aeterno … Principi: unresolved case relation];",
           "sourcePages": [
             503
           ],
@@ -1293,12 +1406,21 @@
           "id": "none-b0006",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "“Numini,” “Proximi,” “Miraclis,” and “Aeterno ... Principi” have irregular forms or syntax. The English is provisional."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Unresolved printed forms are explicitly bracketed rather than translated as conjectural replacements. Previous prepared English/provenance retained; Latin unchanged. “Numini,” “Proximi,” “Miraclis,” and “Aeterno ... Principi” have irregular forms or syntax. The English is provisional.",
+          "originalPreparedEnglish": "Through the twofold bonds of love,\nBoth of God and of his neighbour,\nHe shines with many miracles,\nFilled with the eternal Prince;",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              503
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Nec diligenti potuit Ut Deus quidquam denegat, Quin, quo se plus abjicit, Hoc gratia plus eminet.",
-          "english": "Nor could God deny anything\nTo him who loved;\nRather, the more he casts himself down,\nThe more he excels in grace.",
+          "english": "[Printed Nec diligenti potuit Ut Deus quidquam denegat: unresolved verb construction];\nRather, the more he casts himself down,\nThe more he excels in grace.",
           "sourcePages": [
             503
           ],
@@ -1314,7 +1436,16 @@
           "id": "none-b0007",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The printed “Nec diligenti potuit Ut Deus quidquam denegat” is grammatically defective; its English is conjectural."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Unresolved printed forms are explicitly bracketed rather than translated as conjectural replacements. Previous prepared English/provenance retained; Latin unchanged. The printed “Nec diligenti potuit Ut Deus quidquam denegat” is grammatically defective; its English is conjectural.",
+          "originalPreparedEnglish": "Nor could God deny anything\nTo him who loved;\nRather, the more he casts himself down,\nThe more he excels in grace.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              503
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1354,7 +1485,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0009",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0011",
@@ -1417,7 +1548,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1438,7 +1569,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1459,12 +1590,12 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Die, qua fudit spiritum Christus in Crucis cathedra Franciscus hoc exilium Perennis intrat gloria,",
-          "english": "On the day when Christ gave up His spirit\nUpon the teaching seat of the Cross,\nFrancis [the printed “hoc exilium” is unresolved]\nEnters into everlasting glory,",
+          "english": "On the day when Christ gave up His spirit\nUpon the teaching seat of the Cross,\nFrancis [the printed “hoc exilium” is unresolved]\n[Printed Perennis intrat gloria: unresolved construction concerning entry/glory],",
           "sourcePages": [
             503
           ],
@@ -1480,7 +1611,16 @@
           "id": "vespers-b0005",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The source prints “hoc exilium Perennis intrat gloria.” Its connection with exile is unresolved; the readable entrance into glory remains provisional."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Unresolved printed forms are explicitly bracketed rather than translated as conjectural replacements. Previous prepared English/provenance retained; Latin unchanged. The source prints “hoc exilium Perennis intrat gloria.” Its connection with exile is unresolved; the readable entrance into glory remains provisional.",
+          "originalPreparedEnglish": "On the day when Christ gave up His spirit\nUpon the teaching seat of the Cross,\nFrancis [the printed “hoc exilium” is unresolved]\nEnters into everlasting glory,",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              503
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1501,7 +1641,7 @@
           "id": "vespers-b0006",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "“Pendens Jesu vertici” has no secure reading. The remaining phrase “Jungi ... oculis” is translated provisionally without completing the defective clause."
+          "editorialNote": "10 October 2026: actual rendered source independently compared; blocker confirmed. “Pendens Jesu vertici” has no secure reading. The remaining phrase “Jungi ... oculis” is translated provisionally without completing the defective clause."
         },
         {
           "type": "prayer",
@@ -1520,9 +1660,9 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "poetry": true,
-          "editorialNote": "“Dux vitae postquam mortuus” has compressed syntax. The relation to Christ’s death is provisional."
+          "editorialNote": "10 October 2026: actual rendered page personally compared. P.503 Dux vitae postquam mortuus has an omitted copula, a normal compressed nominal clause: after the Leader of life had died. No missing historical event is added."
         },
         {
           "type": "prayer",
@@ -1562,7 +1702,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0009",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0011",
@@ -1591,7 +1731,7 @@
         {
           "type": "prayer",
           "source": "Sancti Francisci de Paula corpus incorruptum unicum Cruce ab haereticis combustur.",
-          "english": "The incorrupt body of Saint Francis of Paola [the printed “unicum Cruce” is unresolved] is burned by heretics.",
+          "english": "The incorrupt body of Saint Francis of Paola [the printed “unicum Cruce” is unresolved] [printed combustur: unresolved verb] by heretics.",
           "sourcePages": [
             503
           ],
@@ -1606,12 +1746,21 @@
           "alignment": "reviewed",
           "id": "compline-b0001",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “unicum Cruce” and “combustur.” The former is unresolved, and “is burned” is a provisional reading of the latter."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Unresolved printed forms are explicitly bracketed rather than translated as conjectural replacements. Previous prepared English/provenance retained; Latin unchanged. The PDF prints “unicum Cruce” and “combustur.” The former is unresolved, and “is burned” is a provisional reading of the latter.",
+          "originalPreparedEnglish": "The incorrupt body of Saint Francis of Paola [the printed “unicum Cruce” is unresolved] is burned by heretics.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              503
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "℣. Convertere nos Deus salutaris noster.",
-          "english": "℣. Convert us, O God our Saviour.",
+          "english": "℣. [Printed Convertere nos: unresolved construction], O God our Saviour.",
           "sourcePages": [
             503
           ],
@@ -1627,7 +1776,19 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0002",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "℣. Convert us, O God our Saviour.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              503
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "99ecc4cd6516d1e9"
+          },
+          "editorialNote": "10 October 2026: p.503 visibly prints Convertere nos, not the customary active imperative Converte nos. Neither an omitted letter nor a different imperative is certified. Original prepared English/provenance retained."
         },
         {
           "type": "prayer",
@@ -1648,7 +1809,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1669,7 +1830,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1690,7 +1851,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1711,12 +1872,12 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Hunc, in quem tumba conditum Formidat marcor furere, Agmen audet haereticum In cineres comburere, Ut, qui tot vivus aspera Abs laurea martyrii Tulit, athletae viscera Jam concrementur mortui,",
-          "english": "Him whom decay fears to assail\nAs he lies buried in the tomb,\nA band of heretics dares\nTo burn to ashes,\nThat the body of the dead athlete\nMay now be consumed,\nWho in life bore so many hardships\n[The printed “Abs laurea martyrii” is unresolved.]",
+          "english": "Him whom decay fears to assail\nAs he lies buried in the tomb,\nA band of heretics dares\nTo burn to ashes,\nThat the body of the dead athlete\nMay now be consumed,\nWho in life bore so many hardships\nWithout the crown of martyrdom.",
           "sourcePages": [
             503,
             504
@@ -1732,14 +1893,24 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "poetry": true,
-          "editorialNote": "The printed “Abs laurea martyrii” is unresolved. The metaphor of the dead athlete and the remaining clauses are retained."
+          "editorialNote": "10 October 2026: actual rendered page personally compared. Pp.503–504 Abs laurea martyrii uses the printed variant abs with an ablative: away from/without the crown of martyrdom. No Latin word replacement is necessary.",
+          "originalPreparedEnglish": "Him whom decay fears to assail\nAs he lies buried in the tomb,\nA band of heretics dares\nTo burn to ashes,\nThat the body of the dead athlete\nMay now be consumed,\nWho in life bore so many hardships\n[The printed “Abs laurea martyrii” is unresolved.]",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              503,
+              504
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Quo rosae, tectae antea Sub castitatis frigore, Amoris tinctae purpura Flagrante furgant corpore.",
-          "english": "That the roses, hidden before\nBeneath the coolness of chastity,\nDyed with the purple of love,\nMay rise from the burning body.",
+          "english": "That the roses, hidden before\nBeneath the coolness of chastity,\nDyed with the purple of love,\n[Printed furgant: unresolved verb] from the burning body.",
           "sourcePages": [
             504
           ],
@@ -1755,7 +1926,16 @@
           "id": "compline-b0008",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The source prints “furgant”; “may rise” is conjectural."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Unresolved printed forms are explicitly bracketed rather than translated as conjectural replacements. Previous prepared English/provenance retained; Latin unchanged. The source prints “furgant”; “may rise” is conjectural.",
+          "originalPreparedEnglish": "That the roses, hidden before\nBeneath the coolness of chastity,\nDyed with the purple of love,\nMay rise from the burning body.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              504
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1795,7 +1975,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0010",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0011",
@@ -1823,7 +2003,7 @@
         {
           "type": "prayer",
           "source": "Francisce! laudes cordibus Has sume fusas intimis, Nuncen orans, coelestibus Ut nosque beet gaudiis.",
-          "english": "Francis, receive these praises\nPoured forth from our inmost hearts;\nPray to the Godhead\nThat He may bless us too with heavenly joys.",
+          "english": "Francis, receive these praises\nPoured forth from our inmost hearts;\n[Printed Nuncen orans: unresolved object of praying]\nThat He may bless us too with heavenly joys.",
           "sourcePages": [
             504
           ],
@@ -1839,7 +2019,16 @@
           "id": "commendatio-b0001",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The printed “Nuncen” is irregular; the reading referring to the Godhead is conjectural."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Unresolved printed forms are explicitly bracketed rather than translated as conjectural replacements. Previous prepared English/provenance retained; Latin unchanged. The printed “Nuncen” is irregular; the reading referring to the Godhead is conjectural.",
+          "originalPreparedEnglish": "Francis, receive these praises\nPoured forth from our inmost hearts;\nPray to the Godhead\nThat He may bless us too with heavenly joys.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              504
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1864,7 +2053,7 @@
         {
           "type": "prayer",
           "source": "Comburus qui post funera Levem versus in pulverem, Non sentiens incendia Evehis in martyrem.",
-          "english": "Burned after thy death,\nAnd changed into light dust,\nWithout feeling the flames,\nThou art raised to the rank of a martyr.",
+          "english": "[Printed Comburus: unresolved form] after thy death,\nAnd changed into light dust,\nWithout feeling the flames,\nThou [printed Evehis in martyrem: unresolved construction].",
           "sourcePages": [
             504
           ],
@@ -1880,7 +2069,16 @@
           "id": "commendatio-b0003",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "“Comburus” and “Evehis in martyrem” have defective forms. The English is conjectural; this preserves the source’s devotional claim rather than certifying a historical title."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Unresolved printed forms are explicitly bracketed rather than translated as conjectural replacements. Previous prepared English/provenance retained; Latin unchanged. “Comburus” and “Evehis in martyrem” have defective forms. The English is conjectural; this preserves the source’s devotional claim rather than certifying a historical title.",
+          "originalPreparedEnglish": "Burned after thy death,\nAnd changed into light dust,\nWithout feeling the flames,\nThou art raised to the rank of a martyr.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              504
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1939,7 +2137,7 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1959,7 +2157,7 @@
           "alignment": "reviewed",
           "id": "commendatio-b0007",
           "verification": "source-reading-pending",
-          "editorialNote": "The long printed prayer has several unintelligible or grammatically corrupt clauses. Their locations and legible subjects remain marked in English; no historical narrative or missing petition is imported to repair them."
+          "editorialNote": "10 October 2026: actual rendered source independently compared; blocker confirmed. The long printed prayer has several unintelligible or grammatically corrupt clauses. Their locations and legible subjects remain marked in English; no historical narrative or missing petition is imported to repair them."
         }
       ]
     }
@@ -1974,6 +2172,21 @@
         503,
         504
       ]
+    },
+    {
+      "pages": [
+        501,
+        502,
+        503,
+        504
+      ],
+      "text": "10 October 2026: all four rendered pages and all 85 passages personally compared, including attribution, eight hours, historical meditations, hymn/collect continuations, Commendation and seven same-office prayer expansions. 44 formerly pending passages verified. Literal printed grammar, nominal copula omission and historical claims distinguished from true malformed source. 21 actual source passages remain pending, with explicit brackets and original prepared English/provenance retained. Convertere nos is not silently changed to Converte nos."
+    },
+    {
+      "pages": [
+        501
+      ],
+      "text": "10 October 2026 lexical follow-up: musices is a valid Greek-type genitive singular. Lauds hymn construction verified without an emendation; previous source flag corrected. Twenty source-blocked passages remain."
     }
   ]
 }
