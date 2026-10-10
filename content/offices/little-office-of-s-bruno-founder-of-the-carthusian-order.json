@@ -58,7 +58,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "originalPreparedEnglish": "O depth of the riches, wisdom, and knowledge of God! How incomprehensible are His judgments, and unsearchable His ways!",
           "originalTranslation": {
             "kind": "prepared",
@@ -68,7 +68,7 @@
             ],
             "review": "editorial-review-complete"
           },
-          "editorialNote": "PDF p.472 prints “investigabiles”, which means searchable. The previous “unsearchable” silently supplied the expected negative prefix. The unusual printed reading is now translated literally and flagged for source comparison."
+          "editorialNote": "10 October 2026: actual p.472 personally inspected. Investigabiles is a complete affirmative adjective meaning searchable; unchanged English accurately translates it. No unprinted negative prefix or external Romans text imported. The previous source-comparison flag is resolved by actual inspection."
         },
         {
           "type": "prayer",
@@ -178,7 +178,7 @@
         {
           "type": "prayer",
           "source": "Coloniae progenitus, Quam vocant Agrippinam, Ex inclyt is Parentibus, Sub juventutem primam Inferiora studia Bruno puellus adit, Quaeis omnibus industria Jam potior evadit, Sophiae post Parisius, Nec non Theologiae, Set totum sacris literis Impedit Bruno pie; Tanarquicidem studio, Ut palam respondere, Toroque in Palladio Doctrina emineret.",
-          "english": "Born at Cologne, which they call Agrippina, of illustrious parents, young Bruno enters the elementary studies in earliest youth and already excels in them all through diligence. Afterwards at Paris Bruno devoutly devotes himself wholly to philosophy, theology, and sacred letters. [Unclear printed phrase: “Tanarquicidem studio.”] He answers publicly and shines in learning throughout the hall of Pallas.",
+          "english": "Born at Cologne, which they call Agrippina, of illustrious parents, young Bruno enters the elementary studies in earliest youth and already [printed Quaeis: unresolved relative form] excels through diligence. Afterwards at Paris of philosophy and theology; [printed Set totum sacris literis Impedit Bruno pie: Bruno piously impedes the whole in sacred letters; no unprinted dedication verb supplied]. [Unclear printed phrase: “Tanarquicidem studio.”] He answers publicly and shines in learning on Pallas’s couch.",
           "sourcePages": [
             472
           ],
@@ -193,7 +193,16 @@
           "alignment": "reviewed",
           "id": "matins-b0007",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed “Tanarquicidem studio” is unintelligible and explicitly marked in English. Other minor malformed words are provisionally understood in the account of studies; the source is retained."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Actual uncertain forms/connections explicitly bracketed, original English/provenance archived, Latin unchanged. No coherent repaired historical narrative certified. The printed “Tanarquicidem studio” is unintelligible and explicitly marked in English. Other minor malformed words are provisionally understood in the account of studies; the source is retained.",
+          "originalPreparedEnglish": "Born at Cologne, which they call Agrippina, of illustrious parents, young Bruno enters the elementary studies in earliest youth and already excels in them all through diligence. Afterwards at Paris Bruno devoutly devotes himself wholly to philosophy, theology, and sacred letters. [Unclear printed phrase: “Tanarquicidem studio.”] He answers publicly and shines in learning throughout the hall of Pallas.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              472
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -349,7 +358,7 @@
         {
           "type": "prayer",
           "source": "Theosophiae scrupulos Solvens abstrusiores, Doctrinae modestissimos Consociat et mores, Sacra et naturalia Arte tractans aequali, Suprema tandem laurea, Ornatur doctorali; Posthac, et post epomidem, Sacrum assumens statum, Pinguen capit propediem Rhemis Canonicatum; Statuì dies absitris Sed antequam illuxit, Horrendum drama coelitus Hunc saeculo subduxit.",
-          "english": "Resolving the more abstruse difficulties of divine wisdom, he joins most modest conduct to his learning, treating sacred and natural matters with equal skill. At last he is adorned with the highest doctoral laurel. Afterwards, taking the sacred estate and its shoulder-robe, he soon obtains a rich canonry at Rheims. [Unclear printed clause: “Statuì dies absitris.”] But before the day dawned, a dreadful drama from heaven drew him away from the world.",
+          "english": "Resolving the more abstruse difficulties of divine wisdom, he joins most modest conduct to his learning, treating sacred and natural matters with equal skill. At last he is adorned with the highest doctoral laurel. Afterwards, taking the sacred estate and its shoulder-robe, he soon obtains [printed Pinguen: unresolved qualifier] a canonry at Rheims. [Unclear printed clause: “Statuì dies absitris.”] But before the day dawned, a dreadful drama from heaven drew him away from the world.",
           "sourcePages": [
             472
           ],
@@ -364,12 +373,21 @@
           "alignment": "reviewed",
           "id": "prime-b0004",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed “Statuì dies absitris” is unintelligible and explicitly marked in English. The chronology of this clause remains unresolved; the rest is provisionally rendered from the intelligible study/canonry narrative."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Actual uncertain forms/connections explicitly bracketed, original English/provenance archived, Latin unchanged. No coherent repaired historical narrative certified. The printed “Statuì dies absitris” is unintelligible and explicitly marked in English. The chronology of this clause remains unresolved; the rest is provisionally rendered from the intelligible study/canonry narrative.",
+          "originalPreparedEnglish": "Resolving the more abstruse difficulties of divine wisdom, he joins most modest conduct to his learning, treating sacred and natural matters with equal skill. At last he is adorned with the highest doctoral laurel. Afterwards, taking the sacred estate and its shoulder-robe, he soon obtains a rich canonry at Rheims. [Unclear printed clause: “Statuì dies absitris.”] But before the day dawned, a dreadful drama from heaven drew him away from the world.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              472
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Ant. Ab incunabulis specimen futurae sanctitatis praetulisse fertur, morum gravitate pueritiae aetatis; divina gratia favente, declinans in saeculi, ut jam monachorum Pater, et vitae anchoriticae futurus Instaurator agnoscere.",
-          "english": "Ant. From the cradle he is said to have shown an example of future holiness through gravity of conduct in childhood; favoured by divine grace, turning away from the world, he was already recognised as a future father of monks and restorer of the solitary life.",
+          "english": "Ant. From the cradle he is said to have shown an example of future holiness through gravity of conduct in childhood; favoured by divine grace, [printed declinans in saeculi ... agnoscere: unresolved case/verb construction concerning a father of monks and restorer of the solitary life].",
           "sourcePages": [
             472
           ],
@@ -384,7 +402,16 @@
           "alignment": "reviewed",
           "id": "prime-b0005",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed antiphon has incomplete and irregular grammar around “declinans in saeculi” and “agnoscere.” The English provisionally understands renouncing the world and recognition of a future vocation; the Latin remains."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Actual uncertain forms/connections explicitly bracketed, original English/provenance archived, Latin unchanged. No coherent repaired historical narrative certified. The printed antiphon has incomplete and irregular grammar around “declinans in saeculi” and “agnoscere.” The English provisionally understands renouncing the world and recognition of a future vocation; the Latin remains.",
+          "originalPreparedEnglish": "Ant. From the cradle he is said to have shown an example of future holiness through gravity of conduct in childhood; favoured by divine grace, turning away from the world, he was already recognised as a future father of monks and restorer of the solitary life.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              472
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -494,7 +521,7 @@
         {
           "type": "prayer",
           "source": "Doctorum Vir primarius Tum temporis obibat: Justus (ut vulgi publicus Tunc rumor circumibat) Sed huic cum officio Dum missa decantatur, Ter corpore exserto Se erigens, sic fatur: Justo Dei judicio Sum rite accusatus, Eodem sum et merito, Jusque judicatus, Aequa Dei sententia Sum condemnatus! quare Scitote, piis suffragiis, Nil sacra me juvare.",
-          "english": "A foremost man among the learned was dying at that time, righteous, as public rumour then circulated. But while Mass was sung with the office for him, three times raising himself with his body exposed, he spoke thus: “By God’s just judgment I am duly accused; by the same, and deservedly, I am judged; by God’s equitable sentence I am condemned! Therefore know that holy rites and loving prayers do not help me.”",
+          "english": "A foremost man among the learned was dying at that time, righteous, as public rumour then circulated. But while Mass was sung with the office for him, three times raising himself with his body exposed, he spoke thus: “By God’s just judgment I am duly accused; by the same, and deservedly, [printed Jusque: unresolved connection] judged; by God’s equitable sentence I am condemned! Therefore know that holy rites and loving prayers do not help me.”",
           "sourcePages": [
             473
           ],
@@ -508,12 +535,22 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0004",
-          "verification": "visual-review"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "A foremost man among the learned was dying at that time, righteous, as public rumour then circulated. But while Mass was sung with the office for him, three times raising himself with his body exposed, he spoke thus: “By God’s just judgment I am duly accused; by the same, and deservedly, I am judged; by God’s equitable sentence I am condemned! Therefore know that holy rites and loving prayers do not help me.”",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              473
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Actual uncertain forms/connections explicitly bracketed, original English/provenance archived, Latin unchanged. No coherent repaired historical narrative certified. "
         },
         {
           "type": "prayer",
           "source": "Ant. Accidit forte, ut Doctor quidam probatae alias (ut videbatur) vitae exercetur tumultuandus; cumque sub exsequiis sibi ferretur, justo Dei judicio se accusatum, judicatum et condemnatum publice et feretro proclamaret, Bruno cum sex Sociis se longinsimum fugiens in solitudinem.",
-          "english": "Ant. It happened that a certain doctor, of an otherwise apparently approved life, was to be buried; during his funeral he publicly proclaimed from the bier that by God’s just judgment he was accused, judged, and condemned. Bruno, fleeing far away with six companions, withdrew into solitude.",
+          "english": "Ant. It happened that a certain doctor, of an otherwise apparently approved life, [printed exercetur tumultuandus: unresolved verbs]; during his funeral he publicly proclaimed from the bier that by God’s just judgment he was accused, judged, and condemned. Bruno with six companions [printed se longinsimum fugiens in solitudinem: unresolved qualifier and missing finite conclusion].",
           "sourcePages": [
             473
           ],
@@ -528,7 +565,16 @@
           "alignment": "reviewed",
           "id": "terce-b0005",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed “exercetur tumultuandus” and concluding flight clause are malformed. The English provisionally follows the funeral and flight narrative stated in the adjacent hymn; the Latin remains."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Actual uncertain forms/connections explicitly bracketed, original English/provenance archived, Latin unchanged. No coherent repaired historical narrative certified. The printed “exercetur tumultuandus” and concluding flight clause are malformed. The English provisionally follows the funeral and flight narrative stated in the adjacent hymn; the Latin remains.",
+          "originalPreparedEnglish": "Ant. It happened that a certain doctor, of an otherwise apparently approved life, was to be buried; during his funeral he publicly proclaimed from the bier that by God’s just judgment he was accused, judged, and condemned. Bruno, fleeing far away with six companions, withdrew into solitude.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              473
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -638,7 +684,7 @@
         {
           "type": "prayer",
           "source": "Haec territus tragedia Attonitus discedit, Dei pavens judicia Dum Noster domum redit, Charos cohortans socios Landuinum et Hugonem, Andream, duos Stephanos, Guarinum, se Brunonem Mox ut sequantur: Stygias Vitentque ut Harpyas, Per antra, per et latebras Scrutentur Coeli vias, Stricte servent silentia, Semperque meditentur Alta Dei judicia, Quois olim judicentur?",
-          "english": "Terrified by this tragedy, our Bruno departs astounded, fearing God’s judgments as he returns home. He exhorts his dear companions, Landuin and Hugh, Andrew, the two Stephens, and Guarin, to follow him at once: to avoid the Stygian harpies and seek heaven’s paths through caves and hidden places; strictly to keep silence and always meditate upon God’s profound judgments, by which one day they shall be judged.",
+          "english": "[Printed Haec territus tragedia: unresolved agreement/reference] terrified, our Bruno departs astounded, fearing God’s judgments as he returns home. He exhorts his dear companions, Landuin and Hugh, Andrew, the two Stephens, and Guarin, to follow him at once: to avoid the Stygian harpies and seek heaven’s paths through caves and hidden places; strictly to keep silence and always meditate upon God’s profound judgments, by which one day they shall be judged.",
           "sourcePages": [
             473
           ],
@@ -652,7 +698,17 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "visual-review"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "Terrified by this tragedy, our Bruno departs astounded, fearing God’s judgments as he returns home. He exhorts his dear companions, Landuin and Hugh, Andrew, the two Stephens, and Guarin, to follow him at once: to avoid the Stygian harpies and seek heaven’s paths through caves and hidden places; strictly to keep silence and always meditate upon God’s profound judgments, by which one day they shall be judged.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              473
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Actual uncertain forms/connections explicitly bracketed, original English/provenance archived, Latin unchanged. No coherent repaired historical narrative certified. "
         },
         {
           "type": "prayer",
@@ -782,7 +838,7 @@
         {
           "type": "prayer",
           "source": "Posthaec Gratianopolis Antistitem accedunt, Sibi que Solitudinis Signari locum petunt, Dilato quo in crastinum Dumtentum exstirpari Is noctu videt solitum Carthusiam vocari, Ut Domus ibi fieret Septena micans luce; Quo somno dum exsurgere, Mox Deo struit duce Templum, cuius cellulas Suamque hic disponit, Silentioque Regulam Rogantibus imponit.",
-          "english": "Afterwards they approach the bishop of Grenoble and ask that a place of solitude be assigned to them. The matter is deferred until the next day. [Unclear printed clause: “Dumtentum exstirpari.”] By night he sees the place called Chartreuse, that there a house might be made shining with seven lights. Rising from sleep, with God as guide he soon builds a temple, arranges its cells and his own, and imposes upon those who ask a rule of silence.",
+          "english": "Afterwards they approach the bishop of Grenoble and ask that a place of solitude be assigned to them. The matter is deferred until the next day. [Unclear printed clause: “Dumtentum exstirpari.”] By night he sees the place called Chartreuse, that there a house might be made shining with seven lights. [Printed Quo somno dum exsurgere: unresolved verb construction], with God as guide he soon builds a temple, arranges its cells and his own, and imposes upon those who ask a rule of silence.",
           "sourcePages": [
             473
           ],
@@ -797,12 +853,21 @@
           "alignment": "reviewed",
           "id": "none-b0004",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed “Dumtentum exstirpari” is unintelligible and explicitly marked in English. The subsequent vision and building clauses are translated provisionally; the source is retained."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Actual uncertain forms/connections explicitly bracketed, original English/provenance archived, Latin unchanged. No coherent repaired historical narrative certified. The printed “Dumtentum exstirpari” is unintelligible and explicitly marked in English. The subsequent vision and building clauses are translated provisionally; the source is retained.",
+          "originalPreparedEnglish": "Afterwards they approach the bishop of Grenoble and ask that a place of solitude be assigned to them. The matter is deferred until the next day. [Unclear printed clause: “Dumtentum exstirpari.”] By night he sees the place called Chartreuse, that there a house might be made shining with seven lights. Rising from sleep, with God as guide he soon builds a temple, arranges its cells and his own, and imposes upon those who ask a rule of silence.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              473
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Ant. Dum mundo renunciantes Gratianopoli Hugonem Episcopum adeunt, hic ad suadentes alloquium cognita, intelligens eosdem esse, quos nocte velut septem Stellas in somnis viderat, montes Dioecesis suae aperiens, quos Carthusianos dicunt, ipsis incolendos concessit.",
-          "english": "Ant. Renouncing the world, they approach Hugh, bishop of Grenoble. From their conversation, recognising them as those whom he had seen in a dream by night as seven stars, he granted them the mountains of his diocese called the Carthusian mountains to inhabit.",
+          "english": "Ant. Renouncing the world, they approach Hugh, bishop of Grenoble. [Printed ad suadentes alloquium cognita: unresolved case/construction], recognising them as those whom he had seen in a dream by night as seven stars, he granted them the mountains of his diocese called the Carthusian mountains to inhabit.",
           "sourcePages": [
             473,
             474
@@ -819,7 +884,17 @@
           "alignment": "reviewed",
           "id": "none-b0005",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed “ad suadentes alloquium cognita” is grammatically defective. The English provisionally renders recognition through their conversation; the Latin remains."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Actual uncertain forms/connections explicitly bracketed, original English/provenance archived, Latin unchanged. No coherent repaired historical narrative certified. The printed “ad suadentes alloquium cognita” is grammatically defective. The English provisionally renders recognition through their conversation; the Latin remains.",
+          "originalPreparedEnglish": "Ant. Renouncing the world, they approach Hugh, bishop of Grenoble. From their conversation, recognising them as those whom he had seen in a dream by night as seven stars, he granted them the mountains of his diocese called the Carthusian mountains to inhabit.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              473,
+              474
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -929,7 +1004,7 @@
         {
           "type": "prayer",
           "source": "Hic orant, texunt, sepiunt, Jejunant, meditantur, Tentamina si ingerunt, Pro ope se precantur; At integro septennio Dum sic continuatur, En! Bruno Romam illico Ad Papam evocatur, Mox Archipraesul Rhegii Ab Hoc denominatus: Sed apex hic officii Haud nostro fuit gratus; Linqut is cito moenia, Et cum quibusdam denuo Turena petit nemora Calabriae Eremuum.",
-          "english": "Here they pray, weave, hedge, fast, and meditate; if temptations arise, they ask for help. After this continues for seven full years, behold, Bruno is suddenly called to Rome to the pope, and soon is named by him archbishop of Reggio. But this height of office was not pleasing to our Bruno. He quickly leaves the city walls and, with certain companions, again seeks the woods of Turena, a hermitage in Calabria.",
+          "english": "Here they pray, weave, hedge, fast, and meditate; if temptations arise, they ask for help. After this continues for seven full years, behold, Bruno is suddenly called to Rome to the pope, and soon is named by him archbishop of Reggio. But this height of office was not pleasing to our Bruno. He quickly [printed Linqut: unresolved verb] the city walls and, with certain companions, again seeks the woods of Turena, [printed Calabriae Eremuum: unresolved form].",
           "sourcePages": [
             474
           ],
@@ -944,12 +1019,21 @@
           "alignment": "reviewed",
           "id": "vespers-b0004",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints the geographical name “Turena,” which is retained in English rather than replaced with a presumed modern place. Several minor printed forms are provisional."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Actual uncertain forms/connections explicitly bracketed, original English/provenance archived, Latin unchanged. No coherent repaired historical narrative certified. The PDF prints the geographical name “Turena,” which is retained in English rather than replaced with a presumed modern place. Several minor printed forms are provisional.",
+          "originalPreparedEnglish": "Here they pray, weave, hedge, fast, and meditate; if temptations arise, they ask for help. After this continues for seven full years, behold, Bruno is suddenly called to Rome to the pope, and soon is named by him archbishop of Reggio. But this height of office was not pleasing to our Bruno. He quickly leaves the city walls and, with certain companions, again seeks the woods of Turena, a hermitage in Calabria.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              474
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Ant. Ab Urbano secundo Pontifice, qui ejus Discipulus fuerat, Romam accersitus, consiliis suis in calamitatibus Ecclesiae peraliquot annos usus; donec recusato Rhegiensi Archiepiscopatu, eremum denuo prope Squillacium Calabriae faustum repetecit.",
-          "english": "Ant. Summoned to Rome by Pope Urban the Second, who had been his pupil, he served for several years with his counsel amid the Church’s troubles; until, refusing the archbishopric of Reggio, he happily returned to the hermitage near Squillace in Calabria.",
+          "english": "Ant. Summoned to Rome by Pope Urban the Second, who had been his pupil, he served for several years with his counsel amid the Church’s troubles; until, refusing the archbishopric of Reggio, [printed faustum repetecit: unresolved agreement/verb] the hermitage near Squillace in Calabria.",
           "sourcePages": [
             474
           ],
@@ -963,7 +1047,17 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0005",
-          "verification": "visual-review"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "Ant. Summoned to Rome by Pope Urban the Second, who had been his pupil, he served for several years with his counsel amid the Church’s troubles; until, refusing the archbishopric of Reggio, he happily returned to the hermitage near Squillace in Calabria.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              474
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Actual uncertain forms/connections explicitly bracketed, original English/provenance archived, Latin unchanged. No coherent repaired historical narrative certified. "
         },
         {
           "type": "rubric",
@@ -1010,7 +1104,7 @@
         {
           "type": "prayer",
           "source": "℣. Convertere nos Deus salutaris noster.",
-          "english": "℣. Convert us, O God our Saviour.",
+          "english": "℣. [Printed Convertere nos: unresolved construction], O God our Saviour.",
           "sourcePages": [
             474
           ],
@@ -1026,7 +1120,19 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "visual-review"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "℣. Convert us, O God our Saviour.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              474
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "99ecc4cd6516d1e9"
+          },
+          "editorialNote": "10 October 2026: actual p.474 personally inspected. Convertere nos is not the customary active imperative Converte nos; no unprinted ending or repaired imperative certified. Original English/provenance retained."
         },
         {
           "type": "prayer",
@@ -1115,7 +1221,7 @@
         {
           "type": "prayer",
           "source": "Sed neque hic delituit Divi virtus Brunonis, Dum canibus subvoluit Rogeri Marchionis, Qui virum ut conspexerat, Pleno favoris igne Sic mox in hunc exarserat Amoris ad insignae Festivam huc ecclesiam Ut hic aedificaret, Jesum et Familiam Oppiare dotaret, Limosa prius casulas Ex latere condendo, Piscinas, hortos, vinas, Sylvasque largiendo.",
-          "english": "Even here the virtue of holy Bruno did not remain hidden, when the hounds of Marquis Roger found him. Having seen the man, Roger burned with a full fire of favour and love, so that he built a festal church here, endowed Jesus and the community, first building little huts of clay and brick and granting ponds, gardens, vineyards, and woods. [The printed “Oppiare” is unclear.]",
+          "english": "Even here the virtue of holy Bruno did not remain hidden, when [printed canibus subvoluit Rogeri Marchionis: unresolved verb involving Marquis Roger’s dogs]. Having seen the man, Roger burned with a full fire of favour and love, so that he built a festal church here, [printed Jesum et Familiam Oppiare dotaret: unresolved Oppiare clause], first building [printed Limosa: unresolved case/agreement] little huts of brick and granting ponds, gardens, [printed vinas: unresolved noun], and woods. [The printed “Oppiare” is unclear.]",
           "sourcePages": [
             474
           ],
@@ -1130,12 +1236,21 @@
           "alignment": "reviewed",
           "id": "compline-b0006",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed “canibus subvoluit” and “Oppiare” are unclear. The discovery by hunting dogs is provisionally understood from the adjacent antiphon; Oppiare is explicitly marked unresolved. Endowment clauses remain provisional."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Actual uncertain forms/connections explicitly bracketed, original English/provenance archived, Latin unchanged. No coherent repaired historical narrative certified. The printed “canibus subvoluit” and “Oppiare” are unclear. The discovery by hunting dogs is provisionally understood from the adjacent antiphon; Oppiare is explicitly marked unresolved. Endowment clauses remain provisional.",
+          "originalPreparedEnglish": "Even here the virtue of holy Bruno did not remain hidden, when the hounds of Marquis Roger found him. Having seen the man, Roger burned with a full fire of favour and love, so that he built a festal church here, endowed Jesus and the community, first building little huts of clay and brick and granting ponds, gardens, vineyards, and woods. [The printed “Oppiare” is unclear.]",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              474
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Ant. Brunonem orantem, cum Rogerius Comes Calabriae inter venandum lacanibus canibus repesset, sanctitatis Viri permotus, Illum ac socios fovere, et colere impense cepit.",
-          "english": "Ant. When Roger, count of Calabria, found Bruno praying during a hunt with his dogs, moved by the man’s holiness, he began earnestly to support and honour him and his companions.",
+          "english": "Ant. When Roger, count of Calabria, [printed inter venandum lacanibus canibus repesset: unresolved forms] Bruno praying, [printed sanctitatis Viri permotus: unresolved genitive connection], he began earnestly to support and honour him and his companions.",
           "sourcePages": [
             474
           ],
@@ -1150,7 +1265,16 @@
           "alignment": "reviewed",
           "id": "compline-b0007",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints malformed “lacanibus canibus repesset.” The English provisionally understands discovery during a hunt with dogs; the source is retained."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Actual uncertain forms/connections explicitly bracketed, original English/provenance archived, Latin unchanged. No coherent repaired historical narrative certified. The PDF prints malformed “lacanibus canibus repesset.” The English provisionally understands discovery during a hunt with dogs; the source is retained.",
+          "originalPreparedEnglish": "Ant. When Roger, count of Calabria, found Bruno praying during a hunt with his dogs, moved by the man’s holiness, he began earnestly to support and honour him and his companions.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              474
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -1198,7 +1322,7 @@
         {
           "type": "prayer",
           "source": "Sacro sic in Calabria Hoc Ordine evecto, Simulque in Germania Mirifice provecto, Bruno jam plenus meritis Virtutibusque dives, Vitae pertaesus labilis Supernos hinc ad Cives, Postquam Iis benedixerat Progressibus suorum, Iter felix deproperat Sub Choris Angelorum, Deum nobis propitium Ibi exoraturus, Indulsi proque criminum Nostrorum rogaturus.",
-          "english": "Thus, with this holy Order raised up in Calabria and wondrously advanced also in Germany, Bruno, now full of merits and rich in virtues, weary of this fleeting life, hastens on a happy journey from here to heaven’s citizens beneath the choirs of angels, having blessed the progress of his brethren, there to implore God’s favour for us and to ask pardon for our sins.",
+          "english": "Thus, with this holy Order raised up in Calabria and wondrously advanced also in Germany, Bruno, now full of merits and rich in virtues, weary of this fleeting life, hastens on a happy journey from here to heaven’s citizens beneath the choirs of angels, having blessed the progress of his brethren, there to implore God’s favour for us and [printed Indulsi proque criminum Nostrorum rogaturus: unresolved form/case connection concerning petition and our crimes].",
           "sourcePages": [
             474
           ],
@@ -1212,7 +1336,17 @@
           },
           "alignment": "reviewed",
           "id": "conclusion-b0001",
-          "verification": "visual-review"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "Thus, with this holy Order raised up in Calabria and wondrously advanced also in Germany, Bruno, now full of merits and rich in virtues, weary of this fleeting life, hastens on a happy journey from here to heaven’s citizens beneath the choirs of angels, having blessed the progress of his brethren, there to implore God’s favour for us and to ask pardon for our sins.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              474
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Actual uncertain forms/connections explicitly bracketed, original English/provenance archived, Latin unchanged. No coherent repaired historical narrative certified. "
         },
         {
           "type": "prayer",
@@ -1299,7 +1433,7 @@
         {
           "type": "prayer",
           "source": "Opraeclarum ac lucidissimum sydus Ecclesiae, beate Bruno! qui a prima infantia, admirabili morum gravitate haud obscura futurae sanctitatis indicia prodidisti, artibus et divinis studiis tam profunde imbutus, et reportato in praemium virtutis et scientiae tuo doctorali honore, et Rhemensi canonicatu, tandemque ad Rhegiensem Archiepiscopatum sponte oblato, speciali divinae providentiae ductu eremitici eremitam tamen vitae amans propositi, sacrum Chartusiensem ordinem adserto silentii, solitudinis et jejunii fundavisti instituto; tanta quidem effectu, ut tam ceteris omnibus, quam praesertim Ecclesiae rebus, per sanum hanc regulam, ac singularem Divini sermonis methodum plurimum accommodatam, atque spiritualis accelerim incrementi. Fac igitur venerande Pater! ut per tua merita et suffragia sua, jugemque novissimi morum emendationem, ab omnibus peccatis nos solidos caveamus, de peccatis doleamus maxime, atque per assidua increscentis mortis meditationem vitam aeternam securam nobis, et certis consequamur. Amen.",
-          "english": "O outstanding and most radiant star of the Church, Blessed Bruno! From earliest childhood, through admirable gravity of conduct, thou didst show clear signs of future holiness. Deeply instructed in the arts and divine studies, having received doctoral honour and the canonry of Rheims as the reward of virtue and knowledge, and freely offered the archbishopric of Reggio, by the special guidance of divine providence, loving the purpose of the hermit’s life, thou didst found the holy Carthusian Order, establishing silence, solitude, and fasting. Through this sound rule and a singular manner of divine discourse, most suited to spiritual progress, great benefit came to others and especially to the affairs of the Church. Grant therefore, venerable Father, that through thy merits and prayers and continual reform of our conduct we may steadfastly guard ourselves from all sins, grieve most deeply for our sins, and through assiduous meditation upon approaching death attain eternal life securely and with certainty. Amen.",
+          "english": "O outstanding and most radiant star of the Church, Blessed Bruno! From earliest childhood, through admirable gravity of conduct, thou didst show clear signs of future holiness. Deeply instructed in the arts and divine studies, having received doctoral honour and the canonry of Rheims as the reward of virtue and knowledge, and freely offered the archbishopric of Reggio, by the special guidance of divine providence [printed eremitici eremitam tamen vitae amans propositi: unresolved case/construction]; thou didst found the holy Carthusian Order, establishing silence, solitude, and fasting. [Printed tanta quidem effectu ... spiritualis accelerim incrementi: unresolved agreement and missing complete construction concerning the rule, the Church, divine discourse and spiritual growth.] Grant therefore, venerable Father, [printed per tua merita et suffragia sua, jugemque novissimi morum emendationem: unresolved possessive/case/construction]; that we may guard ourselves from all sins [printed nos solidos: unresolved agreement/reference], grieve most deeply for sins, and [printed per assidua increscentis mortis meditationem vitam aeternam securam nobis, et certis consequamur: unresolved agreement/construction concerning death’s meditation and attaining eternal life]. Amen.",
           "sourcePages": [
             475
           ],
@@ -1314,7 +1448,16 @@
           "alignment": "reviewed",
           "id": "conclusion-b0006",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF contains several incomplete or malformed constructions, especially “eremitici eremitam,” the rule’s effects, “accelerim,” “novissimi morum,” and the closing certainty clause. The English provisionally renders the intelligible founding and intercession themes; this long prayer needs source resolution."
+          "editorialNote": "10 October 2026: actual rendered p.475 personally compared in both columns. The earlier fluent founding/effects/intercession narrative supplied connections absent from this malformed source. Those clauses now explicitly bracketed at their actual location; original English/provenance retained, no Latin repaired.",
+          "originalPreparedEnglish": "O outstanding and most radiant star of the Church, Blessed Bruno! From earliest childhood, through admirable gravity of conduct, thou didst show clear signs of future holiness. Deeply instructed in the arts and divine studies, having received doctoral honour and the canonry of Rheims as the reward of virtue and knowledge, and freely offered the archbishopric of Reggio, by the special guidance of divine providence, loving the purpose of the hermit’s life, thou didst found the holy Carthusian Order, establishing silence, solitude, and fasting. Through this sound rule and a singular manner of divine discourse, most suited to spiritual progress, great benefit came to others and especially to the affairs of the Church. Grant therefore, venerable Father, that through thy merits and prayers and continual reform of our conduct we may steadfastly guard ourselves from all sins, grieve most deeply for our sins, and through assiduous meditation upon approaching death attain eternal life securely and with certainty. Amen.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              475
+            ],
+            "review": "editorial-review-complete"
+          }
         }
       ]
     }
@@ -1338,6 +1481,15 @@
         475
       ],
       "text": "9 October continuation: prepared English revised to distinguish securely translatable clauses from unresolved printed readings. Previous prepared English and translation provenance remain archived in each changed row. This comparison does not certify the defective readings or complete the office review."
+    },
+    {
+      "pages": [
+        472,
+        473,
+        474,
+        475
+      ],
+      "text": "10 October 2026: every rendered page and all 55 source/English passages personally compared, including 1715 attribution, seven hours (no Lauds), narratives, hymn/antiphon/collect continuations, all six same-office prayer expansions and Conclusion. Affirmative investigabiles verified without negative prefix. Five previously certified passages returned to pending (Jusque, Haec territus tragedia, repetecit, Convertere nos and Indulsi). Fifteen source-blocked passages remain explicitly bracketed; original prepared English/provenance archived, literal Pallas couch retained rather than an unprinted hall."
     }
   ]
 }
