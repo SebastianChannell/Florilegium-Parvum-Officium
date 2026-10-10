@@ -257,3 +257,23 @@ Every rendered PDF page 508–512 and all 104 passages personally compared, incl
 Eighteen offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Office remains pending; Dominican complete. No merge or deployment.
 
 Validated checkpoint: 38 offices reviewed, 44 pending; **4,138 passages pending**, eleven separate reference issues. One hundred fourteen source blockers independently documented across twenty offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
+
+## Augustine, true and sincere conversion to God
+
+Every rendered PDF page 446–449 and all 87 passages personally compared, including 1715 attribution, Invocation, seven actual hours (no Lauds), distinct collects, all continuations and Commendation. 45 formerly pending passages cleared, including literal ambrosia/honey wordplay, heavenly sponsors, plural ablative signis and wondered-at height imagery. No external historical explanation or replacement proverb is imposed. Sext’s actual absence of a concluding versicle/collect is preserved.
+
+9 independently confirmed source passages remain pending. Actual malformed forms/connections are bracketed, original prepared English/provenance archived, Latin unchanged. No missing sent object invented in Matins. Blockers:
+
+- `matins-b0008`, PDF 446: `Non sat pudica fluxerat Addicta vanitati, Saclicque tunc scateurat Errore depravati; Nam Manichaea haeresi Mens erat illinita, Ut gemma, quae sub sordidi Est luto coeni sita.`
+- `matins-b0009`, PDF 446: `Ant. Invenit Augustinus se longe esse a Deo in Regione dissimilitudinis, et respexit eum Dominus, et misit in mentem ejus, et lucebat in eo gratia Dei: et invisibilia Dei per ea, quae facta sunt, intellectu conspexit, et non tardavit converti ad Dominum.`
+- `sext-b0005`, PDF 447: `Divini totus conflagrant Ut ignibus amoris, Supemis sic exuberat Et imbribus favoris,`
+- `none-b0007`, PDF 448: `Doctoris jure laurea Et mista sic ornatus, Ecclesiae fert munia Quaternus Doctoratus.`
+- `vespers-b0006`, PDF 448: `Sed nempe Phoeninx gratiae, Phoenix scientiarum, Dierum finem clauderet Sic decus istuarum;`
+- `vespers-b0007`, PDF 448: `Amore totus conflagrans Petit aeternitatem, Lucent calori socians, Doctrinae sanctitatem.`
+- `commendatio-b0001`, PDF 449: `Vale Praesul sanctissime, Doctore vale Dive! Pheonix amoris cinere Procedens redivive!`
+- `commendatio-b0002`, PDF 449: `Divini fac et ignibus Amoros concremari, Et Christo nos cineribus Ex his regenerari,`
+- `commendatio-b0003`, PDF 449: `Cum quo, tecumque guadiis Aeternis recreemur: Tuis donante meritis, Quod nostris non meremur.`
+
+Nineteen offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Office remains pending; Dominican complete. No merge or deployment.
+
+Validated checkpoint: 38 offices reviewed, 44 pending; **4,093 passages pending**, eleven separate reference issues. One hundred twenty-three source blockers independently documented across twenty-one offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
