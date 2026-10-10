@@ -483,3 +483,23 @@ The printed protegamar and Caeliique now remain explicitly bracketed instead of 
 Twenty-nine offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Office remains pending; Dominican complete. No merge or deployment.
 
 Validated checkpoint: 38 offices reviewed, 44 pending; **3,847 passages pending**, eleven separate reference issues. Two hundred fifteen source blockers independently documented across thirty-one offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
+
+## John Nepomucene
+
+Every rendered PDF page 536–540 and all 144 passages personally compared, including 1741 attribution, seven actual hours (no Lauds), six same-office prayer expansions, all narratives/page continuations and Commendation. 83 pending passages verified. Printed Insulae is regular dative with deputatus (appointed to an island), and Montis regular genitive with Arbiter (arbiter of the mountain). No mitre, mentis or confessional narrative imported. Acliente preserves a cliente letters/spacing, and prone is vocative pronus (favourably disposed), addressing Patrone in a complete Praesto sis petition.
+
+Literal corrections retain Furis as the genitive a thief’s with ira and actual finite instat/aestuat, Anima mea as vocative with printed eam still third person, regular Minor hostis proborum apposition and Consistendo ablative gerund. Factus is an actual participle whose contextual reference remains uncertain, not an excuse to invent a court title. Ominpotens/Iractus/crubescunt are now explicitly bracketed. P.539 `compline-b0007` Undequeque returned to pending instead of silently supplying another adverb. Prior English/provenance archived; all Latin unchanged. 9 source blockers:
+
+- `matins-b0008`, PDF 536: `Tua felix Nepomucium Vidit incunabula; Teque tota gens Amicum Credit ab que fabula.`
+- `matins-b0018`, PDF 536: `Ominpotens sempiterne Deus, cui soli omnis honor et gloria debetur; per gloriosa Sancti Tui Martyris Joannis Nepomuceni merita, Te supplices exoramus, ut omnem a nobis publicam infamiam et ignominiam clementer avertas, concedasque, ut cum honore sic transeamus per bona temporalia, ut non amittamus aeterna. Per Dominum nostrum Jesum Christum Filium tuum, qui Tecum vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum. Amen.`
+- `prime-b0006`, PDF 537: `In Palaestris praedicari Jus bibisse Canonum; Doctor ergo nominaris, Nova lux fidelium.`
+- `prime-b0008`, PDF 537: `Factus Aulae castigatur, Luxus et licentia, Stolidique reprobatur, Saeculi dementia.`
+- `terce-b0005`, PDF 537: `Imperator ipse morum Iractus innocentia, Minor hostis tunc proborum, Tibi spondet ardua.`
+- `sext-b0008`, PDF 538: `Sed Tribunal cum verendum Pia saepe visiteret: Crescit ardor ad ascendium, Toties quid proderet?`
+- `compline-b0007`, PDF 539: `Cathedrali collocatus Aede, Martyr plurimis Undequeque visitatus Rutilat miraculis.`
+- `compline-b0009`, PDF 539: `Nempe viva quae tacendo Delictere voluit: Mira Caeli nunc loquendo Emitere meruit.`
+- `compline-b0010`, PDF 539: `Qui reatus crubescunt Consistendo prodere: Qui per acta pertimescunt Gravem famam perdere:`
+
+Thirty offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Office remains pending; Dominican complete. No merge or deployment.
+
+Validated checkpoint: 38 offices reviewed, 44 pending; **3,765 passages pending**, eleven separate reference issues. Two hundred twenty-four source blockers independently documented across thirty-two offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
