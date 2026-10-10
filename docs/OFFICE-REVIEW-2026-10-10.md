@@ -442,3 +442,27 @@ Future aperies retained in both opening and later antiphon; latter educeres rema
 Twenty-seven offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Office remains pending; Dominican complete. No merge or deployment.
 
 Validated checkpoint: 38 offices reviewed, 44 pending; **3,939 passages pending**, eleven separate reference issues. One hundred ninety-six source blockers independently documented across twenty-nine offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
+
+## Anastasia, patroness of Benediktbeuern
+
+Every rendered PDF page 432–435 and all 123 passages personally compared, including 1702 attribution, seven actual hours (no Lauds), seven fully printed collect repetitions, seasonal rubric, four abbreviated Benedicamus response signs, all continuations and Commendation. Six pending passages verified: p.432 Fausta can be vocative feminine addressing Anastasia, with Parentis unicum and Nostraque sharing gaudium; no changed name-case supplied. Prime Mens docta permits retained accusative Leges pias and infinitive Christianismum sequi; Christianity is the object of follow, not a defective genitive modifying laws. Pp.434–435 all four Benedicamus response signs are securely printed, retained without regularising liturgical roles.
+
+Literal readings now retain future Facesset (the food of death shall depart), deponent Conquesta (having complained), dative Spinae with insita (grafted to a thorn) and adverb merito (deservedly). Closing Fidelium remains a genitive incipit; abbreviated Deus in adjutorium imports no unprinted imperative or meum. The seven actual promuit collect copies now show their uncertain verb rather than supplying attained; Viriquae, Libertime and Victoriam Tuum uncertainty is explicit. Previous prepared English/provenance archived, all Latin unchanged. Thirteen source blockers:
+
+- `matins-b0015`, PDF 432: `Concede, quaesumus, omnipotens Deus, ut beata Anastasia, quae martyrii promuit palmam, intercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem.Per Christum Dominum nostrum.`
+- `prime-b0006`, PDF 432: `Domine, qui me creasti, et tulisti a me amorem saeculi, jube me ad tua misericordia pervenire.`
+- `prime-b0012`, PDF 433: `Concede, quaesumus, omnipotens Deus, ut beata Anastasia, quae martyrii promuit palmam, intercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem.Per Christum Dominum nostrum.`
+- `terce-b0004`, PDF 433: `O diva, dives hortus es, Tempesque gratarum, Hic castitatis lilia, Flores benignitatis, Libertime progerminant, Fidesque pesque intentae. Sed una Christi caritas Spinae insita est merito.`
+- `terce-b0012`, PDF 433: `Concede, quaesumus, omnipotens Deus, ut beata Anastasia, quae martyrii promuit palmam, intercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem. Per Christum Dominum nostrum.`
+- `sext-b0004`, PDF 433: `Viro ligata conjugii Ligata sacris artibus Astris adhaeres nexibus, Viriquae amores respuis. Hinc lora, carcer te manent, Ergastulumque foetidum: Sed altior mens libera Quiescit inter sidera.`
+- `sext-b0011`, PDF 433: `Concede, quaesumus, omnipotens Deus, ut beata Anastasia, quae Martyrii promuit palmam, intercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem. Per Christum Dominum nostrum.`
+- `none-b0011`, PDF 434: `Concede, quaesumus, omnipotens Deus, ut beata Anastasia, quae Martyrii promuit palmam, intercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem. Per Christum Dominum nostrum.`
+- `vespers-b0004`, PDF 434: `Te, Diva, nullis casibus Nullaque fraude victam Florus perire naufraga Pontus cupit furente, Navi sedes lacertimia Cum Martyrum corona Sed charitas susum trahit, Nequitiae procul merita.`
+- `vespers-b0011`, PDF 434: `Concede, quaesumus, omnipotens Deus, ut beata Anastasia, quae Martyrii promuit palmam, intercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem. Per Christum Dominum nostrum.`
+- `compline-b0006`, PDF 434: `Qui palma stoter largior Palmariam per Insulam, Hic Coelites Victoriam Tuum videre gestiunt. Assita lentis ignibus Moras pati jam nescia, Conquesta flammis languida, Amoris igne concidis.`
+- `compline-b0013`, PDF 435: `Concede, quaesumus, omnipotens Deus, ut beata Anastasia, quae Martyrii promuit palmam, intercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem. Per Christum Dominum nostrum.`
+- `commendatio-b0001`, PDF 435: `O Diva, Sponsa Numinis; Decusque, Diva, caeli; Spes certa te vocantium: Sodaliumque scutum: Fuga dolores, grandines, Morbosque, Daemonesque, Isteque mortis omnibus, O Diva, redde tuum.`
+
+Twenty-eight offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Office remains pending; Dominican complete. No merge or deployment.
+
+Validated checkpoint: 38 offices reviewed, 44 pending; **3,933 passages pending**, eleven separate reference issues. Two hundred nine source blockers independently documented across thirty offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
