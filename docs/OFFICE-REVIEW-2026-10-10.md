@@ -354,3 +354,18 @@ Opening Sicut is now retained as “As”, and Prime novo as new childbirth, wit
 Twenty-three offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Dominican complete. No merge or deployment.
 
 Validated checkpoint: 38 offices reviewed, 44 pending; **4,099 passages pending**, eleven separate reference issues. One hundred fifty-nine source blockers independently documented across twenty-five offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
+
+## Dismas, the Penitent Thief
+
+Every rendered PDF page 476–479 and all 97 passages personally compared, including Sulamittis Officiosa (1714) attribution, Ingressus, seven hours, Commendation, seven same-office collect expansions and all continuations. Four formerly pending passages resolved: p.476 `matins-b0008` has grammatical tot/quot comparison and datur legisse with te fuisse; its historical claim is the hymn’s narrative, not independently certified history. P.476 `matins-b0009` Dispendentur is an attested rare future passive (spread out), without changing it into dispellentur. Lexical evidence: [Lewis and Short, dispando/dispendo](https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n14284/). P.477 `sext-b0006` has genitive Dismae modifying Iter and nominative sancti with hi/consortes, not defective agreement. P.478 `compline-b0008` has dative Dismae with grata regna and an implicit subject of exspectat, not a malformed nominative name. Literal English and prior provenance retained.
+
+P.478 `compline-b0003` returned to pending: Convertere nos does not print the customary active imperative. Four source blockers remain explicitly bracketed; all Latin unchanged:
+
+- `ingressus-b0001`, PDF 476: `Disma poenitens praeclare, Recolli non dedignare Oda hac canonica, Cui post seram poenitere Primo tamen patuere Paradisi ostia.`
+- `none-b0006`, PDF 478: `Disma, quae haec paradoxa? Par est poena, dispar noxa, Tu sons, Christus innocens: Porro nec vercundaris, Sons insolens, criminari, Probrum terrae, summum Ens.`
+- `compline-b0003`, PDF 478: `℣. Convertere nos Deus salutaris noster.`
+- `commendatio-b0008`, PDF 479: `Sancte Disma, qui mira Dei providentia ex nefario latrone in eximium poenitentiae speculum evasisti, et paucas intra horas aeterna tibi gaudia comparasti: dignare de excelso gloriae tuae throno, sicut in te de Cruce aspexit Christus, super miseriam hanc lachrymarum vallem oculos tuos defigere; et quoniam tibi cognita est mentis humanae fragilitas, semper ad malum magis, quam ad bonum proclivis; igitur nobis, apud dulcissimum Redemptorem nostrum, precibus tuis impetra, ut sicut per gratiam suam efficacem ad poenitentiam et Paradisi coelestis gloriam te perduxit, ita et nos famulos suos eadem efficaci gratia ad dignos poenitentiae fructus impellat, quo commissis nostris corditus deploratis, pie quondam tibi commoremur, ac una tandem in Deo Salvatori nostro jugiter exultemus, qui vivit et regnat in saecula saeculorum. Amen.`
+
+Twenty-four offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Office remains pending; Dominican complete. No merge or deployment.
+
+Validated checkpoint: 38 offices reviewed, 44 pending; **4,096 passages pending**, eleven separate reference issues. One hundred sixty-three source blockers independently documented across twenty-six offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
