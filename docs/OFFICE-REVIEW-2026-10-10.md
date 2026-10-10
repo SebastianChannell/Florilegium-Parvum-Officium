@@ -344,3 +344,13 @@ Five previously certified passages returned to pending: p.473 `terce-b0004` Jusq
 Twenty-two offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Office remains pending; Dominican complete. No merge or deployment.
 
 Validated checkpoint: 38 offices reviewed, 44 pending; **4,102 passages pending**, eleven separate reference issues. One hundred fifty-seven source blockers independently documented across twenty-four offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
+
+## Seven Joys of the Blessed Virgin Mary
+
+Every rendered PDF page 398–401 and all 86 passages personally compared, including Ruth Officiosa (1715) attribution, seven actual hours (no Lauds), seven joys and distinct collects, all continuations, abbreviations and Conclusion. Three pending passages cleared: p.400 `vespers-b0007` retains indicative laudat beside subjunctive superexaltet; p.400 `compline-b0014`/`compline-b0015` verify actual printed incipits without importing complete responses. Genitive Fidelium is “of the faithful”. The eleven separate manifest reference issues remain unchanged; source-letter review and reference resolution are distinct.
+
+Opening Sicut is now retained as “As”, and Prime novo as new childbirth, with previous English/provenance archived. Two genuine source blockers remain explicitly bracketed: p.398 `matins-b0007` Resta; pp.398–399 `terce-b0005` donerur. Printed Latin unchanged; office stays pending.
+
+Twenty-three offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Dominican complete. No merge or deployment.
+
+Validated checkpoint: 38 offices reviewed, 44 pending; **4,099 passages pending**, eleven separate reference issues. One hundred fifty-nine source blockers independently documented across twenty-five offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
