@@ -236,3 +236,24 @@ Three previously certified forms return to pending after actual inspection: p.53
 Seventeen offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Office remains pending; Dominican complete. No merge or deployment.
 
 Validated checkpoint: 38 offices reviewed, 44 pending; **4,184 passages pending**, eleven separate reference issues. One hundred four independently documented source blockers across nineteen offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
+
+## George, Martyr
+
+Every rendered PDF page 508–512 and all 104 passages personally compared, including source attribution, Invocation, eight hours, all distinct collects, hymn/collect continuations, doxologies and Gratulation. 48 formerly pending passages cleared; 2 previously certified passages returned to pending. Secure readings include curatum purpose supine, separated neuter tantum/insolens agreement with martyrium, and explicit Father/Son/Paraclete recipient datives with divine grace as subject. Spiranti retains literal breathing imagery rather than an unprinted procession verb; previous English/provenance archived.
+
+10 source passages independently confirmed pending, including Convertere nos and newly identified praesciabat/famet. Unsupported source repairs and invented comparison/petition syntax no longer appear as unqualified English; printed Latin unchanged. Blockers:
+
+- `invocation-b0003`, PDF 508: `Excelsa belli Nomina, Cessi Phoebus inter sidera Prae cunctis elucebas, Virtutibus clarebas,`
+- `matins-b0006`, PDF 508: `Martem secutus inclytum Christi pugil Georgius Ut Caesaris signiferi Exhibuit se strenuus`
+- `lauds-b0006`, PDF 509: `Christum colebat integre, Multatum quamvis sanguine Id praesciabat fore, Fidem probat cruore;`
+- `lauds-b0011`, PDF 509: `Presta quaesumus Omnipotens Deus, ut qui beati Georgii Martyris tui glorioso martyrio colimus, intercessione ejus in tui Nominis amore roboremur. Per Dominum nostrum etc.`
+- `prime-b0004`, PDF 509: `Spontaneae solertia Occasio non desuit. Dum Caesaris saevitiae Pavore procul restitit,`
+- `prime-b0006`, PDF 509: `Immisit ita appetis? Crudelis ita prodigis? Si sanguis est fundendus, Ab improbis petendus.`
+- `sext-b0004`, PDF 510: `Isthinc famet Georgius, Conviva coeli nobilis, Fame fruens pro dapibus, Supernis satur epulis,`
+- `sext-b0006`, PDF 510: `Nervosus inter scuticaes Sartagines et ungulas; Quin saxum et molare Jam suscipit portare.`
+- `vespers-b0005`, PDF 511: `Georgio illeso, Ardoris imperatos: Hinc magis Caesar aestuat Fornace quam succenderat;`
+- `compline-b0001`, PDF 511: `℣. Convertere nos Deus salutaris noster.`
+
+Eighteen offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Office remains pending; Dominican complete. No merge or deployment.
+
+Validated checkpoint: 38 offices reviewed, 44 pending; **4,138 passages pending**, eleven separate reference issues. One hundred fourteen source blockers independently documented across twenty offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
