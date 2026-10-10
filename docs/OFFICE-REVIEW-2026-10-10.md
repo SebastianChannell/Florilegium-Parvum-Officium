@@ -47,3 +47,11 @@ Personally inspected all of PDF pp.552–554 and compared all 79 passages, sourc
 Lawrence remains blocked by these independently identified readings. Across this session’s five fully compared offices, thirteen passages remain source blockers. Four other passages were verified; one previously certified passage was returned to pending after finding its unsupported English repair.
 
 Latest strict coverage: 37 offices reviewed, 45 outstanding, **4,486 pending passages**, and the eleven separate reference issues (4,542 outstanding checks in all). Check, all 44 tests and preview build pass; strict release coverage remains blocked. Earlier numeric checkpoint above remains historical. This goal is still in progress: the other forty outstanding offices have not been fully compared in this session and are not classified as source blockers by this record.
+
+## Child Jesus in the Manger
+
+Personally inspected every rendered page 49–51 and compared all 81 source/English passages, introductory attribution, seven printed hours and Conclusion, including hymn/paragraph column continuations, exact source pages, role signs, repeated Gloria expansions and abbreviated collect endings. No office certification is claimed.
+
+Three independently documented p.50 blockers remain: `terce-b0006` (`arcole`, with printed `dentes` retained as teeth); `sext-b0005` (`Lilicet per genarum`); `sext-b0006` (`Quarumus`, missing seeking object and printed perfect `stetit`). Former fluent repairs are now bracketed, with previous English/provenance archived. Secure `stetit` is corrected from “may stand” to “stood”. The p.49 Prime hymn `prime-b0006` translates indicative `terminat` as “He ceases”, rather than the former imperative; the verse’s shift of person is retained.
+
+Six offices have now been fully compared in this pass, with sixteen documented source-blocked passages across them. Reviewed-office count remains 37; 45 offices and 4,486 passages remain pending, independently of eleven reference issues. Other thirty-nine pending offices are not classified as source blockers by this session. All checks/44 tests/preview pass; strict coverage remains blocked.

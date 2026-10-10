@@ -29,7 +29,7 @@
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
     "extraction": "reviewed",
-    "translation": "complete-prepared",
+    "translation": "complete-prepared-reading-pending",
     "verification": "source-reading-pending"
   },
   "sections": [
@@ -406,7 +406,7 @@
         {
           "type": "prayer",
           "source": "Raucos asini ruditus Bovis inter et mugitus Almi Proles dormi Patris! Et ad melos castae Matris Sacros terminat vagitus; Dormi dulcis Jesule! Dormi gratiarum aedes, Charitum sacrata sedes, Et ignosce, dum praesumit, Amor tuus quem consumit Sacros osculari pedes, Dormi dulcis Pupule!",
-          "english": "Amid the hoarse braying of an ass and the lowing of an ox,\nSleep, O Son of the loving Father!\nAt the song of Thy chaste Mother, cease Thy holy cries;\nSleep, sweet little Jesus! Sleep, dwelling of graces,\nSacred seat of loving gifts,\nAnd forgive him whom Thy love consumes\nWhen he presumes to kiss Thy holy feet.\nSleep, sweet little Child!",
+          "english": "Amid the hoarse braying of an ass and the lowing of an ox,\nSleep, O Son of the loving Father!\nAt the song of Thy chaste Mother, He ceases His holy cries;\nSleep, sweet little Jesus! Sleep, dwelling of graces,\nSacred seat of loving gifts,\nAnd forgive him whom Thy love consumes\nWhen he presumes to kiss Thy holy feet.\nSleep, sweet little Child!",
           "sourcePages": [
             49
           ],
@@ -420,7 +420,17 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0006",
-          "verification": "visual-review"
+          "verification": "visual-review",
+          "originalPreparedEnglish": "Amid the hoarse braying of an ass and the lowing of an ox,\nSleep, O Son of the loving Father!\nAt the song of Thy chaste Mother, cease Thy holy cries;\nSleep, sweet little Jesus! Sleep, dwelling of graces,\nSacred seat of loving gifts,\nAnd forgive him whom Thy love consumes\nWhen he presumes to kiss Thy holy feet.\nSleep, sweet little Child!",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              49
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "PDF p.49: “terminat” is third-person indicative, not the earlier English imperative “cease”. The verse shifts from addressing the Son to describing Him; the other imperatives “dormi” remain. Previous prepared English and provenance preserved."
         },
         {
           "type": "prayer",
@@ -647,7 +657,7 @@
         {
           "type": "prayer",
           "source": "Ant. Oculi ejus sicut columbae super rivulos aquarum, dentes illius, sicut arcole aromatum, labia ejus lilia distillantia myrrham primam.",
-          "english": "Ant. His eyes are as doves above streams of water, His teeth as little beds of spices, His lips lilies dropping the first myrrh.",
+          "english": "Ant. His eyes are as doves above streams of water, His teeth as [the printed “arcole” is unclear] of spices, His lips lilies dropping the first myrrh.",
           "sourcePages": [
             50
           ],
@@ -657,12 +667,21 @@
             "sourcePages": [
               50
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "terce-b0006",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed source gives “dentes” (teeth), not cheeks, and “arcole”. The translation retains teeth and provisionally understands arcole as little beds; it does not substitute a different biblical edition."
+          "editorialNote": "10 October 2026: visually checked PDF p.50: “dentes” means teeth and is retained, rather than harmonised to cheeks. “arcole” is not established as little beds by this PDF; the earlier conjectural noun is now bracketed.",
+          "originalPreparedEnglish": "Ant. His eyes are as doves above streams of water, His teeth as little beds of spices, His lips lilies dropping the first myrrh.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              50
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -848,7 +867,7 @@
         {
           "type": "prayer",
           "source": "Heu mi Jesu! quam ut rosa Membra tibi speciosa Gelu rubent! quam horrendis Brumae poenis saevientis Dei soboles formosa! Jaces hic exposita? En quam tibi superfusa, Velut conchis interclusa, Lilicet per genarum, Globulata lachrymarum Sacris oculis protrusa, Gemma fluit gemina!",
-          "english": "Alas, my Jesus, how Thy beautiful limbs redden like roses with the frost!\nTo what dreadful pains of raging winter, O fair Son of God,\nDost Thou lie exposed here?\nBehold, as though enclosed in shells,\nA rounded double pearl of tears, pressed forth from Thy holy eyes,\nFlows over the lilies of Thy cheeks.",
+          "english": "Alas, my Jesus, how Thy beautiful limbs redden like roses with the frost!\nTo what dreadful pains of raging winter, O fair Son of God,\nDost Thou lie exposed here?\nBehold how a rounded double pearl of tears,\nPressed forth from Thy holy eyes as though enclosed in shells,\nFlows over Thee [the printed “Lilicet per genarum” is unresolved].",
           "sourcePages": [
             50
           ],
@@ -858,17 +877,26 @@
             "sourcePages": [
               50
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "sext-b0005",
           "verification": "source-reading-pending",
-          "editorialNote": "The source prints the malformed “Lilicet per genarum”. The provisional English understands the imagery as tears flowing over lily-like cheeks; the Latin is retained."
+          "editorialNote": "10 October 2026: visually checked PDF p.50: the PDF visibly prints “Lilicet per genarum”. The earlier lilies-of-cheeks image silently repaired this phrase. Secure surrounding imagery is translated; the unclear line is bracketed with no replacement Latin.",
+          "originalPreparedEnglish": "Alas, my Jesus, how Thy beautiful limbs redden like roses with the frost!\nTo what dreadful pains of raging winter, O fair Son of God,\nDost Thou lie exposed here?\nBehold, as though enclosed in shells,\nA rounded double pearl of tears, pressed forth from Thy holy eyes,\nFlows over the lilies of Thy cheeks.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              50
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Ant. Quarumus Domino nostro Regi, qui stetit coram eo, et foveat eum, dormiatque in sinu suo, et calefaciat Dominum nostrum Regem.",
-          "english": "Ant. Let us seek for our Lord the King one who may stand before Him and warm Him, and sleep in His bosom, and give warmth to our Lord the King.",
+          "english": "Ant. [The printed “Quarumus” is unresolved.] For our Lord the King, who stood before Him, and may warm Him, and sleep in His bosom, and give warmth to our Lord the King.",
           "sourcePages": [
             50
           ],
@@ -878,12 +906,21 @@
             "sourcePages": [
               50
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "sext-b0006",
           "verification": "source-reading-pending",
-          "editorialNote": "The source prints “Quarumus” and gives no explicit object of the seeking. The provisional English understands “Let us seek” and supplies “one” to express the apparent sense; the printed Latin is retained."
+          "editorialNote": "10 October 2026: visually checked PDF p.50: the PDF visibly prints “Quarumus … qui stetit”. The previous English supplied both “Let us seek” and a missing object “one”, and changed indicative perfect “stetit” into “may stand”. These repairs are removed; the fragment remains visibly incomplete.",
+          "originalPreparedEnglish": "Ant. Let us seek for our Lord the King one who may stand before Him and warm Him, and sleep in His bosom, and give warmth to our Lord the King.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              50
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1801,6 +1838,14 @@
         51
       ],
       "text": "All three pages have been visually compared. English is prepared from this printed Latin, retaining abbreviated collect endings instead of silently supplying a different edition. The repeated Gloria in excelsis opening displays the full text printed at Matins. Three malformed source passages have explicit provisional-reading notes. The source has seven hours without Lauds, and a separate Conclusion."
+    },
+    {
+      "pages": [
+        49,
+        50,
+        51
+      ],
+      "text": "10 October 2026: all three rendered PDF pages, all 81 passages, introduction, seven hours and Conclusion compared. Hymn and paragraph continuations, same-office Gloria reference expansions, response signs and abbreviated endings verified. Third-person “terminat” corrected in English. The three previously provisional source phrases now have explicit brackets instead of fluent repairs; the office remains pending."
     }
   ]
 }
