@@ -461,7 +461,7 @@
         {
           "type": "prayer",
           "source": "Preces fundit et cantica Pios incurvans poplites Tam grata Deo musices, Ipsi gaudent coelites;",
-          "english": "He pours forth prayers and canticles,\nBending his knees in piety;\n[Printed Tam grata Deo musices: unresolved musical construction]\nThe heavenly ones themselves rejoice;",
+          "english": "He pours forth prayers and the canticles of music so pleasing to God, bending his knees in piety; the heavenly ones themselves rejoice;",
           "sourcePages": [
             501
           ],
@@ -475,9 +475,9 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0005",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "poetry": true,
-          "editorialNote": "10 October 2026: actual rendered source personally compared. Unresolved printed forms are explicitly bracketed rather than translated as conjectural replacements. Previous prepared English/provenance retained; Latin unchanged. The printed “musices” is grammatically irregular; the rendering of the musical clause is provisional.",
+          "editorialNote": "10 October 2026: actual p.501 personally re-inspected. The earlier irregular-grammar flag was incorrect: musices is attested Greek-type genitive singular of musice (music). Cantica is accusative neuter plural object of fundit, with grata agreeing and Deo dative recipient. Musices modifies cantica across the parenthetical Pios incurvans poplites. Literal printed construction now translated, no Latin emended. Lexical evidence: https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=musica. First prepared English/provenance and intermediate bracketed English retained.",
           "originalPreparedEnglish": "He pours forth prayers and canticles,\nBending his knees in piety;\nIn music so pleasing to God\nThe heavenly ones themselves rejoice;",
           "originalTranslation": {
             "kind": "prepared",
@@ -486,7 +486,21 @@
               501
             ],
             "review": "editorial-review-complete"
-          }
+          },
+          "preparedEnglishHistory": [
+            {
+              "date": "2026-10-10",
+              "english": "He pours forth prayers and canticles,\nBending his knees in piety;\n[Printed Tam grata Deo musices: unresolved musical construction]\nThe heavenly ones themselves rejoice;",
+              "translation": {
+                "kind": "prepared",
+                "preparedFor": "Sacrum Florilegium",
+                "sourcePages": [
+                  501
+                ],
+                "review": "editorial-review-complete"
+              }
+            }
+          ]
         },
         {
           "type": "prayer",
@@ -2167,6 +2181,12 @@
         504
       ],
       "text": "10 October 2026: all four rendered pages and all 85 passages personally compared, including attribution, eight hours, historical meditations, hymn/collect continuations, Commendation and seven same-office prayer expansions. 44 formerly pending passages verified. Literal printed grammar, nominal copula omission and historical claims distinguished from true malformed source. 21 actual source passages remain pending, with explicit brackets and original prepared English/provenance retained. Convertere nos is not silently changed to Converte nos."
+    },
+    {
+      "pages": [
+        501
+      ],
+      "text": "10 October 2026 lexical follow-up: musices is a valid Greek-type genitive singular. Lauds hymn construction verified without an emendation; previous source flag corrected. Twenty source-blocked passages remain."
     }
   ]
 }

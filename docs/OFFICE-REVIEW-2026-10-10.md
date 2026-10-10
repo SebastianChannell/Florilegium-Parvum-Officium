@@ -383,3 +383,9 @@ Three source blockers remain, with prior English/provenance archived and actual 
 Twenty-five offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Office remains pending; Dominican complete. No merge or deployment.
 
 Validated checkpoint: 38 offices reviewed, 44 pending; **4,049 passages pending**, eleven separate reference issues. One hundred sixty-six source blockers independently documented across twenty-seven offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
+
+## Francis of Paola: lexical follow-up
+
+Actual p.501 re-inspected. The earlier `lauds-b0005` flag was incorrect: musices is an attested Greek-type genitive singular of musice, music. Cantica is the accusative neuter plural object of fundit, grata agrees with cantica, Deo is dative, and musices qualifies cantica across the parenthetical kneeling clause. Literal English now reads the canticles of music so pleasing to God. [Dictionary evidence](https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=musica). No source letters changed; original and intermediate prepared English/provenance retained. This supersedes that one earlier blocker; twenty Paola passages remain unresolved.
+
+Validated checkpoint: 38 offices reviewed, 44 pending; **4,048 passages pending**, eleven separate reference issues. One hundred sixty-five source blockers independently documented across twenty-seven offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
