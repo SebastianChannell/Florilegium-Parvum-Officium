@@ -127,3 +127,13 @@ Four independently confirmed blockers remain: p.566 `matins-b0008` lavera; p.566
 Twelve offices fully compared in this session now have forty-two independently documented source-blocked passages. Roman and Dominican separately completed their remaining discrepancies, preserving their prior complete reviews. No merge or deployment.
 
 Validated checkpoint: 39 offices reviewed, 43 pending; **4,317 passages pending**, eleven separate reference issues. Structural check, all 44 tests and preview build pass; strict coverage remains blocked.
+
+## Holy Innocents
+
+Every rendered PDF page 523–526 and all 81 passages personally compared, including source attribution, eight hours, Commendation, hymn/collect continuations and all seven same-office collect expansions. Three formerly pending passages cleared: p.523 `lauds-b0005` visibly spaced Virgin ales (letters preserved); p.523 `lauds-b0007` collective predicative singular victima, with illi continued by Qui in the response; p.525 `vespers-b0004` regular genitive Innocentis animi and poetic Paradise wording. No source letters or numbers changed.
+
+P.524 `sext-b0004` now translates present subjunctive iterent literally as “let … renew”, preserving its figurative object rather than inventing “shall pierce”. P.523 `matins-b0011` retains future debebit. Prior English/provenance archived. Three independently confirmed blockers remain: p.524 `terce-b0005` Caela; pp.524–525 `none-b0004` Nove Platis quondam Legis; p.525 `compline-b0006` regressso and superbitiis. Unsupported fluent repairs are bracketed, source unchanged. Office stays pending.
+
+Thirteen offices fully compared in this session now have forty-five independently documented source-blocked passages. Roman and Dominican separately completed remaining discrepancies on the basis of their preserved earlier complete reviews. No merge or deployment.
+
+Validated checkpoint: 39 offices reviewed, 43 pending; **4,314 passages pending**, eleven separate reference issues. Structural check, all 44 tests and preview pass; strict coverage remains blocked by pending work.
