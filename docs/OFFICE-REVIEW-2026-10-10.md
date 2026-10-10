@@ -534,3 +534,9 @@ Morum retains conduct, Quadripartite pervius open to passage in four ways, and t
 Thirty-two offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Dominican and Thomas Aquinas complete. No merge or deployment.
 
 Validated checkpoint: **39 offices reviewed**, 43 pending; **3,561 passages pending**, eleven separate reference issues. Two hundred thirty-two source blockers independently documented across thirty-three offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
+
+## Mozarabic office of the sick
+
+All seven rendered source pages 634–640 and all 127 passages personally compared, including attribution, Friday rubric, three actual hours, optional commemorations, both hymn copies, full psalms/canticles, prayers, blessings and responses. 126 passages verified; one pending printed reading: p.640 `commemorationes-ad-libitum-b0001` confractonem, retained explicitly without an unprinted confractionem.
+
+Two extraction-order defects repaired with original extracted source archived: p.636 verum et lumen aeternum precedes Amen/Per; p.640 col-laudamus regem aeternum likewise precedes Amen/Per. Printed L. is Roman numeral 50; Doceam is first-person subjunctive and impones second-person future. The ordinary Latin of Vidi enim eos and Dei dictione is retained without conjecture. Psalm 150 cross preserved. Earlier English/provenance archived. Thirty-three offices fully compared this session; eight large offices still require full comparison.
