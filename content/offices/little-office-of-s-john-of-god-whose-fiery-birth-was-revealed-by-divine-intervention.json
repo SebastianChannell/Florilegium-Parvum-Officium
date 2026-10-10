@@ -29,7 +29,7 @@
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
     "extraction": "reviewed",
-    "translation": "complete-prepared",
+    "translation": "complete-prepared-reading-pending",
     "verification": "source-reading-pending"
   },
   "sections": [
@@ -229,7 +229,7 @@
         {
           "type": "prayer",
           "source": "Apparente sed mutavit Divae Deiparae, Et ad pia applicavit Charitatis opera.",
-          "english": "But, when the holy Mother of God appeared, he changed and applied himself to the loving works of charity.",
+          "english": "But [the printed “Apparente … Divae Deiparae” has incompatible case endings], he changed and applied himself to the loving works of charity.",
           "sourcePages": [
             541
           ],
@@ -239,12 +239,21 @@
             "sourcePages": [
               541
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "matins-b0010",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints the incomplete construction “Apparente sed mutavit / Divae Deiparae.” The prepared English provisionally understands a change following the apparition of the Mother of God; the printed Latin is retained."
+          "editorialNote": "PDF p.541 visibly prints “Apparente sed mutavit / Divae Deiparae”. The former English silently treated the latter words as the subject of an ablative absolute. The printed endings are retained and the unresolved clause is bracketed.",
+          "originalPreparedEnglish": "But, when the holy Mother of God appeared, he changed and applied himself to the loving works of charity.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              541
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -1155,7 +1164,7 @@
         {
           "type": "prayer",
           "source": "Sitam animam afflictam Dedit patientiae, Nullam voluit vindictam",
-          "english": "He gave his afflicted soul to patience; he desired no vengeance,",
+          "english": "He gave his afflicted soul, laid low, over to patience; he desired no vengeance,",
           "sourcePages": [
             542,
             543
@@ -1171,8 +1180,18 @@
           },
           "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “Sitam animam afflictam,” where the context suggests “Suam.” The prepared English provisionally renders “his afflicted soul”; the printed Latin is retained."
+          "verification": "visual-review",
+          "editorialNote": "PDF pp.542–543: the printed “Sitam animam afflictam” is retained. “Sitam” is translated as “laid low”, rather than silently replacing it with “Suam”. This literal reading needs no replacement Latin.",
+          "originalPreparedEnglish": "He gave his afflicted soul to patience; he desired no vengeance,",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              542,
+              543
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1963,7 +1982,7 @@
         {
           "type": "prayer",
           "source": "Oremus, Omnipotens sempiterne Deus, Pater pauperum, humilium celsitudo et caritatis amator: te humiliter deprecamur, ut sicut Ecclesia tua beati Joannis Dei paupertate, humilitate et caritate coruscata, ita et nos ejus meritis et exemplis eadem sectantes, cum ipso in aeterna gloria feliciter coronari mereamur. Per Dominum nostrum Jesum Christum, Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum.",
-          "english": "Let us pray. Almighty and everlasting God, Father of the poor, exaltation of the humble, and lover of charity, we humbly beseech Thee that, as Thy Church shines with the poverty, humility, and charity of Blessed John of God, so we also, following these virtues through his merits and examples, may be found worthy to be happily crowned with him in eternal glory. Through Jesus Christ, Thy Son, our Lord, who liveth and reigneth with Thee in the unity of the Holy Spirit, God, for ever and ever.",
+          "english": "Let us pray. Almighty and everlasting God, Father of the poor, exaltation of the humble, and lover of charity, we humbly beseech Thee that, as Thy Church [is] radiant with the poverty, humility, and charity of Blessed John of God, so we also, following these virtues through his merits and examples, may be found worthy to be happily crowned with him in eternal glory. Through Jesus Christ, Thy Son, our Lord, who liveth and reigneth with Thee in the unity of the Holy Spirit, God, for ever and ever.",
           "sourcePages": [
             544
           ],
@@ -1977,8 +1996,17 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0007",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF omits a finite verb in “sicut Ecclesia tua ... coruscata.” The prepared English provisionally supplies “shines” to express the evident comparison; the Latin is retained."
+          "verification": "visual-review",
+          "editorialNote": "PDF p.544: “sicut Ecclesia tua … coruscata” prints a nominative perfect participle with an understood copula. The English now marks the supplied “[is]”; the source needs no conjectural replacement. The complete prayer, its printed ending and separate response were visually compared.",
+          "originalPreparedEnglish": "Let us pray. Almighty and everlasting God, Father of the poor, exaltation of the humble, and lover of charity, we humbly beseech Thee that, as Thy Church shines with the poverty, humility, and charity of Blessed John of God, so we also, following these virtues through his merits and examples, may be found worthy to be happily crowned with him in eternal glory. Through Jesus Christ, Thy Son, our Lord, who liveth and reigneth with Thee in the unity of the Holy Spirit, God, for ever and ever.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              544
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -2014,6 +2042,15 @@
         543,
         544
       ]
+    },
+    {
+      "pages": [
+        541,
+        542,
+        543,
+        544
+      ],
+      "text": "10 October 2026: all four complete rendered PDF pages, all 92 source/English passages, introductory claim, seven hours and Commendation compared. “Sitam” receives a literal translation and the collect’s implied copula is marked. Matins’ incompatible case endings remain the sole source blocker. Printed abbreviations are retained without expansion."
     }
   ]
 }
