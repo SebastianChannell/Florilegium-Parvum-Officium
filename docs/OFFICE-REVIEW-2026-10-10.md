@@ -466,3 +466,20 @@ Literal readings now retain future Facesset (the food of death shall depart), de
 Twenty-eight offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Office remains pending; Dominican complete. No merge or deployment.
 
 Validated checkpoint: 38 offices reviewed, 44 pending; **3,933 passages pending**, eleven separate reference issues. Two hundred nine source blockers independently documented across thirty offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
+
+## Marcellino and Petro
+
+Every rendered PDF page 561–565 and all 151 passages personally compared, including 1697 attribution, eight actual hours, the sole Matins collect (no later repeated collect inserted), actual doxology variations/omissions, the split Psalm 18 reference, all hymn/page continuations and Oblatio. 86 pending passages verified. P.562 `prime-b0006` fess’ is visibly marked as an abbreviated adjective; repeated Ne preserves the actual negative petitions with complete opprimatur/obruatur predicates. No source expansion supplied.
+
+The printed protegamar and Caeliique now remain explicitly bracketed instead of supplying repaired endings. Latus is an attested adjective/participle (broad/carried), but does not print laetus gladly; its contextual reading remains unresolved. Both Per infinita vastas copies remain uncertain, as does Quaeis. Prior prepared English/provenance archived; all Latin unchanged. Six source blockers:
+
+- `matins-b0020`, PDF 561: `Propitiare, quaesumus Domine, nobis famulis tuis, per Sanctorum Martyrum tuorum Marcellini et Petri aliorumque Patronorum nostrorum merita gloriosa: ut eorum pia intercessione, ab omnibus protegamar adversis. Per Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum. Amen.`
+- `sext-b0005`, PDF 563: `Avete Christi milites, Caeliique Candidati: Fuso cruore nobiles, Ac asperis probati:`
+- `none-b0006`, PDF 563: `Ut dura latus perferam, Cor impetrate forte:`
+- `none-b0008`, PDF 564: `Sit Trinitati gloria, Et honor et potestas, Per aeterna saecula, Per infinita vastas.`
+- `compline-b0006`, PDF 564: `Stupent Nepotum saecula Miracula, quae patrastis: Et gratiarum flumina Quaeis Patriam rigastis.`
+- `compline-b0007`, PDF 564,565: `Sit Trinitati gloria, Et honor et potestas, Per aeterna saecula, Per infinita vastas.`
+
+Twenty-nine offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Office remains pending; Dominican complete. No merge or deployment.
+
+Validated checkpoint: 38 offices reviewed, 44 pending; **3,847 passages pending**, eleven separate reference issues. Two hundred fifteen source blockers independently documented across thirty-one offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
