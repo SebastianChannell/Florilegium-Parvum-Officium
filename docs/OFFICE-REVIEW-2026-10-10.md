@@ -117,3 +117,13 @@ Personally inspected actual Latin p.313 and supplied English p.318. The sole pen
 All 348 passages now reviewed. The previous complete visual comparison of pp.280–320 is preserved; this session checked the remaining pairing rather than claiming another full 41-page comparison. This completes the second office in this continuation; the eleven wholly compared offices with thirty-eight documented source blockers remain pending. No merge or deployment.
 
 Validated checkpoint: 39 offices reviewed, 43 pending; **4,318 passages pending**, eleven separate reference issues. Structural check, all 44 tests and preview build pass; strict coverage remains blocked by pending work.
+
+## Mary Magdalene, Patroness of Penitents
+
+Every rendered PDF page 566–568 and all 68 passages personally compared, including source attribution, eight hours, every hymn and antiphon, page continuations, Commendation and all seven same-office versicle/prayer expansions. Vespers `vespers-b0006` cleared: its nominative list is asyndetic, so absence of a conjunction does not require Latin repair. Literal rest/scourges/lamentation/tears, little herbs and sweetening are retained.
+
+Four independently confirmed blockers remain: p.566 `matins-b0008` lavera; p.566 `lauds-b0006` fluiaat; p.568 `commendatio-b0001` Piarum norma meritum and gubern a; p.568 `commendatio-b0005` terminarer and damaged connections concerning recognition/lamentation and illa dulcissima. Previous coherent English repairs are now explicitly bracketed; their originals/provenance remain archived, with Latin unchanged. The office remains pending.
+
+Twelve offices fully compared in this session now have forty-two independently documented source-blocked passages. Roman and Dominican separately completed their remaining discrepancies, preserving their prior complete reviews. No merge or deployment.
+
+Validated checkpoint: 39 offices reviewed, 43 pending; **4,317 passages pending**, eleven separate reference issues. Structural check, all 44 tests and preview build pass; strict coverage remains blocked.
