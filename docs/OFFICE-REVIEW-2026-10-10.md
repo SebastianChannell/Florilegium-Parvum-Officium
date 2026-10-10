@@ -189,3 +189,22 @@ Every rendered PDF page 501–504 and all 85 passages personally compared, inclu
 Fifteen offices fully compared in this session, plus the Monastic outstanding-passage audit and separately inspected Roman source fragment. Office remains pending; Dominican complete. No merge or deployment.
 
 Validated checkpoint: 38 offices reviewed, 44 pending; **4,276 passages pending**, eleven separate reference issues. Seventy-nine source-blocked passages independently documented across seventeen offices (fifteen complete office comparisons, Monastic outstanding-passage comparison and Roman fragment comparison). Structural check, all 44 tests and preview pass; strict coverage remains blocked.
+
+## Peter, Prince of the Apostles
+
+Every rendered PDF page 578–582 and all 104 passages personally compared, including source attribution, seven actual hours (no Lauds), hymn/collect continuations, final prayer and five same-office prayer expansions. 46 formerly pending passages cleared. Six shortened Tu es Petrus openings are verified at exactly their printed extent; absence of an expanded counterpart does not make the printed abbreviation an unresolved reading. Secure compressed grammar retained: interrogative qui, addidicit, genitives referring to Christ’s calling voice, future discet, the adjective satur rather than invented speech, and present liberantur in the relative clause. All source letters unchanged.
+
+8 genuine source passages remain pending, with actual uncertain forms/connections explicitly bracketed and original prepared English/provenance archived:
+
+- `terce-b0006`, PDF 579: `Hunc personam dicit unam, Sed naturae opportunam Simul dat distantiam, Carni scire, quod negatum, Sibi Cephas revelatum Dia profert diphthera`
+- `none-b0005`, PDF 580: `Ter negavit quod peccavit, Kursus Amor expiavit, Triplex et Confessio:`
+- `none-b0010`, PDF 580: `Dat Aeneae sanitatem, Hinc et inde sospitatem Aegis fert, et miseris,`
+- `vespers-b0008`, PDF 581: `Quippe vincis relaxatus, Jam it Petrus liberatus, Fido cinctus Comite,`
+- `vespers-b0010`, PDF 581: `Nam volare hic dum quaerit, Gravi palam lapsu perit Asfectante Populo;`
+- `vespers-b0011`, PDF 581: `Unde Nero insfendescens, Magi lapsum miserescens Petro fert judicium,`
+- `compline-b0013`, PDF 581,582: `Oves, tuo quas ovili Hic in terris haud exili Cura enutviveras, Christo tandem Redemptori Primo redditas Pastori, Duc ad Agni nuptias,`
+- `compline-b0018`, PDF 582: `Mitissime ac Clementissime Deus, qui S. Petrum ex pauperculo piscatore, tuum in terris Vicarium, atque Apostolorum Principem constitutisti, eumque post grave negationis peccatum propitiis tamen respexisti oculis, et ad amarissimam poenitentiam commovisti. Oro te per intimum ejus amorem, et ferventissimas lachrymas, concede mihi gratiam tuam exuberantem, ut voluntati tuae me totum subternens, vocationi meae semper satisfaciam, et in petra Catholicae fidei immote persistere, Te summum Bonum meum in prosperis et adversis, super omnia amem, atque peccata mea contra Divinam Majestatem tuam commissa, vero, et profundissimo dolore plangam, donec tandem in coelis gaudio petrui merear sempiterna; Qui vivis et regnas Deus in saecula saeculorum, Amen.`
+
+Sixteen offices fully compared this session, plus Monastic outstanding-passage and Roman fragment comparisons. Office remains pending; Dominican complete. No merge or deployment.
+
+Validated checkpoint: 38 offices reviewed, 44 pending; **4,230 passages pending**, eleven separate reference issues. Eighty-seven source blockers independently documented across eighteen offices. Structural check, all 44 tests and preview pass; strict coverage remains blocked.
