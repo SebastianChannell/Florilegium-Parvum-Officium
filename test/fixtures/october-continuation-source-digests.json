@@ -3440,6 +3440,16 @@
           "matins-b0009": "b302e9aa9248941038a41bbc6dbb0936ed2da9ac8f6f0d4204c451ee09d370b1",
           "matins-b0011": "1ca29bbed623f07b3d23fd520c3b9bd0e5d9b6a5cc30862843d472092f2fb793",
           "matins-b0013": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e"
+        },
+        "reviewedEnglishCorrections": {
+          "matins-b0001": {
+            "digest": "6325797ccb684b4688b3d7c3b498eea498d7070fce1edf2074d2f12ffd58854b",
+            "review": "Actual printed future aperies independently compared.",
+            "requiredNoteText": "aperies",
+            "sourcePages": [
+              516
+            ]
+          }
         }
       },
       {
@@ -3512,6 +3522,16 @@
           "compline-b0007": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
           "compline-b0009": "7804561d4a4d0f3b2c196e2213644d2f83622a86d3caab8ac5f837f0bb438dcc",
           "compline-b0013": "dd61e84349a3c1366a24d642f52be005aef67b12d13c406552e344ee0c6205ae"
+        },
+        "pendingEnglishCorrections": {
+          "compline-b0001": {
+            "digest": "5633c8bbe3fa3d5d932b45211fb7399c93040dd6f99f96e5d046212ce22798ed",
+            "review": "Actual Convertere nos unresolved; no printed active imperative.",
+            "requiredNoteText": "Convertere nos",
+            "sourcePages": [
+              518
+            ]
+          }
         }
       },
       {
