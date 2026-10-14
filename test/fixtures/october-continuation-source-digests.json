@@ -6921,6 +6921,36 @@
           "lauds-b0227": "8646d0d81468ec1067b4c996dda88fa55969d7f630b81baa55741e9c9051827d",
           "lauds-b0232": "8646d0d81468ec1067b4c996dda88fa55969d7f630b81baa55741e9c9051827d",
           "lauds-b0237": "8646d0d81468ec1067b4c996dda88fa55969d7f630b81baa55741e9c9051827d"
+        },
+        "suppliedEnglishCorrections": {
+          "lauds-b0010": {
+            "digest": "06de66f2835578fb96e0e627f6ff1c1cf37e2d25a071014f476a69c2375d5bbb",
+            "sourcePages": [
+              352
+            ],
+            "verification": "visual-review",
+            "review": "Printed English p.125 omits Terra dedit fructum suum, present in the actual Sarum Latin p.352; prepared English restores the complete verse.",
+            "requiredNoteText": "Printed English p"
+          },
+          "lauds-b0014": {
+            "digest": "df3cf35efa82e4cd461e663dd2565c887520fdd8da36ae6484f3d6cc29c70df4",
+            "sourcePages": [
+              352,
+              353
+            ],
+            "verification": "visual-review",
+            "review": "Actual Sarum p.353 lacks the additional omnes present in the reused Roman Latin p.127; the corrected extraction and prepared English preserve Sarum’s own extent, while full printed English pp.127–128 is archived.",
+            "requiredNoteText": "Actual Sarum p"
+          },
+          "lauds-b0016": {
+            "digest": "bc6b791b0171494dac4c1249948ef578f7dbaf83a924b31ebd058bf69738f25b",
+            "sourcePages": [
+              353
+            ],
+            "verification": "visual-review",
+            "review": "Actual p.353 prints future laetabuntur and plural gladii ancipites; supplied English p.292 uses a request and a singular sword. Prepared reading follows the actual source, with the complete printed translation archived.",
+            "requiredNoteText": "Actual p"
+          }
         }
       }
     ]
