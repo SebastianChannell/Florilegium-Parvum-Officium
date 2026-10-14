@@ -767,7 +767,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 102,
@@ -989,9 +989,9 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "complete-supplied-pending-review",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-supplied",
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 54,
@@ -2811,8 +2811,8 @@
       "crossReferences": [],
       "status": {
         "extraction": "reviewed",
-        "translation": "complete-prepared-reading-pending",
-        "verification": "source-reading-pending"
+        "translation": "complete-prepared",
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 23,
@@ -3028,10 +3028,10 @@
         "verification": "source-reading-pending"
       },
       "coverage": {
-        "blocks": 206,
+        "blocks": 203,
         "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 194
+        "preparedEnglish": 191
       }
     },
     {
@@ -3188,8 +3188,8 @@
       "crossReferences": [],
       "status": {
         "extraction": "reviewed",
-        "translation": "complete-prepared-reading-pending",
-        "verification": "source-reading-pending"
+        "translation": "complete-prepared",
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 75,
@@ -4747,14 +4747,14 @@
       "crossReferences": [],
       "status": {
         "extraction": "reviewed-with-source-discrepancies",
-        "translation": "complete-supplied-reading-pending",
+        "translation": "complete-mixed-reading-pending",
         "verification": "source-reading-pending"
       },
       "coverage": {
         "blocks": 534,
         "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 0
+        "preparedEnglish": 3
       }
     },
     {
@@ -4867,11 +4867,12 @@
         },
         {
           "id": "sext-2",
-          "title": "Sext",
+          "title": "Sext (second printed heading)",
           "pages": [
             179,
             180
-          ]
+          ],
+          "originalExtractedTitle": "Sext"
         },
         {
           "id": "vespers",
@@ -5785,7 +5786,7 @@
         "blocks": 530,
         "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 426
+        "preparedEnglish": 427
       }
     },
     {
@@ -5848,6 +5849,10 @@
         {
           "title": "Compline",
           "pdfPage": 236
+        },
+        {
+          "title": "Missae Siccae B. Virginis Mariae",
+          "pdfPage": 240
         }
       ],
       "sections": [
@@ -5931,6 +5936,18 @@
             237,
             238,
             239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245
+          ]
+        },
+        {
+          "id": "missae-siccae",
+          "title": "Dry Masses of the Blessed Virgin Mary",
+          "pages": [
             240,
             241,
             242,
@@ -6095,7 +6112,97 @@
         "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
         "preparedEnglish": 650
-      }
+      },
+      "originalExtractedSections": [
+        {
+          "id": "matins",
+          "title": "Matins",
+          "pages": [
+            213,
+            214,
+            215,
+            216,
+            217,
+            218
+          ]
+        },
+        {
+          "id": "lauds",
+          "title": "Lauds",
+          "pages": [
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224
+          ]
+        },
+        {
+          "id": "prime",
+          "title": "Prime",
+          "pages": [
+            224,
+            225,
+            226
+          ]
+        },
+        {
+          "id": "terce",
+          "title": "Terce",
+          "pages": [
+            226,
+            227,
+            228
+          ]
+        },
+        {
+          "id": "sext",
+          "title": "Sext",
+          "pages": [
+            228,
+            229,
+            230,
+            231
+          ]
+        },
+        {
+          "id": "none",
+          "title": "None",
+          "pages": [
+            231,
+            232,
+            233
+          ]
+        },
+        {
+          "id": "vespers",
+          "title": "Vespers",
+          "pages": [
+            233,
+            234,
+            235,
+            236
+          ]
+        },
+        {
+          "id": "compline",
+          "title": "Compline",
+          "pages": [
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245
+          ]
+        }
+      ]
     },
     {
       "id": "little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage",
@@ -6332,7 +6439,7 @@
         "blocks": 292,
         "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 200
+        "preparedEnglish": 201
       }
     },
     {
@@ -6938,14 +7045,14 @@
       "crossReferences": [],
       "status": {
         "extraction": "reviewed",
-        "translation": "complete",
-        "verification": "source-reading-pending"
+        "translation": "complete-mixed",
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 348,
         "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 48
+        "preparedEnglish": 49
       }
     },
     {
@@ -7764,7 +7871,7 @@
         "blocks": 551,
         "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 221
+        "preparedEnglish": 222
       }
     },
     {
@@ -8315,7 +8422,7 @@
         "blocks": 420,
         "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 344
+        "preparedEnglish": 345
       }
     },
     {
@@ -8862,13 +8969,13 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 84,
         "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 82
+        "preparedEnglish": 83
       }
     },
     {
@@ -9916,9 +10023,9 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-supplied",
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 47,
@@ -10295,7 +10402,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 55,
@@ -10615,7 +10722,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 88,
@@ -10799,7 +10906,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 85,
@@ -11007,9 +11114,9 @@
       ],
       "crossReferences": [],
       "status": {
-        "extraction": "candidate",
-        "translation": "incomplete",
-        "verification": "pending"
+        "extraction": "reviewed",
+        "translation": "complete-supplied",
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 24,
@@ -11356,7 +11463,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 65,
@@ -12628,7 +12735,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 77,
@@ -12978,7 +13085,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 70,
@@ -13650,13 +13757,13 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 75,
         "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 74
+        "preparedEnglish": 75
       }
     },
     {
@@ -14042,13 +14149,13 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 72,
         "missingEnglish": 0,
         "unpairedEnglishBlocks": 0,
-        "preparedEnglish": 71
+        "preparedEnglish": 72
       }
     },
     {
@@ -14680,7 +14787,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 61,
@@ -15190,7 +15297,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 117,
@@ -16906,7 +17013,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 75,
@@ -17180,7 +17287,7 @@
       "status": {
         "extraction": "reviewed",
         "translation": "complete-prepared",
-        "verification": "source-reading-pending"
+        "verification": "visual-review"
       },
       "coverage": {
         "blocks": 65,

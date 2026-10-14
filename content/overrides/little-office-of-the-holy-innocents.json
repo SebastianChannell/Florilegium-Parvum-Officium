@@ -244,7 +244,7 @@
         {
           "type": "prayer",
           "source": "℟. Quia Agnus debebit crucifigi.",
-          "english": "℟. For the Lamb must be crucified.",
+          "english": "℟. For the Lamb will have to be crucified.",
           "sourcePages": [
             523
           ],
@@ -258,7 +258,17 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "visual-review"
+          "verification": "visual-review",
+          "originalPreparedEnglish": "℟. For the Lamb must be crucified.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              523
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source personally compared. P.523 debebit is future; predictive obligation is retained. Original prepared English and provenance retained; Latin unchanged."
         },
         {
           "type": "prayer",
@@ -409,8 +419,17 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0005",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed Virgin ales is retained; English reads the visibly split virginales as virginal."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered source personally compared. P.523 visibly separates Virgin ales, a typographic word division read as virginales agreeing with vertices, without replacing source letters. Exact spaced source retained. Original prepared English and provenance retained; Latin unchanged.",
+          "originalPreparedEnglish": "For you, chaste martyrs, that she may fashion crowns from them and adorn with them your virginal brows.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              523
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -434,7 +453,7 @@
         {
           "type": "prayer",
           "source": "℣. Innocentes illi debentur victima,",
-          "english": "℣. The Innocents are owed as a victim to Him",
+          "english": "℣. The Innocents are owed to Him as a victim,",
           "sourcePages": [
             523
           ],
@@ -448,8 +467,17 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0007",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed Innocentes illi debentur victima has defective agreement. English provisionally follows the innocent victims owed to Him who condemns worldly wickedness."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered source personally compared. P.523: illi is the singular dative “to Him”, continued by the relative response Qui venit. Victima is a collective predicative noun; English retains its singular number with the plural Innocents rather than changing it to victims. No Latin number emendation is required. Original prepared English and provenance retained; Latin unchanged.",
+          "originalPreparedEnglish": "℣. The Innocents are owed as a victim to Him",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              523
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -798,7 +826,7 @@
         {
           "type": "prayer",
           "source": "Caela rigent corpora, Sed animulae dilectae Jesu gratiae refectae Non sensere funera.",
-          "english": "Their bodies lie cold, but the beloved little souls, refreshed by the grace of Jesus, did not feel death.",
+          "english": "[Printed Caela: unresolved word] their bodies grow stiff, but the beloved little souls, refreshed by the grace of Jesus, did not feel death.",
           "sourcePages": [
             524
           ],
@@ -813,7 +841,16 @@
           "alignment": "reviewed",
           "id": "terce-b0005",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints Caela rigent corpora. English provisionally follows the evidently intended cold bodies from the contrast with souls unaffected by death."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. P.524 visibly prints Caela, not an independently resolved qualifier. Rigent is retained as grow stiff; no intended cold-body adjective supplied. Original prepared English and provenance retained; Latin unchanged.",
+          "originalPreparedEnglish": "Their bodies lie cold, but the beloved little souls, refreshed by the grace of Jesus, did not feel death.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              524
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -979,7 +1016,7 @@
         {
           "type": "prayer",
           "source": "Respirate lachrymosae Matres, Matris dolorosae Jam sub Cruce symbola! Natis vestris una datum Caede mori: Sed hunc Natum Mille iterent vulnera,",
-          "english": "Take breath, tearful mothers, already images of the sorrowful Mother beneath the Cross! Your children were given to die by a single slaughter; but a thousand wounds shall pierce this Son,",
+          "english": "Take breath, tearful mothers, already images of the sorrowful Mother beneath the Cross! Your children were given to die by a single slaughter; but let a thousand wounds renew this Son,",
           "sourcePages": [
             524
           ],
@@ -993,7 +1030,17 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "visual-review"
+          "verification": "visual-review",
+          "originalPreparedEnglish": "Take breath, tearful mothers, already images of the sorrowful Mother beneath the Cross! Your children were given to die by a single slaughter; but a thousand wounds shall pierce this Son,",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              524
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source personally compared. P.524 iterent is a present subjunctive of iterare: renew/repeat, not an indicative shall pierce. The printed figurative wording and grammatical mood are retained without claiming an intended replacement. Original prepared English and provenance retained; Latin unchanged."
         },
         {
           "type": "prayer",
@@ -1196,7 +1243,7 @@
           "alignment": "reviewed",
           "id": "none-b0004",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF itself prints Nove Platis quondam Legis. This clause is not securely intelligible and is explicitly unresolved in English."
+          "editorialNote": "10 October 2026: personally compared the complete hymn across PDF pp.524–525. The PDF visibly prints Nove Platis quondam Legis; this clause remains unintelligible and explicitly bracketed in English. No Latin repair or completion is certified."
         },
         {
           "type": "prayer",
@@ -1376,8 +1423,17 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0004",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed Innocentis animi and Paradyso gaudiis contain defective agreement. English provisionally follows the clothing and Paradise imagery."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered source personally compared. P.525: Innocentis animi is a regular singular genitive (“of an innocent soul”), not defective agreement. Paradyso is retained as the Paradise spelling; poetic place ablative and gaudiis express delight together in Paradise’s joys. No replaced word or supplied Latin preposition is required. Original prepared English and provenance retained; Latin unchanged.",
+          "originalPreparedEnglish": "See, dear mothers, with what clothing of the virginal silver of an innocent soul the Mother of Jesus has adorned your children, brothers of her Son: now delighting together in the joys of Paradise, joyfully awaiting Christ’s return from the dead.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              525
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1585,7 +1641,7 @@
         {
           "type": "prayer",
           "source": "Christo Crucem sed perpesso, Et a mortuis regressso Qui coelorum Principi Ante thronum jam servitis, Splendidaque superbitiis Purpura Martyrii; Vestro nos precamine Promptos, simul, atque fortes Per adversitatum sortes Hic in terris reddite.",
-          "english": "But after Christ has endured the Cross and returned from the dead, you who now serve the Prince of heaven before His throne and glory in the splendid purple of martyrdom: by your prayers make us both ready and strong amid the lots of adversity here on earth.",
+          "english": "But after Christ has endured the Cross, and from the dead [printed regressso: unresolved form], you who now serve the Prince of heaven before His throne and in the splendid purple of martyrdom [printed superbitiis: unresolved verb]: by your prayers make us both ready and strong amid the lots of adversity here on earth.",
           "sourcePages": [
             525
           ],
@@ -1600,7 +1656,16 @@
           "alignment": "reviewed",
           "id": "compline-b0006",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed regressso and superbitiis are retained; English provisionally reads returned and glory in from context."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. P.525 visibly prints regressso and superbitiis. Neither is silently replaced with its expected Latin form. Original prepared English and provenance retained; Latin unchanged.",
+          "originalPreparedEnglish": "But after Christ has endured the Cross and returned from the dead, you who now serve the Prince of heaven before His throne and glory in the splendid purple of martyrdom: by your prayers make us both ready and strong amid the lots of adversity here on earth.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              525
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1834,6 +1899,15 @@
         525,
         526
       ]
+    },
+    {
+      "pages": [
+        523,
+        524,
+        525,
+        526
+      ],
+      "text": "10 October 2026: every rendered page and all 81 passages personally compared, including introductory attribution, eight hours, Commendation, hymn/collect continuations and seven same-office collect expansions. Three formerly pending passages cleared through literal printed grammar/word division. Caela, Nove Platis quondam Legis, regressso and superbitiis remain explicit source blockers in three passages. Iterent and debebit translations now retain printed verb meaning/mood/tense. Prior prepared English/provenance retained; source unchanged."
     }
   ]
 }

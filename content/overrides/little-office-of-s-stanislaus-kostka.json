@@ -30,7 +30,7 @@
   "status": {
     "extraction": "reviewed",
     "translation": "complete-prepared",
-    "verification": "source-reading-pending"
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -128,7 +128,7 @@
         {
           "type": "prayer",
           "source": "Tu Lechiae victoriae Es auctor incurrentae.",
-          "english": "Thou art the author of the victory of Poland [the printed final word incurrentae is unclear].",
+          "english": "The victory of Poland as she advances has thee for its author.",
           "sourcePages": [
             602
           ],
@@ -142,8 +142,17 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints incurrentae; the meaning of this final word is unresolved, and the English marks it explicitly."
+          "verification": "visual-review",
+          "editorialNote": "Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “Tu Lechiae victoriae Es auctor incurrente”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "Thou art the author of the victory of Poland [the printed final word incurrentae is unclear].",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 335,
+            "printedPage": "291",
+            "reading": "Tu Lechiae victoriae Es auctor incurrente",
+            "attachedReading": "Es auctor incurrentae"
+          }
         },
         {
           "type": "prayer",
@@ -299,7 +308,7 @@
         {
           "type": "prayer",
           "source": "Salve, cui dum Tartara Emissa per latebras Illuderent, huc Barbara Abegit in tenebras, Et Angelicum ferculum, Missum, mente pia panem, In pace Jesu corculum Mox debit levamen.",
-          "english": "Hail, thou whom the powers of hell, issuing from hidden places, sought to mock; Barbara drove them back into darkness. [The printed sentence concerning angelic food, bread, and the heart’s relief is defective and awaits clarification.]",
+          "english": "Hail, thou whom the powers of hell, issuing from hidden places, sought to mock; Barbara drove them back into darkness. And angelic food, bread sent from heaven, gave Jesus’ little heart relief from illness in that bread.",
           "sourcePages": [
             602
           ],
@@ -313,8 +322,17 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed Missum, mente pia panem / In pace Jesu corculum / Mox debit levamen is defective. English leaves this sentence unresolved rather than supplying a narrative from an external account."
+          "verification": "visual-review",
+          "editorialNote": "Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “Missumque ab axe panem, In pane, Jesu corculum Morbi dedit levamen”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "Hail, thou whom the powers of hell, issuing from hidden places, sought to mock; Barbara drove them back into darkness. [The printed sentence concerning angelic food, bread, and the heart’s relief is defective and awaits clarification.]",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 335,
+            "printedPage": "291",
+            "reading": "Missumque ab axe panem, In pane, Jesu corculum Morbi dedit levamen",
+            "attachedReading": "Missum, mente pia panem"
+          }
         },
         {
           "type": "prayer",
@@ -683,7 +701,7 @@
         {
           "type": "prayer",
           "source": "Salve, cui post redditam Maria sanitatem Haec verba fert, ut debitam Sequar sanctitatem. Vis Kostka Jesum sedibus Caelestibus videre? Ignatii fac aedibus, Signisque te tuere.",
-          "english": "Hail, thou to whom Mary, after restoring thy health, speaks these words, that thou mayest follow the holiness thou owest: “Kostka, dost thou wish to see Jesus in the heavenly dwellings? Place thyself under the protection of the houses and standards of Ignatius.”",
+          "english": "Hail, thou to whom Mary, after restoring thy health, speaks these words, that thou mayest follow the holiness thou owest: “Kostka, dost thou wish to see Jesus in the heavenly dwellings? See that thou art protected by the houses and standards of Ignatius.”",
           "sourcePages": [
             603
           ],
@@ -697,8 +715,17 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed Sequar and the Ignatii fac aedibus construction are grammatically defective. English provisionally follows the surrounding speech and vocation imagery."
+          "verification": "visual-review",
+          "editorialNote": "Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “Sequere sanctitatem; Ignatii fac aedibus, Signisque te tuere”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "Hail, thou to whom Mary, after restoring thy health, speaks these words, that thou mayest follow the holiness thou owest: “Kostka, dost thou wish to see Jesus in the heavenly dwellings? Place thyself under the protection of the houses and standards of Ignatius.”",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 336,
+            "printedPage": "292",
+            "reading": "Sequere sanctitatem; Ignatii fac aedibus, Signisque te tuere",
+            "attachedReading": "Sequar sanctitatem"
+          }
         },
         {
           "type": "prayer",
@@ -1067,7 +1094,7 @@
         {
           "type": "prayer",
           "source": "Salve, cui nec lachrymae Patris fugam retardant, Nec patriae spes maximae, Assumpta vota tardant; Nam Jesu stipenditis Et usque militasti. Ignatii compendiis Dum sidera involasti.",
-          "english": "Hail, thou whom neither thy father’s tears held back from flight, nor the greatest hopes of thy homeland delayed in thy chosen vows. For thou didst serve continually as a soldier of Jesus, and by the ways of Ignatius didst fly to the stars.",
+          "english": "Hail, thou whom neither thy father’s tears held back from flight, nor the greatest hopes of thy homeland delayed in thy chosen vows. For thou didst serve as a soldier in the pay of the little Jesus until thou didst fly to the stars by the shortcuts of Ignatius.",
           "sourcePages": [
             603,
             604
@@ -1083,8 +1110,17 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0004",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed stipenditis and Ignatii compendiis are retained; English provisionally renders the soldier and Ignatian path imagery."
+          "verification": "visual-review",
+          "editorialNote": "Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “Nam Jesuli stipendiis Eo usque militasti, Ignatii compendiis”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "Hail, thou whom neither thy father’s tears held back from flight, nor the greatest hopes of thy homeland delayed in thy chosen vows. For thou didst serve continually as a soldier of Jesus, and by the ways of Ignatius didst fly to the stars.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 336,
+            "printedPage": "292",
+            "reading": "Nam Jesuli stipendiis Eo usque militasti, Ignatii compendiis",
+            "attachedReading": "Nam Jesu stipenditis"
+          }
         },
         {
           "type": "prayer",
@@ -1317,8 +1353,16 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0006",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed protegeis is retained; English provisionally reads the evidently intended protect."
+          "verification": "visual-review",
+          "editorialNote": "Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “Sic protegas cliente”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 337,
+            "printedPage": "293",
+            "reading": "Sic protegas cliente",
+            "attachedReading": "Sic protegeis clientem"
+          }
         },
         {
           "type": "prayer",
@@ -1465,13 +1509,21 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0001",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed Inscipta is retained; English reads the evidently intended inscribed."
+          "verification": "visual-review",
+          "editorialNote": "Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “Inscripta carpe vota”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 337,
+            "printedPage": "293",
+            "reading": "Inscripta carpe vota",
+            "attachedReading": "Inscipta carpe vota"
+          }
         },
         {
           "type": "prayer",
           "source": "Hymnus ad S. Stanislaum Kostkam Salve, o caste Candor puritatis, Intemerate flos Virginitatis! Tuum dum corpus purum conservatur, Vultusque caeli luce illustratur, Lumina ista monstrant radiorum, Non cinctam mente beato peccatorum. Decuit corpus ita illustrari, Nescium noxa mortali gravari.",
-          "english": "Hymn to Saint Stanislaus Kostka. Hail, chaste brightness of purity, undefiled flower of virginity! While thy pure body is preserved and thy face illumined with heavenly light, these lights of rays reveal [the printed clause about the blessed mind and sins is unintelligible]. It was fitting that the body should be so illuminated, never knowing the burden of mortal guilt.",
+          "english": "Hymn to Saint Stanislaus Kostka. Hail, chaste brightness of purity, undefiled flower of virginity! While thy pure body is preserved and thy face illumined with heavenly light, these lights of rays reveal a mind unwrapped in the cloud of sins. It was fitting that the body should be so illuminated, never knowing the burden of mortal guilt.",
           "sourcePages": [
             604
           ],
@@ -1485,8 +1537,17 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0002",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF itself prints Non cinctam mente beato peccatorum. This clause is not securely intelligible and is explicitly unresolved in English."
+          "verification": "visual-review",
+          "editorialNote": "Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “Non cinctam mentem nube peccatorum”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "Hymn to Saint Stanislaus Kostka. Hail, chaste brightness of purity, undefiled flower of virginity! While thy pure body is preserved and thy face illumined with heavenly light, these lights of rays reveal [the printed clause about the blessed mind and sins is unintelligible]. It was fitting that the body should be so illuminated, never knowing the burden of mortal guilt.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 337,
+            "printedPage": "293",
+            "reading": "Non cinctam mentem nube peccatorum",
+            "attachedReading": "Non cinctam mente beato peccatorum"
+          }
         },
         {
           "type": "prayer",
@@ -1583,8 +1644,16 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0007",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed immaculatam agrees incorrectly with the masculine Stanislaum. English reads the intended undefiled without changing the printed Latin."
+          "verification": "visual-review",
+          "editorialNote": "Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “B. Stanislaum Kostkam immaculatum”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 337,
+            "printedPage": "293",
+            "reading": "B. Stanislaum Kostkam immaculatum",
+            "attachedReading": "B. Stanislaum Kostkam immaculatam"
+          }
         },
         {
           "type": "rubric",

@@ -80,3 +80,15 @@ An `english-supplement` block preserves supplied English without inventing Latin
 Word-sequence reuse also requires identical ordered ℣/℟ signs. A marked versicle or response cannot reuse an unmarked passage or a passage with a different role.
 
 `--word-sequence --reviewed-selections` permits only the individually compared choices recorded in `content/translations/reviewed-reuse-selections.json`. Each choice names a reviewed origin, the complete word sequence, ordered role signs, and an editorial reason. Missing or nonmatching origins are rejected; conflicting candidates without a recorded choice remain untouched. Each affected row displays the selection reason and keeps its own pending source review.
+
+### Comparisons with source editions
+
+A block’s `sourceReading` must match an entry in `content/source-reading-reviews.json`. Each book record identifies its public scan and SHA-256 checksum. Record the visually checked PDF and printed page, the external reading and the exact attached fragment. Explain the choice in a visible editorial note and preserve prior prepared English when correcting it. Earlier editions must be labelled as earlier editions; they do not verify the edition cited by the compilation. A confirmed unusual phrase may be translated literally with a visible note; an unsupported conjecture remains pending.
+
+Comparison editions must be labelled as comparisons and do not certify the cited edition. Undated source records require `editionDate: "undated"` and an ISO `retrievedOn` date instead of an invented publication year. A library date after 1712 is not an exact 1712 colophon. Correcting reused supplied English requires preserving the original English, translation provenance and English page references while marking the correction as prepared.
+
+### Preserving column continuations in reader assembly
+
+`assembly.exclude` omits identified blocks only from their extracted section’s body; `before`, `after` and `insertBefore` can assemble those same original identifiers at their visually established location. `insertBefore` maps an existing body anchor to original block IDs, allowing the printed conditional hymn additions to precede their doxology. All underlying blocks and extracted section source strings remain conserved. Exclusion IDs must belong to their section; insertion anchors must remain in its body, and all targets must exist. Manual `when` conditions still apply to assembled blocks. Variant controls accept either `title` or `label` metadata, and every variant/option requires a visible label.
+
+A separately printed non-hour heading may use an `assemblyOnly` section with empty raw `blocks`, its actual `sourceHeading`, `sourceHeadingBlock` and reviewed `sourcePages`. Its `assembly.after` starts with that same printed heading block and assembles the original appendix rows. The inventory records the additional source section; original extracted containers remain archived. Ordinary empty sections are still invalid. Carthusian dry Masses use this structure for the genuine pp.240–245 appendix, conserving all original Compline-container identifiers while keeping the appendix separate in the reader.

@@ -48,7 +48,7 @@
   "status": {
     "extraction": "reviewed",
     "translation": "complete-prepared",
-    "verification": "source-reading-pending"
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -211,11 +211,24 @@
         {
           "type": "rubric",
           "source": "A Septuagesima usque ad Pascha, loco Alleluia, dicitur: Laus tibi, Domine, Rex aeternae gloriae.",
-          "english": "During Lent until Easter, instead of the alleluia the following is said: Praise to Thee, O Lord, King of everlasting glory.",
+          "english": "From Septuagesima until Easter, instead of Alleluia, the following is said: Praise to Thee, O Lord, King of everlasting glory.",
           "sourcePages": [
             395
           ],
           "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              395
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0008",
+          "verification": "visual-review",
+          "editorialNote": "The printed season starts at Septuagesima, before Lent. Prepared English corrects the reused Lent rubric; original English and reuse provenance are retained.",
+          "originalPreparedEnglish": "During Lent until Easter, instead of the alleluia the following is said: Praise to Thee, O Lord, King of everlasting glory.",
+          "originalTranslation": {
             "kind": "supplied",
             "method": "exact-reviewed-pdf-reuse",
             "reusedFromOffice": "little-office-of-the-blessed-sacrament",
@@ -224,13 +237,9 @@
               54
             ]
           },
-          "alignment": "reviewed",
-          "id": "matins-b0008",
-          "verification": "visual-review",
-          "englishPages": [
+          "originalEnglishPages": [
             54
-          ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review. The original Latin says Septuagesima; the supplied English says Lent. These differing printed terms are retained."
+          ]
         },
         {
           "type": "rubric",
@@ -270,8 +279,16 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints cur tuum and Transfingendum. English provisionally reads the intended heart and piercing from the surrounding prophecy; Latin is retained."
+          "verification": "visual-review",
+          "editorialNote": "Checked against the cited 1879 printed edition. The printed reading is “Quae cor tuum gladio Transfigendum audis”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 314,
+            "printedPage": "284",
+            "reading": "Quae cor tuum gladio Transfigendum audis",
+            "attachedReading": "Quae cur tuum gladio"
+          }
         },
         {
           "type": "prayer",
@@ -505,13 +522,21 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0006",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed Sevente is retained; English provisionally follows the king’s raging fury from context."
+          "verification": "visual-review",
+          "editorialNote": "Checked against the cited 1879 printed edition. The printed reading is “Saeviente, corde tristi”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 314,
+            "printedPage": "284",
+            "reading": "Saeviente, corde tristi",
+            "attachedReading": "Sevente, corde tristi"
+          }
         },
         {
           "type": "prayer",
           "source": "Pro Regina beatorum, Nostri spes exilii, Fac, infractus vel malorum Fiam consors Filii.",
-          "english": "O Queen of the blessed, hope of our exile, grant that, unbroken even by evils, I may become a companion of thy Son.",
+          "english": "O Queen of the blessed, hope of our exile, grant that, unbroken by the force of evils, I may become a companion of thy Son.",
           "sourcePages": [
             395
           ],
@@ -525,8 +550,17 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0007",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed Pro Regina and infractus vel malorum are grammatically defective. English provisionally follows the address to the Queen and remaining unbroken by evils."
+          "verification": "visual-review",
+          "editorialNote": "Checked against the cited 1879 printed edition. The printed reading is “O Regina beatorum; Fac, infractus vi malorum Fiam consors Filii”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "O Queen of the blessed, hope of our exile, grant that, unbroken even by evils, I may become a companion of thy Son.",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 314,
+            "printedPage": "284",
+            "reading": "O Regina beatorum; Fac, infractus vi malorum Fiam consors Filii",
+            "attachedReading": "Fac, infractus vel malorum"
+          }
         },
         {
           "type": "prayer",
@@ -640,8 +674,16 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "source-reading-pending",
-          "editorialNote": "The heading prints Duodennem; English reads the evidently intended twelve-year-old."
+          "verification": "visual-review",
+          "editorialNote": "Checked against the cited 1879 printed edition. The printed reading is “Dolor ex amisso duodenni Filio”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 314,
+            "printedPage": "284",
+            "reading": "Dolor ex amisso duodenni Filio",
+            "attachedReading": "Dolor ex amisso Duodennem Filio"
+          }
         },
         {
           "type": "prayer",
@@ -980,7 +1022,7 @@
         {
           "type": "prayer",
           "source": "Ave, dulcis Mater Christi, Quae dolorem Filium Capi, caedi, flens vidisti Manibus crudeliùm:",
-          "english": "Hail, sweet Mother of Christ, who weeping didst see thy Son seized and beaten by cruel hands [the printed word dolorem is defective here].",
+          "english": "Hail, sweet Mother of Christ, who weeping didst see thy beloved Son seized and beaten by cruel hands.",
           "sourcePages": [
             396
           ],
@@ -994,8 +1036,17 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0006",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed dolorem Filium is defective; English retains the intelligible seizure and beating and flags the intervening word."
+          "verification": "visual-review",
+          "editorialNote": "Checked against the cited 1879 printed edition. The printed reading is “Quae dilectum Filium Capi, caedi, flens vidisti”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "Hail, sweet Mother of Christ, who weeping didst see thy Son seized and beaten by cruel hands [the printed word dolorem is defective here].",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 315,
+            "printedPage": "285",
+            "reading": "Quae dilectum Filium Capi, caedi, flens vidisti",
+            "attachedReading": "Quae dolorem Filium"
+          }
         },
         {
           "type": "prayer",
@@ -1442,7 +1493,7 @@
         {
           "type": "prayer",
           "source": "Ave, dulcis Mater Christi Quae de Cruce mortuum Unis Natum suscepisti, Madens unda fletuum.",
-          "english": "Hail, sweet Mother of Christ, who didst receive thy dead Son from the Cross [the printed Unis is defective], drenched in a flood of tears.",
+          "english": "Hail, sweet Mother of Christ, who didst receive thy dead Son from the Cross in thine arms, drenched in a flood of tears.",
           "sourcePages": [
             397
           ],
@@ -1456,13 +1507,22 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0005",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed Unis Natum is defective; the English marks the unclear word rather than silently reconstructing it."
+          "verification": "visual-review",
+          "editorialNote": "Checked against the cited 1879 printed edition. The printed reading is “Ulnis Natum suscepisti”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "Hail, sweet Mother of Christ, who didst receive thy dead Son from the Cross [the printed Unis is defective], drenched in a flood of tears.",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 316,
+            "printedPage": "286",
+            "reading": "Ulnis Natum suscepisti",
+            "attachedReading": "Unis Natum suscepisti"
+          }
         },
         {
           "type": "prayer",
           "source": "O praetestis vir doloris, Mater plena gratiae, Ut supremis server horis Gremio clementiae.",
-          "english": "O Mother full of grace, [the printed opening praetestis vir doloris is unclear], may I be preserved in my last hours in the bosom of mercy.",
+          "english": "O Mother full of grace, may the power of sorrow grant that in my last hours I may be preserved in the bosom of mercy.",
           "sourcePages": [
             397
           ],
@@ -1476,8 +1536,17 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0006",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed praetestis vir doloris is not securely intelligible; English explicitly leaves this opening unresolved."
+          "verification": "visual-review",
+          "editorialNote": "Checked against the cited 1879 printed edition. The printed reading is “Eja, praestet vis doloris”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "O Mother full of grace, [the printed opening praetestis vir doloris is unclear], may I be preserved in my last hours in the bosom of mercy.",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 316,
+            "printedPage": "286",
+            "reading": "Eja, praestet vis doloris",
+            "attachedReading": "O praetestis vir doloris"
+          }
         },
         {
           "type": "prayer",
@@ -1899,8 +1968,16 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0001",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed matenis is retained; English provisionally reads the intended maternal from the compassion and breast imagery."
+          "verification": "visual-review",
+          "editorialNote": "Checked against the cited 1879 printed edition. The printed reading is “Ut materni pectoris ex compassione”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 316,
+            "printedPage": "286",
+            "reading": "Ut materni pectoris ex compassione",
+            "attachedReading": "Ut matenis pectoris ex compassione"
+          }
         }
       ]
     }

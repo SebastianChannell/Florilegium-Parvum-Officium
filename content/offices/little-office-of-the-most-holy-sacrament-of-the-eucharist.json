@@ -498,7 +498,7 @@
         {
           "type": "prayer",
           "source": "Domine, spiritus tuus, qui descendit super te in Jordane, illuminet et confirmet nos in veritate. suavissimo de coelo praestituto, esurientes replevit bonis, fastidiosos divites dimittens inanes.",
-          "english": "O Lord, may Thy spirit, who descended upon Thee in the Jordan, enlighten and strengthen us in truth. [The source sentence is broken here.] With most sweet [bread] provided from heaven, he hath filled the hungry with good things, sending the disdainful rich away empty.",
+          "english": "O Lord, may Thy spirit, who descended upon Thee in the Jordan, enlighten and strengthen us in truth. [The source sentence is broken here.] With most sweet [no noun is printed] provided from heaven, he hath filled the hungry with good things, sending the disdainful rich away empty.",
           "sourcePages": [
             57
           ],
@@ -508,11 +508,21 @@
             "sourcePages": [
               57
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "prime-b0007",
-          "verification": "source-reading-pending"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "O Lord, may Thy spirit, who descended upon Thee in the Jordan, enlighten and strengthen us in truth. [The source sentence is broken here.] With most sweet [bread] provided from heaven, he hath filled the hungry with good things, sending the disdainful rich away empty.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              57
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: PDF p.57: the paragraph visibly changes after “in veritate.” to “suavissimo de coelo praestituto”. No noun or antiphon opening is printed there. The former “[bread]” was conjectural and is replaced with an explicit absence marker. No missing text from a familiar antiphon is inserted."
         },
         {
           "type": "prayer",
@@ -664,7 +674,7 @@
         {
           "type": "prayer",
           "source": "Quod in coena Christus gessit, facidendum hoc expressit in sui memoriam. Docti sacris institutis, Panem, Vinum in salutis consecramus hostiam. Dogma datur Christianis, quod in carnem transit panis, et in sanguinem. Quod non capis, quod non vides, animosa firmat fides, praeter rerum ordinem.",
-          "english": "What Christ did at the supper,\nHe commanded to be done\nIn remembrance of Himself.\nTaught by His sacred ordinances,\nWe consecrate bread and wine\nAs the victim of salvation.\nThis doctrine is given to Christians:\nThat bread is changed into flesh,\nAnd into blood.\nWhat thou graspest not, what thou seest not,\nLively faith affirmeth,\nBeyond the order of nature.",
+          "english": "What Christ did at the supper,\nHe expressed [the printed “facidendum” is irregular]\nIn remembrance of Himself.\nTaught by His sacred ordinances,\nWe consecrate bread and wine\nAs the victim of salvation.\nThis doctrine is given to Christians:\nThat bread is changed into flesh,\nAnd into blood [no subject is printed for this clause].\nWhat thou graspest not, what thou seest not,\nLively faith affirmeth,\nBeyond the order of nature.",
           "sourcePages": [
             58
           ],
@@ -674,12 +684,22 @@
             "sourcePages": [
               58
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "terce-b0004",
           "verification": "source-reading-pending",
-          "poetry": true
+          "poetry": true,
+          "originalPreparedEnglish": "What Christ did at the supper,\nHe commanded to be done\nIn remembrance of Himself.\nTaught by His sacred ordinances,\nWe consecrate bread and wine\nAs the victim of salvation.\nThis doctrine is given to Christians:\nThat bread is changed into flesh,\nAnd into blood.\nWhat thou graspest not, what thou seest not,\nLively faith affirmeth,\nBeyond the order of nature.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              58
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: PDF p.58 visibly prints “facidendum” and ends “et in sanguinem” without a subject. The familiar sequence is not substituted for these incomplete words; their uncertainty is now identified directly in the prepared English."
         },
         {
           "type": "prayer",
@@ -1078,7 +1098,7 @@
         {
           "type": "prayer",
           "source": "Sumit unus, sumunt mille: quantum isti, tantum ille; nec sumptus consumitur. Sumunt boni, sumunt mali: forte tamen inaequali, vitae, vel interitus. Mors est malis, vita bonis, vide, paris sumptionis quam sit dispar exitus.",
-          "english": "One receiveth, a thousand receive:\nAs much the one as the thousand;\nReceived, He is not consumed.\nThe good receive, the wicked receive,\nYet with unequal lot,\nOf life or destruction.\nDeath is for the wicked, life for the good:\nBehold how unlike the outcome\nOf the same reception!",
+          "english": "One receiveth, a thousand receive:\nAs much the one as the thousand;\nReceived, He is not consumed.\nThe good receive, the wicked receive,\nYet [the printed “forte tamen inaequali” has an unresolved construction],\nOf life or destruction.\nDeath is for the wicked, life for the good:\nBehold how unlike the outcome\nOf the same reception!",
           "sourcePages": [
             58
           ],
@@ -1088,12 +1108,22 @@
             "sourcePages": [
               58
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "visual-review",
-          "poetry": true
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "originalPreparedEnglish": "One receiveth, a thousand receive:\nAs much the one as the thousand;\nReceived, He is not consumed.\nThe good receive, the wicked receive,\nYet with unequal lot,\nOf life or destruction.\nDeath is for the wicked, life for the good:\nBehold how unlike the outcome\nOf the same reception!",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              58
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: PDF p.58 visibly prints “forte tamen inaequali”. The former “lot” silently replaced “forte” with a different Latin reading, “sorte”. That unsupported correction is now bracketed and this previously certified passage returned to pending."
         },
         {
           "type": "prayer",
@@ -1343,7 +1373,7 @@
         {
           "type": "prayer",
           "source": "Antiph. O sacrum convivium, in quo Christus sumitur, recolitur memoria passionis ejus, mens impletur gratia, et futura gloriae nobis pignus datur.",
-          "english": "Ant. O sacred banquet, in which Christ is received, the memory of His Passion is recalled, the mind is filled with grace, and a pledge of future glory is given unto us.",
+          "english": "Ant. O sacred banquet, in which Christ is received, the memory of His Passion is recalled, the mind is filled with grace, and [the printed “futura gloriae” has irregular agreement] a pledge is given unto us.",
           "sourcePages": [
             59
           ],
@@ -1353,11 +1383,21 @@
             "sourcePages": [
               59
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "vespers-b0006",
-          "verification": "visual-review"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "Ant. O sacred banquet, in which Christ is received, the memory of His Passion is recalled, the mind is filled with grace, and a pledge of future glory is given unto us.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              59
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: PDF p.59 visibly prints “et futura gloriae nobis pignus datur”. The earlier English silently regularised the agreement. The irregular words remain in source and are now marked, without replacing them with a familiar antiphon from another edition."
         },
         {
           "type": "prayer",
@@ -1729,11 +1769,12 @@
             "sourcePages": [
               59
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "commendatio-b0001",
-          "verification": "source-reading-pending"
+          "verification": "source-reading-pending",
+          "editorialNote": "10 October 2026: complete PDF p.59 commendation visually compared. The source visibly prints “piae rationes” and “prava satisfactione”. Both are already explicitly marked in English; no silently improved “parva” or “orationes” is supplied. The whole stanza remains pending."
         },
         {
           "type": "prayer",
@@ -1777,6 +1818,14 @@
         59
       ],
       "text": "The Commendation prints “piae rationes” and “prava satisfactione.” Their wording is retained and the uncertainty is marked directly in the English. This passage requires source correction before use as a continuous translated prayer."
+    },
+    {
+      "pages": [
+        57,
+        58,
+        59
+      ],
+      "text": "10 October 2026: all three complete rendered PDF pages and all 71 passages compared, including introductory attribution, seven hours, hymn continuations across pages, Commendation, local Prime response variant and all same-office reference expansions. Prime’s “Omnem suavitatem etc.” remains abbreviated and is not replaced by the Matins response. Five source-blocked passages are identified directly in English. The source is unchanged; earlier unmarked repairs are archived. Office remains pending."
     }
   ]
 }

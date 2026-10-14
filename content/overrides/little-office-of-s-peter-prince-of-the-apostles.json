@@ -60,7 +60,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -81,7 +81,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -102,7 +102,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -123,7 +123,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -144,7 +144,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -203,9 +203,9 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0008",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "poetry": true,
-          "editorialNote": "The printed “Qui ... valeant” is grammatically compressed; the question about praising the harmonious virtues is provisional."
+          "editorialNote": "10 October 2026: actual rendered page personally compared. P.578 Qui is the printed interrogative “how”; the plural virtues are the subject of valeant. The printed question needs no replaced pronoun."
         },
         {
           "type": "prayer",
@@ -244,14 +244,14 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "poetry": true,
-          "editorialNote": "“quam addidicit Princeps, quae in servo gliscat” is compressed; the relation of prince, servant and humility is provisional."
+          "editorialNote": "10 October 2026: actual rendered page personally compared. P.578 addidicit is the perfect of addiscere. The feminine relative pronouns refer forward to humilitas; prince/servant imagery retained without word replacement."
         },
         {
           "type": "prayer",
           "source": "Christum sequi hic cunctator, Ab hoc fundere peccator Justas discet lachrymas.",
-          "english": "Here the hesitant learns to follow Christ;\nFrom him the sinner shall learn\nTo shed righteous tears.",
+          "english": "Here the hesitant shall learn to follow Christ;\nFrom him the sinner shall learn\nTo shed righteous tears.",
           "sourcePages": [
             578
           ],
@@ -265,9 +265,18 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "poetry": true,
-          "editorialNote": "The printed “hic cunctator ... Ab hoc” is compressed; its exhortation is rendered provisionally."
+          "editorialNote": "10 October 2026: actual rendered page personally compared. P.578 discet governs both the hesitant following Christ and the sinner shedding tears; future tense retained.",
+          "originalPreparedEnglish": "Here the hesitant learns to follow Christ;\nFrom him the sinner shall learn\nTo shed righteous tears.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              578
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -385,7 +394,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0017",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -406,7 +415,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0018",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -455,8 +464,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "source-reading-pending",
-          "editorialNote": "The opening “Tu es Petrus, et super etc.” is abbreviated in this office. No full counterpart is printed here; no external text is imported."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally inspected. This printed abbreviated opening is translated exactly at its printed extent. Its abbreviated form is not an unresolved source reading; no missing counterpart or external completion is imported."
         },
         {
           "type": "prayer",
@@ -477,7 +486,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -498,7 +507,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -519,7 +528,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -580,9 +589,9 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0007",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "poetry": true,
-          "editorialNote": "The printed relative clauses about Christ’s calling are compressed; no omitted miracle is added."
+          "editorialNote": "10 October 2026: actual rendered page personally compared. Pp.578–579 genitives Christi, se vocantis and nullum ... patrantis ... signum refer to Christ, whose calling voice Peter obeys. The compressed word order does not require added events."
         },
         {
           "type": "prayer",
@@ -702,7 +711,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0013",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0016",
@@ -743,8 +752,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "source-reading-pending",
-          "editorialNote": "The opening “Tu es Petrus, et super etc.” is abbreviated in this office. No full counterpart is printed here; no external text is imported."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally inspected. This printed abbreviated opening is translated exactly at its printed extent. Its abbreviated form is not an unresolved source reading; no missing counterpart or external completion is imported."
         },
         {
           "type": "prayer",
@@ -765,7 +774,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -786,7 +795,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -807,7 +816,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -848,7 +857,7 @@
           "id": "terce-b0006",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The printed “Dia profert diphthera” is uncertain. The two-nature distinction is retained as printed, without supplying a missing formula."
+          "editorialNote": "10 October 2026: personally compared p.579. Dia profert diphthera remains an uncertain expression; no unprinted doctrinal formula supplied. Existing bracket and unchanged Latin retained."
         },
         {
           "type": "prayer",
@@ -988,7 +997,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0013",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0016",
@@ -1030,8 +1039,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "source-reading-pending",
-          "editorialNote": "The opening “Tu es Petrus, et super etc.” is abbreviated in this office. No full counterpart is printed here; no external text is imported."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally inspected. This printed abbreviated opening is translated exactly at its printed extent. Its abbreviated form is not an unresolved source reading; no missing counterpart or external completion is imported."
         },
         {
           "type": "prayer",
@@ -1052,7 +1061,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1073,7 +1082,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1094,7 +1103,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1276,7 +1285,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0013",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0016",
@@ -1317,8 +1326,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "source-reading-pending",
-          "editorialNote": "The opening “Tu es Petrus, et super etc.” is abbreviated in this office. No full counterpart is printed here; no external text is imported."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally inspected. This printed abbreviated opening is translated exactly at its printed extent. Its abbreviated form is not an unresolved source reading; no missing counterpart or external completion is imported."
         },
         {
           "type": "prayer",
@@ -1339,7 +1348,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1360,7 +1369,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1381,12 +1390,12 @@
           },
           "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Ter negavit quod peccavit, Kursus Amor expiavit, Triplex et Confessio:",
-          "english": "What he sinned in denying thrice,\nLove again expiated,\nAnd a threefold confession;",
+          "english": "What he sinned in denying thrice,\n[Printed Kursus: unresolved word] love expiated,\nAnd a threefold confession;",
           "sourcePages": [
             580
           ],
@@ -1402,7 +1411,16 @@
           "id": "none-b0005",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The PDF prints “Kursus”; “again” is a conjectural reading."
+          "editorialNote": "10 October 2026: actual rendered source independently compared. Printed malformed words/connections now explicitly bracketed; no conjectural replacements certified. Original prepared English/provenance archived and Latin unchanged. The PDF prints “Kursus”; “again” is a conjectural reading.",
+          "originalPreparedEnglish": "What he sinned in denying thrice,\nLove again expiated,\nAnd a threefold confession;",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1447,7 +1465,7 @@
         {
           "type": "prayer",
           "source": "Amat Petrus, contestatur, Amat: Sed haec tremens satur, Galli dum meminerat,",
-          "english": "Peter loves; he bears witness that he loves,\nBut speaks these things trembling,\nAs he remembers the cock.",
+          "english": "Peter loves; he bears witness that he loves,\nBut satiated, trembling at these things,\nAs he had remembered the cock.",
           "sourcePages": [
             580
           ],
@@ -1461,9 +1479,18 @@
           },
           "alignment": "reviewed",
           "id": "none-b0008",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "poetry": true,
-          "editorialNote": "The printed “haec tremens satur” is defective; the trembling/confession reading is provisional."
+          "editorialNote": "10 October 2026: actual rendered page personally compared. P.580 satur is the printed nominative adjective satiated, not a defective speaking verb. Haec can be the object of tremens; literal satiated/trembling wording retained without inventing speech.",
+          "originalPreparedEnglish": "Peter loves; he bears witness that he loves,\nBut speaks these things trembling,\nAs he remembers the cock.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1488,7 +1515,7 @@
         {
           "type": "prayer",
           "source": "Dat Aeneae sanitatem, Hinc et inde sospitatem Aegis fert, et miseris,",
-          "english": "He gives Aeneas health,\nAnd here and there bears deliverance\nTo the sick and miserable;",
+          "english": "He gives Aeneas health,\nAnd here and there bears deliverance\nTo [printed Aegis: unresolved form] and the miserable;",
           "sourcePages": [
             580
           ],
@@ -1504,7 +1531,16 @@
           "id": "none-b0010",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The printed “Aegis” is irregular; “to the sick” is provisional."
+          "editorialNote": "10 October 2026: actual rendered source independently compared. Printed malformed words/connections now explicitly bracketed; no conjectural replacements certified. Original prepared English/provenance archived and Latin unchanged. The printed “Aegis” is irregular; “to the sick” is provisional.",
+          "originalPreparedEnglish": "He gives Aeneas health,\nAnd here and there bears deliverance\nTo the sick and miserable;",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1549,7 +1585,7 @@
         {
           "type": "prayer",
           "source": "Ant. Augebatur credentium multitudo, ut in plateas ejicerent infirmos, qui veniente Petro saltem umbra illius liberantur ab infirmitatibus suis.",
-          "english": "Ant. The multitude of believers increased, so that they carried the sick into the streets, who, as Peter came, were delivered from their infirmities by at least his shadow.",
+          "english": "Ant. The multitude of believers increased, so that they carried the sick into the streets, who, as Peter came, are delivered from their infirmities by at least his shadow.",
           "sourcePages": [
             580
           ],
@@ -1563,8 +1599,17 @@
           },
           "alignment": "reviewed",
           "id": "none-b0013",
-          "verification": "source-reading-pending",
-          "editorialNote": "The relative construction “qui ... liberantur” is defective; the printed shadow narrative is retained in sense."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared. P.580 qui refers to infirmos; liberantur is present plural passive. Its printed tense is retained rather than made a past-tense historical claim.",
+          "originalPreparedEnglish": "Ant. The multitude of believers increased, so that they carried the sick into the streets, who, as Peter came, were delivered from their infirmities by at least his shadow.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              580
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -1585,7 +1630,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0014",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0016",
@@ -1626,8 +1671,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "source-reading-pending",
-          "editorialNote": "The source prints the short “Tu es Petrus, et super te.” It is translated as printed rather than silently completing it."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally inspected. This printed abbreviated opening is translated exactly at its printed extent. Its abbreviated form is not an unresolved source reading; no missing counterpart or external completion is imported."
         },
         {
           "type": "prayer",
@@ -1648,7 +1693,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1669,7 +1714,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1690,7 +1735,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1755,7 +1800,7 @@
         {
           "type": "prayer",
           "source": "Quippe vincis relaxatus, Jam it Petrus liberatus, Fido cinctus Comite,",
-          "english": "For, released from his bonds,\nPeter now goes free,\nSurrounded by a faithful companion;",
+          "english": "For, released [printed vincis: unresolved form],\nPeter now goes free,\nSurrounded by a faithful companion;",
           "sourcePages": [
             581
           ],
@@ -1771,7 +1816,16 @@
           "id": "vespers-b0008",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The printed “vincis” is irregular; “bonds” is provisional."
+          "editorialNote": "10 October 2026: actual rendered source independently compared. Printed malformed words/connections now explicitly bracketed; no conjectural replacements certified. Original prepared English/provenance archived and Latin unchanged. The printed “vincis” is irregular; “bonds” is provisional.",
+          "originalPreparedEnglish": "For, released from his bonds,\nPeter now goes free,\nSurrounded by a faithful companion;",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1796,7 +1850,7 @@
         {
           "type": "prayer",
           "source": "Nam volare hic dum quaerit, Gravi palam lapsu perit Asfectante Populo;",
-          "english": "For while he seeks to fly,\nHe perishes openly by a grievous fall,\nWith the people looking on;",
+          "english": "For while he seeks to fly,\nHe perishes openly by a grievous fall,\n[Printed Asfectante Populo: unresolved participle] the people;",
           "sourcePages": [
             581
           ],
@@ -1812,12 +1866,21 @@
           "id": "vespers-b0010",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The source prints “Asfectante”; the crowd looking on is a conjectural reading."
+          "editorialNote": "10 October 2026: actual rendered source independently compared. Printed malformed words/connections now explicitly bracketed; no conjectural replacements certified. Original prepared English/provenance archived and Latin unchanged. The source prints “Asfectante”; the crowd looking on is a conjectural reading.",
+          "originalPreparedEnglish": "For while he seeks to fly,\nHe perishes openly by a grievous fall,\nWith the people looking on;",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Unde Nero insfendescens, Magi lapsum miserescens Petro fert judicium,",
-          "english": "Hence Nero, growing angry\nAnd pitying the magician’s fall,\nPasses judgment upon Peter,",
+          "english": "Hence Nero, [printed insfendescens: unresolved participle]\nAnd pitying the magician’s fall,\nPasses judgment upon Peter,",
           "sourcePages": [
             581
           ],
@@ -1833,7 +1896,16 @@
           "id": "vespers-b0011",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The printed “insfendescens” is defective; the angry Nero reading is provisional."
+          "editorialNote": "10 October 2026: actual rendered source independently compared. Printed malformed words/connections now explicitly bracketed; no conjectural replacements certified. Original prepared English/provenance archived and Latin unchanged. The printed “insfendescens” is defective; the angry Nero reading is provisional.",
+          "originalPreparedEnglish": "Hence Nero, growing angry\nAnd pitying the magician’s fall,\nPasses judgment upon Peter,",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1893,7 +1965,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0014",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0016",
@@ -1935,8 +2007,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "source-reading-pending",
-          "editorialNote": "The source prints the short “Tu es Petrus, et super te.” It is translated as printed rather than silently completing it."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally inspected. This printed abbreviated opening is translated exactly at its printed extent. Its abbreviated form is not an unresolved source reading; no missing counterpart or external completion is imported."
         },
         {
           "type": "prayer",
@@ -1957,7 +2029,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1978,7 +2050,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1999,7 +2071,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -2020,7 +2092,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -2041,7 +2113,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -2166,7 +2238,7 @@
         {
           "type": "prayer",
           "source": "Oves, tuo quas ovili Hic in terris haud exili Cura enutviveras, Christo tandem Redemptori Primo redditas Pastori, Duc ad Agni nuptias,",
-          "english": "The sheep whom in thine earthly fold\nThou didst nourish with no small care,\nAt length restored to Christ the Redeemer,\nThe first Shepherd,\nLead to the marriage of the Lamb.",
+          "english": "The sheep whom in thine earthly fold\nThou [printed enutviveras: unresolved verb] with no small care,\nAt length restored to Christ the Redeemer,\nThe first Shepherd,\nLead to the marriage of the Lamb.",
           "sourcePages": [
             581,
             582
@@ -2184,7 +2256,17 @@
           "id": "compline-b0013",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The printed “enutviveras” is irregular; “didst nourish” is provisional."
+          "editorialNote": "10 October 2026: actual rendered source independently compared. Printed malformed words/connections now explicitly bracketed; no conjectural replacements certified. Original prepared English/provenance archived and Latin unchanged. The printed “enutviveras” is irregular; “didst nourish” is provisional.",
+          "originalPreparedEnglish": "The sheep whom in thine earthly fold\nThou didst nourish with no small care,\nAt length restored to Christ the Redeemer,\nThe first Shepherd,\nLead to the marriage of the Lamb.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              581,
+              582
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -2243,7 +2325,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0016",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -2264,12 +2346,12 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0017",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Mitissime ac Clementissime Deus, qui S. Petrum ex pauperculo piscatore, tuum in terris Vicarium, atque Apostolorum Principem constitutisti, eumque post grave negationis peccatum propitiis tamen respexisti oculis, et ad amarissimam poenitentiam commovisti. Oro te per intimum ejus amorem, et ferventissimas lachrymas, concede mihi gratiam tuam exuberantem, ut voluntati tuae me totum subternens, vocationi meae semper satisfaciam, et in petra Catholicae fidei immote persistere, Te summum Bonum meum in prosperis et adversis, super omnia amem, atque peccata mea contra Divinam Majestatem tuam commissa, vero, et profundissimo dolore plangam, donec tandem in coelis gaudio petrui merear sempiterna; Qui vivis et regnas Deus in saecula saeculorum, Amen.",
-          "english": "Most meek and most merciful God, who didst make Saint Peter, from a poor fisherman, Thy Vicar upon earth and Prince of the Apostles, and after his grievous sin of denial didst nevertheless look upon him with gracious eyes and move him to most bitter repentance, I pray Thee through his intimate love and most fervent tears: grant me Thine abundant grace, that, submitting myself wholly to Thy will, I may always fulfil my vocation, remain unmoved upon the rock of the Catholic faith, love Thee, my supreme Good, above all things in prosperity and adversity, and lament with true and deepest sorrow my sins committed against Thy divine Majesty, until at length I may deserve to enjoy everlasting joy in heaven. Who livest and reignest, God, world without end. Amen.",
+          "english": "Most meek and most merciful God, who didst make Saint Peter, from a poor fisherman, Thy Vicar upon earth and Prince of the Apostles, and after his grievous sin of denial didst nevertheless look upon him with gracious eyes and move him to most bitter repentance, I pray Thee through his intimate love and most fervent tears: grant me Thine abundant grace, that, [printed voluntati tuae me totum subternens: unresolved participle], I may always fulfil my vocation, upon the rock of the Catholic faith [printed immote persistere: unresolved syntactic connection], love Thee, my supreme Good, above all things in prosperity and adversity, and lament with true and deepest sorrow my sins committed against Thy divine Majesty, until at length I may deserve in heaven [printed gaudio petrui merear sempiterna: unresolved verb/agreement]. Who livest and reignest, God, world without end. Amen.",
           "sourcePages": [
             582
           ],
@@ -2284,7 +2366,16 @@
           "alignment": "reviewed",
           "id": "compline-b0018",
           "verification": "source-reading-pending",
-          "editorialNote": "The source prints “subternens,” an irregular infinitive “persistere,” and “petrui ... sempiterna.” The English clauses are provisional and the Latin remains unchanged."
+          "editorialNote": "10 October 2026: actual rendered source independently compared. Printed malformed words/connections now explicitly bracketed; no conjectural replacements certified. Original prepared English/provenance archived and Latin unchanged. The source prints “subternens,” an irregular infinitive “persistere,” and “petrui ... sempiterna.” The English clauses are provisional and the Latin remains unchanged.",
+          "originalPreparedEnglish": "Most meek and most merciful God, who didst make Saint Peter, from a poor fisherman, Thy Vicar upon earth and Prince of the Apostles, and after his grievous sin of denial didst nevertheless look upon him with gracious eyes and move him to most bitter repentance, I pray Thee through his intimate love and most fervent tears: grant me Thine abundant grace, that, submitting myself wholly to Thy will, I may always fulfil my vocation, remain unmoved upon the rock of the Catholic faith, love Thee, my supreme Good, above all things in prosperity and adversity, and lament with true and deepest sorrow my sins committed against Thy divine Majesty, until at length I may deserve to enjoy everlasting joy in heaven. Who livest and reignest, God, world without end. Amen.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              582
+            ],
+            "review": "editorial-review-complete"
+          }
         }
       ]
     }
@@ -2300,6 +2391,16 @@
         581,
         582
       ]
+    },
+    {
+      "pages": [
+        578,
+        579,
+        580,
+        581,
+        582
+      ],
+      "text": "10 October 2026: all five rendered pages and all 104 passages personally compared, including attribution, seven actual printed hours (no Lauds), all hymn/collect continuations, final prayer and five same-office versicle/collect expansions. 46 pending passages cleared including exact printed abbreviations, interrogative qui, addidicit, compressed genitives, literal satur and present liberantur. 8 actual unresolved source passages remain bracketed and pending, originals/provenance retained. No external opening completion or repaired Latin."
     }
   ]
 }

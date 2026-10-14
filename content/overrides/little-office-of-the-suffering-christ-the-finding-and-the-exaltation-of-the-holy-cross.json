@@ -60,7 +60,7 @@
           },
           "alignment": "reviewed",
           "id": "beginning-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -79,8 +79,8 @@
           },
           "alignment": "reviewed",
           "id": "beginning-b0002",
-          "verification": "source-reading-pending",
-          "editorialNote": "The source contains an irregular printed form; this prepared reading remains provisional and the Latin is retained unchanged."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: PDF p.86: “Paradisi janua” is an ablative of route, translated “through the gate of Paradise”, without needing an unprinted preposition or different word. Complete collect and printed abbreviated ending compared."
         },
         {
           "type": "prayer",
@@ -101,7 +101,7 @@
           },
           "alignment": "reviewed",
           "id": "beginning-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -141,7 +141,7 @@
           },
           "alignment": "reviewed",
           "id": "beginning-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -229,7 +229,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -267,7 +267,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending",
+          "verification": "visual-review",
           "editorialNote": "English prepared directly for this printed Latin passage. A previously considered reused version had different versicle/response signs or expanded wording; the prepared English follows this office’s own signs and incipit. The source still awaits visual review."
         },
         {
@@ -501,7 +501,7 @@
         {
           "type": "prayer",
           "source": "℟. Salva praesentem coetervam in tuis hodie laudibus congregatam. Oratio Deus, qui nos etc. ut supra.",
-          "english": "℟. Save the company assembled here today in your praise. Prayer: O God, you gladden us, etc., as above.",
+          "english": "℟. Save the present [the printed “coetervam” is irregular] assembled today in your praise. Prayer: O God, you gladden us, etc., as above.",
           "sourcePages": [
             86
           ],
@@ -511,12 +511,12 @@
             "sourcePages": [
               86
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "matins-b0017",
           "verification": "source-reading-pending",
-          "editorialNote": "The source contains an irregular printed form; this prepared reading remains provisional and the Latin is retained unchanged.",
+          "editorialNote": "10 October 2026: PDF p.86 visibly prints “coetervam”. The previous English silently gave the sense of a company. The irregular noun is now identified, and the September prayer expansion remains exactly linked to the printed initial collect.",
           "referenceExpansion": {
             "targets": [
               "beginning-b0006"
@@ -525,6 +525,15 @@
               86
             ],
             "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
+          },
+          "originalPreparedEnglish": "℟. Save the company assembled here today in your praise. Prayer: O God, you gladden us, etc., as above.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              86
+            ],
+            "review": "editorial-review-complete"
           }
         }
       ]
@@ -557,7 +566,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -719,8 +728,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0009",
-          "verification": "source-reading-pending",
-          "editorialNote": "The source contains an irregular printed form; this prepared reading remains provisional and the Latin is retained unchanged."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: PDF p.87: the complete printed “O nobile lignum exaltatur, Christi fides rutilat” is rendered with its loose exclamatory construction and third-person “is exalted”; no verb or case ending is changed."
         },
         {
           "type": "prayer",
@@ -770,7 +779,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1001,7 +1010,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1185,7 +1194,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0010",
-          "verification": "pending",
+          "verification": "visual-review",
           "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         }
       ]
@@ -1217,7 +1226,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1449,7 +1458,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1592,8 +1601,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0008",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints Galatians 6:4, retained here. The citation does not match the quoted sentence and requires source review."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: PDF p.88 visibly cites “Gal. 6. v. 4”. The incorrect-looking citation is retained as a source claim and explicitly labelled “as printed”; this is verified transcription, not a claim that the verse attribution is correct."
         },
         {
           "type": "prayer",
@@ -1681,7 +1690,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1912,9 +1921,9 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0002",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "poetry": true,
-          "editorialNote": "The source contains an irregular printed form; this prepared reading remains provisional and the Latin is retained unchanged."
+          "editorialNote": "10 October 2026: PDF p.88: plural “ne me perdant / Nec urendum orco tradant” follows the sins/deeds named in the preceding lines. “They” in the prepared English refers to those sins/deeds; no missing subject or replacement singular verb is needed. The separated “Patris iram … Tuo seda sanguine” is retained in translation."
         },
         {
           "type": "rubric",
@@ -1938,7 +1947,7 @@
         {
           "type": "prayer",
           "source": "Ut Crux Christi contemnatur; Summi studet Tartarus; Nam qui ipsam aspernatur, Non est Dei Filius. Per torturam Jesu trucem Oro te, et vulnera, Cordi meo fige Crucem, Illa muni pectora. Amen.",
-          "english": "Hell strives with all its might\nThat Christ’s Cross be despised;\nFor whoever scorns it\nIs not a child of God.\nThrough Jesus’ savage torture\nAnd wounds I beseech you:\nFix the Cross in my heart;\nWith it fortify my breast. Amen.",
+          "english": "Hell strives [the printed “Summi” is unresolved]\nThat Christ’s Cross be despised;\nFor whoever scorns it\nIs not a child of God.\nThrough Jesus’ savage torture\nAnd wounds I beseech you:\nFix the Cross in my heart;\nWith it fortify my breast. Amen.",
           "sourcePages": [
             88
           ],
@@ -1948,13 +1957,22 @@
             "sourcePages": [
               88
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "commendatio-b0004",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The source contains an irregular printed form; this prepared reading remains provisional and the Latin is retained unchanged."
+          "editorialNote": "10 October 2026: PDF p.88 visibly prints “Summi studet Tartarus”. The former English “with all its might” silently supplied a construction not printed in the PDF. That adjective/construction remains unresolved.",
+          "originalPreparedEnglish": "Hell strives with all its might\nThat Christ’s Cross be despised;\nFor whoever scorns it\nIs not a child of God.\nThrough Jesus’ savage torture\nAnd wounds I beseech you:\nFix the Cross in my heart;\nWith it fortify my breast. Amen.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              88
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -2019,7 +2037,7 @@
         {
           "type": "prayer",
           "source": "Cognovi te Deum verum, et unum Spiritum Sanctum Patris, et Filii, ab utroque pariter procedentem, consubstantialem, et coaeternum Patri, et Filio, Paraclitum et Advocatum nostrum, qui super eundem Deum, et Dominum nostrum Jesum Christum in columbae specie descendisti, et super Apostolos in linguis igneis apparuisti: qui et omnes SS. et electos Dei a principio tuae gratiae numere docuisti, et ora Prophetarum; ut enarrent mirabilia Regni Dei, aperuisti: qui ab omnibus Sanctis Dei cum Patre, et Filio simul adoraris, et conglorificaris.",
-          "english": "I have known you as true God, the one Holy Spirit of the Father and the Son, proceeding equally from both, consubstantial and coeternal with the Father and the Son, our Paraclete and Advocate. You descended in the likeness of a dove upon the same God and our Lord Jesus Christ, and appeared upon the apostles in tongues of fire. From the beginning you taught all the saints and elect of God by the gift of your grace, and opened the mouths of the prophets to recount the wonders of God’s kingdom. With the Father and the Son you are adored and glorified together by all the saints of God.",
+          "english": "I have known you as true God, the one Holy Spirit of the Father and the Son, proceeding equally from both, consubstantial and coeternal with the Father and the Son, our Paraclete and Advocate. You descended in the likeness of a dove upon the same God and our Lord Jesus Christ, and appeared upon the apostles in tongues of fire. From the beginning you taught all the saints and elect of God by [the printed “numere” is unresolved] of your grace, and opened the mouths of the prophets to recount the wonders of God’s kingdom. With the Father and the Son you are adored and glorified together by all the saints of God.",
           "sourcePages": [
             89
           ],
@@ -2029,17 +2047,26 @@
             "sourcePages": [
               89
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "commendatio-b0008",
           "verification": "source-reading-pending",
-          "editorialNote": "The source contains an irregular printed form; this prepared reading remains provisional and the Latin is retained unchanged."
+          "editorialNote": "10 October 2026: PDF p.89 visibly prints “tuae gratiae numere”. “By the gift of your grace” silently assumes a different printed noun. The uncertain word is now identified with no replacement Latin.",
+          "originalPreparedEnglish": "I have known you as true God, the one Holy Spirit of the Father and the Son, proceeding equally from both, consubstantial and coeternal with the Father and the Son, our Paraclete and Advocate. You descended in the likeness of a dove upon the same God and our Lord Jesus Christ, and appeared upon the apostles in tongues of fire. From the beginning you taught all the saints and elect of God by the gift of your grace, and opened the mouths of the prophets to recount the wonders of God’s kingdom. With the Father and the Son you are adored and glorified together by all the saints of God.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              89
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Inter quos et ego servus tuus, et filius Ancillae tuae toto corde meo glorificabo nomen tuum, quoniam illuminasti me; Tu enim es vera Lux, et Lumen veridicum, ignis Dei, et Magister Spirituum, qui unctione tua, doces nos omnem veritatem, Spiritus veritatis, sine quo impossibile est placere Deo, quoniam tu ipse es Deus ex Deo, et Lux de luce, procedens a Patre Luminum ineffabiliter: et a suo Filio unico Domino nostro Jesu Christo: quibus consubstantialis, coaqualis, et coaeternus existens in unius Trinitatis essentia superessentialiter congloriaris, et conregnas.",
-          "english": "Among them I too, your servant and the son of your handmaid, shall glorify your name with all my heart, for you have enlightened me. You are the true Light and truthful illumination, the fire of God and Teacher of spirits; by your anointing you teach us all truth, Spirit of truth, without whom it is impossible to please God. For you yourself are God from God and Light from Light, proceeding ineffably from the Father of lights and from his only Son, our Lord Jesus Christ. Being consubstantial, coequal, and coeternal with them in the essence of the one Trinity, you are glorified together and reign together in a manner beyond all essence.",
+          "english": "Among them I too, your servant and the son of your handmaid, shall glorify your name with all my heart, for you have enlightened me. You are the true Light and truthful illumination, the fire of God and Teacher of spirits; by your anointing you teach us all truth, Spirit of truth, without whom it is impossible to please God. For you yourself are God from God and Light from Light, proceeding ineffably from the Father of lights and from his only Son, our Lord Jesus Christ. Being consubstantial, [the printed “coaqualis” is irregular], and coeternal with them in the essence of the one Trinity, you are glorified together and reign together in a manner beyond all essence.",
           "sourcePages": [
             89
           ],
@@ -2049,17 +2076,26 @@
             "sourcePages": [
               89
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "commendatio-b0009",
           "verification": "source-reading-pending",
-          "editorialNote": "The source contains an irregular printed form; this prepared reading remains provisional and the Latin is retained unchanged."
+          "editorialNote": "10 October 2026: PDF p.89 inspected at 3× magnification: the word is visibly “coaqualis”, not an extracted loss of a ligature. The former unqualified coequal is now marked; no replacement spelling is supplied.",
+          "originalPreparedEnglish": "Among them I too, your servant and the son of your handmaid, shall glorify your name with all my heart, for you have enlightened me. You are the true Light and truthful illumination, the fire of God and Teacher of spirits; by your anointing you teach us all truth, Spirit of truth, without whom it is impossible to please God. For you yourself are God from God and Light from Light, proceeding ineffably from the Father of lights and from his only Son, our Lord Jesus Christ. Being consubstantial, coequal, and coeternal with them in the essence of the one Trinity, you are glorified together and reign together in a manner beyond all essence.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              89
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Cognovi te unum Deum, vivum, et verum, Patrem, et Filium, et Spiritum Sanctum, trinum quidem in personis, sed unicum in essentia, quem confiteor, adoro, et glorifico toto corde meo: verum Deum solum, sanctum, immortalem, invisibilem, incommutabilem, inaccessibilem, imperscrutabilem, unum lumen, unum solem, et unum panem, unam vitam, unum bonum, unum principium, unum finem, unum Creatorem Coeli terrae, per quem omnia vivunt, per quem omnia subsistunt, per quem omnia gubernantur, reguntur, et vivificantur, quae in caelis sunt, et quae in terris, et quae sub terra, praeterquam non est Deus in Coelo, et in terra.",
-          "english": "I have known you as the one God, living and true, Father, Son, and Holy Spirit: three in persons, but one in essence, whom I confess, adore, and glorify with all my heart; the only true God, holy, immortal, invisible, unchangeable, inaccessible, unsearchable; one light, one sun, one bread, one life, one good, one beginning, one end, one Creator of heaven and earth, through whom all things live, through whom all things subsist, through whom all things are governed, ruled, and given life, in heaven, on earth, and beneath the earth; besides whom there is no God in heaven or on earth.",
+          "english": "I have known you as the one God, living and true, Father, Son, and Holy Spirit: three in persons, but one in essence, whom I confess, adore, and glorify with all my heart; the only true God, holy, immortal, invisible, unchangeable, inaccessible, unsearchable; one light, one sun, one bread, one life, one good, one beginning, one end, one Creator of heaven and earth, through whom all things live, through whom all things subsist, through whom all things are governed, ruled, and given life, in heaven, on earth, and beneath the earth; [the printed “praeterquam” has an unresolved connection] there is no God in heaven or on earth.",
           "sourcePages": [
             89
           ],
@@ -2069,12 +2105,21 @@
             "sourcePages": [
               89
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "commendatio-b0010",
           "verification": "source-reading-pending",
-          "editorialNote": "The source contains an irregular printed form; this prepared reading remains provisional and the Latin is retained unchanged."
+          "editorialNote": "10 October 2026: PDF p.89 visibly prints “praeterquam non est Deus”. The old English “besides whom” supplied an unprinted relative connection. The exact construction remains unresolved.",
+          "originalPreparedEnglish": "I have known you as the one God, living and true, Father, Son, and Holy Spirit: three in persons, but one in essence, whom I confess, adore, and glorify with all my heart; the only true God, holy, immortal, invisible, unchangeable, inaccessible, unsearchable; one light, one sun, one bread, one life, one good, one beginning, one end, one Creator of heaven and earth, through whom all things live, through whom all things subsist, through whom all things are governed, ruled, and given life, in heaven, on earth, and beneath the earth; besides whom there is no God in heaven or on earth.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              89
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -2127,6 +2172,15 @@
         88,
         89
       ]
+    },
+    {
+      "pages": [
+        86,
+        87,
+        88,
+        89
+      ],
+      "text": "10 October 2026: all four complete rendered pages and all 98 passages compared, including introductory attribution, three distinct initial collects, February/May/September labelled material, Psalm excerpts, seven hours, all collect reference expansions, two Commendations and the subsequent prayers. Sixteen passages verified; five printed readings remain source blockers. Galatians 6:4 is retained explicitly as printed, not certified as a correct attribution. “Coaqualis” also inspected at 3× magnification. Earlier repairs in English now identified; original English/provenance archived. No office certification or automatic calendar choice introduced."
     }
   ]
 }

@@ -37,7 +37,7 @@
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
     "extraction": "reviewed",
-    "translation": "complete-prepared",
+    "translation": "complete-prepared-reading-pending",
     "verification": "source-reading-pending"
   },
   "sections": [
@@ -422,7 +422,7 @@
         {
           "type": "prayer",
           "source": "Preceliamus simbolum succedat hinc oratio; hinc osculantes inuicem armemur ipsi per crucem.",
-          "english": "Let us first recite the Creed, and let prayer follow; then, kissing one another, let us arm ourselves with the cross.",
+          "english": "[The printed “Preceliamus simbolum” is unresolved.] Let prayer follow hence; then, kissing one another, let us arm ourselves with the cross.",
           "sourcePages": [
             651
           ],
@@ -432,12 +432,21 @@
             "sourcePages": [
               651
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0020",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints the unclear verb “Preceliamus” before “simbolum.” The prepared English provisionally renders reciting the Creed first; the source word remains."
+          "editorialNote": "PDF p.651 visibly prints “Preceliamus simbolum”. The previous English “Let us first recite the Creed” supplied an unverified repair. The remaining three hymn lines are translated without replacing the unclear verb.",
+          "originalPreparedEnglish": "Let us first recite the Creed, and let prayer follow; then, kissing one another, let us arm ourselves with the cross.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -461,7 +470,7 @@
         {
           "type": "prayer",
           "source": "Discede turba demonum, liquesce ars satellitum per nomen hoc crucis sacre, atque tuosque dissice.",
-          "english": "Depart, throng of demons; let the craft of their followers dissolve through this name of the holy cross, and scatter thy followers.",
+          "english": "Depart, throng of demons; let the craft of their followers dissolve through this name of the holy cross, and scatter thine own [the printed “atque tuosque” has an irregular repeated conjunction].",
           "sourcePages": [
             651
           ],
@@ -471,12 +480,21 @@
             "sourcePages": [
               651
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0022",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed closing “atque tuosque dissice” has an unclear addressee and a doubled conjunction. The English retains a literal appeal to scatter followers; the Latin remains unresolved."
+          "editorialNote": "PDF p.651 visibly prints “atque tuosque dissice”. “tuos” means thine own, with no noun printed; the previous English supplied “followers”. The irregular clause remains pending and the source is unchanged.",
+          "originalPreparedEnglish": "Depart, throng of demons; let the craft of their followers dissolve through this name of the holy cross, and scatter thy followers.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              651
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -575,8 +593,8 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0027",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF punctuates “filium eius, unicum Deum et Dominum nostrum” ambiguously. The English understands “unicum” with Son and retains God and our Lord; no additional clauses from another Creed are inserted."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: the entire printed Creed and its continuation onto PDF p.652 were visually compared. “unicum Deum et Dominum nostrum”, the omission of communion of saints, and “Carnis huius resurrectionem” are retained; no conventional Creed wording is inserted."
         },
         {
           "type": "prayer",
@@ -1040,7 +1058,7 @@
         {
           "type": "prayer",
           "source": "Miserere nobis domine miserere nobis et kariatis dulcedine corde nostra perfunde. Quo pacis tue semper conexione firmati. antiqui hostis in cordibus nostris aditus non pateat introeundi. sed sic semper protectionis tuae uelamine tueamur. ut ubique angelorum tuorum excubiis muniarum. Ut si fessa membra quieberint. spiritus tibi uigilet semper. Vigilate tua custodia deus noster qui uiuis.",
-          "english": "Have mercy on us, O Lord, have mercy on us, and fill our hearts with the sweetness of charity, so that, always strengthened by the bond of Thy peace, no entrance into our hearts may lie open to the ancient enemy. May we always be sheltered by the covering of Thy protection, and everywhere fortified by the watch of Thy angels; so that, if our weary limbs rest, our spirit may always keep watch for Thee. May Thy guarding watch keep vigil, O our God, who livest.",
+          "english": "Have mercy on us, O Lord, have mercy on us, and fill our hearts with the sweetness of [the printed “kariatis” is irregular]. So that, always strengthened by the bond of Thy peace, no entrance into our hearts may lie open to the ancient enemy. But may we always be sheltered by the covering of Thy protection, that everywhere we may be fortified by the watch of Thy angels [the printed “muniarum” is irregular]. So that, if our weary limbs rest [the printed “quieberint” is irregular], our spirit may always keep watch for Thee. [The printed “Vigilate tua custodia” has an unresolved construction], O our God, who livest.",
           "sourcePages": [
             652
           ],
@@ -1050,12 +1068,21 @@
             "sourcePages": [
               652
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0051",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints several malformed words and constructions, including “kariatis,” “muniarum,” “quieberint,” and the closing “Vigilate tua custodia.” The English provisionally renders the evident prayer for charity, protection, and vigilance; the Latin remains."
+          "editorialNote": "PDF p.652 visually checked across both columns. Printed “kariatis”, “corde nostra”, “muniarum”, “quieberint” and “Vigilate tua custodia” are irregular. The old prepared English silently normalised these readings; unresolved words are now identified, with earlier English and provenance retained. No different Mozarabic edition is substituted.",
+          "originalPreparedEnglish": "Have mercy on us, O Lord, have mercy on us, and fill our hearts with the sweetness of charity, so that, always strengthened by the bond of Thy peace, no entrance into our hearts may lie open to the ancient enemy. May we always be sheltered by the covering of Thy protection, and everywhere fortified by the watch of Thy angels; so that, if our weary limbs rest, our spirit may always keep watch for Thee. May Thy guarding watch keep vigil, O our God, who livest.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              652
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1190,6 +1217,13 @@
         651,
         652
       ]
+    },
+    {
+      "pages": [
+        651,
+        652
+      ],
+      "text": "10 October 2026: both complete rendered pages, all 57 passages, introductory explanation, Creed continuation, nine mercy petitions and responsive Our Father compared. The Creed is now verified. Three printed hymn/collect readings remain independently documented source blockers; no missing wording or calendar behaviour is inferred."
     }
   ]
 }

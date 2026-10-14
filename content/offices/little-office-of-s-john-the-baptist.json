@@ -79,7 +79,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -100,7 +100,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -121,7 +121,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -142,7 +142,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -163,7 +163,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -244,7 +244,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -322,7 +322,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0014",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -411,7 +411,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -432,7 +432,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -453,7 +453,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -498,7 +498,7 @@
         {
           "type": "prayer",
           "source": "Alvo Deum Virgo claudit, Clauso clausus hic applaudid, Ventris ex custodia; Linguae gestus obsequuntur, Dum infantum colloquuntur Muta jam prodigia.",
-          "english": "The Virgin encloses God in her womb;\nEnclosed, he rejoices at the Enclosed One\nFrom the keeping of the womb;\nGestures serve as speech,\nWhile the silent wonders\nOf infants now converse.",
+          "english": "The Virgin encloses God in her womb;\nEnclosed, he [printed applaudid: unresolved verb] at the Enclosed One\nFrom the keeping of the womb;\nGestures serve as speech,\nWhile the silent wonders\nOf infants now converse.",
           "sourcePages": [
             531,
             532
@@ -516,7 +516,17 @@
           "id": "lauds-b0006",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The source prints “applaudid”; the rejoicing reading is provisional. The contrast of the two enclosed children is retained."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Unresolved forms/connections explicitly bracketed; original prepared English/provenance archived, Latin unchanged. The source prints “applaudid”; the rejoicing reading is provisional. The contrast of the two enclosed children is retained.",
+          "originalPreparedEnglish": "The Virgin encloses God in her womb;\nEnclosed, he rejoices at the Enclosed One\nFrom the keeping of the womb;\nGestures serve as speech,\nWhile the silent wonders\nOf infants now converse.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              531,
+              532
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -537,7 +547,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -615,7 +625,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0011",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0014",
@@ -656,7 +666,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -677,7 +687,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -698,12 +708,12 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Mater parit; Pater credit; Reduente fide, redit Linguae beneficium. Eja felix partus Matris, Quo soluta lingua Patris Celebrat mysterium.",
-          "english": "The mother gives birth, the father believes;\nWith faith returning, the gift of speech returns.\nO happy birth of the mother,\nWhereby the father’s tongue, set free,\nCelebrates the mystery!",
+          "english": "The mother gives birth, the father believes;\n[Printed Reduente fide: unresolved participle], the gift of speech returns.\nO happy birth of the mother,\nWhereby the father’s tongue, set free,\nCelebrates the mystery!",
           "sourcePages": [
             532
           ],
@@ -719,12 +729,21 @@
           "id": "prime-b0004",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The source prints “Reduente”; returning faith is a provisional reading."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Unresolved forms/connections explicitly bracketed; original prepared English/provenance archived, Latin unchanged. The source prints “Reduente”; returning faith is a provisional reading.",
+          "originalPreparedEnglish": "The mother gives birth, the father believes;\nWith faith returning, the gift of speech returns.\nO happy birth of the mother,\nWhereby the father’s tongue, set free,\nCelebrates the mystery!",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              532
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Thori fructus Matri dantur; Ejam Matris expiantur Sterilis opprobria; Ortu tanti praecursoris Multi timent, sed timoris Comes est laetitia.",
-          "english": "The fruits of marriage are given to the mother;\nNow the reproach of the barren mother\nIs expiated;\nAt the birth of so great a forerunner\nMany fear, but gladness\nIs the companion of fear.",
+          "english": "The fruits of marriage are given to the mother;\n[Printed Ejam: unresolved word] the reproach of the barren mother\nIs expiated;\nAt the birth of so great a forerunner\nMany fear, but gladness\nIs the companion of fear.",
           "sourcePages": [
             532
           ],
@@ -740,12 +759,21 @@
           "id": "prime-b0005",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The source prints “Ejam”; “now” is conjectural."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Unresolved forms/connections explicitly bracketed; original prepared English/provenance archived, Latin unchanged. The source prints “Ejam”; “now” is conjectural.",
+          "originalPreparedEnglish": "The fruits of marriage are given to the mother;\nNow the reproach of the barren mother\nIs expiated;\nAt the birth of so great a forerunner\nMany fear, but gladness\nIs the companion of fear.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              532
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Se de munde servans mundum, Munde vivit intra mundum In aetate tenera, Sed e mundi mox convictu Cedens, loco, veste, vietu Mera perfert aspera!",
-          "english": "Keeping himself pure from the world,\nHe lives purely within the world\nIn tender age;\nBut soon departing from its society,\nIn place, dress and food\nHe bears nothing but hardships.",
+          "english": "Keeping himself pure [printed de munde: unresolved case/form],\nHe lives purely within the world\nIn tender age;\nBut soon departing from its society,\nIn place, dress and [printed vietu: unresolved noun]\nHe bears nothing but hardships.",
           "sourcePages": [
             532
           ],
@@ -761,7 +789,16 @@
           "id": "prime-b0006",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The source prints “munde” and “vietu”; the pure/food readings are provisional."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Unresolved forms/connections explicitly bracketed; original prepared English/provenance archived, Latin unchanged. The source prints “munde” and “vietu”; the pure/food readings are provisional.",
+          "originalPreparedEnglish": "Keeping himself pure from the world,\nHe lives purely within the world\nIn tender age;\nBut soon departing from its society,\nIn place, dress and food\nHe bears nothing but hardships.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              532
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -782,12 +819,12 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Erat Joannes vestitus pilis camelii, et zona pellicea circa lumbos ejus, et locustas et mel sylvestre edebat.",
-          "english": "John was clothed in camel’s hair, with a leather girdle about his loins, and ate locusts and wild honey.",
+          "english": "John was clothed in [printed camelii: unresolved genitive] hair, with a leather girdle about his loins, and ate locusts and wild honey.",
           "sourcePages": [
             532
           ],
@@ -801,7 +838,17 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0008",
-          "verification": "visual-review"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "John was clothed in camel’s hair, with a leather girdle about his loins, and ate locusts and wild honey.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              532
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Unresolved forms/connections explicitly bracketed; original prepared English/provenance archived, Latin unchanged. "
         },
         {
           "type": "prayer",
@@ -860,7 +907,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0011",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0014",
@@ -902,7 +949,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -923,7 +970,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -944,7 +991,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -969,7 +1016,7 @@
         {
           "type": "prayer",
           "source": "Quem dum replet lux superna, Verae lucis fit lucerna: Veri solis Lucifer. Novus novae praecone legis, Imo novus novi Regis Pugnatur signifer.",
-          "english": "When heavenly light fills him,\nHe becomes a lamp of the true Light,\nThe morning star of the true Sun;\nA new herald of the new law,\nIndeed of the new King\nA new champion and standard-bearer.",
+          "english": "When heavenly light fills him,\nHe becomes a lamp of the true Light,\nThe morning star of the true Sun;\n[Printed Novus novae praecone legis: unresolved agreement],\nIndeed of the new King\nA new [printed Pugnatur: unresolved word] standard-bearer.",
           "sourcePages": [
             532
           ],
@@ -985,12 +1032,21 @@
           "id": "terce-b0005",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "“praecone” and “Pugnatur signifer” are irregular; the herald/champion readings are provisional."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Unresolved forms/connections explicitly bracketed; original prepared English/provenance archived, Latin unchanged. “praecone” and “Pugnatur signifer” are irregular; the herald/champion readings are provisional.",
+          "originalPreparedEnglish": "When heavenly light fills him,\nHe becomes a lamp of the true Light,\nThe morning star of the true Sun;\nA new herald of the new law,\nIndeed of the new King\nA new champion and standard-bearer.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              532
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Singulari Prophetia Prophetarum Monarchia Sublimatur omnium: Hi venturum, hic praesentem, Hi promissum, hic viventem Monstrat orbis Dominum.",
-          "english": "By a singular prophecy\nHe is raised above\nAll the rule of the prophets;\nThey show the Lord of the world to come,\nHe shows Him present; they promised,\nHe living.",
+          "english": "By a singular prophecy,\nBy the sovereignty of all the prophets,\nHe is exalted:\nThey show the Lord of the world to come, he present;\nThey Him promised, he Him living.",
           "sourcePages": [
             532
           ],
@@ -1004,9 +1060,18 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0006",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "poetry": true,
-          "editorialNote": "The printed final contrast has compressed syntax; it is retained without adding an external prophetic text."
+          "editorialNote": "10 October 2026: actual p.532 personally compared. Ablatives Prophetia and Monarchia retained, rather than inventing above as a comparative construction. Parallel Hi/Hic clauses omit the verb until final Monstrat; their person contrasts are retained with Lord as object. Promissum is a participle, not a new claim that the prophets promised. No Latin or biblical text substituted.",
+          "originalPreparedEnglish": "By a singular prophecy\nHe is raised above\nAll the rule of the prophets;\nThey show the Lord of the world to come,\nHe shows Him present; they promised,\nHe living.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              532
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -1027,7 +1092,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1105,7 +1170,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0011",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0014",
@@ -1146,7 +1211,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1167,7 +1232,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1188,7 +1253,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1213,7 +1278,7 @@
         {
           "type": "prayer",
           "source": "Non lux quidem fuit iste, Sed ut daret tibi, Christe, Luci testimonium. Non lux erat, sed lucerna: Verbum Christus luc aeterma, Lucem cerans omnium.",
-          "english": "He indeed was not the Light,\nBut that he might bear witness\nTo Thee, Christ, the Light;\nHe was not the Light, but a lamp;\nChrist the Word is eternal light,\n[The printed “Lucem cerans omnium” is unresolved.]",
+          "english": "He indeed was not the Light,\nBut that he might bear witness\nTo Thee, Christ, the Light;\nHe was not the Light, but a lamp;\nChrist the Word [printed luc aeterma: unresolved forms],\n[The printed “Lucem cerans omnium” is unresolved.]",
           "sourcePages": [
             533
           ],
@@ -1229,7 +1294,16 @@
           "id": "sext-b0005",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The source prints “luc aeterma” and “Lucem cerans omnium.” Eternal light is provisional, and the final clause unresolved."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Unresolved forms/connections explicitly bracketed; original prepared English/provenance archived, Latin unchanged. The source prints “luc aeterma” and “Lucem cerans omnium.” Eternal light is provisional, and the final clause unresolved.",
+          "originalPreparedEnglish": "He indeed was not the Light,\nBut that he might bear witness\nTo Thee, Christ, the Light;\nHe was not the Light, but a lamp;\nChrist the Word is eternal light,\n[The printed “Lucem cerans omnium” is unresolved.]",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              533
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1250,7 +1324,7 @@
           "id": "sext-b0006",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "“soris” is unresolved. The division of praise between Spirit and river is kept as printed, without assigning an invented subject."
+          "editorialNote": "10 October 2026: actual rendered source personally compared; existing source blocker independently confirmed. “soris” is unresolved. The division of praise between Spirit and river is kept as printed, without assigning an invented subject."
         },
         {
           "type": "rubric",
@@ -1271,7 +1345,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1349,7 +1423,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0011",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0014",
@@ -1390,7 +1464,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1411,7 +1485,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1432,7 +1506,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1453,12 +1527,12 @@
           },
           "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Qui baptizat, elevatur, Baptizatus non lavatur, In quo nulla macula, Aquae lavant, quin lavantur, Quaeis lavandi vires dantur, Vi mundantis omnia.",
-          "english": "He who baptizes is raised up;\nThe Baptized One is not washed,\nIn whom there is no stain;\nThe waters wash, nay, are washed,\nAnd are given power to wash\nBy the power of Him who cleanses all things.",
+          "english": "He who baptizes is raised up;\nThe Baptized One is not washed,\nIn whom there is no stain;\nThe waters wash, nay, are washed,\n[Printed Quaeis: unresolved relative form] are given power to wash\nBy the power of Him who cleanses all things.",
           "sourcePages": [
             533
           ],
@@ -1472,13 +1546,23 @@
           },
           "alignment": "reviewed",
           "id": "none-b0005",
-          "verification": "visual-review",
-          "poetry": true
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "originalPreparedEnglish": "He who baptizes is raised up;\nThe Baptized One is not washed,\nIn whom there is no stain;\nThe waters wash, nay, are washed,\nAnd are given power to wash\nBy the power of Him who cleanses all things.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              533
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Unresolved forms/connections explicitly bracketed; original prepared English/provenance archived, Latin unchanged. "
         },
         {
           "type": "prayer",
           "source": "Contemplatur omnes istum, Quem putabat turba Christum, Stupens ad prodigia, Qui cervicem non erexit, Sed Dominum se despexit, Domini corrigia.",
-          "english": "All behold him whom the crowd\nThought to be Christ,\nAmazed at the wonders;\nHe did not raise his neck in pride,\nBut [the printed “Sed Dominum se despexit” is uncertain],\nAt the Lord’s sandal-strap.",
+          "english": "[Printed Contemplatur omnes istum: unresolved subject/verb construction] whom the crowd\nThought to be Christ,\nAmazed at the wonders;\nHe did not raise his neck in pride,\nBut [the printed “Sed Dominum se despexit” is uncertain],\nAt the Lord’s sandal-strap.",
           "sourcePages": [
             533
           ],
@@ -1494,12 +1578,21 @@
           "id": "none-b0006",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The source prints “Contemplatur omnes” and “Sed Dominum se despexit, Domini corrigia”; the latter clause is uncertain and not silently repaired."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Unresolved forms/connections explicitly bracketed; original prepared English/provenance archived, Latin unchanged. The source prints “Contemplatur omnes” and “Sed Dominum se despexit, Domini corrigia”; the latter clause is uncertain and not silently repaired.",
+          "originalPreparedEnglish": "All behold him whom the crowd\nThought to be Christ,\nAmazed at the wonders;\nHe did not raise his neck in pride,\nBut [the printed “Sed Dominum se despexit” is uncertain],\nAt the Lord’s sandal-strap.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              533
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Attestante palam Christo: Non surrexit major isto Natus de muliere, Solum Christus se excepit, Qui de carne carnem cept. Sine carnis opere.",
-          "english": "Christ openly bearing witness:\nNo one born of woman\nHas arisen greater than he;\nChrist alone excepted Himself,\nWho took flesh from flesh\nWithout the work of the flesh.",
+          "english": "Christ openly bearing witness:\nNo one born of woman\nHas arisen greater than he;\nChrist alone excepted Himself,\nWho from flesh [printed cept: unresolved verb] flesh\nWithout the work of the flesh.",
           "sourcePages": [
             533
           ],
@@ -1515,7 +1608,16 @@
           "id": "none-b0007",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The source prints “cept”; took flesh is provisional. Its Christ-exception statement remains the source’s claim."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Unresolved forms/connections explicitly bracketed; original prepared English/provenance archived, Latin unchanged. The source prints “cept”; took flesh is provisional. Its Christ-exception statement remains the source’s claim.",
+          "originalPreparedEnglish": "Christ openly bearing witness:\nNo one born of woman\nHas arisen greater than he;\nChrist alone excepted Himself,\nWho took flesh from flesh\nWithout the work of the flesh.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              533
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -1536,7 +1638,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1614,7 +1716,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0012",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0014",
@@ -1656,7 +1758,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1677,7 +1779,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1698,7 +1800,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1745,7 +1847,7 @@
         {
           "type": "prayer",
           "source": "Inde saevit vis Tyranni, Sed ut crevite laus Joanni, Regi sic supplicium, Servit stultus nam prudenti, Dum probatur in persenti Innocens per impium.",
-          "english": "Hence the tyrant’s violence rages,\nBut as praise of John increased,\nSo did punishment for the king;\nFor the fool serves the prudent,\nWhile in the present the innocent\nIs proved by the wicked.",
+          "english": "Hence the tyrant’s violence rages,\nBut as praise of John [printed crevite: unresolved verb],\nSo did punishment for the king;\nFor the fool serves the prudent,\nWhile [printed in persenti: unresolved form] the innocent\nIs proved by the wicked.",
           "sourcePages": [
             534
           ],
@@ -1761,7 +1863,16 @@
           "id": "vespers-b0006",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The printed “crevite” and “persenti” are defective; increased/present are provisional readings."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Unresolved forms/connections explicitly bracketed; original prepared English/provenance archived, Latin unchanged. The printed “crevite” and “persenti” are defective; increased/present are provisional readings.",
+          "originalPreparedEnglish": "Hence the tyrant’s violence rages,\nBut as praise of John increased,\nSo did punishment for the king;\nFor the fool serves the prudent,\nWhile in the present the innocent\nIs proved by the wicked.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              534
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -1782,7 +1893,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1860,7 +1971,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0011",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0014",
@@ -1901,7 +2012,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1922,7 +2033,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1943,7 +2054,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1964,7 +2075,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1985,7 +2096,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -2006,7 +2117,7 @@
           "id": "compline-b0006",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The printed “Laena desert Genitrici” is unresolved; no verb of giving is invented to complete it."
+          "editorialNote": "10 October 2026: actual rendered source personally compared; existing source blocker independently confirmed. The printed “Laena desert Genitrici” is unresolved; no verb of giving is invented to complete it."
         },
         {
           "type": "prayer",
@@ -2031,7 +2142,7 @@
         {
           "type": "prayer",
           "source": "O mors vere pretiosa Prae quoa est tam gloriosa Vitae conversatio!",
-          "english": "O death truly precious,\nBefore which the conduct\nOf his life is so glorious!",
+          "english": "O death truly precious,\n[Printed Prae quoa: unresolved relative form] the conduct\nOf his life is so glorious!",
           "sourcePages": [
             534
           ],
@@ -2047,12 +2158,21 @@
           "id": "compline-b0008",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The source prints “quoa”; the English connection is provisional."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Unresolved forms/connections explicitly bracketed; original prepared English/provenance archived, Latin unchanged. The source prints “quoa”; the English connection is provisional.",
+          "originalPreparedEnglish": "O death truly precious,\nBefore which the conduct\nOf his life is so glorious!",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              534
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Atque haec in laudem, Christe! Tu reddimus Baptistae Vota, et encomia, Nos ad vitam recto calle Ex hac mortis ducas valle Ejus ut per merita.",
-          "english": "And these vows and praises of the Baptist\nWe render to Thy praise, O Christ,\nThat through his merits\nThou mayest lead us by the straight path\nFrom this valley of death\nUnto life.",
+          "english": "And these vows and praises of the Baptist\n[Printed Tu reddimus: unresolved pronoun/verb construction] unto praise, O Christ,\nThat through his merits\nThou mayest lead us by the straight path\nFrom this valley of death\nUnto life.",
           "sourcePages": [
             534
           ],
@@ -2066,8 +2186,18 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0009",
-          "verification": "visual-review",
-          "poetry": true
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "originalPreparedEnglish": "And these vows and praises of the Baptist\nWe render to Thy praise, O Christ,\nThat through his merits\nThou mayest lead us by the straight path\nFrom this valley of death\nUnto life.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              534
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Unresolved forms/connections explicitly bracketed; original prepared English/provenance archived, Latin unchanged. "
         },
         {
           "type": "rubric",
@@ -2088,7 +2218,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -2166,7 +2296,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0014",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0014",
@@ -2208,12 +2338,12 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-ad-s-joannem-baptistam-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Caput sacrum dum truncatur, Et Herodi praesentatur In fatali phiala, Aures claudis atque ora, Cassa vultus et aurora, Dive claudis lumina, Sed quid nobis denum erit, Caput nostrum si mors ferit! Urget ira Judicis? Ni tu audias clamantes, Ni respicias peccantes, Reos mi defenderis! Audi ergo, interpella, Ut gehennae ex procella Caput nostrum eruas, Christus sed benigne donet, Ne in illud dira tonet, Sedes nobis coelicas.",
-          "english": "When thy holy head is cut off\nAnd presented to Herod\nIn the fatal dish,\nThou dost close ears and mouth,\n[The printed “Cassa vultus et aurora” is unresolved.]\nO saint, thou dost close thine eyes.\nBut what at last shall become of us\nIf death strikes our head?\nDoes the Judge’s wrath press upon us?\nUnless thou hear those who cry,\nUnless thou look upon sinners,\n[The printed “Reos mi defenderis” is uncertain.]\nHear, therefore, intercede,\nThat from the storm of hell\nThou mayest rescue our head;\nBut may Christ graciously give us\nHeavenly dwellings,\nLest He thunder dreadful things against it.",
+          "english": "When thy holy head is cut off\nAnd presented to Herod\nIn the fatal dish,\nThou dost close ears and mouth,\n[The printed “Cassa vultus et aurora” is unresolved.]\nO saint, thou dost close thine eyes.\nBut what [printed denum: unresolved word] shall become of us\nIf death strikes our head?\nDoes the Judge’s wrath press upon us?\nUnless thou hear those who cry,\nUnless thou look upon sinners,\n[The printed “Reos mi defenderis” is uncertain.]\nHear, therefore, intercede,\nThat from the storm of hell\nThou mayest rescue our head;\nBut may Christ graciously give us\nHeavenly dwellings,\nLest He thunder dreadful things against it.",
           "sourcePages": [
             534
           ],
@@ -2229,7 +2359,16 @@
           "id": "commendatio-ad-s-joannem-baptistam-b0002",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "“Cassa vultus et aurora” is unresolved; “denum” and “Reos mi defenderis” are defective. The readable petitions remain, with uncertain clauses identified."
+          "editorialNote": "10 October 2026: actual rendered source independently inspected. Unresolved forms/connections explicitly bracketed; original prepared English/provenance archived, Latin unchanged. “Cassa vultus et aurora” is unresolved; “denum” and “Reos mi defenderis” are defective. The readable petitions remain, with uncertain clauses identified.",
+          "originalPreparedEnglish": "When thy holy head is cut off\nAnd presented to Herod\nIn the fatal dish,\nThou dost close ears and mouth,\n[The printed “Cassa vultus et aurora” is unresolved.]\nO saint, thou dost close thine eyes.\nBut what at last shall become of us\nIf death strikes our head?\nDoes the Judge’s wrath press upon us?\nUnless thou hear those who cry,\nUnless thou look upon sinners,\n[The printed “Reos mi defenderis” is uncertain.]\nHear, therefore, intercede,\nThat from the storm of hell\nThou mayest rescue our head;\nBut may Christ graciously give us\nHeavenly dwellings,\nLest He thunder dreadful things against it.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              534
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -2269,7 +2408,7 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-ad-s-joannem-baptistam-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -2293,7 +2432,7 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-ad-s-joannem-baptistam-b0005",
-          "verification": "pending",
+          "verification": "visual-review",
           "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review. Differing reviewed English versions were compared; this wording was selected explicitly. The selected reviewed wording translates the complete source passage and retains its liturgical role; alternatives differ in punctuation, diction, or capitalization."
         },
         {
@@ -2314,7 +2453,7 @@
           "alignment": "reviewed",
           "id": "commendatio-ad-s-joannem-baptistam-b0006",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed conclusion begins “cui cum Patre ...”; its syntax is defective. The preceding titles, including first of the martyrs, are retained as source statements."
+          "editorialNote": "10 October 2026: actual rendered source personally compared; existing source blocker independently confirmed. The printed conclusion begins “cui cum Patre ...”; its syntax is defective. The preceding titles, including first of the martyrs, are retained as source statements."
         }
       ]
     }
@@ -2330,6 +2469,16 @@
         534,
         535
       ]
+    },
+    {
+      "pages": [
+        531,
+        532,
+        533,
+        534,
+        535
+      ],
+      "text": "10 October 2026: all five rendered pages and all 104 passages personally compared, including Ruth Officiosa 1715 attribution, eight hours, hymns/collect continuations, Commendation and seven same-office collect expansions. 49 formerly pending passages cleared. Three formerly certified forms returned to pending: camelii, Quaeis and Tu reddimus. 17 source passages remain blocked with original English/provenance archived and printed Latin unchanged. Prophetia/Monarchia ablatives and omitted parallel verbs retained literally rather than imposing a comparative/external prophetic text."
     }
   ]
 }

@@ -123,11 +123,28 @@
         {
           "type": "prayer",
           "source": "℣. Domine, labia ✠ea aperies.",
-          "english": "℣. Lord, ✠Thou shalt open my lips.",
+          "english": "℣. O Lord, Thou shalt open ✠those lips.",
           "sourcePages": [
             321
           ],
           "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              321
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "matins-b0004"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0004",
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual PDF p.321 personally inspected. Latin prints “labia ✠ea”: ea is a complete neuter-plural demonstrative agreeing with labia, literally “those lips”. The cross is retained as a gesture sign. Prepared English translates the printed words without adding an unprinted m or claiming what the compiler intended. The earlier description of ea as incomplete is superseded by this literal grammatical reading. Original supplied English (printed on PDF p.105, or reused from that page) retained unchanged: “℣. Lord, ✠Thou shalt open my lips.”",
+          "originalSuppliedEnglish": "℣. Lord, ✠Thou shalt open my lips.",
+          "originalPreparedEnglish": "℣. Lord, ✠Thou shalt open my lips.",
+          "originalTranslation": {
             "kind": "supplied",
             "method": "exact-reviewed-pdf-reuse",
             "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
@@ -136,13 +153,9 @@
               105
             ]
           },
-          "alignment": "reviewed",
-          "id": "matins-b0004",
-          "verification": "source-reading-pending",
-          "englishPages": [
+          "originalEnglishPages": [
             105
-          ],
-          "editorialNote": "The PDF prints “labia ✠ea,” where the expected possessive is “mea.” The supplied English renders “my lips”; the irregular Latin remains visible."
+          ]
         },
         {
           "type": "prayer",
@@ -822,11 +835,11 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0032",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "englishPages": [
             109
           ],
-          "editorialNote": "The PDF prints “dramatis” in the antiphon, where the familiar reading is “dogmatis.” The reused supplied English follows “dogmatis”; the printed Latin is retained for editorial resolution.",
+          "editorialNote": "10 October 2026: actual rendered PDF p.323 personally compared. Dramatis is a complete genitive of drama and the unchanged supplied/reused English already translates it literally as of the play. The previous note claiming the current English followed dogmatis was stale and is superseded. No source word is replaced.",
           "when": {
             "matins-psalms": [
               "sun-mon-thu"
@@ -1714,13 +1727,14 @@
           ],
           "translation": {
             "kind": "supplied",
-            "method": "exact-reviewed-pdf-reuse",
+            "method": "archived-pdf-english-reuse",
             "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
             "reusedFrom": "matins-b0066",
             "sourcePages": [
               114,
               115
-            ]
+            ],
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "matins-b0063",
@@ -1729,10 +1743,20 @@
             114,
             115
           ],
-          "editorialNote": "The PDF prints the stray words “tionis ejus” after the final verse of Psalm 97. The reused supplied English omits this fragment; the defective printed Latin remains for editorial resolution.",
+          "editorialNote": "10 October 2026: original supplied PDF English reused from Roman pp.114–115 is retained unchanged. The former exact-reviewed-pdf-reuse certification is archived: its origin is now source-reading-pending after actual inspection of p.114 revealed incomplete tionis ejus. This row remains pending; no omitted letters are invented and no fully reviewed reuse claim remains.",
           "when": {
             "matins-psalms": [
               "wed-sat"
+            ]
+          },
+          "originalTranslation": {
+            "kind": "supplied",
+            "method": "exact-reviewed-pdf-reuse",
+            "reusedFromOffice": "little-office-of-the-blessed-virgin-mary-according-to-the-roman-rite",
+            "reusedFrom": "matins-b0066",
+            "sourcePages": [
+              114,
+              115
             ]
           }
         },
@@ -4207,7 +4231,7 @@
         {
           "type": "prayer",
           "source": "℟. Sed liber nos a malo.",
-          "english": "℟. But deliver us from evil.",
+          "english": "℟. But [printed liber: unresolved construction] us from evil.",
           "sourcePages": [
             328
           ],
@@ -4222,7 +4246,16 @@
           "alignment": "reviewed",
           "id": "matins-b0152",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “Sed liber nos a malo,” rather than “libera.” The prepared English provisionally renders the intended petition “deliver us from evil”; the printed Latin remains."
+          "editorialNote": "10 October 2026: actual PDF p.328 personally inspected. Liber is not the printed imperative libera; the former fluent deliver was an unsupported repair. Printed source unchanged, original English/provenance archived; passage stays pending.",
+          "originalPreparedEnglish": "℟. But deliver us from evil.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              328
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -13248,7 +13281,7 @@
         {
           "type": "prayer",
           "source": "Deus, qui salutis aeternae beatae Mariae virginitate fecunda, humano generi praemia praestitisti; tribue, quaesumus, ut ipsam pro nobis intercedere sentiamus, pre quam meruimus Auctorem vitae suscipere, Dominum nostrum Jesum Christum, Filium tuum: qui tecum vivit et regnat in unitate Spiritus Sancti, Deus, per omnia saecula saeculorum.",
-          "english": "O God, who through the fruitful virginity of Blessed Mary hast bestowed the rewards of eternal salvation upon the human race, grant, we beseech Thee, that we may experience her intercession for us, through whom we were found worthy to receive the Author of life, Jesus Christ, Thy Son, our Lord; who liveth and reigneth with Thee in the unity of the Holy Spirit, God, for ever and ever.",
+          "english": "O God, who through the fruitful virginity of Blessed Mary hast bestowed the rewards of eternal salvation upon the human race, grant, we beseech Thee, that we may experience her intercession for us, [printed pre quam: unresolved preposition and case] we were found worthy to receive the Author of life, Jesus Christ, Thy Son, our Lord; who liveth and reigneth with Thee in the unity of the Holy Spirit, God, for ever and ever.",
           "sourcePages": [
             347
           ],
@@ -13263,7 +13296,16 @@
           "alignment": "reviewed",
           "id": "compline-b0051",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “pre quam” rather than “per quam.” The prepared English provisionally renders “through whom”; the printed Latin remains."
+          "editorialNote": "10 October 2026: actual PDF p.347 personally inspected. Pre quam remains unresolved; no replacement per is supplied. Previous through whom translation and provenance archived, Latin unchanged; passage stays pending.",
+          "originalPreparedEnglish": "O God, who through the fruitful virginity of Blessed Mary hast bestowed the rewards of eternal salvation upon the human race, grant, we beseech Thee, that we may experience her intercession for us, through whom we were found worthy to receive the Author of life, Jesus Christ, Thy Son, our Lord; who liveth and reigneth with Thee in the unity of the Holy Spirit, God, for ever and ever.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              347
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -13579,6 +13621,15 @@
         346,
         347
       ]
+    },
+    {
+      "pages": [
+        323,
+        325,
+        328,
+        347
+      ],
+      "text": "10 October 2026: all four remaining pending passages personally compared with actual rendered pages. Dramatis cleared with unchanged literal supplied English; three actual source blockers remain. The previous full pp.321–347 comparison is retained; this session does not claim another full 27-page review. Roman origin of Psalm 97 reuse reopened after verifying its own incomplete fragment, and historical reuse provenance retained without fully reviewed certification."
     }
   ]
 }

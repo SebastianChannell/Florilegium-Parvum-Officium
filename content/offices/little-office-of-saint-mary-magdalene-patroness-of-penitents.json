@@ -191,7 +191,7 @@
         {
           "type": "prayer",
           "source": "Dum Christo pedes lavera O pia Magdalena! Jam abs reatu fueras Favore Jesu plena, Tot ergo adhuc gemitus Cur edis? Eequid vultus Cum lachrymarum fluctibus Tot exprimit singultus?",
-          "english": "When thou didst wash Christ’s feet, O devout Magdalene, thou wast already free from guilt, filled with Jesus’ favour. Why then dost thou still utter so many groans? Why does thy face, amid floods of tears, express so many sobs?",
+          "english": "When [printed lavera: unresolved verb] Christ’s feet, O devout Magdalene, thou wast already free from guilt, filled with Jesus’ favour. Why then dost thou still utter so many groans? Why does thy face, amid floods of tears, express so many sobs?",
           "sourcePages": [
             566
           ],
@@ -206,7 +206,16 @@
           "alignment": "reviewed",
           "id": "matins-b0008",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “lavera” in the opening clause. The prepared English provisionally understands a past washing of Christ’s feet; the printed Latin remains."
+          "editorialNote": "10 October 2026: actual rendered source personally inspected. P.566 prints lavera; no past-tense washing verb is supplied. Previous prepared English and provenance retained; uncertain source stays pending.",
+          "originalPreparedEnglish": "When thou didst wash Christ’s feet, O devout Magdalene, thou wast already free from guilt, filled with Jesus’ favour. Why then dost thou still utter so many groans? Why does thy face, amid floods of tears, express so many sobs?",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -425,7 +434,7 @@
         {
           "type": "prayer",
           "source": "Nonne in signum gratiae Dum Christus mox passurus Parabat valedicere Matri, non rediturus, Is tibi quoque dixerat Vale! o Magdalena! Cur ergo adhuc fluiaat, Turgetque fletu gena?",
-          "english": "Did not Christ, as a sign of favour, when He was soon to suffer and prepared to bid farewell to His Mother, not to return, also say to thee, “Farewell, O Magdalene”? Why then does thy cheek still stream and swell with weeping?",
+          "english": "Did not Christ, as a sign of favour, when He was soon to suffer and prepared to bid farewell to His Mother, not to return, also say to thee, “Farewell, O Magdalene”? Why then does thy cheek still [printed fluiaat: unresolved verb] and swell with weeping?",
           "sourcePages": [
             566
           ],
@@ -440,7 +449,16 @@
           "alignment": "reviewed",
           "id": "lauds-b0006",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints the malformed verb “fluiaat.” The English provisionally renders a cheek streaming with tears; the printed Latin remains."
+          "editorialNote": "10 October 2026: actual rendered source personally inspected. P.566 prints fluiaat, not a resolved flowing verb. Previous prepared English and provenance retained; uncertain source stays pending.",
+          "originalPreparedEnglish": "Did not Christ, as a sign of favour, when He was soon to suffer and prepared to bid farewell to His Mother, not to return, also say to thee, “Farewell, O Magdalene”? Why then does thy cheek still stream and swell with weeping?",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              566
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1271,8 +1289,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0006",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “Quies flagra” without a clear conjunction. The English retains rest, scourges, lamentation, and tears as a provisional list; the printed Latin remains."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: PDF pp.567–568 personally compared. Quies, flagra, planctus, lacrymae is an asyndetic nominative list: rest, scourges, lamentation and tears. No conjunction needs to be invented in the Latin. Herbululae retains the little-herb diminutive; dulcat is read literally as sweetens. The singular verb beside Musica is retained without regularising it. Existing English conveys this printed list; earlier provisional punctuation concern no longer blocks this passage."
         },
         {
           "type": "prayer",
@@ -1502,7 +1520,7 @@
         {
           "type": "prayer",
           "source": "Exemplar Poenitentium O Magdalena diva! Piarum norma meritum, Martyr Amoris viva! Has Preces, quaeso, suscipe, Veraque nos gubern a Per viam Poenitentiae Ad gaudia aeterna.",
-          "english": "O holy Magdalene, example of penitents, model of devout merit, living martyr of love! Receive these prayers, I beseech thee, and guide us by the true path of repentance to eternal joys.",
+          "english": "O holy Magdalene, example of penitents, [printed Piarum norma meritum: unresolved construction], living martyr of love! Receive these prayers, I beseech thee, and [printed Veraque nos gubern a: unresolved wording] by the path of repentance to eternal joys.",
           "sourcePages": [
             568
           ],
@@ -1517,7 +1535,16 @@
           "alignment": "reviewed",
           "id": "commendatio-b0001",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed “Piarum norma meritum” has irregular grammar. The English provisionally gives “model of devout merit”; the printed Latin remains."
+          "editorialNote": "10 October 2026: actual rendered source personally inspected. P.568 preserves irregular Piarum norma meritum and visibly separated gubern a; neither is silently regularised. Previous prepared English and provenance retained; uncertain source stays pending.",
+          "originalPreparedEnglish": "O holy Magdalene, example of penitents, model of devout merit, living martyr of love! Receive these prayers, I beseech thee, and guide us by the true path of repentance to eternal joys.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              568
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1588,7 +1615,7 @@
         {
           "type": "prayer",
           "source": "Oremus, O Benignissime Domine Jesu Christe! tutissimum poenitentium asylum, qui beatae Mariae Magdalenae Poenitentiam ita placitam tibi, gratamque habuisti, ut non solum peccata sua ei dimitteres, verum etiam Cor ejus tanta dulcedine perfunderes, ut pedes tuos ferventissimis irrigaret lachrymis, vitamque suam inter asperrima poenitentiae opera terminarer. Concede quaesumus, ut et nos peccatorum nostrorum multitudinem perfecte agnoscentes turpitudinem, tuaque offensa ingemiscere graviter tecum serio contemplemur, easque animi conversionis et spiritus contritionis actiones fideliter prosequamur illa dulcissima: Remittuntur tibi peccata tua, gratiam tuam plene consequamur, teque bonorum omnium complemento, in coelestibus quondam gaudiis aeternum perfrui mereamur. Qui vivis etc.",
-          "english": "Let us pray. O most gracious Lord Jesus Christ, safest refuge of penitents, who didst find the repentance of Blessed Mary Magdalene so pleasing and acceptable that Thou didst not only forgive her sins, but also fill her heart with such sweetness that she watered Thy feet with most fervent tears and ended her life amid the severest works of penance: grant, we beseech Thee, that we too, fully acknowledging the multitude and ugliness of our sins, may earnestly ponder with Thee and deeply lament the offence given to Thee; and faithfully practise those acts of conversion of heart and contrition of spirit, that through those sweetest words, “Thy sins are forgiven thee,” we may fully obtain Thy grace and be found worthy one day to enjoy Thee for ever, the fulfilment of all good things, in heavenly joys. Who livest, etc.",
+          "english": "Let us pray. O most gracious Lord Jesus Christ, safest refuge of penitents, who didst find the repentance of Blessed Mary Magdalene so pleasing and acceptable that Thou didst not only forgive her sins, but also fill her heart with such sweetness that she watered Thy feet with most fervent tears, and her life amid the severest works of penance [printed terminarer: unresolved verb]. Grant, we beseech Thee, that we too [printed peccatorum nostrorum multitudinem perfecte agnoscentes turpitudinem, tuaque offensa ingemiscere graviter tecum serio contemplemur: unresolved construction concerning recognition of sins, their ugliness and lamenting offence], and may faithfully pursue those acts of conversion of heart and contrition of spirit [printed illa dulcissima: unresolved connection]: “Thy sins are forgiven thee”; may fully obtain Thy grace, and be found worthy one day to enjoy Thee for ever, the fulfilment of all good things, in heavenly joys. Who livest, etc.",
           "sourcePages": [
             568
           ],
@@ -1603,7 +1630,16 @@
           "alignment": "reviewed",
           "id": "commendatio-b0005",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “terminarer” and has irregular, incomplete syntax around the acknowledgement of sins and “illa dulcissima.” The English provisionally gives a coherent petition around the intelligible clauses; the source requires editorial resolution."
+          "editorialNote": "10 October 2026: actual rendered source personally inspected. P.568 prints terminarer and incomplete construction around agnoscentes turpitudinem, tuaque offensa ingemiscere and illa dulcissima. No inferred connective or coherent repaired petition is certified. Previous prepared English and provenance retained; uncertain source stays pending.",
+          "originalPreparedEnglish": "Let us pray. O most gracious Lord Jesus Christ, safest refuge of penitents, who didst find the repentance of Blessed Mary Magdalene so pleasing and acceptable that Thou didst not only forgive her sins, but also fill her heart with such sweetness that she watered Thy feet with most fervent tears and ended her life amid the severest works of penance: grant, we beseech Thee, that we too, fully acknowledging the multitude and ugliness of our sins, may earnestly ponder with Thee and deeply lament the offence given to Thee; and faithfully practise those acts of conversion of heart and contrition of spirit, that through those sweetest words, “Thy sins are forgiven thee,” we may fully obtain Thy grace and be found worthy one day to enjoy Thee for ever, the fulfilment of all good things, in heavenly joys. Who livest, etc.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              568
+            ],
+            "review": "editorial-review-complete"
+          }
         }
       ]
     }
@@ -1617,6 +1653,14 @@
         567,
         568
       ]
+    },
+    {
+      "pages": [
+        566,
+        567,
+        568
+      ],
+      "text": "10 October 2026: every rendered page and all 68 source/English passages personally compared, including eight hours, all hymns/antiphons, introductory attribution, continuations and seven same-office prayer expansions. Vespers asyndetic list verified without adding Latin conjunction. Four actual irregular source passages remain pending with explicit brackets instead of conjectural fluent repairs; previous prepared English and provenance retained."
     }
   ]
 }

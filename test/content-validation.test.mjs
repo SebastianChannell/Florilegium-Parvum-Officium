@@ -3,6 +3,17 @@ import assert from 'node:assert/strict';
 import { validateContent, readContent, notice } from '../scripts/validate-content.mjs';
 const input=readContent();
 const fixture=()=>{ const x=structuredClone(input); return x; };
+test('source-reading reviews require matching records and checked book provenance',()=>{
+  let x=fixture(); x.sourceReadings.readings=[];
+  assert(validateContent(x).errors.some(e=>/Invalid source-reading evidence/.test(e.message)));
+  x=fixture(); x.sourceReadings.readings[0].reading='Unverified replacement';
+  assert(validateContent(x).errors.some(e=>/manifest differs/.test(e.message)));
+  x=fixture(); x.sourceReadings.books[0].sha256='missing';
+  assert(validateContent(x).errors.some(e=>/book provenance/.test(e.message)));
+  x=fixture(); const b=x.documents.get('little-office-of-the-holy-ghost').sections.flatMap(s=>s.blocks).find(b=>b.sourceReading);
+  b.sourceReading.attachedReading='Text absent from the source';
+  assert(validateContent(x).errors.some(e=>/Invalid source-reading evidence/.test(e.message)));
+});
 test('all 82 visible offices are inventoried, including the unindexed p.86 office',()=>{
   const report=validateContent(input);
   assert.equal(report.totals.offices,82);
@@ -52,4 +63,21 @@ test('empty sections, broken links and invalid page provenance are rejected',()=
   assert(messages.some(m=>/Unresolved assembly/.test(m)));
   assert(messages.some(m=>/Empty section/.test(m)));
   assert(messages.some(m=>/Page outside office/.test(m)));
+});
+test('assembly relocation targets and selector labels must remain valid',()=>{
+ const x=fixture();const doc=x.documents.get('little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-the-brothers-of-the-blessed-virgin-mary-of-mount-carmel-carmelites');
+ doc.sections[0].assembly={exclude:['absent'],insertBefore:{absent:['missing']}};
+ doc.variants[0].label='';doc.variants[0].title='';
+ const messages=validateContent(x).errors.map(e=>e.message);
+ assert(messages.some(m=>/Assembly exclusion is absent/.test(m)));
+ assert(messages.some(m=>/Assembly insertion anchor is absent/.test(m)));
+ assert(messages.some(m=>/Unresolved assembly/.test(m)));
+ assert(messages.some(m=>/Variant lacks visible labels/.test(m)));
+});
+test('an assembly-only section requires its actual printed heading and source pages',()=>{
+ const x=fixture();const doc=x.documents.get('little-office-of-the-blessed-virgin-mary-according-to-the-carthusian-usage');
+ const section=doc.sections.find(s=>s.id==='missae-siccae');
+ assert(!validateContent(x).errors.length);
+ section.sourceHeading='Unprinted heading';section.sourcePages=[];
+ assert(validateContent(x).errors.some(e=>/Assembly-only section lacks its printed heading and source pages/.test(e.message)));
 });

@@ -30,7 +30,7 @@
   "status": {
     "extraction": "reviewed",
     "translation": "complete-prepared",
-    "verification": "source-reading-pending"
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -256,8 +256,16 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “famularum famulorumque tuarum,” with a mismatched possessive ending. The prepared English renders Thy servants of both sexes; the printed Latin is retained."
+          "verification": "visual-review",
+          "editorialNote": "The visually checked cited 1879 Coeleste Palmetum, p.264, prints the servants in the order “famulorum famularumque tuarum”; the attached PDF reverses the two nouns. English retains both men and women as Thy servants. The printed possessive ending remains unchanged.",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 294,
+            "printedPage": "264",
+            "reading": "animabus famulorum famularumque tuarum",
+            "attachedReading": "animabus famularum famulorumque tuarum"
+          }
         },
         {
           "type": "prayer",
@@ -474,7 +482,7 @@
         {
           "type": "prayer",
           "source": "O magne Pater, nomine Misericordiarum, Facturas tuas respice, Sed timorem remorum: Poenas sunt quidem merita, Te tamen non negabam; Hinc locus sit clementiae: Ignosce, quod peccaram.",
-          "english": "O great Father, named Father of mercies, look upon Thy creatures. [Unclear printed line: “Sed timorem remorum.”] I have indeed deserved punishment, yet I did not deny Thee. Therefore let there be room for mercy; forgive the sins I committed.",
+          "english": "O great Father, named Father of mercies, look upon Thy creatures, but forget Thine anger. They have indeed deserved punishment, yet they did not deny Thee. Therefore let there be room for mercy; forgive their sins.",
           "sourcePages": [
             611
           ],
@@ -488,8 +496,17 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0005",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF’s line “Sed timorem remorum” does not supply an intelligible continuation here. It is explicitly left untranslated within the English row. Other irregular case endings are rendered provisionally; the printed Latin remains for editorial resolution."
+          "verification": "visual-review",
+          "editorialNote": "The cited 1879 edition, p.264, visibly prints “Sed immemor irarum” and plural verbs “negarunt ... peccarunt”, rather than the attached “Sed timorem remorum ... negabam ... peccaram”. The English follows the verified edition, addressing God on behalf of the souls; it replaces the former untranslated line and first-person conjecture. Attached Latin is preserved.",
+          "originalPreparedEnglish": "O great Father, named Father of mercies, look upon Thy creatures. [Unclear printed line: “Sed timorem remorum.”] I have indeed deserved punishment, yet I did not deny Thee. Therefore let there be room for mercy; forgive the sins I committed.",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 294,
+            "printedPage": "264",
+            "reading": "Sed immemor irarum. Poenas sunt quidem meritae, Te tamen non negarunt; Hinc locus sit clementiae: Ignosce, quod peccarunt.",
+            "attachedReading": "Sed timorem remorum: Poenas sunt quidem merita, Te tamen non negabam; Hinc locus sit clementiae: Ignosce, quod peccaram."
+          }
         },
         {
           "type": "prayer",
@@ -819,7 +836,7 @@
         {
           "type": "prayer",
           "source": "O consolator optime, O dulcis Paraclete, Hos tu deserto respice, Et indignos quaerite",
-          "english": "O best of comforters, O sweet Paraclete, look upon these abandoned souls, and seek out the unworthy,",
+          "english": "O best of comforters, O sweet Paraclete, look upon these abandoned souls, unworthy of rest,",
           "sourcePages": [
             612
           ],
@@ -833,8 +850,17 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0005",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “Hos tu deserto respice, / Et indignos quaerite,” with irregular grammar and a change of verb number. The English provisionally understands a petition for the abandoned and unworthy; the printed Latin remains."
+          "verification": "visual-review",
+          "editorialNote": "The cited 1879 edition, p.265, visibly prints “desertos” (abandoned) and “quiete” (rest), corresponding to the attached “deserto” and “quaerite”. “Et indignos quiete” continues the description of the souls; it is not an imperative to seek them. The following stanza supplies the petition “dona” (grant). English follows the checked reading; attached Latin remains.",
+          "originalPreparedEnglish": "O best of comforters, O sweet Paraclete, look upon these abandoned souls, and seek out the unworthy,",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 295,
+            "printedPage": "265",
+            "reading": "Hos tu desertos respice, Et indignos quiete",
+            "attachedReading": "Hos tu deserto respice, Et indignos quaerite"
+          }
         },
         {
           "type": "prayer",
@@ -1199,7 +1225,7 @@
         {
           "type": "prayer",
           "source": "Plorem desideria Et vestro excitatae: Optata refrigeria Clientibus curate.",
-          "english": "Stir up their longing with your prayer, and procure the desired refreshment for your clients.",
+          "english": "Stir up the longing of the devout, and your own; procure the desired refreshment for your clients.",
           "sourcePages": [
             612
           ],
@@ -1213,8 +1239,17 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0006",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints the malformed lines “Plorem desideria / Et vestro excitatae.” The English provisionally understands an appeal to stir their longing through prayer; the printed Latin remains."
+          "verification": "visual-review",
+          "editorialNote": "The cited 1879 edition, p.265, visibly prints “Piorum desideria / Et vestrum excitate”. The English follows this reading as the longing of the devout and the guardians’ own longing, withdrawing the invented phrase “with your prayer”. Attached Latin remains unchanged.",
+          "originalPreparedEnglish": "Stir up their longing with your prayer, and procure the desired refreshment for your clients.",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 295,
+            "printedPage": "265",
+            "reading": "Piorum desideria Et vestrum excitate:",
+            "attachedReading": "Plorem desideria Et vestro excitatae:"
+          }
         },
         {
           "type": "prayer",

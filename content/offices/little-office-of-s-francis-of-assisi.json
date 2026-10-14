@@ -60,7 +60,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -81,7 +82,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -102,7 +104,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -123,7 +126,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -144,7 +148,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -165,7 +170,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0006",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "rubric",
@@ -186,12 +192,13 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
           "source": "Venite omnes pie mentes, Venite sinceri clientes, Franciscum Filii laudemus, Eique nunc honorem demus.",
-          "english": "Come, all devout minds;\nCome, sincere clients;\nLet us, his sons, praise Francis [Filii is ambiguous],\nAnd now give him honor.",
+          "english": "Come piously, all ye minds; come, sincere clients; sons, let us praise Francis, and now give him honour.",
           "sourcePages": [
             491
           ],
@@ -205,14 +212,23 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0008",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "poetry": true,
-          "editorialNote": "The printed Latin has an irregular or defective reading, explicitly retained in the prepared English as provisional or unresolved; no Latin emendation is made."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Pie is an adverb qualifying Venite, not a malformed adjective requiring piae. Filii is regular plural vocative/nominal address, sons, not an incomplete possessive or unknown form. Both readings verified in the actual hymn. Original prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "Come, all devout minds;\nCome, sincere clients;\nLet us, his sons, praise Francis [Filii is ambiguous],\nAnd now give him honor.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Quem humilitas exaltavit, Veraque sanctitas beavit, Qui in angeli altam sedem Lectus per luciferi caedem.",
-          "english": "Whom humility exalted\nAnd true holiness made blessed,\nChosen for the angel’s lofty seat\nThrough Lucifer’s fall [printed Lectus is uncertain].",
+          "english": "Whom humility exalted\nAnd true holiness made blessed,\nChosen for the angel’s lofty seat\nThrough Lucifer’s slaughter.",
           "sourcePages": [
             491
           ],
@@ -226,9 +242,18 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0009",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "poetry": true,
-          "editorialNote": "The printed Latin has an irregular or defective reading, explicitly retained in the prepared English as provisional or unresolved; no Latin emendation is made."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Lectus is the regular perfect passive participle of lego, chosen, with an ordinary omitted copula in the relative clause; caedem remains slaughter, not an unprinted fall noun. The devotional claim is translated as printed without independent historical certification. Original prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "Whom humility exalted\nAnd true holiness made blessed,\nChosen for the angel’s lofty seat\nThrough Lucifer’s fall [printed Lectus is uncertain].",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -269,12 +294,13 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
           "source": "O Francisce! O speculum verae humilitatis! omnem a nostris cordibus abjice superbiam, nobis que veram cordibus impera humilitatem.",
-          "english": "O Francis, mirror of true humility, cast all pride from our hearts and obtain true humility for our hearts.",
+          "english": "O Francis, mirror of true humility, cast all pride from our hearts and enjoin true humility upon our hearts.",
           "sourcePages": [
             491
           ],
@@ -288,7 +314,17 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0012",
-          "verification": "visual-review"
+          "verification": "visual-review",
+          "originalPreparedEnglish": "O Francis, mirror of true humility, cast all pride from our hearts and obtain true humility for our hearts.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              491
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Impera retains the command/enjoin verb actually printed, without replacing it by impetra. Original prepared English/provenance archived; all Latin unchanged."
         },
         {
           "type": "prayer",
@@ -329,7 +365,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0014",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -350,7 +387,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0015",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -401,7 +439,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -422,7 +461,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -443,7 +483,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -464,7 +505,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "rubric",
@@ -485,7 +527,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -568,7 +611,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -628,7 +672,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0012",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -649,7 +694,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0013",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -699,7 +745,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -720,7 +767,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -741,7 +789,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -762,7 +811,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "rubric",
@@ -783,7 +833,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -866,7 +917,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -926,7 +978,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0012",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -947,12 +1000,13 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0013",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
           "source": "Deus, qui desertum a parente Franciscum, et teque sincere et filiali invocantem in patronum tuum praesidium recipere dignatus es: concede nobis filiis tuis, tibi filiali confidentia semper adhaerere, atque sub paterno tuo praesidio secure vivere. Per Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in saecula saeculorum. Amen.",
-          "english": "O God, Thou didst deign to receive Francis, forsaken by his parent and invoking Thee sincerely and as a son, into Thy fatherly protection [the printed clause is defective]. Grant us, Thy children, always to cling to Thee with filial confidence and to live securely beneath Thy paternal protection. Through our Lord Jesus Christ Thy Son, who lives and reigns with Thee forever and ever. Amen.",
+          "english": "O God, Thou didst deign to receive Francis, forsaken by his parent and [printed et teque sincere et filiali invocantem in patronum tuum praesidium: unresolved qualification/patron/protection construction]. Grant us, Thy children, always to cling to Thee with filial confidence and to live securely beneath Thy paternal protection. Through our Lord Jesus Christ Thy Son, who lives and reigns with Thee forever and ever. Amen.",
           "sourcePages": [
             492
           ],
@@ -967,7 +1021,16 @@
           "alignment": "reviewed",
           "id": "prime-b0014",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed Latin has an irregular or defective reading, explicitly retained in the prepared English as provisional or unresolved; no Latin emendation is made."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. No unprinted paternum is supplied through fatherly protection. The actual patronum/praesidium wording remains unresolved. Original prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "O God, Thou didst deign to receive Francis, forsaken by his parent and invoking Thee sincerely and as a son, into Thy fatherly protection [the printed clause is defective]. Grant us, Thy children, always to cling to Thee with filial confidence and to live securely beneath Thy paternal protection. Through our Lord Jesus Christ Thy Son, who lives and reigns with Thee forever and ever. Amen.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              492
+            ],
+            "review": "editorial-review-complete"
+          }
         }
       ]
     },
@@ -999,7 +1062,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1020,7 +1084,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1041,7 +1106,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1062,7 +1128,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "rubric",
@@ -1083,7 +1150,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1166,7 +1234,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1226,7 +1295,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0012",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1247,7 +1317,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0013",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1297,7 +1368,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1318,7 +1390,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1339,7 +1412,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1360,7 +1434,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "rubric",
@@ -1381,7 +1456,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1464,7 +1540,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1525,7 +1602,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0012",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1546,12 +1624,13 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0013",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
           "source": "Deus, qui Sancto Francisco Seraphico pauperi quidem in hoc mundo, diviti vero in gratia tua thesaurum verae evangelicae paupertatis indicasti: tribue nobis veram heroicam spiritus paupertatem, ut cujus terrena omnia despicamus, et non aliam quam in coelis haereditatem devote suspiremus, atque glorioso obtineamus. Per Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in saecula saeculorum. Amen.",
-          "english": "O God, to Saint Francis the Seraphic, poor indeed in this world but rich in Thy grace, Thou didst reveal the treasure of true evangelical poverty. Grant us true and heroic poverty of spirit, that we may despise all earthly things [the printed cujus is irregular], devoutly long for no inheritance except in heaven, and obtain it gloriously [the printed glorioso is irregular]. Through our Lord Jesus Christ Thy Son, who lives and reigns with Thee forever and ever. Amen.",
+          "english": "O God, to Saint Francis the Seraphic, poor indeed in this world but rich in Thy grace, Thou didst reveal the treasure of true evangelical poverty. Grant us true and heroic poverty of spirit, that [printed ut cujus terrena omnia despicamus: unresolved genitive reference concerning despising earthly things], devoutly long for no inheritance except in heaven, and obtain it [printed glorioso: unresolved case/reference]. Through our Lord Jesus Christ Thy Son, who lives and reigns with Thee forever and ever. Amen.",
           "sourcePages": [
             493
           ],
@@ -1566,7 +1645,16 @@
           "alignment": "reviewed",
           "id": "sext-b0014",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed Latin has an irregular or defective reading, explicitly retained in the prepared English as provisional or unresolved; no Latin emendation is made."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Cujus and glorioso are complete forms but their references are not supplied through a repaired construction or unprinted adverb. Original prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "O God, to Saint Francis the Seraphic, poor indeed in this world but rich in Thy grace, Thou didst reveal the treasure of true evangelical poverty. Grant us true and heroic poverty of spirit, that we may despise all earthly things [the printed cujus is irregular], devoutly long for no inheritance except in heaven, and obtain it gloriously [the printed glorioso is irregular]. Through our Lord Jesus Christ Thy Son, who lives and reigns with Thee forever and ever. Amen.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              493
+            ],
+            "review": "editorial-review-complete"
+          }
         }
       ]
     },
@@ -1598,7 +1686,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1619,7 +1708,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1640,7 +1730,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1661,7 +1752,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "rubric",
@@ -1682,7 +1774,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1764,7 +1857,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1826,7 +1920,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0012",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1847,7 +1942,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0013",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1897,7 +1993,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1918,7 +2015,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1939,7 +2037,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -1960,7 +2059,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "rubric",
@@ -1981,7 +2081,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -2006,7 +2107,7 @@
         {
           "type": "prayer",
           "source": "Te calefasti parvum mundum, Abjecisti in profundum; Nosti quod sit caro coenum, Quo delectat, sit venenum.",
-          "english": "[The printed Te calefasti parvum mundum is unresolved.]\nThou didst cast into the depths;\nThou knewest that the flesh is mire,\nAnd that in what it delights is poison [construction uncertain].",
+          "english": "Thou didst warm thyself, a little world; thou didst cast into the depths. Thou knowest that flesh is mire; [printed Quo delectat, sit venenum: unresolved connection concerning delight and poison].",
           "sourcePages": [
             494
           ],
@@ -2022,7 +2123,16 @@
           "id": "vespers-b0007",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The printed Latin has an irregular or defective reading, explicitly retained in the prepared English as provisional or unresolved; no Latin emendation is made."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Te and parvum mundum can stand in accusative apposition with calefasti, the ordinary verb warm. The literal little-world imagery is retained without inserting a conventional renunciation narrative. Quo delectat sit venenum remains contextually unresolved; no unprinted quod substituted. Original prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "[The printed Te calefasti parvum mundum is unresolved.]\nThou didst cast into the depths;\nThou knewest that the flesh is mire,\nAnd that in what it delights is poison [construction uncertain].",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              494
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -2064,7 +2174,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -2125,7 +2236,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0012",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -2146,7 +2258,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0013",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -2197,7 +2310,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -2218,7 +2332,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -2239,7 +2354,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -2260,7 +2376,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -2281,7 +2398,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -2302,7 +2420,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0006",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "rubric",
@@ -2323,7 +2442,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -2406,7 +2526,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0011",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -2466,7 +2587,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0014",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -2487,7 +2609,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0015",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -2577,7 +2700,8 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -2622,7 +2746,7 @@
         {
           "type": "prayer",
           "source": "Inter electos sine fine gaudet, Osculum sanctae recipitque pacis, Sortis aeternae meruitque salutis Exsultat in aevum.",
-          "english": "Among the elect he rejoices without end,\nReceives the kiss of holy peace,\nAnd, worthy of the lot of eternal salvation,\nExults forever [printed syntax irregular].",
+          "english": "Among the elect he rejoices without end, and receives the kiss of holy peace, and has merited the kiss of the eternal lot of salvation; he exults for ever.",
           "sourcePages": [
             495
           ],
@@ -2636,14 +2760,23 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0006",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "poetry": true,
-          "editorialNote": "The printed Latin has an irregular or defective reading, explicitly retained in the prepared English as provisional or unresolved; no Latin emendation is made."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Meruit is a regular perfect finite verb, has merited, sharing the earlier accusative Osculum as object. Sortis aeternae salutis remains genitive qualifying that kiss; no unprinted accusative sortem or adjective worthy supplied. This literal poetic metaphor does not need a Latin repair. Original prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "Among the elect he rejoices without end,\nReceives the kiss of holy peace,\nAnd, worthy of the lot of eternal salvation,\nExults forever [printed syntax irregular].",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Propter ingentis meriti valorem, Hactenus multi potitiuntur aegri Viribus morbi domitis, salute Suppeditata.",
-          "english": "By the power of his great merit,\nMany sick have since received,\nThe forces of disease subdued,\nHealth supplied [potitiuntur is irregular].",
+          "english": "By the power of his great merit,\nMany sick have since [printed potitiuntur: unresolved verb],\nThe forces of disease subdued,\nHealth supplied.",
           "sourcePages": [
             495
           ],
@@ -2659,7 +2792,16 @@
           "id": "commendatio-b0007",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The printed Latin has an irregular or defective reading, explicitly retained in the prepared English as provisional or unresolved; no Latin emendation is made."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. The verb potitiuntur remains explicit at its location; received is not substituted as a conjectural finite verb. Original prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "By the power of his great merit,\nMany sick have since received,\nThe forces of disease subdued,\nHealth supplied [potitiuntur is irregular].",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -2740,7 +2882,8 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0011",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -2761,7 +2904,8 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0012",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed source letters, signs and English verified at their actual extent. "
         },
         {
           "type": "prayer",
@@ -2816,7 +2960,7 @@
         {
           "type": "prayer",
           "source": "Me lecte Patrone S. Francisce Seraphice, protector omnium te invocantium, praeprimis clientum tuorum, Ecce ego N. N. eligo te in praesentia Sanctissimae Trinitatis, S. Mariae, S. Josephi, totiusque coelestis curiae in dilectissimum meum patrem, patronum, et advocatum. Rogoque, impetra mihi a Deo gratiam, ut constanter in virtutibus ad imitationem tuam maxime in profundissima humilitate, abnegatione propria in serventi erga Deum amore me exerceam, et per intercessionem tuam felicem vitae finem obtineam.",
-          "english": "My chosen patron, Saint Francis the Seraphic, protector of all who invoke thee, especially thy clients: behold, I, N. N., choose thee in the presence of the most holy Trinity, Saint Mary, Saint Joseph, and the entire heavenly court as my most beloved father, patron, and advocate. I ask thee to obtain for me from God grace to practice virtues steadfastly in imitation of thee, especially deepest humility, self-denial, and fervent love toward God [serventi is an irregular printed form], and through thy intercession to obtain a happy end of life.",
+          "english": "My chosen patron, Saint Francis the Seraphic, protector of all who invoke thee, especially thy clients: behold, I, N. N., choose thee in the presence of the most holy Trinity, Saint Mary, Saint Joseph, and the entire heavenly court as my most beloved father, patron, and advocate. I ask thee to obtain for me from God grace to practice virtues steadfastly in imitation of thee, especially deepest humility, self-denial, and [printed serventi: unresolved qualifier] love toward God, and through thy intercession to obtain a happy end of life.",
           "sourcePages": [
             495,
             496
@@ -2833,7 +2977,17 @@
           "alignment": "reviewed",
           "id": "formula-s-franciscum-seraphicum-in-b0002",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed Latin has an irregular or defective reading, explicitly retained in the prepared English as provisional or unresolved; no Latin emendation is made."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Actual serventi is not silently replaced by ferventi through fervent love. Original prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "My chosen patron, Saint Francis the Seraphic, protector of all who invoke thee, especially thy clients: behold, I, N. N., choose thee in the presence of the most holy Trinity, Saint Mary, Saint Joseph, and the entire heavenly court as my most beloved father, patron, and advocate. I ask thee to obtain for me from God grace to practice virtues steadfastly in imitation of thee, especially deepest humility, self-denial, and fervent love toward God [serventi is an irregular printed form], and through thy intercession to obtain a happy end of life.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              495,
+              496
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -2964,7 +3118,7 @@
         {
           "type": "prayer",
           "source": "Benignissime Seraphim Sancte Pater Francisce! nos miseri peccatores fugimus ad te, et coram te genua flectimus, nos totos tibi tradimus, commonefque magni illius amoris quem erga peccatores miseros habuisti, ita ut a Christo nihil aliud quam peccatorum alienorum remissionem petieris, vi cujus innumerabiles animae aeterna beatitudine perfruuntur.",
-          "english": "Most kindly seraph, holy Father Francis, we miserable sinners flee to thee and bend our knees before thee, giving ourselves wholly to thee. Remember that great love thou hadst for miserable sinners [the printed commonefque is defective], so that thou didst ask Christ for nothing other than the forgiveness of others’ sins, through which countless souls enjoy eternal blessedness.",
+          "english": "Most kindly seraph, holy Father Francis, we miserable sinners flee to thee and bend our knees before thee, giving ourselves wholly to thee. [printed commonefque: unresolved verb] of that great love thou hadst for miserable sinners, so that thou didst ask Christ for nothing other than the forgiveness of others’ sins, through which countless souls enjoy eternal blessedness.",
           "sourcePages": [
             496
           ],
@@ -2979,7 +3133,16 @@
           "alignment": "reviewed",
           "id": "devota-oratio-ad-s-patrem-franciscum-b0004",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed Latin has an irregular or defective reading, explicitly retained in the prepared English as provisional or unresolved; no Latin emendation is made."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Printed commonefque remains explicitly unresolved rather than an invented remember command. Original prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "Most kindly seraph, holy Father Francis, we miserable sinners flee to thee and bend our knees before thee, giving ourselves wholly to thee. Remember that great love thou hadst for miserable sinners [the printed commonefque is defective], so that thou didst ask Christ for nothing other than the forgiveness of others’ sins, through which countless souls enjoy eternal blessedness.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              496
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -3257,7 +3420,7 @@
         {
           "type": "prayer",
           "source": "Omnes hae devotionis possint per quinque dies Veneris addita sacra confessione et communione ante altare, vel saltem imaginem Sancti Patris Francisci peragi, ad obtinendas varias a Deo gratias per intercessionem ejusdem.",
-          "english": "All these devotions may be performed over five Fridays, with sacramental confession and Communion added, before an altar or at least an image of holy Father Francis, to obtain various graces from God through his intercession [printed agreement irregular].",
+          "english": "[Printed Omnes hae devotionis: unresolved noun agreement] may be performed over five Fridays, with sacramental confession and Communion added, before an altar or at least an image of holy Father Francis, to obtain various graces from God through his intercession.",
           "sourcePages": [
             497
           ],
@@ -3272,7 +3435,16 @@
           "alignment": "reviewed",
           "id": "devota-oratio-ad-s-patrem-franciscum-b0019",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed Latin has an irregular or defective reading, explicitly retained in the prepared English as provisional or unresolved; no Latin emendation is made."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. The actual devotionis case does not print the expected nominative plural noun; no unprinted ending supplied. Original prepared English/provenance archived; all Latin unchanged.",
+          "originalPreparedEnglish": "All these devotions may be performed over five Fridays, with sacramental confession and Communion added, before an altar or at least an image of holy Father Francis, to obtain various graces from God through his intercession [printed agreement irregular].",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              497
+            ],
+            "review": "editorial-review-complete"
+          }
         }
       ]
     }
@@ -3290,6 +3462,18 @@
         496,
         497
       ]
+    },
+    {
+      "pages": [
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497
+      ],
+      "text": "10 October 2026: all seven rendered pages and all 153 passages personally compared, including Elenchus vitae attribution/header date, eight actual hours and their distinct collects, Commendatio/hymn, patron-selection formula, all Devota prayers, five-wounds/five-Fridays rubric and actual Pater/Ave incipits. 74 pending passages verified, including adverb pie/vocative Filii, regular Lectus and finite meruit sharing osculum. Eight source-blocked passages remain explicitly bracketed; all Latin unchanged, original prepared English/provenance archived. Printed Impera retains enjoin; calefasti retains warm rather than an unprinted renunciation verb."
     }
   ]
 }

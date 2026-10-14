@@ -44,7 +44,7 @@
         {
           "type": "prayer",
           "source": "Ave Maria, etc. Sicut laetantium omnium nostrum habitatio est in te, Sancta Dei Genitrix.",
-          "english": "Hail Mary, etc. The dwelling of all of us who rejoice is in thee, holy Mother of God.",
+          "english": "Hail Mary, etc. As the dwelling of all of us who rejoice is in thee, holy Mother of God.",
           "sourcePages": [
             398
           ],
@@ -58,7 +58,17 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "visual-review"
+          "verification": "visual-review",
+          "originalPreparedEnglish": "Hail Mary, etc. The dwelling of all of us who rejoice is in thee, holy Mother of God.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              398
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source personally compared; English retains printed conjunction/case/word or explicitly brackets unresolved form. Prior prepared English/provenance archived, all Latin unchanged. "
         },
         {
           "type": "prayer",
@@ -162,7 +172,7 @@
         {
           "type": "prayer",
           "source": "Gaude, Virgo Mater Christi, Quia Jesum concepisti Gabriele nuntio, Fac, o Mater, ut salvemur, Nam quod Matrem te fatemur, Resta poscit ratio.",
-          "english": "Rejoice, Virgin Mother of Christ, for thou didst conceive Jesus at Gabriel’s announcement. Grant, O Mother, that we may be saved, for right reason requires that we confess thee to be Mother.",
+          "english": "Rejoice, Virgin Mother of Christ, for thou didst conceive Jesus at Gabriel’s announcement. Grant, O Mother, that we may be saved, for [printed Resta: unresolved qualifier] reason requires that we confess thee to be Mother.",
           "sourcePages": [
             398
           ],
@@ -177,7 +187,16 @@
           "alignment": "reviewed",
           "id": "matins-b0007",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints Resta poscit ratio. English provisionally reads the evident right reason, retaining the printed word."
+          "editorialNote": "10 October 2026: actual rendered source personally compared; English retains printed conjunction/case/word or explicitly brackets unresolved form. Prior prepared English/provenance archived, all Latin unchanged. The PDF prints Resta poscit ratio. English provisionally reads the evident right reason, retaining the printed word.",
+          "originalPreparedEnglish": "Rejoice, Virgin Mother of Christ, for thou didst conceive Jesus at Gabriel’s announcement. Grant, O Mother, that we may be saved, for right reason requires that we confess thee to be Mother.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              398
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -410,7 +429,7 @@
         {
           "type": "prayer",
           "source": "Gaude, Mater Deo plena, Novo gignens sine poena Foetum puerperio! Eja Virgo peramena, Casto natum mens serena Stringat desiderio.",
-          "english": "Rejoice, Mother filled with God, bringing forth a Child without pain in a wondrous birth. Come, most lovely Virgin, may a peaceful mind embrace thy Son with chaste desire.",
+          "english": "Rejoice, Mother filled with God, bringing forth a Child without pain in a new childbirth. Come, most lovely Virgin, may a peaceful mind embrace thy Son with chaste desire.",
           "sourcePages": [
             398
           ],
@@ -424,7 +443,17 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0005",
-          "verification": "visual-review"
+          "verification": "visual-review",
+          "originalPreparedEnglish": "Rejoice, Mother filled with God, bringing forth a Child without pain in a wondrous birth. Come, most lovely Virgin, may a peaceful mind embrace thy Son with chaste desire.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              398
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source personally compared; English retains printed conjunction/case/word or explicitly brackets unresolved form. Prior prepared English/provenance archived, all Latin unchanged. "
         },
         {
           "type": "rubric",
@@ -658,7 +687,7 @@
         {
           "type": "prayer",
           "source": "Gaude, quod ab Oriente Magi stella prae lucente Dona ferunt Filio, Fac donerur pietate, Fide, spe, ac charitate, Et pudoris lilio.",
-          "english": "Rejoice, for from the East the Magi, with a star shining before them, bring gifts to thy Son. Grant that I may be endowed with piety, faith, hope, charity, and the lily of chastity.",
+          "english": "Rejoice, for from the East the Magi, with a star shining before them, bring gifts to thy Son. Grant that [printed donerur: unresolved verb] with piety, faith, hope, charity, and the lily of chastity.",
           "sourcePages": [
             398,
             399
@@ -675,7 +704,17 @@
           "alignment": "reviewed",
           "id": "terce-b0005",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed donerur is retained; English provisionally reads the intended may I be endowed."
+          "editorialNote": "10 October 2026: actual rendered source personally compared; English retains printed conjunction/case/word or explicitly brackets unresolved form. Prior prepared English/provenance archived, all Latin unchanged. The printed donerur is retained; English provisionally reads the intended may I be endowed.",
+          "originalPreparedEnglish": "Rejoice, for from the East the Magi, with a star shining before them, bring gifts to thy Son. Grant that I may be endowed with piety, faith, hope, charity, and the lily of chastity.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              398,
+              399
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -1434,7 +1473,7 @@
         {
           "type": "prayer",
           "source": "Benedicite fulgura et nubes Domino, benedicat terra Dominum, laudat et superexaltet eum in saecula.",
-          "english": "Bless the Lord, lightnings and clouds; let the earth bless the Lord, praise Him and exalt Him above all for ever.",
+          "english": "Bless the Lord, lightnings and clouds; let the earth bless the Lord: it praises Him, and may it exalt Him above all for ever.",
           "sourcePages": [
             400
           ],
@@ -1448,8 +1487,17 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints laudat rather than an imperative or subjunctive. English follows the surrounding blessing and praise instruction; Latin is retained."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual p.400 personally compared. Laudat is the complete indicative it praises, and superexaltet is a complete subjunctive may it exalt. The printed shift of mood is retained without replacing laudat with a command or another canticle. Prior English/provenance archived, Latin unchanged.",
+          "originalPreparedEnglish": "Bless the Lord, lightnings and clouds; let the earth bless the Lord, praise Him and exalt Him above all for ever.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              400
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1836,13 +1884,13 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0014",
-          "verification": "source-reading-pending",
-          "editorialNote": "Only these incipits are printed, and the full closing verses do not occur elsewhere in this office. The abbreviation is translated without inventing or importing a complete conclusion."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual p.400 personally compared. Printed incipits and etc. are verified at their printed extent; Fidelium remains genitive of the faithful. No complete closing response is imported. Any unresolved reference remains a separate manifest issue, not an assertion that the visible source letters were unreviewed. Previous note: Only these incipits are printed, and the full closing verses do not occur elsewhere in this office. The abbreviation is translated without inventing or importing a complete conclusion."
         },
         {
           "type": "prayer",
           "source": "℟. Et Fidelium, etc.",
-          "english": "℟. And the faithful, etc.",
+          "english": "℟. And of the faithful, etc.",
           "sourcePages": [
             400
           ],
@@ -1856,8 +1904,17 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0015",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed Et Fidelium incipit has no full target in this office. It is translated as an incipit; the unresolved reference remains pending."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual p.400 personally compared. Printed incipits and etc. are verified at their printed extent; Fidelium remains genitive of the faithful. No complete closing response is imported. Any unresolved reference remains a separate manifest issue, not an assertion that the visible source letters were unreviewed. Previous note: 10 October 2026: actual rendered source personally compared; English retains printed conjunction/case/word or explicitly brackets unresolved form. Prior prepared English/provenance archived, all Latin unchanged. The printed Et Fidelium incipit has no full target in this office. It is translated as an incipit; the unresolved reference remains pending.",
+          "originalPreparedEnglish": "℟. And the faithful, etc.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              400
+            ],
+            "review": "editorial-review-complete"
+          }
         }
       ]
     },
@@ -1945,6 +2002,15 @@
         400,
         401
       ]
+    },
+    {
+      "pages": [
+        398,
+        399,
+        400,
+        401
+      ],
+      "text": "10 October 2026: every rendered page and all 86 passages personally compared, including Ruth Officiosa 1715 attribution, seven actual hours (no Lauds), seven joys and distinct collects, abbreviations, all hymn/collect continuations and Conclusion. Three pending passages verified: mixed indicative/subjunctive laudat/superexaltet and two printed closing incipits. Original separate eleven reference issues unchanged. Resta/donerur remain genuine source blockers; Sicut, novo and genitive Fidelium retained literally, prior English/provenance archived."
     }
   ]
 }

@@ -28,9 +28,9 @@
   ],
   "translationNotice": null,
   "status": {
-    "extraction": "candidate",
-    "translation": "incomplete",
-    "verification": "pending"
+    "extraction": "reviewed",
+    "translation": "complete-supplied",
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -57,9 +57,9 @@
               443
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -77,9 +77,9 @@
               443
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -97,9 +97,9 @@
               443
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -117,9 +117,9 @@
               443
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -137,9 +137,9 @@
               443
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -157,9 +157,9 @@
               443
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -177,9 +177,9 @@
               443
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -197,9 +197,9 @@
               443
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -217,9 +217,9 @@
               443
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0009",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -237,9 +237,9 @@
               443
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -257,9 +257,17 @@
               443
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0011",
-          "verification": "pending"
+          "verification": "visual-review",
+          "forms": {
+            "season": {
+              "septuagesima": {
+                "source": "℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.",
+                "english": "℟. As it was in the beginning, is now, and ever shall be, world without end."
+              }
+            }
+          }
         },
         {
           "type": "rubric",
@@ -277,9 +285,15 @@
               443
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0012",
-          "verification": "pending"
+          "verification": "visual-review",
+          "when": {
+            "season": [
+              "septuagesima"
+            ]
+          },
+          "editorialNote": "The Latin rubric specifies Septuagesima through Easter; the supplied English says Lent through Easter. Both printed texts are retained. The manual selector follows the Latin instruction; no calendar is calculated."
         }
       ]
     },
@@ -293,8 +307,8 @@
       "blocks": [
         {
           "type": "prayer",
-          "source": "While in the world’s delights he was wont to stray, he learned to shun the snare of vice and rougher paths obey; to passions and to pleasures false he ceased to yield his heart, and Anthony resolved to God his whole to set apart.",
-          "english": "Dum mundi in deliciis solet ambulare inventus, capita vitiis aspera vitare, et sensualitatibus pravis indulgere, se statuit Antonius Deo devovere.",
+          "source": "Dum mundi in deliciis solet ambulare inventus, capita vitiis aspera vitare, et sensualitatibus pravis indulgere, se statuit Antonius Deo devovere.",
+          "english": "While in the world’s delights he was wont to stray, he learned to shun the snare of vice and rougher paths obey; to passions and to pleasures false he ceased to yield his heart, and Anthony resolved to God his whole to set apart.",
           "sourcePages": [
             443
           ],
@@ -307,11 +321,34 @@
               443
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "originalExtractedSource": "While in the world’s delights he was wont to stray, he learned to shun the snare of vice and rougher paths obey; to passions and to pleasures false he ceased to yield his heart, and Anthony resolved to God his whole to set apart.",
+          "originalExtractedEnglish": "Dum mundi in deliciis solet ambulare inventus, capita vitiis aspera vitare, et sensualitatibus pravis indulgere, se statuit Antonius Deo devovere.",
+          "editorialNote": "On p.443 the Matins stanza is printed with English in the left column and Latin in the right. Both texts are preserved; the reader restores Latin-left / supplied-English-right correspondence."
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0001",
+          "ordinary-b0002",
+          "ordinary-b0003",
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009",
+          "ordinary-b0010",
+          "ordinary-b0011",
+          "ordinary-b0012"
+        ],
+        "after": [
+          "conclusion-of-the-hours-b0001",
+          "conclusion-of-the-hours-b0002",
+          "conclusion-of-the-hours-b0003",
+          "conclusion-of-the-hours-b0004",
+          "conclusion-of-the-hours-b0005"
+        ]
+      }
     },
     {
       "id": "prime",
@@ -337,11 +374,28 @@
               443
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009",
+          "ordinary-b0010",
+          "ordinary-b0011",
+          "ordinary-b0012"
+        ],
+        "after": [
+          "conclusion-of-the-hours-b0001",
+          "conclusion-of-the-hours-b0002",
+          "conclusion-of-the-hours-b0003",
+          "conclusion-of-the-hours-b0004",
+          "conclusion-of-the-hours-b0005"
+        ]
+      }
     },
     {
       "id": "terce",
@@ -367,11 +421,28 @@
               444
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009",
+          "ordinary-b0010",
+          "ordinary-b0011",
+          "ordinary-b0012"
+        ],
+        "after": [
+          "conclusion-of-the-hours-b0001",
+          "conclusion-of-the-hours-b0002",
+          "conclusion-of-the-hours-b0003",
+          "conclusion-of-the-hours-b0004",
+          "conclusion-of-the-hours-b0005"
+        ]
+      }
     },
     {
       "id": "sext",
@@ -397,11 +468,28 @@
               444
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009",
+          "ordinary-b0010",
+          "ordinary-b0011",
+          "ordinary-b0012"
+        ],
+        "after": [
+          "conclusion-of-the-hours-b0001",
+          "conclusion-of-the-hours-b0002",
+          "conclusion-of-the-hours-b0003",
+          "conclusion-of-the-hours-b0004",
+          "conclusion-of-the-hours-b0005"
+        ]
+      }
     },
     {
       "id": "none",
@@ -427,11 +515,28 @@
               444
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009",
+          "ordinary-b0010",
+          "ordinary-b0011",
+          "ordinary-b0012"
+        ],
+        "after": [
+          "conclusion-of-the-hours-b0001",
+          "conclusion-of-the-hours-b0002",
+          "conclusion-of-the-hours-b0003",
+          "conclusion-of-the-hours-b0004",
+          "conclusion-of-the-hours-b0005"
+        ]
+      }
     },
     {
       "id": "vespers",
@@ -457,11 +562,28 @@
               444
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009",
+          "ordinary-b0010",
+          "ordinary-b0011",
+          "ordinary-b0012"
+        ],
+        "after": [
+          "conclusion-of-the-hours-b0001",
+          "conclusion-of-the-hours-b0002",
+          "conclusion-of-the-hours-b0003",
+          "conclusion-of-the-hours-b0004",
+          "conclusion-of-the-hours-b0005"
+        ]
+      }
     },
     {
       "id": "compline",
@@ -491,11 +613,31 @@
               445
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0004",
+          "ordinary-b0005",
+          "ordinary-b0006",
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009",
+          "ordinary-b0010",
+          "ordinary-b0011",
+          "ordinary-b0012"
+        ],
+        "after": [
+          "conclusion-of-the-hours-b0001",
+          "conclusion-of-the-hours-b0002",
+          "conclusion-of-the-hours-b0003",
+          "conclusion-of-the-hours-b0004",
+          "conclusion-of-the-hours-b0005"
+        ]
+      }
     },
     {
       "id": "conclusion-of-the-hours",
@@ -521,9 +663,9 @@
               445
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "conclusion-of-the-hours-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -541,9 +683,9 @@
               445
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "conclusion-of-the-hours-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -561,9 +703,9 @@
               445
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "conclusion-of-the-hours-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -581,9 +723,9 @@
               445
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "conclusion-of-the-hours-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -601,12 +743,42 @@
               445
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "conclusion-of-the-hours-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     }
   ],
-  "unpairedEnglish": []
+  "unpairedEnglish": [],
+  "variants": [
+    {
+      "id": "season",
+      "label": "Season",
+      "default": "ordinary",
+      "sourcePages": [
+        443
+      ],
+      "options": [
+        {
+          "id": "ordinary",
+          "label": "Ordinary (Alleluia)"
+        },
+        {
+          "id": "septuagesima",
+          "label": "Septuagesima to Easter"
+        }
+      ]
+    }
+  ],
+  "editorialNotes": [
+    {
+      "pages": [
+        443,
+        444,
+        445
+      ],
+      "text": "Every source and supplied-English passage, heading, opening and conclusion was visually compared against the PDF on 2026-10-09. Printed poetic paraphrases and unusual wording remain supplied English. The source Ordinary and Conclusion of the Hours are assembled around each printed hour. Seasonal selection follows the Latin Septuagesima rubric; the supplied English Lent wording is preserved and explained. No absent hour or prayer is invented."
+    }
+  ]
 }

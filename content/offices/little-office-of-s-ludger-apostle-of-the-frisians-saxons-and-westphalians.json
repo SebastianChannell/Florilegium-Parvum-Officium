@@ -30,7 +30,7 @@
   "status": {
     "extraction": "reviewed",
     "translation": "complete-prepared",
-    "verification": "source-reading-pending"
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -226,8 +226,16 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0009",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints fauciata. English provisionally follows the intended wounded from the immediately following injury clause."
+          "verification": "visual-review",
+          "editorialNote": "Printed comparison edition, not certification of the cited office edition. The printed reading is “Sinu, cadens sauciata”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "sourceReading": {
+            "status": "verified-against-comparison-edition",
+            "book": "ludger-werdinenfi-after-1712",
+            "pdfPage": 6,
+            "printedPage": "unnumbered, A1 verso",
+            "reading": "Sinu, cadens sauciata",
+            "attachedReading": "Sinu, cadens fauciata"
+          }
         },
         {
           "type": "prayer",
@@ -504,13 +512,21 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0005",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed Instruct is retained; English follows the evidently intended instruction by Alcuin."
+          "verification": "visual-review",
+          "editorialNote": "Printed comparison edition, not certification of the cited office edition. The printed reading is “Instruit in Anglia”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "sourceReading": {
+            "status": "verified-against-comparison-edition",
+            "book": "ludger-werdinenfi-after-1712",
+            "pdfPage": 8,
+            "printedPage": "unnumbered, A2 verso",
+            "reading": "Instruit in Anglia",
+            "attachedReading": "Instruct in Anglia"
+          }
         },
         {
           "type": "prayer",
           "source": "Literarum jam thesauro, Et amoris dives auro; Quae Ludgere quaesivisti, Hoc Doctore consecrasti Sanctitatis culmina.",
-          "english": "Now rich in the treasure of learning and the gold of love, thou, Ludger, didst consecrate with this teacher the heights of holiness thou hadst sought.",
+          "english": "Now rich in the treasure of learning and the gold of love, thou, Ludger, didst ascend with this teacher the heights of holiness thou hadst sought.",
           "sourcePages": [
             555,
             556
@@ -526,7 +542,17 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0006",
-          "verification": "visual-review"
+          "verification": "visual-review",
+          "originalPreparedEnglish": "Now rich in the treasure of learning and the gold of love, thou, Ludger, didst consecrate with this teacher the heights of holiness thou hadst sought.",
+          "sourceReading": {
+            "status": "verified-against-comparison-edition",
+            "book": "ludger-werdinenfi-after-1712",
+            "pdfPage": 8,
+            "printedPage": "unnumbered, A2 verso",
+            "reading": "Hoc Doctore conscendisti Sanctitatis culmina",
+            "attachedReading": "Hoc Doctore consecrasti Sanctitatis culmina"
+          },
+          "editorialNote": "Printed comparison edition, not certification of the cited office edition. The printed reading is “Hoc Doctore conscendisti Sanctitatis culmina”. The attached Latin is retained; prepared English follows the documented reading where it differs."
         },
         {
           "type": "prayer",
@@ -571,7 +597,7 @@
         {
           "type": "prayer",
           "source": "Quasi oliva pullulans, et cypressus in altitudinem se extollens, in accipiendo ipsum stolam gloriae, et vestiri cum in consummatione virtutis.",
-          "english": "Like a budding olive and a cypress rising on high, when he receives the robe of glory and is clothed in the perfection of virtue.",
+          "english": "Like a budding olive and a cypress rising on high, as he receives the robe of glory and is clothed in the perfection of virtue.",
           "sourcePages": [
             556
           ],
@@ -585,8 +611,17 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0009",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed accipiendo ipsum and vestiri cum have defective agreement. English provisionally follows receiving the robe and being clothed in virtue."
+          "verification": "visual-review",
+          "editorialNote": "Printed comparison edition, not certification of the cited office edition. The printed reading is “in accipiendo ipsum stolam gloriae, et vestiri eum in consummatione virtutis”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "Like a budding olive and a cypress rising on high, when he receives the robe of glory and is clothed in the perfection of virtue.",
+          "sourceReading": {
+            "status": "verified-against-comparison-edition",
+            "book": "ludger-werdinenfi-after-1712",
+            "pdfPage": 8,
+            "printedPage": "unnumbered, A2 verso",
+            "reading": "in accipiendo ipsum stolam gloriae, et vestiri eum in consummatione virtutis",
+            "attachedReading": "et vestiri cum in consummatione virtutis"
+          }
         },
         {
           "type": "prayer",
@@ -765,8 +800,16 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF says in Angliam, into England. That destination is retained; no historical correction is substituted."
+          "verification": "visual-review",
+          "editorialNote": "Printed comparison edition, not certification of the cited office edition. The printed reading is “Mitteris in Angliam”. The attached Latin is retained; prepared English follows the documented reading where it differs. Angliam is actually printed in both witnesses; England is retained without a historical emendation.",
+          "sourceReading": {
+            "status": "verified-against-comparison-edition",
+            "book": "ludger-werdinenfi-after-1712",
+            "pdfPage": 9,
+            "printedPage": "unnumbered, A3 recto",
+            "reading": "Mitteris in Angliam",
+            "attachedReading": "Mitteris in Angliam"
+          }
         },
         {
           "type": "prayer",
@@ -849,7 +892,7 @@
         {
           "type": "prayer",
           "source": "Beati qui perfectionem patiuntur propter justitiam, quoniam ipsorum est Regnum Caelorum.",
-          "english": "Blessed are those who suffer perfection for the sake of justice, for theirs is the Kingdom of heaven. [The PDF prints perfectionem here, not persecutionem.]",
+          "english": "Blessed are those who suffer persecution for the sake of justice, for theirs is the Kingdom of heaven.",
           "sourcePages": [
             556
           ],
@@ -863,8 +906,17 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0009",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF itself prints perfectionem, perfection, in this Beatitude. English retains and identifies that printed word instead of silently substituting persecution."
+          "verification": "visual-review",
+          "editorialNote": "Printed comparison edition, not certification of the cited office edition. The printed reading is “Beati qui persecutionem patiuntur propter justitiam”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "Blessed are those who suffer perfection for the sake of justice, for theirs is the Kingdom of heaven. [The PDF prints perfectionem here, not persecutionem.]",
+          "sourceReading": {
+            "status": "verified-against-comparison-edition",
+            "book": "ludger-werdinenfi-after-1712",
+            "pdfPage": 9,
+            "printedPage": "unnumbered, A3 recto",
+            "reading": "Beati qui persecutionem patiuntur propter justitiam",
+            "attachedReading": "Beati qui perfectionem patiuntur propter justitiam"
+          }
         },
         {
           "type": "prayer",
@@ -1051,7 +1103,7 @@
         {
           "type": "prayer",
           "source": "Turba Stygis expavescit, Fides vera dum clarescit; Manu tenens signa Crucis Pellis atra monstra lucis Daniae ex finibus.",
-          "english": "The host of hell trembles while the true faith shines forth. Holding the signs of the Cross in thy hand, thou drivest dark monsters from the lands of Denmark [the printed lucis is anomalous here].",
+          "english": "The host of hell trembles while the true faith shines forth. Holding the signs of the Cross in thy hand, thou drivest dark monsters from the groves, from the borders of Denmark.",
           "sourcePages": [
             557
           ],
@@ -1065,8 +1117,17 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0005",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed atra monstra lucis combines dark monsters with light. English marks the anomalous word rather than dropping it silently; Denmark is retained as printed."
+          "verification": "visual-review",
+          "editorialNote": "Printed comparison edition, not certification of the cited office edition. The printed reading is “Pellis atra monstra lucis Daniae ex finibus”. The attached Latin is retained; prepared English follows the documented reading where it differs. Lucis is read as the ablative plural of lucus (grove), not as an anomalous form of light; the original printed word is retained. Lexical check: Lewis and Short, lucus, https://logeion.uchicago.edu/lucus.",
+          "originalPreparedEnglish": "The host of hell trembles while the true faith shines forth. Holding the signs of the Cross in thy hand, thou drivest dark monsters from the lands of Denmark [the printed lucis is anomalous here].",
+          "sourceReading": {
+            "status": "verified-against-comparison-edition",
+            "book": "ludger-werdinenfi-after-1712",
+            "pdfPage": 10,
+            "printedPage": "unnumbered, A3 verso",
+            "reading": "Pellis atra monstra lucis Daniae ex finibus",
+            "attachedReading": "Pellis atra monstra lucis Daniae ex finibus"
+          }
         },
         {
           "type": "prayer",
@@ -1364,7 +1425,7 @@
         {
           "type": "prayer",
           "source": "Ad Nortmannos subjugandos, Christo Jesu sociandos, Te accingens, morbo pressus Persequentum graves laesus Nuntias Ecclesiae.",
-          "english": "Preparing to subdue the Northmen and unite them to Christ Jesus, oppressed by illness [the printed clause about persecutors and bringing news to the Church is defective and unresolved].",
+          "english": "Preparing to subdue the Northmen and unite them to Christ Jesus, oppressed by illness, thou announcest to the Church the grievous lamentations of persecutors.",
           "sourcePages": [
             557
           ],
@@ -1378,8 +1439,17 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0007",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed Persequentum graves laesus / Nuntias Ecclesiae is not securely intelligible. English leaves the clause explicitly unresolved."
+          "verification": "visual-review",
+          "editorialNote": "Printed comparison edition, not certification of the cited office edition. The printed reading is “Te accingens, morbo pressus Persequentum graves lessus Nuntias Ecclesiae”. The attached Latin is retained; prepared English follows the documented reading where it differs. Lessus denotes lamentation; the print uses graves lessus as a plural object. No event beyond the printed wording is inferred.",
+          "originalPreparedEnglish": "Preparing to subdue the Northmen and unite them to Christ Jesus, oppressed by illness [the printed clause about persecutors and bringing news to the Church is defective and unresolved].",
+          "sourceReading": {
+            "status": "verified-against-comparison-edition",
+            "book": "ludger-werdinenfi-after-1712",
+            "pdfPage": 11,
+            "printedPage": "unnumbered, A4 recto",
+            "reading": "Te accingens, morbo pressus Persequentum graves lessus Nuntias Ecclesiae",
+            "attachedReading": "Persequentum graves laesus"
+          }
         },
         {
           "type": "prayer",

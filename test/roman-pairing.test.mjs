@@ -47,11 +47,15 @@ test('Roman weekday selector includes exactly the printed psalm group and refere
   assert(!compline.some(b => /Alma Redemptoris Mater/.test(b.source)));
 });
 
-test('differing printed collects require visible notes and cannot be certified reviewed', () => {
+test('unaligned printed texts require visible notes and cannot be certified reviewed', () => {
   const changed = structuredClone(input);
   const block = changed.documents.get(expected.office).sections.flatMap(s => s.blocks)
-    .find(b => b.alignment === 'source-discrepancy');
+    .find(b => b.originalAlignment === 'source-discrepancy');
   assert(block.editorialNote);
+  block.alignment = 'source-discrepancy';
+  block.english = block.originalSuppliedEnglish;
+  block.translation = block.originalTranslation;
+  block.verification = 'source-reading-pending';
   block.editorialNote = '';
   assert(validateContent(changed).errors.some(e => /Source discrepancy/.test(e.message)));
   block.editorialNote = 'The printed collects differ.';

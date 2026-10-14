@@ -36,9 +36,9 @@
   ],
   "translationNotice": null,
   "status": {
-    "extraction": "candidate",
-    "translation": "complete-supplied-pending-review",
-    "verification": "pending"
+    "extraction": "reviewed",
+    "translation": "complete-supplied",
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -65,9 +65,9 @@
               43
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -85,9 +85,9 @@
               43
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -105,9 +105,9 @@
               43
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -125,9 +125,9 @@
               43
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -145,9 +145,9 @@
               43
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -165,9 +165,9 @@
               43
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -185,9 +185,9 @@
               43
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0007",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -205,9 +205,17 @@
               43
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0008",
-          "verification": "pending"
+          "verification": "visual-review",
+          "forms": {
+            "season": {
+              "septuagesima": {
+                "source": "℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.",
+                "english": "℟. As it was in the beginning, is now, and ever shall be, world without end."
+              }
+            }
+          }
         },
         {
           "type": "rubric",
@@ -225,9 +233,15 @@
               43
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "when": {
+            "season": [
+              "septuagesima"
+            ]
+          },
+          "editorialNote": "The Latin rubric specifies Septuagesima through Easter; the supplied English says Lent through Easter. Both printed texts are retained. The manual selector follows the Latin instruction; no calendar is calculated."
         },
         {
           "type": "prayer",
@@ -245,9 +259,9 @@
               43
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -265,9 +279,9 @@
               43
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "ordinary-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -293,9 +307,9 @@
               43
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             43
           ]
@@ -313,9 +327,9 @@
               43
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "matins-b0002",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             43
           ]
@@ -333,9 +347,9 @@
               43
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             43
           ]
@@ -354,9 +368,9 @@
               44
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "matins-b0004",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             44
           ]
@@ -374,14 +388,35 @@
               44
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "matins-b0006",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             44
           ]
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0001",
+          "ordinary-b0002",
+          "ordinary-b0003",
+          "ordinary-b0004",
+          "ordinary-b0005",
+          "ordinary-b0006",
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009",
+          "ordinary-b0010",
+          "ordinary-b0011"
+        ],
+        "after": [
+          "conclusion-of-the-hours-b0001",
+          "conclusion-of-the-hours-b0002",
+          "conclusion-of-the-hours-b0003",
+          "conclusion-of-the-hours-b0004"
+        ]
+      }
     },
     {
       "id": "lauds",
@@ -407,9 +442,9 @@
               44
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "lauds-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -427,9 +462,9 @@
               44
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "lauds-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -447,9 +482,9 @@
               44
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "lauds-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -467,9 +502,9 @@
               44
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "lauds-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -487,11 +522,29 @@
               44
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "lauds-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0004",
+          "ordinary-b0005",
+          "ordinary-b0006",
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009",
+          "ordinary-b0010",
+          "ordinary-b0011"
+        ],
+        "after": [
+          "conclusion-of-the-hours-b0001",
+          "conclusion-of-the-hours-b0002",
+          "conclusion-of-the-hours-b0003",
+          "conclusion-of-the-hours-b0004"
+        ]
+      }
     },
     {
       "id": "prime",
@@ -518,9 +571,9 @@
               44
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -538,9 +591,9 @@
               45
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "prime-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -558,9 +611,9 @@
               45
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "prime-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -578,9 +631,9 @@
               45
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -598,11 +651,29 @@
               45
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "prime-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0004",
+          "ordinary-b0005",
+          "ordinary-b0006",
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009",
+          "ordinary-b0010",
+          "ordinary-b0011"
+        ],
+        "after": [
+          "conclusion-of-the-hours-b0001",
+          "conclusion-of-the-hours-b0002",
+          "conclusion-of-the-hours-b0003",
+          "conclusion-of-the-hours-b0004"
+        ]
+      }
     },
     {
       "id": "terce",
@@ -628,9 +699,9 @@
               45
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -648,9 +719,9 @@
               45
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "terce-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -668,9 +739,9 @@
               45
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "terce-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -688,9 +759,9 @@
               45
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "terce-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -710,11 +781,29 @@
               46
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "terce-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0004",
+          "ordinary-b0005",
+          "ordinary-b0006",
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009",
+          "ordinary-b0010",
+          "ordinary-b0011"
+        ],
+        "after": [
+          "conclusion-of-the-hours-b0001",
+          "conclusion-of-the-hours-b0002",
+          "conclusion-of-the-hours-b0003",
+          "conclusion-of-the-hours-b0004"
+        ]
+      }
     },
     {
       "id": "sext",
@@ -740,9 +829,9 @@
               46
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -760,9 +849,9 @@
               46
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "sext-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -780,9 +869,9 @@
               46
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "sext-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -800,9 +889,9 @@
               46
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -820,11 +909,29 @@
               46
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "sext-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0004",
+          "ordinary-b0005",
+          "ordinary-b0006",
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009",
+          "ordinary-b0010",
+          "ordinary-b0011"
+        ],
+        "after": [
+          "conclusion-of-the-hours-b0001",
+          "conclusion-of-the-hours-b0002",
+          "conclusion-of-the-hours-b0003",
+          "conclusion-of-the-hours-b0004"
+        ]
+      }
     },
     {
       "id": "none",
@@ -851,9 +958,9 @@
               46
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -871,9 +978,9 @@
               46
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "none-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -893,9 +1000,9 @@
               47
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "none-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -914,9 +1021,9 @@
               47
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -934,11 +1041,29 @@
               47
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "none-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0004",
+          "ordinary-b0005",
+          "ordinary-b0006",
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009",
+          "ordinary-b0010",
+          "ordinary-b0011"
+        ],
+        "after": [
+          "conclusion-of-the-hours-b0001",
+          "conclusion-of-the-hours-b0002",
+          "conclusion-of-the-hours-b0003",
+          "conclusion-of-the-hours-b0004"
+        ]
+      }
     },
     {
       "id": "vespers",
@@ -964,9 +1089,9 @@
               47
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -984,9 +1109,9 @@
               47
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "vespers-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1004,9 +1129,9 @@
               47
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1024,9 +1149,9 @@
               47
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "vespers-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1044,11 +1169,29 @@
               47
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "vespers-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0004",
+          "ordinary-b0005",
+          "ordinary-b0006",
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009",
+          "ordinary-b0010",
+          "ordinary-b0011"
+        ],
+        "after": [
+          "conclusion-of-the-hours-b0001",
+          "conclusion-of-the-hours-b0002",
+          "conclusion-of-the-hours-b0003",
+          "conclusion-of-the-hours-b0004"
+        ]
+      }
     },
     {
       "id": "compline",
@@ -1073,9 +1216,9 @@
               48
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             47,
             48
@@ -1095,9 +1238,9 @@
               48
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "compline-b0002",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             48
           ]
@@ -1115,9 +1258,9 @@
               48
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "compline-b0004",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             48
           ]
@@ -1135,14 +1278,32 @@
               48
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "compline-b0005",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             48
           ]
         }
-      ]
+      ],
+      "assembly": {
+        "before": [
+          "ordinary-b0004",
+          "ordinary-b0005",
+          "ordinary-b0006",
+          "ordinary-b0007",
+          "ordinary-b0008",
+          "ordinary-b0009",
+          "ordinary-b0010",
+          "ordinary-b0011"
+        ],
+        "after": [
+          "conclusion-of-the-hours-b0001",
+          "conclusion-of-the-hours-b0002",
+          "conclusion-of-the-hours-b0003",
+          "conclusion-of-the-hours-b0004"
+        ]
+      }
     },
     {
       "id": "conclusion-of-the-hours",
@@ -1168,9 +1329,9 @@
               48
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "conclusion-of-the-hours-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1188,9 +1349,9 @@
               48
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "conclusion-of-the-hours-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1208,9 +1369,9 @@
               48
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "conclusion-of-the-hours-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1228,9 +1389,9 @@
               48
             ]
           },
-          "alignment": "candidate",
+          "alignment": "reviewed",
           "id": "conclusion-of-the-hours-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     }
@@ -1241,6 +1402,37 @@
       "text": "On page 48 the source prints the English conclusion in the left column and the Latin conclusion in the right. The reader places Latin on the left and the supplied English on the right. The source wording is retained.",
       "pages": [
         48
+      ]
+    },
+    {
+      "pages": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "text": "Every source and supplied-English passage, heading, opening and conclusion was visually compared against the PDF on 2026-10-09. Printed poetic paraphrases and unusual wording remain supplied English. The source Ordinary and Conclusion of the Hours are assembled around each printed hour. Seasonal selection follows the Latin Septuagesima rubric; the supplied English Lent wording is preserved and explained. No absent hour or prayer is invented."
+    }
+  ],
+  "variants": [
+    {
+      "id": "season",
+      "label": "Season",
+      "default": "ordinary",
+      "sourcePages": [
+        43
+      ],
+      "options": [
+        {
+          "id": "ordinary",
+          "label": "Ordinary (Alleluia)"
+        },
+        {
+          "id": "septuagesima",
+          "label": "Septuagesima to Easter"
+        }
       ]
     }
   ]

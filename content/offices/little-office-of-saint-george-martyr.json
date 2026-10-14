@@ -84,7 +84,7 @@
         {
           "type": "prayer",
           "source": "Excelsa belli Nomina, Cessi Phoebus inter sidera Prae cunctis elucebas, Virtutibus clarebas,",
-          "english": "Exalted names in war,\n[The printed “Cessi” is unresolved.] Like Phoebus among the stars,\nThou didst shine before them all,\nResplendent in virtues,",
+          "english": "Exalted names in war,\n[The printed “Cessi” is unresolved.] Phoebus among the stars,\nThou didst shine before them all,\nResplendent in virtues,",
           "sourcePages": [
             508
           ],
@@ -100,7 +100,16 @@
           "id": "invocation-b0003",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The printed “Cessi” is unresolved; the comparison with Phoebus among the stars is retained without inventing a conjunction."
+          "editorialNote": "10 October 2026: actual rendered source independently compared. Printed uncertain forms/connections retained rather than silently regularised; previous English/provenance archived. The printed “Cessi” is unresolved; the comparison with Phoebus among the stars is retained without inventing a conjunction.",
+          "originalPreparedEnglish": "Exalted names in war,\n[The printed “Cessi” is unresolved.] Like Phoebus among the stars,\nThou didst shine before them all,\nResplendent in virtues,",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -151,7 +160,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -172,7 +181,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -193,7 +202,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -214,7 +223,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -235,12 +244,12 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Martem secutus inclytum Christi pugil Georgius Ut Caesaris signiferi Exhibuit se strenuus",
-          "english": "Following glorious warfare,\nGeorge, the champion of Christ,\nShowed himself valiant\nAs Caesar’s standard-bearer",
+          "english": "Following glorious warfare,\nGeorge, the champion of Christ,\nShowed himself valiant\n[Printed Ut Caesaris signiferi: unresolved genitive construction]",
           "sourcePages": [
             508
           ],
@@ -256,7 +265,16 @@
           "id": "matins-b0006",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "“Ut Caesaris signiferi ... strenuus” has irregular syntax; the standard-bearer reading is provisional."
+          "editorialNote": "10 October 2026: actual rendered source independently compared. Printed uncertain forms/connections retained rather than silently regularised; previous English/provenance archived. “Ut Caesaris signiferi ... strenuus” has irregular syntax; the standard-bearer reading is provisional.",
+          "originalPreparedEnglish": "Following glorious warfare,\nGeorge, the champion of Christ,\nShowed himself valiant\nAs Caesar’s standard-bearer",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -301,7 +319,7 @@
         {
           "type": "prayer",
           "source": "Laus sit perpetua Patrique, Filioque, Spiranti ab utroque Par sit et gloria.",
-          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho breathes from both.",
           "sourcePages": [
             508
           ],
@@ -316,7 +334,17 @@
           "alignment": "reviewed",
           "id": "matins-b0009",
           "verification": "visual-review",
-          "poetry": true
+          "poetry": true,
+          "originalPreparedEnglish": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              508
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual printed doxology personally compared. Spiranti retains its active breathing imagery; it is not silently replaced with a different Latin procession verb. Previous English/provenance archived."
         },
         {
           "type": "prayer",
@@ -339,7 +367,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "pending",
+          "verification": "visual-review",
           "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
@@ -362,7 +390,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "pending",
+          "verification": "visual-review",
           "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
@@ -384,7 +412,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0012",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -435,7 +463,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -456,7 +484,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -477,7 +505,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -524,7 +552,7 @@
         {
           "type": "prayer",
           "source": "Christum colebat integre, Multatum quamvis sanguine Id praesciabat fore, Fidem probat cruore;",
-          "english": "He worshipped Christ with integrity,\nThough he foresaw\nThat this would cost him his blood;\nHe proves his faith by bloodshed;",
+          "english": "He worshipped Christ with integrity,\nThough he [printed praesciabat: unresolved verb]\nThat this would cost him his blood;\nHe proves his faith by bloodshed;",
           "sourcePages": [
             509
           ],
@@ -538,13 +566,23 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0006",
-          "verification": "visual-review",
-          "poetry": true
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "originalPreparedEnglish": "He worshipped Christ with integrity,\nThough he foresaw\nThat this would cost him his blood;\nHe proves his faith by bloodshed;",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source independently compared. Printed uncertain forms/connections retained rather than silently regularised; previous English/provenance archived. "
         },
         {
           "type": "prayer",
           "source": "Laus sit perpetua Patrique, Filioque, Spiranti ab utroque Par sit et gloria.",
-          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho breathes from both.",
           "sourcePages": [
             509
           ],
@@ -559,7 +597,17 @@
           "alignment": "reviewed",
           "id": "lauds-b0007",
           "verification": "visual-review",
-          "poetry": true
+          "poetry": true,
+          "originalPreparedEnglish": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual printed doxology personally compared. Spiranti retains its active breathing imagery; it is not silently replaced with a different Latin procession verb. Previous English/provenance archived."
         },
         {
           "type": "prayer",
@@ -618,12 +666,12 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Presta quaesumus Omnipotens Deus, ut qui beati Georgii Martyris tui glorioso martyrio colimus, intercessione ejus in tui Nominis amore roboremur. Per Dominum nostrum etc.",
-          "english": "Grant, we beseech Thee, almighty God, that we who venerate the glorious martyrdom of blessed George, Thy Martyr, may through his intercession be strengthened in the love of Thy Name. Through our Lord, etc.",
+          "english": "Grant, we beseech Thee, almighty God, that we who [printed beati Georgii Martyris tui glorioso martyrio colimus: unresolved object/case construction], may through his intercession be strengthened in the love of Thy Name. Through our Lord, etc.",
           "sourcePages": [
             509
           ],
@@ -638,7 +686,16 @@
           "alignment": "reviewed",
           "id": "lauds-b0011",
           "verification": "source-reading-pending",
-          "editorialNote": "The source prints “glorioso martyrio colimus”; the English follows the readable sense provisionally."
+          "editorialNote": "10 October 2026: actual rendered source independently compared. Printed uncertain forms/connections retained rather than silently regularised; previous English/provenance archived. The source prints “glorioso martyrio colimus”; the English follows the readable sense provisionally.",
+          "originalPreparedEnglish": "Grant, we beseech Thee, almighty God, that we who venerate the glorious martyrdom of blessed George, Thy Martyr, may through his intercession be strengthened in the love of Thy Name. Through our Lord, etc.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          }
         }
       ]
     },
@@ -669,7 +726,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -690,7 +747,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -711,12 +768,12 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Spontaneae solertia Occasio non desuit. Dum Caesaris saevitiae Pavore procul restitit,",
-          "english": "An opportunity was not lacking\nFor willing zeal,\nWhen, far from fear,\nHe withstood Caesar’s cruelty,",
+          "english": "An opportunity was not lacking\n[Printed Spontaneae solertia: unresolved agreement],\nWhen, far from fear,\nHe withstood Caesar’s cruelty,",
           "sourcePages": [
             509
           ],
@@ -732,7 +789,16 @@
           "id": "prime-b0004",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The compressed “Spontaneae solertia” is rendered provisionally as willing zeal."
+          "editorialNote": "10 October 2026: actual rendered source independently compared. Printed uncertain forms/connections retained rather than silently regularised; previous English/provenance archived. The compressed “Spontaneae solertia” is rendered provisionally as willing zeal.",
+          "originalPreparedEnglish": "An opportunity was not lacking\nFor willing zeal,\nWhen, far from fear,\nHe withstood Caesar’s cruelty,",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -773,12 +839,12 @@
           "id": "prime-b0006",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The printed “Immisit” is unresolved. The remaining questions are translated without replacing it."
+          "editorialNote": "10 October 2026: actual rendered source personally compared; blocker independently confirmed. The printed “Immisit” is unresolved. The remaining questions are translated without replacing it."
         },
         {
           "type": "prayer",
           "source": "Laus sit perpetua, Patrique, Filioque, Spiranti ab utroque Par sit et gloria.",
-          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho breathes from both.",
           "sourcePages": [
             509
           ],
@@ -793,7 +859,17 @@
           "alignment": "reviewed",
           "id": "prime-b0007",
           "verification": "visual-review",
-          "poetry": true
+          "poetry": true,
+          "originalPreparedEnglish": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual printed doxology personally compared. Spiranti retains its active breathing imagery; it is not silently replaced with a different Latin procession verb. Previous English/provenance archived."
         },
         {
           "type": "prayer",
@@ -852,7 +928,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -903,7 +979,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -924,7 +1000,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -945,7 +1021,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1010,7 +1086,7 @@
         {
           "type": "prayer",
           "source": "Laus sit perpetua, Patrique, Filioque, Spiranti ab utroque Par sit et gloria.",
-          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho breathes from both.",
           "sourcePages": [
             509
           ],
@@ -1025,7 +1101,17 @@
           "alignment": "reviewed",
           "id": "terce-b0007",
           "verification": "visual-review",
-          "poetry": true
+          "poetry": true,
+          "originalPreparedEnglish": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              509
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual printed doxology personally compared. Spiranti retains its active breathing imagery; it is not silently replaced with a different Latin procession verb. Previous English/provenance archived."
         },
         {
           "type": "prayer",
@@ -1067,7 +1153,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0009",
-          "verification": "pending",
+          "verification": "visual-review",
           "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
@@ -1089,7 +1175,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1139,7 +1225,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1160,7 +1246,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1181,12 +1267,12 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Isthinc famet Georgius, Conviva coeli nobilis, Fame fruens pro dapibus, Supernis satur epulis,",
-          "english": "Here George hungers,\nA noble guest of heaven,\nEnjoying hunger in place of feasts,\nSated with heavenly banquets,",
+          "english": "Here George [printed famet: unresolved verb],\nA noble guest of heaven,\nEnjoying hunger in place of feasts,\nSated with heavenly banquets,",
           "sourcePages": [
             510
           ],
@@ -1200,8 +1286,18 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "visual-review",
-          "poetry": true
+          "verification": "source-reading-pending",
+          "poetry": true,
+          "originalPreparedEnglish": "Here George hungers,\nA noble guest of heaven,\nEnjoying hunger in place of feasts,\nSated with heavenly banquets,",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source independently compared. Printed uncertain forms/connections retained rather than silently regularised; previous English/provenance archived. "
         },
         {
           "type": "prayer",
@@ -1226,7 +1322,7 @@
         {
           "type": "prayer",
           "source": "Nervosus inter scuticaes Sartagines et ungulas; Quin saxum et molare Jam suscipit portare.",
-          "english": "Stouthearted amid scourges,\nPans and iron claws;\nNay, a stone and a millstone\nHe now undertakes to bear.",
+          "english": "Stouthearted amid [printed scuticaes: unresolved form],\nPans and iron claws;\nNay, a stone and a millstone\nHe now undertakes to bear.",
           "sourcePages": [
             510
           ],
@@ -1242,12 +1338,21 @@
           "id": "sext-b0006",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The source prints “scuticaes” and “saxum et molare”; scourges and the stone/millstone are provisional readings."
+          "editorialNote": "10 October 2026: actual rendered source independently compared. Printed uncertain forms/connections retained rather than silently regularised; previous English/provenance archived. The source prints “scuticaes” and “saxum et molare”; scourges and the stone/millstone are provisional readings.",
+          "originalPreparedEnglish": "Stouthearted amid scourges,\nPans and iron claws;\nNay, a stone and a millstone\nHe now undertakes to bear.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Laus sit perpetua Patrique, Filioque, Spiranti ab utroque Par sit et gloria.",
-          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho breathes from both.",
           "sourcePages": [
             510
           ],
@@ -1262,7 +1367,17 @@
           "alignment": "reviewed",
           "id": "sext-b0007",
           "verification": "visual-review",
-          "poetry": true
+          "poetry": true,
+          "originalPreparedEnglish": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual printed doxology personally compared. Spiranti retains its active breathing imagery; it is not silently replaced with a different Latin procession verb. Previous English/provenance archived."
         },
         {
           "type": "prayer",
@@ -1283,7 +1398,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0008",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             619
           ],
@@ -1307,7 +1422,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0009",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             619
           ],
@@ -1332,7 +1447,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1372,7 +1487,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0012",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -1403,7 +1518,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1424,7 +1539,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1445,7 +1560,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1504,14 +1619,14 @@
           },
           "alignment": "reviewed",
           "id": "none-b0006",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "poetry": true,
-          "editorialNote": "“curatum ... vulneratum” is compressed; the healing of the wounded man is a provisional reading."
+          "editorialNote": "10 October 2026: actual source personally compared. P.510 curatum is the purpose supine of curare with vulneratum as its object. The angel is present to heal the wounded man; no ending or new event supplied."
         },
         {
           "type": "prayer",
           "source": "Laus sit perpetua Patrique, Filioque, Spiranti ab utroque Par sit et gloria.",
-          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho breathes from both.",
           "sourcePages": [
             510
           ],
@@ -1526,7 +1641,17 @@
           "alignment": "reviewed",
           "id": "none-b0007",
           "verification": "visual-review",
-          "poetry": true
+          "poetry": true,
+          "originalPreparedEnglish": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              510
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual printed doxology personally compared. Spiranti retains its active breathing imagery; it is not silently replaced with a different Latin procession verb. Previous English/provenance archived."
         },
         {
           "type": "prayer",
@@ -1585,7 +1710,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1635,7 +1760,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1656,7 +1781,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1677,7 +1802,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1718,7 +1843,7 @@
           "id": "vespers-b0005",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The PDF prints “Ardoris imperatos”; this clause remains unresolved."
+          "editorialNote": "10 October 2026: actual rendered source personally compared; blocker independently confirmed. The PDF prints “Ardoris imperatos”; this clause remains unresolved."
         },
         {
           "type": "prayer",
@@ -1743,7 +1868,7 @@
         {
           "type": "prayer",
           "source": "Laus sit perpetua, Patrique, Filioque, Spiranti ab utroque Par sit et gloria.",
-          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho breathes from both.",
           "sourcePages": [
             511
           ],
@@ -1758,7 +1883,17 @@
           "alignment": "reviewed",
           "id": "vespers-b0007",
           "verification": "visual-review",
-          "poetry": true
+          "poetry": true,
+          "originalPreparedEnglish": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual printed doxology personally compared. Spiranti retains its active breathing imagery; it is not silently replaced with a different Latin procession verb. Previous English/provenance archived."
         },
         {
           "type": "prayer",
@@ -1779,7 +1914,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0008",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             621
           ],
@@ -1803,7 +1938,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0009",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             621
           ],
@@ -1828,7 +1963,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0010",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1862,7 +1997,7 @@
         {
           "type": "prayer",
           "source": "℣. Convertere nos Deus salutaris noster.",
-          "english": "℣. Convert us, O God our Saviour.",
+          "english": "℣. [Printed Convertere nos: unresolved construction], O God our Saviour.",
           "sourcePages": [
             511
           ],
@@ -1878,7 +2013,19 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "℣. Convert us, O God our Saviour.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "99ecc4cd6516d1e9"
+          },
+          "editorialNote": "10 October 2026: p.511 visibly prints Convertere nos, not the customary active imperative Converte nos. No Latin replacement or unprinted letter certified; previous English/provenance archived."
         },
         {
           "type": "prayer",
@@ -1899,7 +2046,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1920,7 +2067,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1941,7 +2088,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1962,7 +2109,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1981,9 +2128,9 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0006",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "poetry": true,
-          "editorialNote": "The printed connection of “insolens,” “Caput” and “martyrium” is compressed; the English is provisional."
+          "editorialNote": "10 October 2026: actual source personally compared. P.511 tantum and insolens are neuter accusatives with martyrium governed by post; caput dare is the infinitive commanded by jubet. The separated word order does not require source repair."
         },
         {
           "type": "prayer",
@@ -2028,7 +2175,7 @@
         {
           "type": "prayer",
           "source": "Laus sit perpetua Patrique, Filioque, Spiranti ab utroque Par sit et gloria.",
-          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "english": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho breathes from both.",
           "sourcePages": [
             511
           ],
@@ -2043,7 +2190,17 @@
           "alignment": "reviewed",
           "id": "compline-b0009",
           "verification": "visual-review",
-          "poetry": true
+          "poetry": true,
+          "originalPreparedEnglish": "Everlasting praise be to the Father\nAnd to the Son,\nAnd equal glory to Him\nWho proceeds from both.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              511
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual printed doxology personally compared. Spiranti retains its active breathing imagery; it is not silently replaced with a different Latin procession verb. Previous English/provenance archived."
         },
         {
           "type": "prayer",
@@ -2083,7 +2240,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -2104,7 +2261,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0012",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -2181,7 +2338,7 @@
         {
           "type": "prayer",
           "source": "Divina gratia Patrique, Filioque, Paraclito Sanctoque Haec praestet munera.",
-          "english": "May divine grace grant these gifts,\nTo the Father and the Son\nAnd the Holy Paraclete\n[The printed construction is uncertain.]",
+          "english": "May divine grace grant these gifts\nTo the Father and the Son\nAnd the Holy Paraclete.",
           "sourcePages": [
             512
           ],
@@ -2195,9 +2352,18 @@
           },
           "alignment": "reviewed",
           "id": "gratulatio-b0003",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "poetry": true,
-          "editorialNote": "The printed “Divina gratia Patrique, Filioque, Paraclito Sanctoque Haec praestet munera” has an uncertain relationship between its subjects and datives. The readable words are retained and the construction is flagged."
+          "editorialNote": "10 October 2026: actual source personally compared. P.512 Divina gratia is the nominative subject of praestet; Patrique, Filioque and Paraclito Sanctoque are recipients in the dative. Literal gifts to the Father, Son and Paraclete retained without reversing the datives.",
+          "originalPreparedEnglish": "May divine grace grant these gifts,\nTo the Father and the Son\nAnd the Holy Paraclete\n[The printed construction is uncertain.]",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              512
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -2256,7 +2422,7 @@
           },
           "alignment": "reviewed",
           "id": "gratulatio-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -2292,6 +2458,16 @@
         511,
         512
       ]
+    },
+    {
+      "pages": [
+        508,
+        509,
+        510,
+        511,
+        512
+      ],
+      "text": "10 October 2026: all five rendered pages and all 104 passages personally compared, including attribution, Invocation, eight hours, distinct collects and Gratulation, all continuations and repeated doxologies. 48 formerly pending passages cleared. 2 previously certified passages returned to pending; 10 actual source blockers remain. Purpose supine, separated neuter agreement and explicit datives distinguished from malformed forms. Spiranti breathing imagery retained literally, previous English/provenance archived, Latin unchanged."
     }
   ]
 }

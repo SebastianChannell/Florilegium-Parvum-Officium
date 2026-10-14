@@ -60,7 +60,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -81,7 +81,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -102,7 +102,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -142,7 +142,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -201,7 +201,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0008",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -226,7 +226,7 @@
         {
           "type": "prayer",
           "source": "Manus ave te sauciae, Pedesque tincti sanguine, Diro pendentes stipite, Transfixi clavi cuspide.",
-          "english": "Hail, wounded hands,\nAnd feet stained with blood,\nHanging upon the dreadful wood,\nPierced by the point of the nail.",
+          "english": "[The printed greeting “Manus ave te sauciae” is irregular: wounded hands],\nAnd feet stained with blood,\nHanging upon the dreadful wood,\nPierced by the point of the nail.",
           "sourcePages": [
             81
           ],
@@ -236,13 +236,22 @@
             "sourcePages": [
               81
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "matins-b0010",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The source prints the split “ave te”; the greeting is rendered provisionally as hail, without changing the Latin."
+          "editorialNote": "10 October 2026: PDF p.81 visibly prints “Manus ave te sauciae”. The split “ave te” is not the printed single plural imperative “avete” of the preceding stanza. The earlier unqualified “Hail, wounded hands” silently normalised this construction. The source is unchanged; its uncertainty is now marked.",
+          "originalPreparedEnglish": "Hail, wounded hands,\nAnd feet stained with blood,\nHanging upon the dreadful wood,\nPierced by the point of the nail.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              81
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -360,7 +369,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0016",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -400,7 +409,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0018",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -421,7 +430,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0019",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -442,7 +451,7 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0020",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -474,7 +483,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -495,7 +504,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -516,7 +525,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -537,7 +546,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -675,12 +684,12 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Domine Jesu Christe Fili Dei vivi, qui in cruce aperuisti nobis quinque fontes gratiarum, sicut aquarum viventium, quae fluunt impetu de Libano: Concede, ut extincta siti carnalis concupiscentiae, aestuque mundanae delictionis, in te solo sitiat anima nostra, et desideret ad has nobilissimas misericordiae tuae Venas, sicut cervus ad fontes aquarum: ut hauriamus vitam et salutem a te Jesu Salvatore nostro. Qui vivis et regnas, etc.",
-          "english": "O Lord Jesus Christ, Son of the living God, who upon the Cross didst open for us five fountains of graces, like living waters flowing swiftly from Lebanon, grant that, the thirst of fleshly concupiscence and the heat of worldly delight being quenched, our soul may thirst for Thee alone, and long for these most noble veins of Thy mercy as the hart for the fountains of water, that we may draw life and salvation from Thee, Jesus our Saviour. Who livest and reignest, etc.",
+          "english": "O Lord Jesus Christ, Son of the living God, who upon the Cross didst open for us five fountains of graces, like living waters flowing swiftly from Lebanon, grant that, the thirst of fleshly concupiscence and the heat of worldly [the printed “delictionis” is unresolved] being quenched, our soul may thirst for Thee alone, and long for these most noble veins of Thy mercy as the hart for the fountains of water, that we may draw life and salvation from Thee, Jesus our Saviour. Who livest and reignest, etc.",
           "sourcePages": [
             82
           ],
@@ -690,12 +699,21 @@
             "sourcePages": [
               82
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "prime-b0012",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed “delictionis” is irregular; worldly delight is a provisional reading."
+          "editorialNote": "10 October 2026: PDF p.82 visibly prints “mundanae delictionis”. The earlier English “worldly delight” silently assumed another reading. The printed noun remains unresolved and is now bracketed, with no replacement Latin.",
+          "originalPreparedEnglish": "O Lord Jesus Christ, Son of the living God, who upon the Cross didst open for us five fountains of graces, like living waters flowing swiftly from Lebanon, grant that, the thirst of fleshly concupiscence and the heat of worldly delight being quenched, our soul may thirst for Thee alone, and long for these most noble veins of Thy mercy as the hart for the fountains of water, that we may draw life and salvation from Thee, Jesus our Saviour. Who livest and reignest, etc.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              82
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -716,7 +734,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0013",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -747,7 +765,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -768,7 +786,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -789,7 +807,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -810,12 +828,12 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Hic Botrus, haec orantia Terrae promissae munera, Sub prelo crucis placida Desudat vini flumina.",
-          "english": "Here the cluster of grapes,\nThese [the printed “orantia” is uncertain] gifts of the promised land,\nBeneath the gentle press of the Cross\nPour forth rivers of wine.",
+          "english": "Here the cluster of grapes,\nThese peaceful [the printed “orantia” is uncertain] gifts of the promised land,\nBeneath the press of the Cross\nPour forth rivers of wine.",
           "sourcePages": [
             82
           ],
@@ -825,13 +843,22 @@
             "sourcePages": [
               82
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "terce-b0005",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The source prints “orantia”; its intended adjective is uncertain and left marked rather than replaced by fragrant."
+          "editorialNote": "10 October 2026: PDF p.82 visibly prints “haec orantia … munera” and “Sub prelo crucis placida”. “Orantia” remains unresolved. “Placida” agrees with neuter plural gifts, not with “prelo”; the earlier “gentle press” misattached this adjective. The readable adjective is now attached to gifts, without repairing the unclear word.",
+          "originalPreparedEnglish": "Here the cluster of grapes,\nThese [the printed “orantia” is uncertain] gifts of the promised land,\nBeneath the gentle press of the Cross\nPour forth rivers of wine.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              82
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -949,7 +976,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -989,7 +1016,7 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0013",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -1021,7 +1048,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1042,7 +1069,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1063,7 +1090,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1084,7 +1111,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1224,12 +1251,12 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Domine Jesu Christe Fili Dei vivi, qui nobis in sacratissimis tuis Vulneribus, in omni tribulatione et angustia tutum asylum, et singulare praesidium benignissime praeparasti: Libera nos, quaesumus, a vinculis iniquitatum, propter quas vulneratus es: et in omnibus mentis, corporis quae periculis abscondé nos intra tua Vulnera, ut non timeat cor nostrum, quoniam facta sunt illa nobis Turris fortitudinis a facie inimici. Qui vivis et regnas cum Deo Patre, etc.",
-          "english": "O Lord Jesus Christ, Son of the living God, who hast most graciously prepared for us in Thy most sacred Wounds a safe refuge and singular defence in every tribulation and distress, deliver us, we beseech Thee, from the bonds of the iniquities for which Thou wast wounded; and in every peril of mind and body hide us within Thy Wounds, that our heart may not fear, for they have become for us a tower of strength before the enemy. Who livest and reignest with God the Father, etc.",
+          "english": "O Lord Jesus Christ, Son of the living God, who hast most graciously prepared for us in Thy most sacred Wounds a safe refuge and singular defence in every tribulation and distress, deliver us, we beseech Thee, from the bonds of the iniquities for which Thou wast wounded; and in every peril of mind, body [the printed “quae” is irregular], hide us within Thy Wounds, that our heart may not fear, for they have become for us a tower of strength before the enemy. Who livest and reignest with God the Father, etc.",
           "sourcePages": [
             83
           ],
@@ -1239,12 +1266,21 @@
             "sourcePages": [
               83
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "sext-b0012",
           "verification": "source-reading-pending",
-          "editorialNote": "The source prints “corporis quae” and “abscondé”; the body-peril phrase is provisional."
+          "editorialNote": "10 October 2026: PDF p.83 visibly prints “mentis, corporis quae periculis abscondé”. The earlier English silently joined the separate “quae” as a conjunction. The printed word remains unresolved and is now identified without repairing the source.",
+          "originalPreparedEnglish": "O Lord Jesus Christ, Son of the living God, who hast most graciously prepared for us in Thy most sacred Wounds a safe refuge and singular defence in every tribulation and distress, deliver us, we beseech Thee, from the bonds of the iniquities for which Thou wast wounded; and in every peril of mind and body hide us within Thy Wounds, that our heart may not fear, for they have become for us a tower of strength before the enemy. Who livest and reignest with God the Father, etc.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              83
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1265,7 +1301,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0013",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -1296,7 +1332,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1317,7 +1353,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1338,7 +1374,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1359,7 +1395,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1497,7 +1533,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1537,7 +1573,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0013",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -1569,7 +1605,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1590,7 +1626,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1611,7 +1647,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1632,12 +1668,12 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0004",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
           "source": "Haec signa caelis intulit Christus, dum viam finivit. Patri suo proposuit, Paccémque mundo reddidit.",
-          "english": "Christ bore these signs into heaven\nWhen He finished His way;\nHe set them before His Father\nAnd restored peace to the world.",
+          "english": "Christ bore these signs into heaven\nWhen He finished His way;\nHe set them before His Father\nAnd restored [peace is a provisional understanding of printed “Paccémque”] to the world.",
           "sourcePages": [
             83,
             84
@@ -1649,13 +1685,23 @@
               83,
               84
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "vespers-b0005",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The source prints “Paccémque”; peace is provisional."
+          "editorialNote": "10 October 2026: PDF pp.83–84: the stanza visibly ends on p.84 with “Paccémque mundo reddidit”. The printed double c and accent remain in source; “peace” is identified as a provisional understanding in English. No other edition was consulted.",
+          "originalPreparedEnglish": "Christ bore these signs into heaven\nWhen He finished His way;\nHe set them before His Father\nAnd restored peace to the world.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              83,
+              84
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1773,7 +1819,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0011",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1813,7 +1859,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0013",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -1844,7 +1890,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1865,7 +1911,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0002",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1886,7 +1932,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0003",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -1926,7 +1972,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0005",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "rubric",
@@ -1947,7 +1993,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0006",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -2085,7 +2131,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0013",
-          "verification": "pending"
+          "verification": "visual-review"
         },
         {
           "type": "prayer",
@@ -2125,7 +2171,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0015",
-          "verification": "pending"
+          "verification": "visual-review"
         }
       ]
     },
@@ -2248,6 +2294,16 @@
         84,
         85
       ]
+    },
+    {
+      "pages": [
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "text": "10 October 2026: all five complete rendered PDF pages and all 105 source/English passages compared. Forty-six previously pending common openings, headings, prayer invitations, responses and abbreviated endings are verified individually. All seven distinct hour collects, seasonal rubric, repeated hymn doxologies, stanza/column/page continuations and final prayer attributed to Francis Xavier checked. Five malformed source readings remain pending with explicit English notes and earlier English/provenance preserved. No external text, absent Lauds or omitted abbreviated ending inserted."
     }
   ]
 }

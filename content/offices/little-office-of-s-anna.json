@@ -30,7 +30,7 @@
   "status": {
     "extraction": "reviewed",
     "translation": "complete-prepared",
-    "verification": "source-reading-pending"
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -189,7 +189,7 @@
         {
           "type": "prayer",
           "source": "Quod Eva tristis abstulit, Redditur Patri Filiae, Quae sancta sanctis procreat, Coeli fenestra facta est.",
-          "english": "What sorrowful Eve took away\nIs restored to the Father of the Daughter.\nShe who brings forth holy things for the holy\nHas become a window of heaven.",
+          "english": "What sorrowful Eve took away\nIs restored by the Daughter’s childbearing.\nWhen she brought forth salvation,\nShe became a window of heaven.",
           "sourcePages": [
             436
           ],
@@ -203,8 +203,17 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0008",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “Redditur Patri Filiae”, literally “is restored to the Father of the Daughter”. This difficult reading is retained in Latin and translated literally pending editorial resolution."
+          "verification": "visual-review",
+          "editorialNote": "Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “Redditur partu Filiae; Quae dum salutem protulit”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "What sorrowful Eve took away\nIs restored to the Father of the Daughter.\nShe who brings forth holy things for the holy\nHas become a window of heaven.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 225,
+            "printedPage": "189",
+            "reading": "Redditur partu Filiae; Quae dum salutem protulit",
+            "attachedReading": "Redditur Patri Filiae"
+          }
         },
         {
           "type": "prayer",
@@ -1184,7 +1193,7 @@
         {
           "type": "prayer",
           "source": "In saecula pro tempore, Prope marcescens corpore; Decreto Patris luminum Parit Reginam Virginum.",
-          "english": "Advanced in age with the passing of time,\nHer body almost withered,\nBy decree of the Father of lights\nShe brings forth the Queen of virgins.",
+          "english": "Barren for a time,\nHer body almost withered,\nBy decree of the Father of lights\nShe brings forth the Queen of virgins.",
           "sourcePages": [
             437
           ],
@@ -1198,7 +1207,17 @@
           },
           "alignment": "reviewed",
           "id": "none-b0005",
-          "verification": "visual-review"
+          "verification": "visual-review",
+          "originalPreparedEnglish": "Advanced in age with the passing of time,\nHer body almost withered,\nBy decree of the Father of lights\nShe brings forth the Queen of virgins.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 227,
+            "printedPage": "191",
+            "reading": "Infecunda pro tempore, Prope marcescens corpore",
+            "attachedReading": "In saecula pro tempore"
+          },
+          "editorialNote": "Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “Infecunda pro tempore, Prope marcescens corpore”. The attached Latin is retained; prepared English follows the documented reading where it differs."
         },
         {
           "type": "prayer",
@@ -1468,7 +1487,7 @@
         {
           "type": "prayer",
           "source": "Ave patens stella maris, Quam tu nuptam contemplaris Regis regum Filio.",
-          "english": "Hail, shining star of the sea,\nWhom thou beholdest espoused\nTo the Son of the King of kings.",
+          "english": "Hail, parent, star of the sea,\nWhom thou beholdest espoused\nTo the Son of the King of kings.",
           "sourcePages": [
             438
           ],
@@ -1482,8 +1501,17 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "source-reading-pending",
-          "editorialNote": "The stanza addresses the star of the sea, then says “whom thou beholdest espoused to the Son of the King of kings”. Its unusual changes of address are retained rather than rewritten."
+          "verification": "visual-review",
+          "editorialNote": "The earlier witness prints parens, not patens. The unusual address stella maris is translated literally and its ambiguity retained, without silently emending it to stellae maris or inventing “shining”. Earlier 1745 edition, not certification of the cited 1783 edition. The printed reading is “Ave parens stella maris, Quam tu nuptam contemplaris Regis Regum Filio”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "Hail, shining star of the sea,\nWhom thou beholdest espoused\nTo the Son of the King of kings.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 227,
+            "printedPage": "191",
+            "reading": "Ave parens stella maris, Quam tu nuptam contemplaris Regis Regum Filio",
+            "attachedReading": "Ave patens stella maris"
+          }
         },
         {
           "type": "prayer",

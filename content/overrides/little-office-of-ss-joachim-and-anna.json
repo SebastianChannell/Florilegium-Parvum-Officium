@@ -30,7 +30,7 @@
   "status": {
     "extraction": "reviewed",
     "translation": "complete-prepared",
-    "verification": "source-reading-pending"
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -170,11 +170,24 @@
         {
           "type": "rubric",
           "source": "A Septuagesima usque ad Pascha, loco Alleluia, dicitur: Laus tibi, Domine, Rex aeternae gloriae.",
-          "english": "During Lent until Easter, instead of the alleluia the following is said: Praise to Thee, O Lord, King of everlasting glory.",
+          "english": "From Septuagesima until Easter, instead of Alleluia, the following is said: Praise to Thee, O Lord, King of everlasting glory.",
           "sourcePages": [
             527
           ],
           "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              527
+            ],
+            "review": "editorial-review-complete"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0007",
+          "verification": "visual-review",
+          "editorialNote": "The season begins at Septuagesima, before Lent. Prepared English corrects the reused Lent rubric; original English and provenance are retained.",
+          "originalPreparedEnglish": "During Lent until Easter, instead of the alleluia the following is said: Praise to Thee, O Lord, King of everlasting glory.",
+          "originalTranslation": {
             "kind": "supplied",
             "method": "exact-reviewed-pdf-reuse",
             "reusedFromOffice": "little-office-of-the-blessed-sacrament",
@@ -183,13 +196,9 @@
               54
             ]
           },
-          "alignment": "reviewed",
-          "id": "matins-b0007",
-          "verification": "visual-review",
-          "englishPages": [
+          "originalEnglishPages": [
             54
-          ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review. The original Latin says Septuagesima; the supplied English says Lent. These differing printed terms are retained."
+          ]
         },
         {
           "type": "rubric",
@@ -215,7 +224,7 @@
         {
           "type": "prayer",
           "source": "O bina conjugalis Exempla foederis! O Joachim, qualis Mariae conjugis! O Anna, quem nepotem, Quam nacta filiam! O Joachim, dotem Quis optet alteram!",
-          "english": "O two examples of the marriage covenant! [Unclear printed address: “O Joachim, qualis / Mariae conjugis!”] O Anne, what a grandson, what a daughter thou hast obtained! O Joachim, who would desire another dowry!",
+          "english": "O two examples of the marriage covenant! O Joachim, what a husband thou art to thy wife! O Anne, what a grandson, what a daughter thou hast obtained! O Joachim, who would desire another dowry!",
           "sourcePages": [
             527
           ],
@@ -229,8 +238,17 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0009",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “Mariae conjugis” in an address to Joachim. That clause is marked unclear in English; Mary is not silently replaced with Anne."
+          "verification": "visual-review",
+          "editorialNote": "Checked against the cited 1879 printed edition. The printed reading is “O Joachime, qualis Marite conjugis!”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "O two examples of the marriage covenant! [Unclear printed address: “O Joachim, qualis / Mariae conjugis!”] O Anne, what a grandson, what a daughter thou hast obtained! O Joachim, who would desire another dowry!",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 300,
+            "printedPage": "270",
+            "reading": "O Joachime, qualis Marite conjugis!",
+            "attachedReading": "O Joachim, qualis Mariae conjugis!"
+          }
         },
         {
           "type": "prayer",
@@ -334,8 +352,16 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0014",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed “genitrices Filii tui parentes” has irregular case endings. The English provisionally understands parents of the Mother of Thy Son; the Latin remains."
+          "verification": "visual-review",
+          "editorialNote": "Checked against the cited 1879 printed edition. The printed reading is “beatos Joachim et Annam genitricis Filii tui parentes esse voluisti”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 301,
+            "printedPage": "271",
+            "reading": "beatos Joachim et Annam genitricis Filii tui parentes esse voluisti",
+            "attachedReading": "beatos Joachim et Annam genitrices Filii tui parentes esse voluisti"
+          }
         },
         {
           "type": "prayer",
@@ -560,7 +586,7 @@
         {
           "type": "prayer",
           "source": "Connubii quieta Levre tempora, Diems mansit usque laeta Vel inter aspera. Est visa purpurae Sed inde nidi remotum Cor est ab aethere.",
-          "english": "Peaceful times of marriage; [the printed “Levre” is unclear]. The day remained joyful even amid hardships. Purple was seen; [the printed “Sed inde nidi remotum” is unclear]; the heart is far from heaven.",
+          "english": "The peaceful times of marriage passed; their mind remained ever joyful, even amid hardships. The deferred hope of descendants seemed to sting, yet their heart was thereby withdrawn no whit from heaven.",
           "sourcePages": [
             527
           ],
@@ -574,8 +600,17 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0005",
-          "verification": "source-reading-pending",
-          "editorialNote": "Several printed lines, including “Levre tempora,” “Diems,” and “Sed inde nidi remotum,” are defective. The intelligible words are translated and the unclear lines explicitly marked; this stanza is unresolved."
+          "verification": "visual-review",
+          "editorialNote": "Checked against the cited 1879 printed edition. The printed reading is “Connubii quieta Ivere tempora, Mens mansit usque laeta Vel inter aspera. Dilata spes nepotum Est visa pungere; Sed inde nil remotum Cor est ab aethere”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "Peaceful times of marriage; [the printed “Levre” is unclear]. The day remained joyful even amid hardships. Purple was seen; [the printed “Sed inde nidi remotum” is unclear]; the heart is far from heaven.",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 301,
+            "printedPage": "271",
+            "reading": "Connubii quieta Ivere tempora, Mens mansit usque laeta Vel inter aspera. Dilata spes nepotum Est visa pungere; Sed inde nil remotum Cor est ab aethere",
+            "attachedReading": "Connubii quieta Levre tempora"
+          }
         },
         {
           "type": "prayer",
@@ -732,7 +767,7 @@
         {
           "type": "prayer",
           "source": "Tandem serenoiori Lux vexat phosphoro Explevit ampliiori Utrumque gaudio. Concepit Anna prolem Stupente conjuge, Cum vidit axe solem Plaudente surgere.",
-          "english": "At last a light with a more serene morning star filled both with greater joy. Anne conceived a child, her spouse amazed, when he saw the sun rise in the rejoicing heavens.",
+          "english": "At last a light borne by a more serene morning star filled both with greater joy. Anne conceived a child, her spouse amazed, when he saw the sun rise in the rejoicing heavens.",
           "sourcePages": [
             528
           ],
@@ -746,8 +781,17 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0005",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed “Lux vexat phosphoro” has uncertain syntax. The English provisionally renders a dawn/light image and the subsequent joy; the Latin remains."
+          "verification": "visual-review",
+          "editorialNote": "Checked against the cited 1879 printed edition. The printed reading is “Tandem sereniori Lux vecta phosphoro Explevit ampliori Utrumque gaudio”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "At last a light with a more serene morning star filled both with greater joy. Anne conceived a child, her spouse amazed, when he saw the sun rise in the rejoicing heavens.",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 301,
+            "printedPage": "271",
+            "reading": "Tandem sereniori Lux vecta phosphoro Explevit ampliori Utrumque gaudio",
+            "attachedReading": "Tandem serenoiori Lux vexat phosphoro"
+          }
         },
         {
           "type": "prayer",
@@ -1063,7 +1107,7 @@
         {
           "type": "prayer",
           "source": "Exinde quo labore Educta Filia! Quo coelitum favore Nutrita parvula! Industriae parentum Fit axis aemulus, Virginumque coaetum Servit cohortibus.",
-          "english": "With what labour thereafter the daughter was brought up! With what favour of heaven’s citizens the little one was nourished! Heaven rivals the parents’ diligence, and hosts attend the company of virgins.",
+          "english": "With what labour thereafter the daughter was brought up! With what favour of heaven’s citizens the little one was nourished! Heaven rivals the parents’ diligence and serves the little Virgin with a hundred cohorts.",
           "sourcePages": [
             528
           ],
@@ -1077,8 +1121,17 @@
           },
           "alignment": "reviewed",
           "id": "none-b0005",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed “Virginumque coaetum / Servit cohortibus” has uncertain agreement and agency. The English provisionally understands heavenly attendance; the Latin remains."
+          "verification": "visual-review",
+          "editorialNote": "Checked against the cited 1879 printed edition. The printed reading is “Virgunculaeque centum Servit cohortibus”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "With what labour thereafter the daughter was brought up! With what favour of heaven’s citizens the little one was nourished! Heaven rivals the parents’ diligence, and hosts attend the company of virgins.",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 302,
+            "printedPage": "272",
+            "reading": "Virgunculaeque centum Servit cohortibus",
+            "attachedReading": "Virginumque coaetum Servit cohortibus"
+          }
         },
         {
           "type": "prayer",
@@ -1437,7 +1490,7 @@
         {
           "type": "prayer",
           "source": "Obtutibus sacratis Jam nata cernitur, Complexibus beatis Perenne jungitur: Reciproce tenentur, Tenetque undique Duo parva pars daretur Ex hocce gaudio!",
-          "english": "Now the daughter is beheld with holy gazes and joined for ever in blessed embraces. They hold one another, and she holds them on every side. O that a little share of this joy might be given!",
+          "english": "Now the daughter is beheld with holy gazes and clasped for ever in blessed embraces. She is held, and holds them, in a mutual bond. O that a little share of this joy might be given!",
           "sourcePages": [
             529
           ],
@@ -1451,8 +1504,17 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed “Duo parva pars daretur” is grammatically defective. The English provisionally understands a wish for a small share in their joy; the Latin remains."
+          "verification": "visual-review",
+          "editorialNote": "Checked against the cited 1879 printed edition. The printed reading is “Perenne stringitur: Reciproco tenetur, Tenetque vinculo. O parva pars daretur Ex hocce gaudio!”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "Now the daughter is beheld with holy gazes and joined for ever in blessed embraces. They hold one another, and she holds them on every side. O that a little share of this joy might be given!",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 303,
+            "printedPage": "273",
+            "reading": "Perenne stringitur: Reciproco tenetur, Tenetque vinculo. O parva pars daretur Ex hocce gaudio!",
+            "attachedReading": "Perenne jungitur: Reciproce tenentur, Tenetque undique Duo parva pars daretur"
+          }
         },
         {
           "type": "prayer",
@@ -1520,7 +1582,7 @@
         {
           "type": "prayer",
           "source": "Vectigal nocte amoris, O bina sidera, Pensum precantis oris, O clara lumina, Consigno dedicatum Vestris amoribus, Optoque consecratum Vestris honoribus.",
-          "english": "O twin stars, O bright lights, I set down this tribute of love by night, this task of a praying mouth, dedicated to your love, and desire it consecrated to your honour.",
+          "english": "O twin stars, O bright lights, I set down this tribute of love, this task of a praying mouth, dedicated to your love, and desire it consecrated to your honour.",
           "sourcePages": [
             529
           ],
@@ -1534,12 +1596,14 @@
           },
           "alignment": "reviewed",
           "id": "oblatio-b0001",
-          "verification": "visual-review"
+          "verification": "visual-review",
+          "originalPreparedEnglish": "O twin stars, O bright lights, I set down this tribute of love by night, this task of a praying mouth, dedicated to your love, and desire it consecrated to your honour.",
+          "editorialNote": "Nocte in the attachment is retained. The cited print on PDF 303 has noc, an irregular form; the devotional offering is translated without an inferred nighttime setting."
         },
         {
           "type": "prayer",
           "source": "Amabo vos, amabo, Amita haec permanent, Magisque tunc amabo, Cum vestra me levabit In astra dextera, Et mecum sociabit Aetherea gloria. Amen.",
-          "english": "I shall love you, I shall love you; [the printed “Amita haec permanent” is unclear]. I shall love you still more when your right hand lifts me to the stars and joins me to heavenly glory. Amen.",
+          "english": "I shall love you, I shall love you, while life remains, and love you still more when life ends: when your right hand lifts me to the stars and eternal glory binds me to you. Amen.",
           "sourcePages": [
             529
           ],
@@ -1553,8 +1617,17 @@
           },
           "alignment": "reviewed",
           "id": "oblatio-b0002",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed “Amita haec permanent” is not intelligible in this verse and is explicitly marked untranslated in English."
+          "verification": "visual-review",
+          "editorialNote": "Checked against the cited 1879 printed edition. The printed reading is “Amabo vos, amabo, Dum vita permanet, Magisque tunc amabo, Cum vita desinet: Cum vestra me levabit In astra dextera, Vobisque colligabit Aeterna gloria. Amen.”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "I shall love you, I shall love you; [the printed “Amita haec permanent” is unclear]. I shall love you still more when your right hand lifts me to the stars and joins me to heavenly glory. Amen.",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 303,
+            "printedPage": "273",
+            "reading": "Amabo vos, amabo, Dum vita permanet, Magisque tunc amabo, Cum vita desinet: Cum vestra me levabit In astra dextera, Vobisque colligabit Aeterna gloria. Amen.",
+            "attachedReading": "Amabo vos, amabo, Amita haec permanent"
+          }
         },
         {
           "type": "rubric",
@@ -1592,8 +1665,16 @@
           },
           "alignment": "reviewed",
           "id": "oblatio-b0004",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF uses masculine “illum” for the daughter in one clause. The English provisionally uses her in context; the Latin remains."
+          "verification": "visual-review",
+          "editorialNote": "Checked against the cited 1879 printed edition. The printed reading is “cui recte id nomen est inditum; a quo processit illa filia; O quanto illam amore et reverentia excepisti”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 303,
+            "printedPage": "273",
+            "reading": "cui recte id nomen est inditum; a quo processit illa filia; O quanto illam amore et reverentia excepisti",
+            "attachedReading": "cui nomen esse est inditum"
+          }
         },
         {
           "type": "rubric",
@@ -1617,7 +1698,7 @@
         {
           "type": "prayer",
           "source": "O gratiosa Domina, o benedicta Mater Anna! bene Anna, hoc est gratia, tibi nomen obtigit; quia tibi coelum vivum, omnibus coelis majus, in benedicto utero tuo portare, et in hanc lucem edere a Deo concessum est! O quanta felicitas, quae coelum capere non potuerat, Filia tua immaculato gremio clausa fuit! O coelestis Mater, radix vitae illustris, flos pulcherrimus, fructusque vitae nostrae dulcissimus Christus Jesus ascendit. Laetare, o Anna sterilis! quoniam ex Filia tua Filius natus est nobis, cujus nomen vocatum est magni consilii, hoc est, salutis totius mundi, Angelus. Fac me, o Mater benedicta, gratia, quam ex gratiarum fonte abunde hausisti, participem, ut in amore dilectissimi Nepotis tui Jesu, et protectione dulcissimae Fili ae tuae Mariae vivam et moriar. Amen.",
-          "english": "O gracious lady, O blessed Mother Anne! Well did the name Anne, that is grace, fall to thee, for God granted thee to carry in thy blessed womb and bring into this world the living heaven, greater than all the heavens! O what happiness: He whom heaven could not contain was enclosed in thy daughter’s immaculate womb! O heavenly mother, illustrious root of life, from whom arose the fairest flower and sweetest fruit of our life, Christ Jesus. Rejoice, O barren Anne, for from thy daughter a Son was born to us whose name was called Angel of great counsel, that is, of the salvation of the whole world. Make me, O blessed mother, a sharer in the grace which thou hast drawn abundantly from the fountain of graces, that I may live and die in the love of thy most beloved grandson Jesus and under the protection of thy sweetest daughter Mary. Amen.",
+          "english": "O gracious lady, O blessed Mother Anne! Well did the name Anne, that is grace, fall to thee, for God granted thee to carry in thy blessed womb and bring into this world the living heaven, greater than all the heavens! For Him whom the heavens of heavens could not contain, thy daughter enclosed in her immaculate womb. Thou art, O chosen mother, the root of that rod of Jesse, from which arose the fairest flower and sweetest fruit of our life, Christ Jesus. Rejoice, O barren Anne, for from thy daughter a Son was born to us whose name was called Angel of great counsel, that is, of the salvation of the whole world. Make me, O blessed mother, a sharer in the grace which thou hast drawn abundantly from the fountain of graces, that I may live and die in the love of thy most beloved grandson Jesus and under the protection of thy sweetest daughter Mary. Amen.",
           "sourcePages": [
             529
           ],
@@ -1631,8 +1712,17 @@
           },
           "alignment": "reviewed",
           "id": "oblatio-b0006",
-          "verification": "source-reading-pending",
-          "editorialNote": "The clauses concerning the daughter’s womb and the root/flower/fruit image have irregular, incomplete grammar. The English provisionally follows their devotional context; the Latin remains."
+          "verification": "visual-review",
+          "editorialNote": "Checked against the cited 1879 printed edition. The printed reading is “quem enim coeli coelorum capere non poterant, Filia tua immaculato gremio suo conclusit. Tu es, o electa Mater, radix illa virgae Jesse, ex qua flos pulcherrimus, fructusque vitae nostrae dulcissimus Christus Jesus ascendit”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "O gracious lady, O blessed Mother Anne! Well did the name Anne, that is grace, fall to thee, for God granted thee to carry in thy blessed womb and bring into this world the living heaven, greater than all the heavens! O what happiness: He whom heaven could not contain was enclosed in thy daughter’s immaculate womb! O heavenly mother, illustrious root of life, from whom arose the fairest flower and sweetest fruit of our life, Christ Jesus. Rejoice, O barren Anne, for from thy daughter a Son was born to us whose name was called Angel of great counsel, that is, of the salvation of the whole world. Make me, O blessed mother, a sharer in the grace which thou hast drawn abundantly from the fountain of graces, that I may live and die in the love of thy most beloved grandson Jesus and under the protection of thy sweetest daughter Mary. Amen.",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 303,
+            "printedPage": "273–274",
+            "reading": "quem enim coeli coelorum capere non poterant, Filia tua immaculato gremio suo conclusit. Tu es, o electa Mater, radix illa virgae Jesse, ex qua flos pulcherrimus, fructusque vitae nostrae dulcissimus Christus Jesus ascendit",
+            "attachedReading": "O coelestis Mater, radix vitae illustris"
+          }
         },
         {
           "type": "rubric",
@@ -1656,7 +1746,7 @@
         {
           "type": "prayer",
           "source": "O castum ac beatum parturturum, Joachim et Anna, vobis omnis creatura obstricta est; per vos enim donum omnium donorum praestantissimum Creatori obtulit, nempe castam matrem, quae sola Creatore digna erat. Vestra dignitas ex meritu cognoscitur, quem Dei perpetuo obsequio prompte consecrastis; coniuro vos, obsecro, junctam huic sacrificio hostiam manibus vestris Deo omnipotenti offerte omnesque hujus in me miseris defectus vestra, quam apud Deum invenistis, gratia compensate.",
-          "english": "O chaste and blessed parents, Joachim and Anne, every creature is indebted to you; for through you it offered the Creator the most excellent gift of all gifts, the chaste Mother who alone was worthy of the Creator. Your dignity is known from the merit which you readily consecrated to God’s perpetual service. I implore and beseech you: with your hands offer to almighty God the victim joined to this sacrifice, and through the grace you have found with God make up all its deficiencies in miserable me.",
+          "english": "O chaste and blessed pair of turtledoves, Joachim and Anne, every creature is indebted to you; for through you it offered the Creator the most excellent gift of all gifts, the chaste Mother who alone was worthy of the Creator. Your dignity is known from the immaculate fruit of your womb, whom you readily consecrated to God’s perpetual service. I beseech you, offer my heart, a victim joined to this sacrifice, with your hands to almighty God; and through the grace you have found with God make up all the deficiencies of this gift of mine.",
           "sourcePages": [
             529,
             530
@@ -1672,8 +1762,17 @@
           },
           "alignment": "reviewed",
           "id": "oblatio-b0008",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints malformed “parturturum,” “meritu,” and “hu jus in me miseris defectus.” The English provisionally renders parents, merit, and deficiencies; the Latin remains."
+          "verification": "visual-review",
+          "editorialNote": "Checked against the cited 1879 printed edition. The printed reading is “O castum ac beatum par turturum; ex immaculato ventris vestri fructu; cor meum obsecro; hujus mei muneris”. The attached Latin is retained; prepared English follows the documented reading where it differs.",
+          "originalPreparedEnglish": "O chaste and blessed parents, Joachim and Anne, every creature is indebted to you; for through you it offered the Creator the most excellent gift of all gifts, the chaste Mother who alone was worthy of the Creator. Your dignity is known from the merit which you readily consecrated to God’s perpetual service. I implore and beseech you: with your hands offer to almighty God the victim joined to this sacrifice, and through the grace you have found with God make up all its deficiencies in miserable me.",
+          "sourceReading": {
+            "status": "verified-against-cited-edition",
+            "book": "coeleste-palmetum-1879",
+            "pdfPage": 304,
+            "printedPage": "274",
+            "reading": "O castum ac beatum par turturum; ex immaculato ventris vestri fructu; cor meum obsecro; hujus mei muneris",
+            "attachedReading": "O castum ac beatum parturturum"
+          }
         }
       ]
     }

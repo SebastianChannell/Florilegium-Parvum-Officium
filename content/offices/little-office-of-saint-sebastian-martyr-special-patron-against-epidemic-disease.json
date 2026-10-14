@@ -170,7 +170,7 @@
         {
           "type": "prayer",
           "source": "O Sebastiane Gemma! Quem et virtus, quem et stemma Luce ornant pariili, Te Caesarei favores, Te commendat formae flores, Te acumen animi, Sed quod magis te honorat, Est, Cor tuum quod decorat Amor Christi flammeus: Is, ut corde hunc celiabis, Quo afflictos plus curabis, Tandem fiet publicus.",
-          "english": "O Sebastian, precious gem! Virtue and lineage adorn thee with equal light.\nImperial favour, the flower of thy beauty, and the keenness of thy mind commend thee.\nBut what honours thee more is the burning love of Christ that adorns thy heart.\nThough thou concealest Him in thy heart so as to care more for the afflicted,\nAt length that love shall become public.",
+          "english": "O Sebastian, precious gem! Virtue and lineage adorn thee with [printed pariili: unresolved qualifier] light.\nImperial favour, the flower of thy beauty, and the keenness of thy mind commend thee.\nBut what honours thee more is the burning love of Christ that adorns thy heart.\n[printed celiabis: unresolved verb] Him in thy heart so as to care more for the afflicted,\nAt length that love shall become public.",
           "sourcePages": [
             590
           ],
@@ -184,7 +184,17 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0007",
-          "verification": "visual-review"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "O Sebastian, precious gem! Virtue and lineage adorn thee with equal light.\nImperial favour, the flower of thy beauty, and the keenness of thy mind commend thee.\nBut what honours thee more is the burning love of Christ that adorns thy heart.\nThough thou concealest Him in thy heart so as to care more for the afflicted,\nAt length that love shall become public.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              590
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered pages personally compared. P.590 visibly prints pariili and celiabis; expected replacement spellings are not certified. Previous English/provenance archived; Latin unchanged."
         },
         {
           "type": "prayer",
@@ -267,7 +277,7 @@
         {
           "type": "prayer",
           "source": "Beati Sebastiani Martyris tui, quaesumus, Domine, intercessione nos adjuva, et ab omni peste mala tuam animam et corpus tuos praeserva, quo meritis ejus et precibus, tuam in praesentia gratiam et in futuro gloriam consequamur aeternam. Per Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit",
-          "english": "Help us, we beseech Thee, O Lord, by the intercession of Thy blessed martyr Sebastian, and preserve our soul and body from every evil pestilence, that by his merits and prayers we may obtain Thy grace in the present and eternal glory in the future. Through our Lord Jesus Christ, Thy Son, who liveth with Thee",
+          "english": "Help us, we beseech Thee, O Lord, by the intercession of Thy blessed martyr Sebastian, and preserve [printed tuam animam et corpus tuos: irregular possessives and agreement, not “our soul and body”] from every evil pestilence, that by his merits and prayers we may obtain Thy grace in the present and eternal glory in the future. Through our Lord Jesus Christ, Thy Son, who liveth with Thee",
           "sourcePages": [
             590
           ],
@@ -282,7 +292,16 @@
           "alignment": "reviewed",
           "id": "matins-b0012",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed prayer has malformed “tuam animam et corpus tuos”. The provisional English understands preservation of our soul and body; the original Latin and its abbreviated conclusion are retained."
+          "editorialNote": "10 October 2026: actual rendered pages personally compared. P.590 visibly prints tuam animam et corpus tuos. The former unqualified our silently changed the printed possessives; irregular source is now bracketed. Previous English/provenance archived; Latin unchanged.",
+          "originalPreparedEnglish": "Help us, we beseech Thee, O Lord, by the intercession of Thy blessed martyr Sebastian, and preserve our soul and body from every evil pestilence, that by his merits and prayers we may obtain Thy grace in the present and eternal glory in the future. Through our Lord Jesus Christ, Thy Son, who liveth with Thee",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              590
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -423,7 +442,7 @@
         {
           "type": "prayer",
           "source": "Ecquid, inquis, ut confortem, Juvat, alios ad mortem Ducam et ad lauream? Ni et ipse hanc coronam Tandem capiti imponam Meo Martyr auream; Marcus et Marcellianus Hinc dum vincla tenent manus, Plorat dum familia, Ades Heros et mutantes, Inter milites adstantes Suada firmas aenea.",
-          "english": "“What use is it,” thou sayest, “to strengthen others,\nTo lead them to death and the laurel crown,\nUnless I too, a martyr, at last place that golden crown upon my head?”\nThus, while Marcus and Marcellianus have their hands in bonds and their family weeps,\nThou comest, O hero, and amid the attending soldiers\nDost confirm the wavering with steadfast persuasion.",
+          "english": "“What use is it,” thou sayest, “to strengthen others,\nTo lead them to death and the laurel crown,\nUnless I too, a martyr, at last place that golden crown upon my head?”\nThus, while Marcus and Marcellianus have their hands in bonds and their family weeps,\nThou comest, O hero, and amid the attending soldiers\nDost confirm those changing with steadfast persuasion.",
           "sourcePages": [
             590
           ],
@@ -437,7 +456,17 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0005",
-          "verification": "visual-review"
+          "verification": "visual-review",
+          "originalPreparedEnglish": "“What use is it,” thou sayest, “to strengthen others,\nTo lead them to death and the laurel crown,\nUnless I too, a martyr, at last place that golden crown upon my head?”\nThus, while Marcus and Marcellianus have their hands in bonds and their family weeps,\nThou comest, O hero, and amid the attending soldiers\nDost confirm the wavering with steadfast persuasion.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              590
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: p.590 mutantes literally means those changing. Printed aenea retains the bronze metaphor of persuasion. Previous English/provenance retained; Latin unchanged."
         },
         {
           "type": "prayer",
@@ -591,7 +620,7 @@
         {
           "type": "prayer",
           "source": "Haec dum agis, a splendore Heres spatium per horae Totus circumjiceris, Septem Angelis stipatus, Veste nivea donatus, Quod sis, et praediceris, Omni aevo perstaturus, Cumque Christo permansurus; Quae dum spectant, audiunt, Et Nicostratus miratur, Jamque uxor muta fatur, Ambo Christum induunt!",
-          "english": "While thou dost these things, O hero, for the space of an hour\nThou art wholly surrounded with splendour, attended by seven Angels, clothed in snowy raiment;\nAnd it is foretold that thou shalt endure through every age and remain with Christ.\nWhile they behold and hear these things, Nicostratus marvels,\nAnd now his mute wife speaks: both put on Christ!",
+          "english": "While thou dost these things, O heir [printed spatium per horae: unresolved duration construction]\nThou art wholly surrounded with splendour, attended by seven Angels, clothed in snowy raiment;\nAnd it is foretold that thou shalt endure through every age and remain with Christ.\nWhile they behold and hear these things, Nicostratus marvels,\nAnd now his mute wife speaks: both put on Christ!",
           "sourcePages": [
             590,
             591
@@ -608,7 +637,17 @@
           "alignment": "reviewed",
           "id": "prime-b0005",
           "verification": "source-reading-pending",
-          "editorialNote": "The source prints “Heres” in an irregular line. The provisional English understands an address to the hero and a period of an hour; the printed reading is retained."
+          "editorialNote": "10 October 2026: actual rendered pages personally compared. Pp.590–591 print Heres, a valid noun heir, but spatium per horae remains grammatically unresolved. No heroic address or completed duration is supplied. Previous English/provenance archived; Latin unchanged.",
+          "originalPreparedEnglish": "While thou dost these things, O hero, for the space of an hour\nThou art wholly surrounded with splendour, attended by seven Angels, clothed in snowy raiment;\nAnd it is foretold that thou shalt endure through every age and remain with Christ.\nWhile they behold and hear these things, Nicostratus marvels,\nAnd now his mute wife speaks: both put on Christ!",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              590,
+              591
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -761,7 +800,7 @@
         {
           "type": "prayer",
           "source": "Mille quadringenti sacro Post mundati sunt Lavacro Viri atque feminae: Sed res ista haud celata, Quin ad aulam fuit delata, Potuit perstistere;",
-          "english": "Afterwards, fourteen hundred men and women were cleansed in the sacred laver.\nBut this deed could not remain hidden; it was reported at the court.",
+          "english": "Afterwards, fourteen hundred men and women were cleansed in the sacred laver.\nBut this deed was not hidden, but was reported at court; it was able [printed perstistere: unresolved infinitive].",
           "sourcePages": [
             591
           ],
@@ -775,12 +814,22 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0005",
-          "verification": "visual-review"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "Afterwards, fourteen hundred men and women were cleansed in the sacred laver.\nBut this deed could not remain hidden; it was reported at the court.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              591
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered pages personally compared. P.591 prints perstistere, not a resolved infinitive. Potuit is could/was able, rather than the former could not; the negative haud belongs to celata. Previous English/provenance archived; Latin unchanged."
         },
         {
           "type": "prayer",
           "source": "Hinc dum Caesar haec rescisit, Et quis Ductor sit, audivit, Ira tumens rabida, Huc Sebastianum dari Vinctum jubet, et raptari Ante tribunalai,",
-          "english": "Thus, when Caesar learned these things and heard who their leader was,\nSwelling with raging anger, he commanded Sebastian to be brought bound\nAnd dragged before the tribunal.",
+          "english": "Thus, when Caesar learned these things and heard who their leader was,\nSwelling with raging anger, he commanded Sebastian to be brought bound\nAnd dragged before [printed tribunalai: unresolved form].",
           "sourcePages": [
             591
           ],
@@ -794,7 +843,17 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0006",
-          "verification": "visual-review"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "Thus, when Caesar learned these things and heard who their leader was,\nSwelling with raging anger, he commanded Sebastian to be brought bound\nAnd dragged before the tribunal.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              591
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered pages personally compared. P.591 prints tribunalai, whose form is unresolved. Previous English/provenance archived; Latin unchanged."
         },
         {
           "type": "prayer",
@@ -1115,7 +1174,7 @@
         {
           "type": "prayer",
           "source": "Nec infixit tibi tanta Miles atrox, Christo quanta Tu fixisti spicula: Spicula, sed quae Authore Tibi cusa sunt amore, Folle, Patientiae, Jamque confixum sagittis Ut te mortuum immitis Gens opinans abiiit, En! Irene, dum sacratum Nostru corpus est humatum, Vivum adhuc reperit.",
-          "english": "The cruel soldier did not fix so many darts in thee as thou didst fix in Christ:\nDarts forged for thee by love, their maker, with the bellows of patience.\nNow pierced with arrows, thou art thought dead by the pitiless crowd, and they depart.\nBehold, Irene comes to bury thy sacred body and finds thee still alive.",
+          "english": "The cruel soldier did not fix so many darts in thee as thou didst fix in Christ:\nDarts forged for thee by love, their maker, with the bellows of patience.\nNow pierced with arrows, thou art thought dead by the pitiless crowd, and they depart.\nBehold, Irene, while [printed Nostru: unresolved qualifier] sacred body is buried, finds thee still alive.",
           "sourcePages": [
             591,
             592
@@ -1132,7 +1191,17 @@
           "alignment": "reviewed",
           "id": "none-b0005",
           "verification": "source-reading-pending",
-          "editorialNote": "The source prints “Nostru corpus est humatum”. The provisional English follows the apparent narrative of Irene coming to bury Sebastian’s body, without correcting the Latin."
+          "editorialNote": "10 October 2026: actual rendered pages personally compared. Pp.591–592 print Nostru and corpus est humatum. Unfinished qualifier is bracketed; est humatum is retained as is buried, not changed into Irene coming to bury the body. Previous English/provenance archived; Latin unchanged.",
+          "originalPreparedEnglish": "The cruel soldier did not fix so many darts in thee as thou didst fix in Christ:\nDarts forged for thee by love, their maker, with the bellows of patience.\nNow pierced with arrows, thou art thought dead by the pitiless crowd, and they depart.\nBehold, Irene comes to bury thy sacred body and finds thee still alive.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              591,
+              592
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1285,7 +1354,7 @@
         {
           "type": "prayer",
           "source": "Ab Irene vix curatus Mox Praetorium Senatus Metu procul repetis, Et Tyrannum obviantem Male diis immolantem Generose corripis, Hic stupore mox et ira, Novitate hac ex mira Totus ut excanduit, Te ad mortem virgis tergi, Et cnectum tunc immergi Volutabro praecipit.",
-          "english": "Scarcely healed by Irene, thou returnest without fear to the senate’s hall\nAnd nobly rebukest the tyrant whom thou meetest, for his evil sacrifices to the gods.\nAt once, wholly inflamed with astonishment and anger at this marvellous new sight,\nHe commands thee to be beaten with rods to death\nAnd then, slain, cast into a foul pit.",
+          "english": "Scarcely healed by Irene, thou returnest without fear to the senate’s hall\nAnd nobly rebukest the tyrant whom thou meetest, for his evil sacrifices to the gods.\nAt once, wholly inflamed with astonishment and anger at this marvellous new sight,\nHe commands thee to be wiped with rods to death\nAnd then [printed cnectum: unresolved form] cast into a foul pit.",
           "sourcePages": [
             592
           ],
@@ -1299,7 +1368,17 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0005",
-          "verification": "visual-review"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "Scarcely healed by Irene, thou returnest without fear to the senate’s hall\nAnd nobly rebukest the tyrant whom thou meetest, for his evil sacrifices to the gods.\nAt once, wholly inflamed with astonishment and anger at this marvellous new sight,\nHe commands thee to be beaten with rods to death\nAnd then, slain, cast into a foul pit.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              592
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered pages personally compared. P.592 prints tergi and cnectum. Tergi is translated literally as be wiped, not changed to beaten; cnectum is not silently completed to a slain participle. Previous English/provenance archived; Latin unchanged."
         },
         {
           "type": "prayer",
@@ -1473,7 +1552,7 @@
         {
           "type": "prayer",
           "source": "Sed Tyranne vah! infane, En! Lucina summo mane Dio docta Morpheo Adest, corpus est sacratus Ex palude jam levatum, Divi parens monito, Ad sanctorum Catacumbas Gloriosas inter tumbas Pia manu collocat, Dehinc in honorem ibi O Sebastiane tibi Templum et aedificat.",
-          "english": "But, alas, mad tyrant! Behold, Lucina comes at early dawn,\nDivinely instructed by Morpheus. Obeying the holy one’s warning,\nShe lifts the sacred body from the mire and with loving hands\nLays it among the glorious tombs in the catacombs of the saints.\nAfterwards she builds a church there in thine honour, O Sebastian.",
+          "english": "But, alas, [printed infane: unresolved adjective] tyrant! Behold, Lucina comes at early dawn,\nDivinely instructed by Morpheus. Obeying the holy one’s warning,\n[Printed corpus est sacratus: irregular agreement] the body, now lifted from the mire, she with loving hands\nLays it among the glorious tombs in the catacombs of the saints.\nAfterwards she builds a church there in thine honour, O Sebastian.",
           "sourcePages": [
             592
           ],
@@ -1487,8 +1566,17 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "visual-review",
-          "editorialNote": "The hymn uses Morpheus, the classical personification of dreams; that name is translated literally and is not added historical material."
+          "verification": "source-reading-pending",
+          "editorialNote": "10 October 2026: actual rendered pages personally compared. P.592 prints infane and corpus est sacratus with irregular agreement. Neither is silently regularised. Classical Morpheus remains literal printed imagery. Previous English/provenance archived; Latin unchanged.",
+          "originalPreparedEnglish": "But, alas, mad tyrant! Behold, Lucina comes at early dawn,\nDivinely instructed by Morpheus. Obeying the holy one’s warning,\nShe lifts the sacred body from the mire and with loving hands\nLays it among the glorious tombs in the catacombs of the saints.\nAfterwards she builds a church there in thine honour, O Sebastian.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              592
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1558,7 +1646,7 @@
         {
           "type": "prayer",
           "source": "Preces has, quas recitavi, Magnae Martyr dedicavi Tuo supplex Nomini, Ut misello, peccatorum Contra lues et morborum Des medelam homini; Fuga pestem, mentem quaeque Corpus vel corrumpit aeque, Plagas pelle noxias. Solo Jesu sauciatis Ut amore, cum beatis Perpes detur sanitas!",
-          "english": "These prayers which I have recited I have humbly dedicated to thy name, O great martyr,\nThat thou mayest give this wretched man a remedy against the plagues of sins and sickness.\nDrive away the pestilence that corrupts mind or body alike; repel harmful scourges.\nMay those wounded only with love of Jesus be granted everlasting health with the blessed!",
+          "english": "These prayers which I have recited I have humbly dedicated to thy name, O [printed Magnae: unresolved agreement] martyr,\nThat thou mayest give this wretched man a remedy against the plagues of sins and sickness.\nDrive away the pestilence that corrupts mind or body alike; repel harmful scourges.\nMay those wounded only with love of Jesus be granted everlasting health with the blessed!",
           "sourcePages": [
             592
           ],
@@ -1572,7 +1660,17 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0001",
-          "verification": "visual-review"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "These prayers which I have recited I have humbly dedicated to thy name, O great martyr,\nThat thou mayest give this wretched man a remedy against the plagues of sins and sickness.\nDrive away the pestilence that corrupts mind or body alike; repel harmful scourges.\nMay those wounded only with love of Jesus be granted everlasting health with the blessed!",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              592
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered pages personally compared. P.592 prints Magnae beside the addressed Martyr, an unresolved agreement, not silently changed to Magne. Previous English/provenance archived; Latin unchanged."
         },
         {
           "type": "prayer",
@@ -1667,6 +1765,15 @@
         592,
         593
       ]
+    },
+    {
+      "pages": [
+        590,
+        591,
+        592,
+        593
+      ],
+      "text": "10 October 2026: all four rendered pages and all 70 source/English passages personally compared, including attribution, eight hours, hymns and page continuations, Commendation and seven same-office versicle/prayer expansions. Three prior source blockers independently confirmed; six falsely certified passages returned to pending after finding unsupported repairs. Actual source forms explicitly bracketed, prior English/provenance archived, no Latin repaired. Literal Heres, mutantes, tergi and est humatum retain the printed wording rather than fluent expected narrative."
     }
   ]
 }

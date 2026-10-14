@@ -30,7 +30,7 @@
   "status": {
     "extraction": "reviewed",
     "translation": "complete-prepared",
-    "verification": "source-reading-pending"
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -227,7 +227,7 @@
         {
           "type": "prayer",
           "source": "Taeduit me vitae meae, videns me mala universae sub sole, et cohorruit aeternitas vanitatem et afflictionem spiritus.",
-          "english": "I grew weary of my life, seeing all the evils beneath the sun, and eternity shuddered at vanity and affliction of spirit.",
+          "english": "I grew weary of my life, seeing that all evils are beneath the sun, and that all things are vanity and affliction of spirit.",
           "sourcePages": [
             498
           ],
@@ -241,8 +241,17 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0010",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints the irregular antiphon “videns me mala ... cohorruit aeternitas vanitatem.” The prepared English retains the literal unusual eternity imagery rather than replacing this with a standard biblical passage."
+          "verification": "visual-review",
+          "editorialNote": "The attached Latin is preserved. The English follows the visually checked earlier 1745 Officium Rakoczianum, p.259: “videntem mala universa esse sub sole, et cuncta vanitatem, et afflictionem spiritus”. Its wording differs substantially from the attached antiphon, which prints “videns me” and “cohorruit aeternitas”. This comparison does not verify the cited 1783 edition.",
+          "originalPreparedEnglish": "I grew weary of my life, seeing all the evils beneath the sun, and eternity shuddered at vanity and affliction of spirit.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 303,
+            "printedPage": "259",
+            "reading": "Taeduit me vitae meae, videntem mala universa esse sub sole, et cuncta vanitatem, et afflictionem spiritus.",
+            "attachedReading": "Taeduit me vitae meae, videns me mala universae sub sole, et cohorruit aeternitas vanitatem et afflictionem spiritus."
+          }
         },
         {
           "type": "prayer",
@@ -320,8 +329,16 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0014",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “et Societatem” and “exempla par habuimus.” The prepared English provisionally understands a call into the Society and an example of holiness; the printed Latin remains."
+          "verification": "visual-review",
+          "editorialNote": "The attached Latin is preserved. The English follows the visually checked earlier 1745 Officium Rakoczianum, p.259, which prints “ad Societatem” and “eximiae sanctimoniae exemplar”. The attached PDF prints “et Societatem” and splits “exempla par”. This comparison does not verify the cited 1783 edition.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 303,
+            "printedPage": "259",
+            "reading": "ad Societatem Filii tui; eximiae sanctimoniae exemplar",
+            "attachedReading": "et Societatem Filii tui"
+          }
         }
       ]
     },
@@ -871,8 +888,16 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0005",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “depule,” where the context appears to intend “deplue” (rain down). The prepared English provisionally renders “shed upon us”; the printed verb remains for editorial resolution."
+          "verification": "visual-review",
+          "editorialNote": "The attached Latin is preserved. The English follows the visually checked earlier 1745 Officium Rakoczianum, p.260, which prints “deplue” (rain down), corresponding to the attached “depule”. This comparison does not verify the cited 1783 edition.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 304,
+            "printedPage": "260",
+            "reading": "Devotionis deplue;",
+            "attachedReading": "Devotionis depule,"
+          }
         },
         {
           "type": "rubric",
@@ -1356,7 +1381,7 @@
         {
           "type": "prayer",
           "source": "Sapientiam humilitati exaltabit caput illius, in medio Magnatum considerare illum faciet.",
-          "english": "Wisdom shall exalt his head for humility, and make him take his place amid the great.",
+          "english": "Wisdom shall exalt the head of the humble man, and make him sit amid the great.",
           "sourcePages": [
             500
           ],
@@ -1370,8 +1395,17 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints the irregular “Sapientiam humilitati ... considerare.” The prepared English provisionally understands wisdom exalting the humble man and placing him among the great; the printed Latin remains."
+          "verification": "visual-review",
+          "editorialNote": "The attached Latin is preserved. The English follows the visually checked earlier 1745 Officium Rakoczianum, p.261: “Sapientia humiliati ... consedere”. The earlier reading concerns the humble man and sitting among the great; the attached PDF prints “Sapientiam humilitati ... considerare”. This comparison does not verify the cited 1783 edition.",
+          "originalPreparedEnglish": "Wisdom shall exalt his head for humility, and make him take his place amid the great.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 305,
+            "printedPage": "261",
+            "reading": "Sapientia humiliati exaltabit caput illius, in medio Magnatum consedere illum faciet.",
+            "attachedReading": "Sapientiam humilitati exaltabit caput illius, in medio Magnatum considerare illum faciet."
+          }
         },
         {
           "type": "prayer",
@@ -1559,7 +1593,7 @@
         {
           "type": "prayer",
           "source": "Salve potestas daemonum, Bellator invincibilis, Qui nobilis victoriae Plaudens migrasti e corpore.",
-          "english": "Hail, power against demons, invincible warrior, who, rejoicing in a noble victory, didst depart from the body.",
+          "english": "Hail, power of demons, invincible warrior, who, rejoicing in a noble victory, didst depart from the body.",
           "sourcePages": [
             500
           ],
@@ -1573,8 +1607,17 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0006",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed “potestas daemonum” can literally mean power of demons. In the address to the saint the prepared English provisionally understands power against demons; this relation remains for editorial resolution."
+          "verification": "visual-review",
+          "editorialNote": "Both the attached PDF and the visually checked earlier 1745 edition, p.262, print “potestas daemonum”. The English now retains the literal “power of demons”; the previous conjectural “against demons” is withdrawn. No claim is made that this unusual phrase expresses the author’s intended meaning. This comparison does not verify the cited 1783 edition.",
+          "originalPreparedEnglish": "Hail, power against demons, invincible warrior, who, rejoicing in a noble victory, didst depart from the body.",
+          "sourceReading": {
+            "status": "literal-reading-verified",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 306,
+            "printedPage": "262",
+            "reading": "Salve potestas daemonum,",
+            "attachedReading": "Salve potestas daemonum,"
+          }
         },
         {
           "type": "prayer",
@@ -1593,8 +1636,16 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “Nobis adis fortissimum” without a clear verb of giving or being. The English provisionally understands a request for a strong defence at death; the Latin remains."
+          "verification": "visual-review",
+          "editorialNote": "The attached Latin is preserved. The English follows the visually checked earlier 1745 Officium Rakoczianum, p.262, which prints “adsis” (mayest thou be present), corresponding to the attached “adis”. This comparison does not verify the cited 1783 edition.",
+          "sourceReading": {
+            "status": "verified-against-earlier-edition",
+            "book": "officium-rakoczianum-1745",
+            "pdfPage": 306,
+            "printedPage": "262",
+            "reading": "Nobis adsis fortissimum",
+            "attachedReading": "Nobis adis fortissimum"
+          }
         },
         {
           "type": "rubric",

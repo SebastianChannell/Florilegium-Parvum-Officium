@@ -4,10 +4,24 @@ import { fileURLToPath } from 'node:url';
 
 export const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 export const notice = 'English translation prepared for Sacrum Florilegium; not supplied in the source PDF.';
-export function validateContent({ inventory, documents, boundaries, references = [] }, release = false) {
+export function validateContent({ inventory, documents, boundaries, references = [], sourceReadings = { books: [], readings: [] } }, release = false) {
   const errors = [], pending = [], ids = new Set(), expected = new Set(boundaries.map(o => o.id));
   let blocks = 0, missingEnglish = 0, preparedEnglish = 0, unpairedEnglish = 0, reviewedOffices = 0;
   const add = (message, office) => errors.push({ office, message });
+  const books = new Map();
+  for (const book of sourceReadings.books || []) {
+    if (books.has(book.id) || !book.id || !book.title || !(Number.isInteger(book.year) || (book.editionDate === 'undated' && /^\d{4}-\d{2}-\d{2}$/.test(book.retrievedOn || ''))) || !/^https:\/\//.test(book.url || '') || !/^[a-f0-9]{64}$/.test(book.sha256 || '')) add('Invalid source-reading book provenance.');
+    books.set(book.id, book);
+  }
+  const readingKeys = new Set();
+  for (const reading of sourceReadings.readings || []) {
+    const key = `${reading.office}/${reading.block}`;
+    if (readingKeys.has(key)) add(`Duplicate source-reading review: ${reading.block}`, reading.office);
+    readingKeys.add(key);
+    const block = documents.get(reading.office)?.sections.flatMap(s => s.blocks).find(b => b.id === reading.block);
+    const { office, block: id, ...evidence } = reading;
+    if (!block?.sourceReading || JSON.stringify(block.sourceReading) !== JSON.stringify(evidence)) add(`Source-reading manifest differs from content: ${id}`, office);
+  }
   for (const office of inventory.offices) {
     if (ids.has(office.id)) add('Duplicate office identifier.',office.id);
     ids.add(office.id);
@@ -25,7 +39,7 @@ export function validateContent({ inventory, documents, boundaries, references =
       if (sections.has(section.id)) add(`Duplicate section: ${section.id}`,office.id);
       sections.add(section.id);
       if (!inventorySections.has(section.id)) add(`Broken inventory section link: ${section.id}`,office.id);
-      if (!section.blocks.length) add(`Empty section: ${section.id}`,office.id);
+      if (!section.blocks.length && !section.assemblyOnly) add(`Empty section: ${section.id}`,office.id);
       for (const b of section.blocks) {
         blocks++;
         if (blockIds.has(b.id)) add(`Duplicate block: ${b.id}`,office.id);
@@ -49,6 +63,10 @@ export function validateContent({ inventory, documents, boundaries, references =
           if (b.translation.kind === 'supplied' && JSON.stringify(b.englishPages) !== JSON.stringify(origin?.englishPages || origin?.translation?.sourcePages)) add(`Reused supplied English has incorrect provenance: ${b.id}`,office.id);
         }
         if (b.alignment === 'source-discrepancy' && (!b.editorialNote?.trim() || b.verification !== 'source-reading-pending')) add(`Source discrepancy lacks a visible note or pending review status: ${b.id}`,office.id);
+        if (b.sourceReading) {
+          const evidence = b.sourceReading;
+          if (!readingKeys.has(`${office.id}/${b.id}`) || !books.has(evidence.book) || !['verified-against-cited-edition','literal-reading-verified','verified-against-earlier-edition','verified-against-comparison-edition'].includes(evidence.status) || !Number.isInteger(evidence.pdfPage) || evidence.pdfPage < 1 || !evidence.printedPage?.trim() || !evidence.reading?.trim() || !evidence.attachedReading?.trim() || !b.source?.includes(evidence.attachedReading) || !b.editorialNote?.trim()) add(`Invalid source-reading evidence: ${b.id}`, office.id);
+        }
         if (b.translation?.kind === 'prepared') { prepared++; preparedEnglish++; if (!b.english) add(`Prepared translation is empty: ${b.id}`,office.id); }
         if (/\b(?:TODO|TBD|LOREM IPSUM)\b/i.test(b.source+' '+(b.english || ''))) add(`Placeholder content: ${b.id}`,office.id);
         if (release && b.verification !== 'visual-review') pending.push({office:office.id,block:b.id,message:'Passage awaits visual review.'});
@@ -69,11 +87,21 @@ export function validateContent({ inventory, documents, boundaries, references =
     }
     for (const b of blockMap.values()) if (b.referenceExpansion) checkExpansion(b.id);
     for (const s of doc.sections) {
+      if (s.assemblyOnly) {
+        const heading=blockMap.get(s.sourceHeadingBlock);
+        if (s.blocks.length || !heading || heading.source !== s.sourceHeading || s.assembly?.after?.[0] !== heading.id || !s.sourcePages?.length || s.sourcePages.some(p => !Number.isInteger(p) || p < doc.source.pdfPages[0] || p > doc.source.pdfPages[1])) add(`Assembly-only section lacks its printed heading and source pages: ${s.id}`,office.id);
+      }
       for (const ref of [...(s.assembly?.before || []), ...(s.assembly?.after || [])]) if (!blockIds.has(ref)) add(`Unresolved assembly reference: ${ref}`,office.id);
+      for (const ref of s.assembly?.exclude || []) if (!s.blocks.some(b => b.id === ref)) add(`Assembly exclusion is absent from its section: ${ref}`,office.id);
+      for (const [anchor, refs] of Object.entries(s.assembly?.insertBefore || {})) {
+        if (!s.blocks.some(b => b.id === anchor) || s.assembly?.exclude?.includes(anchor)) add(`Assembly insertion anchor is absent: ${anchor}`,office.id);
+        for (const ref of refs) if (!blockIds.has(ref)) add(`Unresolved assembly reference: ${ref}`,office.id);
+      }
     }
     for (const v of doc.variants || []) {
       const optionIds = v.options.map(o => o.id);
       if (new Set(optionIds).size !== optionIds.length || !optionIds.includes(v.default)) add(`Invalid variant: ${v.id}`,office.id);
+      if (!(v.title || v.label)?.trim() || v.options.some(o => !(o.title || o.label)?.trim())) add(`Variant lacks visible labels: ${v.id}`,office.id);
     }
     for (const s of doc.sections) for (const b of s.blocks) for (const [v,options] of Object.entries(b.when || {})) {
       const variant=doc.variants?.find(x=>x.id===v);
@@ -111,7 +139,7 @@ export function readContent() {
   const read = p => JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
   const inventory = read('content/inventory.json');
   const documents = new Map(fs.readdirSync(path.join(root,'content/offices')).filter(f=>f.endsWith('.json')).map(f=>{const d=read(`content/offices/${f}`);return [d.id,d];}));
-  return { inventory, documents, boundaries:read('content/source/office-boundaries.json'), references:read('content/references.json') };
+  return { inventory, documents, boundaries:read('content/source/office-boundaries.json'), references:read('content/references.json'), sourceReadings:read('content/source-reading-reviews.json') };
 }
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const release = process.argv.includes('--release');

@@ -148,7 +148,7 @@
         {
           "type": "prayer",
           "source": "Ecce signum crucis Domini nostri Jesu Christi, fugite partes adversae: vicit leo de tribu Juda, radix David. Hoc signum crucis erit in coelo, dum Dominus ad judicandum venerit. Per signum sanctae crucis, Jesus per medium eorum ibat, et confundebat inimicos suos. Per signum sanctae crucis obscurentur oculi eorum, ne videant, et dorsum eorum semper incurva. Per signum sanctae crucis de inimicis nostris libera nos Deus noster. Ostende mihi Domine sanctam crucem tuam, et in nomine suo salvum me fac, et in virtute sua libera me. Domine in virtute sanctae crucis vade inter super inimicos meos formido et pavor. In conspectu sanctae crucis stant immobiles quasi lapides, donec pertranseat populus tuus, quem possedisti. Salvator meus per crucem tuam salvum me fac, qui per sanguinem et crucem tuam salvasti mundum. Crux Christi semper pretiosa salva nos omnibus diebus vitae nostrae. Crux Christi, Jesu sanguine rubricata, defende nos a furore inimicorum tuorum. O bona crux Christi! illumina oculos meos, ne unquam obdormiam in morte, ne quando dicat inimicus meus: praevalui adversus eum.",
-          "english": "Behold the sign of the Cross of our Lord Jesus Christ; flee, ye adversaries: the Lion of the tribe of Juda, the Root of David, hath conquered.\nThis sign of the Cross shall be in heaven when the Lord shall come to judge.\nThrough the sign of the holy Cross, Jesus passed through their midst and confounded His enemies.\nThrough the sign of the holy Cross, let their eyes be darkened, that they may not see, and bow down their back always.\nThrough the sign of the holy Cross, deliver us from our enemies, O our God.\nShow me, O Lord, Thy holy Cross, and in its name save me, and by its power deliver me.\nO Lord, by the power of the holy Cross, may dread and fear come upon my enemies.\nIn the presence of the holy Cross they stand motionless as stones, until Thy people, whom Thou hast possessed, pass over.\nMy Saviour, save me through Thy Cross, Who through Thy Blood and Cross hast saved the world.\nEver-precious Cross of Christ, save us all the days of our life.\nCross of Christ, reddened with the Blood of Jesus, defend us from the fury of thine enemies.\nO good Cross of Christ! Enlighten mine eyes, lest ever I sleep in death, lest mine enemy say: I have prevailed against him.",
+          "english": "Behold the sign of the Cross of our Lord Jesus Christ; flee, ye adversaries: the Lion of the tribe of Juda, the Root of David, hath conquered.\nThis sign of the Cross shall be in heaven when the Lord shall come to judge.\nThrough the sign of the holy Cross, Jesus passed through their midst and confounded His enemies.\nThrough the sign of the holy Cross, let their eyes be darkened, that they may not see, and bow down their back always.\nThrough the sign of the holy Cross, deliver us from our enemies, O our God.\nShow me, O Lord, Thy holy Cross, and in its name save me, and by its power deliver me.\nO Lord, by the power of the holy Cross, [the printed “vade inter super inimicos meos formido et pavor” has an unresolved construction involving dread and fear and mine enemies].\nIn the presence of the holy Cross they stand motionless as stones, until Thy people, whom Thou hast possessed, pass over.\nMy Saviour, save me through Thy Cross, Who through Thy Blood and Cross hast saved the world.\nEver-precious Cross of Christ, save us all the days of our life.\nCross of Christ, reddened with the Blood of Jesus, defend us from the fury of thine enemies.\nO good Cross of Christ! Enlighten mine eyes, lest ever I sleep in death, lest mine enemy say: I have prevailed against him.",
           "sourcePages": [
             609
           ],
@@ -158,11 +158,21 @@
             "sourcePages": [
               609
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0006",
-          "verification": "source-reading-pending"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "Behold the sign of the Cross of our Lord Jesus Christ; flee, ye adversaries: the Lion of the tribe of Juda, the Root of David, hath conquered.\nThis sign of the Cross shall be in heaven when the Lord shall come to judge.\nThrough the sign of the holy Cross, Jesus passed through their midst and confounded His enemies.\nThrough the sign of the holy Cross, let their eyes be darkened, that they may not see, and bow down their back always.\nThrough the sign of the holy Cross, deliver us from our enemies, O our God.\nShow me, O Lord, Thy holy Cross, and in its name save me, and by its power deliver me.\nO Lord, by the power of the holy Cross, may dread and fear come upon my enemies.\nIn the presence of the holy Cross they stand motionless as stones, until Thy people, whom Thou hast possessed, pass over.\nMy Saviour, save me through Thy Cross, Who through Thy Blood and Cross hast saved the world.\nEver-precious Cross of Christ, save us all the days of our life.\nCross of Christ, reddened with the Blood of Jesus, defend us from the fury of thine enemies.\nO good Cross of Christ! Enlighten mine eyes, lest ever I sleep in death, lest mine enemy say: I have prevailed against him.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              609
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "PDF p.609 visually confirms “vade inter super inimicos meos formido et pavor”. The previous fluent English supplied an unsupported grammatical repair; that clause is now bracketed and the exact Latin remains pending."
         },
         {
           "type": "prayer",
@@ -181,7 +191,8 @@
           },
           "alignment": "reviewed",
           "id": "opening-prayers-b0007",
-          "verification": "source-reading-pending"
+          "verification": "visual-review",
+          "editorialNote": "PDF p.609 visually confirms “pertraxi fugam a me”. Prepared English renders these words literally as “I have drawn flight away from me”. The unusual intended meaning is not repaired into another psalm or edition. The entire source paragraph and English were compared, including the printed Gloria."
         },
         {
           "type": "heading",
@@ -313,6 +324,13 @@
         609
       ],
       "text": "The source prints the grammatically irregular “vade inter super inimicos meos formido et pavor,” rendered provisionally “may dread and fear come upon my enemies.” The phrase “pertraxi fugam a me” is translated literally as “I have drawn flight away from me”; its intended sense remains uncertain. The source wording is retained in both cases."
+    },
+    {
+      "pages": [
+        609,
+        610
+      ],
+      "text": "10 October 2026: both complete rendered pages, all 13 passages and source introduction compared. The unusual literal “pertraxi fugam a me” is verified without emendation. Only “vade inter super …” remains blocked; its former conjectural English is now visibly bracketed."
     }
   ]
 }

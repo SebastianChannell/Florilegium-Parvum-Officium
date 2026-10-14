@@ -29,7 +29,7 @@
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
     "extraction": "reviewed",
-    "translation": "complete-prepared",
+    "translation": "complete-prepared-reading-pending",
     "verification": "source-reading-pending"
   },
   "sections": [
@@ -168,7 +168,7 @@
         {
           "type": "prayer",
           "source": "O si puras ex amore Corde laudes dem et ore Martyum Delitio!",
-          "english": "O that from love I might give pure praises with heart and lips to the delight of martyrs!",
+          "english": "O that from love I might give pure praises with heart and lips to the Delight of [the printed “Martyum” is irregular].",
           "sourcePages": [
             552
           ],
@@ -178,12 +178,21 @@
             "sourcePages": [
               552
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "matins-b0007",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints “Martyum Delitio.” The English provisionally understands delight of martyrs; the printed Latin remains."
+          "editorialNote": "10 October 2026: PDF p.552 visibly prints “Martyum Delitio”. The earlier English silently supplied martyrs, requiring an unverified reading “Martyrum”; the printed word and uncertainty are now identified.",
+          "originalPreparedEnglish": "O that from love I might give pure praises with heart and lips to the delight of martyrs!",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              552
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -820,7 +829,7 @@
         {
           "type": "prayer",
           "source": "Hosce Christo coacervat, Quos hic in coronam servat Suo Dux armigero.",
-          "english": "Thou heapest these up for Christ; the Leader keeps them as a crown for His soldier.",
+          "english": "[The printed “Hosce Christo coacervat” has an unclear subject after the preceding “Tibi; sed Laurentio”.] These treasures the Leader keeps as a crown for His soldier.",
           "sourcePages": [
             553
           ],
@@ -830,12 +839,21 @@
             "sourcePages": [
               553
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "sext-b0005",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed pronouns “Hosce” and “Quos” have uncertain agreement in the treasure/crown metaphor. The English provisionally renders treasures amassed for the martyr’s crown; the Latin remains."
+          "editorialNote": "10 October 2026: PDF p.553 visibly prints “coacervat”, third person singular. The previous English “Thou heapest” incorrectly used second person to harmonise the preceding address to the torturer. The subject/construction remains unresolved; the following relative clause is translated without repairing its Latin.",
+          "originalPreparedEnglish": "Thou heapest these up for Christ; the Leader keeps them as a crown for His soldier.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              553
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1245,7 +1263,7 @@
         {
           "type": "prayer",
           "source": "Udos flammas credit rores, Prunas Amor putat flores, Lecatulum Craticulum:",
-          "english": "He counts flames as moist dews; love thinks coals flowers and the gridiron a little bed.",
+          "english": "He counts flames as moist dews; love thinks coals flowers, [the printed “Lecatulum Craticulum” is irregular].",
           "sourcePages": [
             554
           ],
@@ -1255,11 +1273,21 @@
             "sourcePages": [
               554
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "vespers-b0006",
-          "verification": "visual-review"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "He counts flames as moist dews; love thinks coals flowers and the gridiron a little bed.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              554
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: PDF p.554 visibly prints “Lecatulum Craticulum”. The old English silently read a little bed in place of “Lecatulum”. That conjecture is now bracketed and this previously certified passage returned to source-reading-pending. The printed source is unchanged."
         },
         {
           "type": "prayer",
@@ -1450,7 +1478,7 @@
         {
           "type": "prayer",
           "source": "Parum olet, parum fragrata, Si non ardet, si non flagrat Thus injectum ignibus;",
-          "english": "Incense cast upon fires smells little and gives little fragrance unless it burns and blazes.",
+          "english": "Incense cast upon fires smells little [the printed “parum fragrata” is irregular], unless it burns and blazes.",
           "sourcePages": [
             554
           ],
@@ -1460,12 +1488,21 @@
             "sourcePages": [
               554
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "compline-b0006",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints the malformed verb “fragrata.” The English provisionally gives fragrance in this incense comparison; the printed Latin remains."
+          "editorialNote": "10 October 2026: PDF p.554 visibly prints “parum fragrata”. The previous English silently made it a finite verb, “gives little fragrance”. No replacement verb is established by this PDF; the phrase remains pending.",
+          "originalPreparedEnglish": "Incense cast upon fires smells little and gives little fragrance unless it burns and blazes.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              554
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1589,7 +1626,7 @@
         {
           "type": "prayer",
           "source": "Magna Martyr o Laurenti! Supplicanti praesta Genti 0Tua per supplicia,",
-          "english": "O great martyr Lawrence, through thy sufferings grant to the people who beseech thee",
+          "english": "O great martyr Lawrence [the printed “Magna” has an irregular agreement], through thy sufferings grant to the people who beseech thee",
           "sourcePages": [
             554
           ],
@@ -1599,12 +1636,21 @@
             "sourcePages": [
               554
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "conclusion-b0001",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints a stray numeral 0 before a hymn line. It remains in the source transcription and is omitted from the English because it has no intelligible role in the verse."
+          "editorialNote": "10 October 2026: PDF p.554 visibly prints “Magna Martyr” and “0Tua”. The adjective’s agreement is irregular and the leading character is a printed zero, not an extracted versicle sign. The zero remains in the source; it is not translated as a Latin word.",
+          "originalPreparedEnglish": "O great martyr Lawrence, through thy sufferings grant to the people who beseech thee",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              554
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1619,12 +1665,12 @@
             "sourcePages": [
               554
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "conclusion-b0002",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints a stray numeral 0 before a hymn line. It remains in the source transcription and is omitted from the English because it has no intelligible role in the verse."
+          "editorialNote": "10 October 2026: PDF p.554 visibly prints “0Digna sint thuribula”. The zero is retained in source and is not treated as a missing word or role marker. This stanza is connected grammatically to the preceding irregular “Magna Martyr” invocation; the conclusion remains pending."
         },
         {
           "type": "prayer",
@@ -1639,12 +1685,12 @@
             "sourcePages": [
               554
             ],
-            "review": "editorial-review-complete"
+            "review": "source-reading-pending"
           },
           "alignment": "reviewed",
           "id": "conclusion-b0003",
           "verification": "source-reading-pending",
-          "editorialNote": "The PDF prints a stray numeral 0 before a hymn line. It remains in the source transcription and is omitted from the English because it has no intelligible role in the verse."
+          "editorialNote": "10 October 2026: PDF p.554 visibly prints “Omnes ardeat immensius” and “0Aevi per myriades”. The zero is retained in source and is not treated as a Latin word. The subject/object construction of the printed love/burning clause remains unresolved; no word is silently replaced."
         },
         {
           "type": "prayer",
@@ -1776,6 +1822,14 @@
         553,
         554
       ]
+    },
+    {
+      "pages": [
+        552,
+        553,
+        554
+      ],
+      "text": "10 October 2026: all three rendered PDF pages and all 79 source/English passages compared, including hymn continuations, seven printed hours, six same-office versicle/collect references, and Conclusion. Seven printed constructions remain pending. Earlier unmarked repairs in English have been identified and previous English/provenance archived. This record supersedes the earlier note describing irregular readings as already marked; no office certification is claimed."
     }
   ]
 }

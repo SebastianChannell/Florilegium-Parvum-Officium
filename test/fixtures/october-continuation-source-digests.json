@@ -117,7 +117,9 @@
           "commendatio-b0002": "d07a178bc193c1910055e2cfd1e2c19eece00b6cd3368d5e96308f79539eaad3"
         }
       }
-    ]
+    ],
+    "verification": "visual-review",
+    "verificationReview": "All 88 rows and English reviewed against attached 436–439 and earlier 1745 PDF 225–227. Matins hymn variant and Infecunda documented; parens corrected, unusual stella maris address retained literally with visible ambiguity note, without certifying 1783."
   },
   {
     "office": "little-office-of-s-barbara-virgin-and-martyr-for-the-purpose-of-asking-for-a-blessed-death",
@@ -216,7 +218,9 @@
         "sourceDigest": "b40ee53819ce313ac6b7371ea0f9a26566bf53523eac9d50478d02b9656ab8eb",
         "existingEnglish": {}
       }
-    ]
+    ],
+    "verification": "visual-review",
+    "verificationReview": "2026-10-09: complete PDF comparison; literal sanabo reading verified in cited 1879 edition p.281; conjectural English withdrawn."
   },
   {
     "office": "little-office-of-saint-sebastian-martyr-special-patron-against-epidemic-disease",
@@ -480,6 +484,13 @@
           "matins-b0162": "6033d788f66d080c345c33278becc9d225fc0d279b6fffc7715f899e58f19f75",
           "matins-b0163": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21",
           "matins-b0164": "fe5d1896cc74f68bdf2c7f8dd7d20dd15caa9a2b19db7f46393933f13c3a729c"
+        },
+        "reviewedEnglishCorrections": {
+          "matins-b0004": {
+            "digest": "4c58edafc922e0282e78c63eee7add49f6a745557a4afc771a9cce601fa03444",
+            "review": "Actual PDF p.321 personally inspected; ea translated literally, original reused English and provenance preserved.",
+            "requiredNoteText": "those lips"
+          }
         }
       },
       {
@@ -925,7 +936,9 @@
         "sourceDigest": "3d04a53142447c84663c111256ae4b6ae11c8828490d487fdf9cecea8fc593b5",
         "existingEnglish": {}
       }
-    ]
+    ],
+    "verification": "visual-review",
+    "verificationReview": "All three attached pages and all English rows compared. Earlier 1745 pages 283–286 checked visually for five difficult readings. Attached source preserved, earlier-edition readings disclosed; no added historical interpretation or unprinted hymn line."
   },
   {
     "office": "little-office-of-s-ignatius-founder-of-the-society-of-jesus-and-s-francis-xavier-apostle-of-the-indies",
@@ -949,6 +962,12 @@
           "matins-b0019": "f5a08ee0e91a17650d17f2822d76f9c7348091d3dbc48746c33601a108416a22",
           "matins-b0020": "6033d788f66d080c345c33278becc9d225fc0d279b6fffc7715f899e58f19f75",
           "matins-b0021": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "reviewedEnglishCorrections": {
+          "matins-b0008": {
+            "digest": "5d10c1829eacee0a8d35d81401dfbb1560544bbab628b0da630236e339a685bc",
+            "review": "The Latin and printed source start at Septuagesima, before Lent; original reused English and provenance are retained."
+          }
         }
       },
       {
@@ -1030,7 +1049,9 @@
         "sourceDigest": "0f6caa9de7360dc903e216a117aa3d2541a81fa03396cdabe7f18fc6a308da53",
         "existingEnglish": {}
       }
-    ]
+    ],
+    "verification": "visual-review",
+    "verificationReview": "All 75 rows reviewed; comparison Palmetum 1879 PDF 305–307 supports six readings, fixes negation and the lowliest/greatest, without certifying cited 1783. Septuagesima rubric corrected."
   },
   {
     "office": "little-office-of-the-holy-three-japanese-martyrs-john-paul-and-james-of-the-society-of-jesus",
@@ -1121,7 +1142,9 @@
           "commendatio-b0004": "26b82583e84b713174e1be5a3777aa491a66574f984b6a30ef2863d3dbd53e8e"
         }
       }
-    ]
+    ],
+    "verification": "visual-review",
+    "verificationReview": "All 61 attached rows and English reviewed; three doubtful readings corroborated in the 1745 edition, PDF pages 338–341, without certifying 1783."
   },
   {
     "office": "little-office-of-s-john-of-god-whose-fiery-birth-was-revealed-by-divine-intervention",
@@ -1441,7 +1464,9 @@
         "sourceDigest": "e10b47111fa05e3e25758e21a3cd46a4b42f24ddb6084ac4c8e884a191ab8150",
         "existingEnglish": {}
       }
-    ]
+    ],
+    "verification": "visual-review",
+    "verificationReview": "All three attached pages and all English rows compared; four difficult readings resolved against the cited 1879 edition, pp.264–265. Source preserved; pronouns and hymn continuity corrected in prepared English."
   },
   {
     "office": "ordo-quiete-ante-lectulo-according-to-the-mozarabic-rite",
@@ -1559,7 +1584,9 @@
           "compline-b0012": "ad84e6016718505335315f998e337b74bb32499603b6d1a20027e9bda014b393"
         }
       }
-    ]
+    ],
+    "verification": "visual-review",
+    "verificationReview": "All three attached pages and all English rows compared. Six difficult readings documented against the earlier 1745 edition, including the literal potestas daemonum rather than a conjectural preposition. Original attached source preserved."
   },
   {
     "office": "little-office-of-s-francis-xavier-of-the-society-of-jesus",
@@ -1641,7 +1668,9 @@
         "sourceDigest": "82af722da96f4043d934692be67ab77edc6110d391e673daa46e8c09b16003c1",
         "existingEnglish": {}
       }
-    ]
+    ],
+    "verification": "visual-review",
+    "verificationReview": "All attached pages and English compared; difficult readings checked against the identified earlier 1745 edition, with visible notes and source-reading evidence. Attached Latin and original supplied English remain unchanged."
   },
   {
     "office": "little-office-of-s-lawrence-martyr",
@@ -1833,7 +1862,9 @@
         "sourceDigest": "acee3c40e6b1d0904252327d169ebf1c71ec208f58a10b1d2fbd0e9492943764",
         "existingEnglish": {}
       }
-    ]
+    ],
+    "verification": "visual-review",
+    "verificationReview": "All 85 attached rows and English reviewed with 1745 PDF pages 248–251; documented substantial antiphon variant, hymn corrections, and literal foenore/Irus, without changing attached Latin."
   },
   {
     "office": "little-office-of-ss-joachim-and-anna",
@@ -1859,6 +1890,12 @@
           "matins-b0018": "f5a08ee0e91a17650d17f2822d76f9c7348091d3dbc48746c33601a108416a22",
           "matins-b0019": "6033d788f66d080c345c33278becc9d225fc0d279b6fffc7715f899e58f19f75",
           "matins-b0020": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "reviewedEnglishCorrections": {
+          "matins-b0007": {
+            "digest": "5d10c1829eacee0a8d35d81401dfbb1560544bbab628b0da630236e339a685bc",
+            "review": "The Latin and printed source start at Septuagesima, before Lent; original reused English and provenance are retained."
+          }
         }
       },
       {
@@ -1935,7 +1972,9 @@
         "sourceDigest": "90cdf90205d13f6cd43f5d77c3ced3687c5e0958f655b10a672b4d77c0b461e5",
         "existingEnglish": {}
       }
-    ]
+    ],
+    "verification": "visual-review",
+    "verificationReview": "All 72 rows and English reviewed against attached 527–530 and cited Palmetum 1879 PDF 300–304. Marite, missing Prime/Oblation lines, reciprocal bond, hundred cohorts, Jesse root, and turtledoves/heart offering checked; Septuagesima corrected with original reuse provenance retained."
   },
   {
     "office": "little-office-of-s-philip-neri-founder-of-the-congregation-of-the-oratory",
@@ -2026,6 +2065,16 @@
           "compline-b0008": "309114ffbb737de77e247f648b37e526e7b67ecce24cfa49f880bbdd2e2ebc11",
           "compline-b0009": "26b82583e84b713174e1be5a3777aa491a66574f984b6a30ef2863d3dbd53e8e",
           "compline-b0010": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e"
+        },
+        "pendingEnglishCorrections": {
+          "compline-b0001": {
+            "digest": "5633c8bbe3fa3d5d932b45211fb7399c93040dd6f99f96e5d046212ce22798ed",
+            "review": "Actual PDF p.588 Convertere nos personally inspected; original English/provenance archived, unsupported imperative correction not certified.",
+            "requiredNoteText": "Convertere nos",
+            "sourcePages": [
+              588
+            ]
+          }
         }
       },
       {
@@ -2113,6 +2162,16 @@
           "compline-b0004": "d1792424a7bb95fc61d548cef68347aa7c027164286f7e00b0ebecf30dbfbc07",
           "compline-b0005": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
           "compline-b0008": "7d9e3a924afbc5a5b02b95231978fd6734e1c09178d4a198514e87c81a73ea99"
+        },
+        "pendingEnglishCorrections": {
+          "compline-b0001": {
+            "digest": "5633c8bbe3fa3d5d932b45211fb7399c93040dd6f99f96e5d046212ce22798ed",
+            "review": "Actual p.474 personally compared, Convertere nos unresolved; original English preserved.",
+            "requiredNoteText": "Convertere nos",
+            "sourcePages": [
+              474
+            ]
+          }
         }
       },
       {
@@ -2223,7 +2282,7 @@
   },
   {
     "office": "little-office-of-s-stanislaus-kostka",
-    "verification": "source-reading-pending",
+    "verification": "visual-review",
     "sections": [
       {
         "id": "matins",
@@ -2311,7 +2370,8 @@
           "commendatio-b0006": "26b82583e84b713174e1be5a3777aa491a66574f984b6a30ef2863d3dbd53e8e"
         }
       }
-    ]
+    ],
+    "verificationReview": "All 75 rows and English reviewed against attached pages and 1745 PDF 335–338; eight documented variant readings, with corculum retained as endearment and no inferred historical battle."
   },
   {
     "office": "little-office-of-s-liborius-bishop-great-miracle-worker-and-special-patron-against-kidney-stones",
@@ -2432,6 +2492,12 @@
           "matins-b0007": "6d7eb02b7fce05afe50d1fd8c884f396aef11e3d03c2950226fe2808b0981083",
           "matins-b0008": "4fa4f8e3ea2f34e153d0998e74a8535c963aa858aaeb6727c9efcf98a879d88c",
           "matins-b0009": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d"
+        },
+        "reviewedEnglishCorrections": {
+          "matins-b0008": {
+            "digest": "5d10c1829eacee0a8d35d81401dfbb1560544bbab628b0da630236e339a685bc",
+            "review": "The Latin and printed source start at Septuagesima, before Lent; original reused English and provenance are retained."
+          }
         }
       },
       {
@@ -2496,7 +2562,9 @@
         "sourceDigest": "114290a29f3641d23ecd41ae1ec59ff3fe4440e9eb9a467cec3003ae4e866505",
         "existingEnglish": {}
       }
-    ]
+    ],
+    "verification": "visual-review",
+    "verificationReview": "All 84 rows reviewed against attached pages and cited Palmetum 1879 PDF 314–316; eight corrected readings and Septuagesima rubric translated as prepared English."
   },
   {
     "office": "little-office-of-s-dismas-the-penitent-thief-patron-of-the-dying-and-those-in-sudden-danger-of-death",
@@ -2604,6 +2672,16 @@
           "compline-b0006": "d1792424a7bb95fc61d548cef68347aa7c027164286f7e00b0ebecf30dbfbc07",
           "compline-b0007": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
           "compline-b0012": "ad84e6016718505335315f998e337b74bb32499603b6d1a20027e9bda014b393"
+        },
+        "pendingEnglishCorrections": {
+          "compline-b0003": {
+            "digest": "5633c8bbe3fa3d5d932b45211fb7399c93040dd6f99f96e5d046212ce22798ed",
+            "review": "Actual p.478 personally compared; unresolved Convertere nos retained.",
+            "requiredNoteText": "Convertere nos",
+            "sourcePages": [
+              478
+            ]
+          }
         }
       },
       {
@@ -2929,7 +3007,9 @@
         "sourceDigest": "112f9f044b399cac95ff8f1b118441cb09a58f39014df171e22446a2e3775343",
         "existingEnglish": {}
       }
-    ]
+    ],
+    "verification": "visual-review",
+    "verificationReview": "All 117 rows and English reviewed against attached PDF 555–560 and original booklet PDF 5–16. Seven pending readings resolved and Lauds conscendisti corrected; Angliam retained literally, lucis parsed as groves, lessus as lamentations. Library witness dated after 1712, not asserted as exact 1712."
   },
   {
     "office": "little-office-of-s-anastasia-martyr-patroness-and-wonderworker-of-the-exempt-most-ancient-and-most-celebrated-monastery-of-benediktbeuern",
@@ -3007,6 +3087,16 @@
           "sext-b0009": "634b77617f8b539e86aa8cabcf5f907619d0b0f4ca4cc19790538560b60b349b",
           "sext-b0010": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
           "sext-b0012": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "visualPreparedEnglishCorrections": {
+          "sext-b0001": {
+            "digest": "92059c666ed367d1e07f187ec7d8a1a648d268bdde17187649ba9c013f8bbdae",
+            "review": "Actual abbreviated incipit personally compared; no printed imperative or possessive.",
+            "requiredNoteText": "abbreviated incipit",
+            "sourcePages": [
+              433
+            ]
+          }
         }
       },
       {
@@ -3019,6 +3109,16 @@
           "none-b0009": "634b77617f8b539e86aa8cabcf5f907619d0b0f4ca4cc19790538560b60b349b",
           "none-b0010": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
           "none-b0012": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "visualPreparedEnglishCorrections": {
+          "none-b0001": {
+            "digest": "92059c666ed367d1e07f187ec7d8a1a648d268bdde17187649ba9c013f8bbdae",
+            "review": "Actual abbreviated incipit personally compared; no printed imperative or possessive.",
+            "requiredNoteText": "abbreviated incipit",
+            "sourcePages": [
+              434
+            ]
+          }
         }
       },
       {
@@ -3031,6 +3131,16 @@
           "vespers-b0009": "634b77617f8b539e86aa8cabcf5f907619d0b0f4ca4cc19790538560b60b349b",
           "vespers-b0010": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
           "vespers-b0012": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "visualPreparedEnglishCorrections": {
+          "vespers-b0001": {
+            "digest": "92059c666ed367d1e07f187ec7d8a1a648d268bdde17187649ba9c013f8bbdae",
+            "review": "Actual abbreviated incipit personally compared; no printed imperative or possessive.",
+            "requiredNoteText": "abbreviated incipit",
+            "sourcePages": [
+              434
+            ]
+          }
         }
       },
       {
@@ -3046,6 +3156,16 @@
           "compline-b0011": "634b77617f8b539e86aa8cabcf5f907619d0b0f4ca4cc19790538560b60b349b",
           "compline-b0012": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
           "compline-b0014": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "visualPreparedEnglishCorrections": {
+          "compline-b0003": {
+            "digest": "92059c666ed367d1e07f187ec7d8a1a648d268bdde17187649ba9c013f8bbdae",
+            "review": "Actual abbreviated incipit personally compared; no printed imperative or possessive.",
+            "requiredNoteText": "abbreviated incipit",
+            "sourcePages": [
+              434
+            ]
+          }
         }
       },
       {
@@ -3324,6 +3444,16 @@
           "compline-b0005": "d1792424a7bb95fc61d548cef68347aa7c027164286f7e00b0ebecf30dbfbc07",
           "compline-b0006": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
           "compline-b0010": "7d9e3a924afbc5a5b02b95231978fd6734e1c09178d4a198514e87c81a73ea99"
+        },
+        "pendingEnglishCorrections": {
+          "compline-b0002": {
+            "digest": "5633c8bbe3fa3d5d932b45211fb7399c93040dd6f99f96e5d046212ce22798ed",
+            "review": "PDF p.503 personally inspected: Convertere nos retained unresolved; old imperative translation archived.",
+            "requiredNoteText": "Convertere nos",
+            "sourcePages": [
+              503
+            ]
+          }
         }
       },
       {
@@ -3350,6 +3480,16 @@
           "matins-b0009": "b302e9aa9248941038a41bbc6dbb0936ed2da9ac8f6f0d4204c451ee09d370b1",
           "matins-b0011": "1ca29bbed623f07b3d23fd520c3b9bd0e5d9b6a5cc30862843d472092f2fb793",
           "matins-b0013": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e"
+        },
+        "reviewedEnglishCorrections": {
+          "matins-b0001": {
+            "digest": "6325797ccb684b4688b3d7c3b498eea498d7070fce1edf2074d2f12ffd58854b",
+            "review": "Actual printed future aperies independently compared.",
+            "requiredNoteText": "aperies",
+            "sourcePages": [
+              516
+            ]
+          }
         }
       },
       {
@@ -3422,6 +3562,16 @@
           "compline-b0007": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
           "compline-b0009": "7804561d4a4d0f3b2c196e2213644d2f83622a86d3caab8ac5f837f0bb438dcc",
           "compline-b0013": "dd61e84349a3c1366a24d642f52be005aef67b12d13c406552e344ee0c6205ae"
+        },
+        "pendingEnglishCorrections": {
+          "compline-b0001": {
+            "digest": "5633c8bbe3fa3d5d932b45211fb7399c93040dd6f99f96e5d046212ce22798ed",
+            "review": "Actual Convertere nos unresolved; no printed active imperative.",
+            "requiredNoteText": "Convertere nos",
+            "sourcePages": [
+              518
+            ]
+          }
         }
       },
       {
@@ -3640,6 +3790,16 @@
           "compline-b0005": "25cf2904c30146082ea82d5581d2a0ab4b4c3f2706cacbea6d4e6b6a0d56ef0d",
           "compline-b0011": "26b82583e84b713174e1be5a3777aa491a66574f984b6a30ef2863d3dbd53e8e",
           "compline-b0012": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e"
+        },
+        "pendingEnglishCorrections": {
+          "compline-b0001": {
+            "digest": "5633c8bbe3fa3d5d932b45211fb7399c93040dd6f99f96e5d046212ce22798ed",
+            "review": "Actual PDF p.511 personally compared, unsupported imperative translation archived.",
+            "requiredNoteText": "Convertere nos",
+            "sourcePages": [
+              511
+            ]
+          }
         }
       },
       {
@@ -4245,6 +4405,16 @@
           "lauds-b0002": "dee58d39732372646c38b6b10c17109ce4c6e5fd150672d4d30c0bea1b621d71",
           "lauds-b0003": "6d7eb02b7fce05afe50d1fd8c884f396aef11e3d03c2950226fe2808b0981083",
           "lauds-b0010": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e"
+        },
+        "visualPreparedEnglishCorrections": {
+          "lauds-b0002": {
+            "digest": "5b5509b568bb6a06ba9106eca88e658c9fb25b6323c99cc79a5de4d7aa8de5f0",
+            "review": "Actual abbreviated incipit personally compared; no printed imperative.",
+            "requiredNoteText": "abbreviated incipit",
+            "sourcePages": [
+              424
+            ]
+          }
         }
       },
       {
@@ -4256,6 +4426,16 @@
           "prime-b0003": "6d7eb02b7fce05afe50d1fd8c884f396aef11e3d03c2950226fe2808b0981083",
           "prime-b0010": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
           "prime-b0012": "e59f3634cc9c0f8eec1fe9d78cd5033fe04ec2a06193a182feaead19fff85fdf"
+        },
+        "visualPreparedEnglishCorrections": {
+          "prime-b0002": {
+            "digest": "5b5509b568bb6a06ba9106eca88e658c9fb25b6323c99cc79a5de4d7aa8de5f0",
+            "review": "Actual abbreviated incipit personally compared; no printed imperative.",
+            "requiredNoteText": "abbreviated incipit",
+            "sourcePages": [
+              425
+            ]
+          }
         }
       },
       {
@@ -4267,6 +4447,16 @@
           "terce-b0003": "6d7eb02b7fce05afe50d1fd8c884f396aef11e3d03c2950226fe2808b0981083",
           "terce-b0010": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
           "terce-b0012": "e59f3634cc9c0f8eec1fe9d78cd5033fe04ec2a06193a182feaead19fff85fdf"
+        },
+        "visualPreparedEnglishCorrections": {
+          "terce-b0002": {
+            "digest": "5b5509b568bb6a06ba9106eca88e658c9fb25b6323c99cc79a5de4d7aa8de5f0",
+            "review": "Actual abbreviated incipit personally compared; no printed imperative.",
+            "requiredNoteText": "abbreviated incipit",
+            "sourcePages": [
+              425
+            ]
+          }
         }
       },
       {
@@ -4279,6 +4469,16 @@
           "sext-b0011": "ced244bb9c0e57625584d3594ca2c4fb8f2e96bf4c2f49ac419c4e23ef5e80fb",
           "sext-b0012": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
           "sext-b0014": "e59f3634cc9c0f8eec1fe9d78cd5033fe04ec2a06193a182feaead19fff85fdf"
+        },
+        "visualPreparedEnglishCorrections": {
+          "sext-b0002": {
+            "digest": "5b5509b568bb6a06ba9106eca88e658c9fb25b6323c99cc79a5de4d7aa8de5f0",
+            "review": "Actual abbreviated incipit personally compared; no printed imperative.",
+            "requiredNoteText": "abbreviated incipit",
+            "sourcePages": [
+              426
+            ]
+          }
         }
       },
       {
@@ -4293,6 +4493,16 @@
           "none-b0010": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
           "none-b0012": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21",
           "none-b0013": "e59f3634cc9c0f8eec1fe9d78cd5033fe04ec2a06193a182feaead19fff85fdf"
+        },
+        "visualPreparedEnglishCorrections": {
+          "none-b0002": {
+            "digest": "5b5509b568bb6a06ba9106eca88e658c9fb25b6323c99cc79a5de4d7aa8de5f0",
+            "review": "Actual abbreviated incipit personally compared; no printed imperative.",
+            "requiredNoteText": "abbreviated incipit",
+            "sourcePages": [
+              426
+            ]
+          }
         }
       },
       {
@@ -4305,6 +4515,16 @@
           "vespers-b0010": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
           "vespers-b0012": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21",
           "vespers-b0013": "e59f3634cc9c0f8eec1fe9d78cd5033fe04ec2a06193a182feaead19fff85fdf"
+        },
+        "visualPreparedEnglishCorrections": {
+          "vespers-b0002": {
+            "digest": "5b5509b568bb6a06ba9106eca88e658c9fb25b6323c99cc79a5de4d7aa8de5f0",
+            "review": "Actual abbreviated incipit personally compared; no printed imperative.",
+            "requiredNoteText": "abbreviated incipit",
+            "sourcePages": [
+              427
+            ]
+          }
         }
       },
       {
@@ -4318,6 +4538,16 @@
           "compline-b0005": "6d7eb02b7fce05afe50d1fd8c884f396aef11e3d03c2950226fe2808b0981083",
           "compline-b0012": "c5530f125bd7456ef07fddcf0e028eb6e1afc4ba7eb8624d49d823059258506e",
           "compline-b0014": "e59f3634cc9c0f8eec1fe9d78cd5033fe04ec2a06193a182feaead19fff85fdf"
+        },
+        "visualPreparedEnglishCorrections": {
+          "compline-b0004": {
+            "digest": "5b5509b568bb6a06ba9106eca88e658c9fb25b6323c99cc79a5de4d7aa8de5f0",
+            "review": "Actual abbreviated incipit personally compared; no printed imperative.",
+            "requiredNoteText": "abbreviated incipit",
+            "sourcePages": [
+              427
+            ]
+          }
         }
       },
       {
@@ -4505,7 +4735,8 @@
           "compline-b0025": "e0f24a5ebc66c896206aa96b95c3cf38cecde39da8f78cca1e65e77f26912d48"
         }
       }
-    ]
+    ],
+    "verification": "visual-review"
   },
   {
     "office": "little-office-of-the-suffering-christ-the-finding-and-the-exaltation-of-the-holy-cross",
@@ -4990,6 +5221,26 @@
           "lauds-b0070": "dc75b5e41f1321ad430806cc9318fbbd11a9a81b22b3ceea1d739c7a8f00992b",
           "lauds-b0071": "6b1c17ece3aca59da65e513805a5dedcab76fc3c629f7849243eb7138e9a7f9e",
           "lauds-b0073": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "suppliedEnglishCorrections": {
+          "lauds-b0006": {
+            "digest": "ae3d0b708ada04731243c345e0f9274cf791b0934b1581e694d6ef5d65ef2110",
+            "sourcePages": [
+              172
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "The printed Luc 1 reference is retained in English.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          },
+          "lauds-b0018": {
+            "digest": "72b320194bdf0fa222e015c65af3cece938c81941f64e9adb3d2169c3c438ca4",
+            "sourcePages": [
+              172
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "The actual Dan. 3 reference is retained in English.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -5175,6 +5426,17 @@
           "compline-b0080": "6e399f2787a0602f604bd89c19e077a5546c05698b6be5b96baa895cc23a0ec0",
           "compline-b0082": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21",
           "compline-b0084": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "suppliedEnglishCorrections": {
+          "compline-b0077": {
+            "digest": "608a49da1b1e5998d5925412ef6971a560e6862127fe6043bb7a70f3d24819db",
+            "sourcePages": [
+              185
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual meruisti explicitly states merit. The supplied p.134 poetic English omits that meaning; its whole original and provenance are retained before this marked prepared correction.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       }
     ]
@@ -5210,6 +5472,28 @@
           "matins-b0073": "f5a08ee0e91a17650d17f2822d76f9c7348091d3dbc48746c33601a108416a22",
           "matins-b0080": "217d8c8f9cf42b3767960b00e9c95d99b489dca6b2a6671b5de09b62b0ecacb6",
           "matins-b0081": "1c10cb8e8637c9578f64d7c38b723c1700ceb7328200a27dd95d293454b4a65a"
+        },
+        "suppliedEnglishCorrections": {
+          "matins-b0019": {
+            "digest": "3e63496b7668a61cdc5cbe0e07419a293fb07fce8ff387cb50c9410a549ed3b4",
+            "sourcePages": [
+              214
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual Benedicta tu is only an incipit; the additional among women in supplied English p.107 is retained in full in its original archive, rather than added to this target.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
+        },
+        "visualWordSequenceEnglishCorrections": {
+          "matins-b0040": {
+            "digest": "cd66acf1f1cd0f15045d949deb18d5e0e7b545737c48fd0fd9398730d891ee76",
+            "sourcePages": [
+              216
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual prosperè modifies Intende before the printed comma, rather than the following procede.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -5416,6 +5700,17 @@
           "vespers-b0059": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21",
           "vespers-b0060": "942f1ab51a4d32e2fd32bdb08326b1c62201a79ddaee7b5fb9145b7244fb0cb7",
           "vespers-b0061": "f5a08ee0e91a17650d17f2822d76f9c7348091d3dbc48746c33601a108416a22"
+        },
+        "suppliedEnglishCorrections": {
+          "vespers-b0028": {
+            "digest": "bbcace40715a205274a0264012591a359a59743ac1780c42d5c102d522d7d905",
+            "sourcePages": [
+              235
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual p.235 explicitly asks for a pure life and seeing Jesus. The supplied poetic p.155 English omits those requests and adds with thee; its complete original text and provenance are retained alongside this prepared stanza.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -5523,6 +5818,187 @@
           "compline-b0246": "f5a08ee0e91a17650d17f2822d76f9c7348091d3dbc48746c33601a108416a22"
         }
       }
+    ],
+    "reviewedAdditionalSections": [
+      {
+        "id": "missae-siccae",
+        "sourceHeading": "Missae Siccae B. Virginis Mariae",
+        "sourcePages": [
+          240,
+          241,
+          242,
+          243,
+          244,
+          245
+        ],
+        "blocks": [
+          "compline-b0083",
+          "compline-b0084",
+          "compline-b0085",
+          "compline-b0086",
+          "compline-b0087",
+          "compline-b0088",
+          "compline-b0089",
+          "compline-b0090",
+          "compline-b0091",
+          "compline-b0092",
+          "compline-b0093",
+          "compline-b0094",
+          "compline-b0095",
+          "compline-b0096",
+          "compline-b0097",
+          "compline-b0098",
+          "compline-b0099",
+          "compline-b0100",
+          "compline-b0101",
+          "compline-b0102",
+          "compline-b0103",
+          "compline-b0104",
+          "compline-b0105",
+          "compline-b0106",
+          "compline-b0107",
+          "compline-b0108",
+          "compline-b0109",
+          "compline-b0110",
+          "compline-b0111",
+          "compline-b0112",
+          "compline-b0113",
+          "compline-b0114",
+          "compline-b0115",
+          "compline-b0116",
+          "compline-b0117",
+          "compline-b0118",
+          "compline-b0119",
+          "compline-b0120",
+          "compline-b0121",
+          "compline-b0122",
+          "compline-b0123",
+          "compline-b0124",
+          "compline-b0125",
+          "compline-b0126",
+          "compline-b0127",
+          "compline-b0128",
+          "compline-b0129",
+          "compline-b0130",
+          "compline-b0131",
+          "compline-b0132",
+          "compline-b0133",
+          "compline-b0134",
+          "compline-b0135",
+          "compline-b0136",
+          "compline-b0137",
+          "compline-b0138",
+          "compline-b0139",
+          "compline-b0140",
+          "compline-b0141",
+          "compline-b0142",
+          "compline-b0143",
+          "compline-b0144",
+          "compline-b0145",
+          "compline-b0146",
+          "compline-b0147",
+          "compline-b0148",
+          "compline-b0149",
+          "compline-b0150",
+          "compline-b0151",
+          "compline-b0152",
+          "compline-b0153",
+          "compline-b0154",
+          "compline-b0155",
+          "compline-b0156",
+          "compline-b0157",
+          "compline-b0158",
+          "compline-b0159",
+          "compline-b0160",
+          "compline-b0161",
+          "compline-b0162",
+          "compline-b0163",
+          "compline-b0164",
+          "compline-b0165",
+          "compline-b0166",
+          "compline-b0167",
+          "compline-b0168",
+          "compline-b0169",
+          "compline-b0170",
+          "compline-b0171",
+          "compline-b0172",
+          "compline-b0173",
+          "compline-b0174",
+          "compline-b0175",
+          "compline-b0176",
+          "compline-b0177",
+          "compline-b0178",
+          "compline-b0179",
+          "compline-b0180",
+          "compline-b0181",
+          "compline-b0182",
+          "compline-b0183",
+          "compline-b0184",
+          "compline-b0185",
+          "compline-b0186",
+          "compline-b0187",
+          "compline-b0188",
+          "compline-b0189",
+          "compline-b0190",
+          "compline-b0191",
+          "compline-b0192",
+          "compline-b0193",
+          "compline-b0194",
+          "compline-b0195",
+          "compline-b0196",
+          "compline-b0197",
+          "compline-b0198",
+          "compline-b0199",
+          "compline-b0200",
+          "compline-b0201",
+          "compline-b0202",
+          "compline-b0203",
+          "compline-b0204",
+          "compline-b0205",
+          "compline-b0206",
+          "compline-b0207",
+          "compline-b0208",
+          "compline-b0209",
+          "compline-b0210",
+          "compline-b0211",
+          "compline-b0212",
+          "compline-b0213",
+          "compline-b0214",
+          "compline-b0215",
+          "compline-b0216",
+          "compline-b0217",
+          "compline-b0218",
+          "compline-b0219",
+          "compline-b0220",
+          "compline-b0221",
+          "compline-b0222",
+          "compline-b0223",
+          "compline-b0224",
+          "compline-b0225",
+          "compline-b0226",
+          "compline-b0227",
+          "compline-b0228",
+          "compline-b0229",
+          "compline-b0230",
+          "compline-b0231",
+          "compline-b0232",
+          "compline-b0233",
+          "compline-b0234",
+          "compline-b0235",
+          "compline-b0236",
+          "compline-b0237",
+          "compline-b0238",
+          "compline-b0239",
+          "compline-b0240",
+          "compline-b0241",
+          "compline-b0242",
+          "compline-b0243",
+          "compline-b0244",
+          "compline-b0245",
+          "compline-b0246"
+        ],
+        "review": "Actual separate heading and all six appendix pages 240–245 personally viewed on 14 October; original 682 rows/IDs and all extracted hour strings conserved. This is a source-backed non-hour reader section, not an invented hour."
+      }
     ]
   },
   {
@@ -5564,6 +6040,13 @@
           "vigils-b0032": "173037866caacf0ec3473b9777acf2317196472bb0f98fdff168e94da261d332",
           "vigils-b0034": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21",
           "vigils-b0037": "f5a08ee0e91a17650d17f2822d76f9c7348091d3dbc48746c33601a108416a22"
+        },
+        "reviewedEnglishCorrections": {
+          "vigils-b0004": {
+            "digest": "4c58edafc922e0282e78c63eee7add49f6a745557a4afc771a9cce601fa03444",
+            "review": "Actual PDF p.321 personally inspected; ea translated literally, original reused English and provenance preserved.",
+            "requiredNoteText": "those lips"
+          }
         }
       },
       {
@@ -5609,6 +6092,54 @@
           "lauds-b0049": "dd22eee183302218440989b517d58d87ed4b8bc43930518b215c41c1a39ec904",
           "lauds-b0050": "822bb75c198ddff044313fca82884e9e95c8fd4a221db0491c7eddb7300766c2",
           "lauds-b0052": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "suppliedEnglishCorrections": {
+          "lauds-b0012": {
+            "digest": "9901fb866114b7960a426f1b4b6d0c64b1631d8e33197488c01cfe3c22f761fa",
+            "sourcePages": [
+              248,
+              249
+            ],
+            "verification": "visual-review",
+            "review": "Actual Cistercian p.249 closes Psalm 62 after the foxes verse; reused supplied English pp.124–125 adds the absent king verse. Prepared English retains this extract’s actual extent.",
+            "requiredNoteText": "Actual Cistercian p"
+          },
+          "lauds-b0013": {
+            "digest": "3995d2c0975a73528104bd2897ad4382729ccd56be6a3d09623e288a979c620f",
+            "sourcePages": [
+              249
+            ],
+            "verification": "visual-review",
+            "review": "The heading Canticum Trium Puerorum remains Latin even in the supplied right column p.126; a prepared English heading now translates it, with the original Latin heading preserved as Latin provenance.",
+            "requiredNoteText": "The heading Canticum Trium Puerorum remains Latin even in the supplied right column p"
+          },
+          "lauds-b0014": {
+            "digest": "f837e3bc6f745a02e745ea66f471c06cd316a3e1dafe03cac9431d8a735f5033",
+            "sourcePages": [
+              249
+            ],
+            "verification": "visual-review",
+            "review": "Actual Cistercian p.249 proceeds directly from servants to Ananias, Azarias and Misael; supplied English pp.126–127 includes the absent spirits/souls and humble-of-heart line. Prepared English preserves the actual omission.",
+            "requiredNoteText": "Actual Cistercian p"
+          },
+          "lauds-b0018": {
+            "digest": "808cac783f8caf2e3b75ae119f1966c691a4a49914fa3fe000c1ccf2f5df2598",
+            "sourcePages": [
+              250
+            ],
+            "verification": "visual-review",
+            "review": "Supplied English p.128 prints Him name; the actual Cistercian p.250 nomen ejus is His name. Full printed wording is archived before prepared correction.",
+            "requiredNoteText": "Supplied English p"
+          },
+          "lauds-b0050": {
+            "digest": "4334317b1dcd87b092d75c8fdd6251c746d83a5ce3f9a8b17f346b1884beba4e",
+            "sourcePages": [
+              251
+            ],
+            "verification": "visual-review",
+            "review": "Actual Cistercian p.251 marks this a response, ℟; supplied English p.132 marks it ℣. Prepared English retains this extract’s actual role, with the complete original English archived.",
+            "requiredNoteText": "Actual Cistercian p"
+          }
         }
       },
       {
@@ -5799,6 +6330,26 @@
           "vespers-b0123": "3a98c85d6660a1f6b303374465b0a1944da3545477a17f4b2e1e5ff961ff19d5",
           "vespers-b0124": "a7a92efb40bb9cd9e522462a29170cdd22fc8f3e3d8501fd50f86408ca402760",
           "vespers-b0131": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "suppliedEnglishCorrections": {
+          "vespers-b0064": {
+            "digest": "4334317b1dcd87b092d75c8fdd6251c746d83a5ce3f9a8b17f346b1884beba4e",
+            "sourcePages": [
+              365
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual source has a response sign, not the versicle sign in the supplied English on p.132; original full text and provenance retained.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          },
+          "vespers-b0109": {
+            "digest": "4334317b1dcd87b092d75c8fdd6251c746d83a5ce3f9a8b17f346b1884beba4e",
+            "sourcePages": [
+              366
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual source has a response sign, not the versicle sign in the supplied English on p.132; original full text and provenance retained.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -5819,6 +6370,28 @@
           "compline-b0038": "5a8800f86afcf8d20c3207c0141873af2e486a3d3712669f0d18f280fef85b56",
           "compline-b0039": "3a98c85d6660a1f6b303374465b0a1944da3545477a17f4b2e1e5ff961ff19d5",
           "compline-b0040": "942f1ab51a4d32e2fd32bdb08326b1c62201a79ddaee7b5fb9145b7244fb0cb7"
+        },
+        "visualPreparedEnglishCorrections": {
+          "compline-b0003": {
+            "digest": "92059c666ed367d1e07f187ec7d8a1a648d268bdde17187649ba9c013f8bbdae",
+            "sourcePages": [
+              367
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "The printed incipit contains neither meum nor intende; no unprinted possessive or imperative is expanded.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
+        },
+        "suppliedEnglishCorrections": {
+          "compline-b0012": {
+            "digest": "c92a8d57e16a8dc2994b5fc2329b52d1d590d84e4bab4b6a94ff281e5f899a9f",
+            "sourcePages": [
+              368
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual ambulavi is past; the supplied English omits for. Original complete English p.160 is retained alongside this prepared correction.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -5865,6 +6438,34 @@
           "matins-b0088": "306fa656b771a80f2d61cf7e584f5a6b667920e7c51f316d31d10f7f384449d0",
           "matins-b0091": "c069d8e4e0203d9d2ad62f1d050bb3e167d936a6b5a2a35cf4a60bb45459adea",
           "matins-b0096": "69628728976b4439d741a1ea49b87e998decccfb38eeb60de55ebd226ae38c2a"
+        },
+        "reviewedEnglishCorrections": {
+          "matins-b0003": {
+            "digest": "4c58edafc922e0282e78c63eee7add49f6a745557a4afc771a9cce601fa03444",
+            "review": "Actual PDF p.321 personally inspected; ea translated literally, original reused English and provenance preserved.",
+            "requiredNoteText": "those lips"
+          }
+        },
+        "suppliedEnglishCorrections": {
+          "matins-b0051": {
+            "digest": "a0cf8d03394b60babab7a9d4ac410cbb8a4b21d470b4d64155a9af4dc3b2d78a",
+            "sourcePages": [
+              372
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "The actual supplied p.113 typo fuless is replaced by prepared fullness; original supplied text retained in full.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          },
+          "matins-b0054": {
+            "digest": "7a04e92e1b174651f7114eab4188329f221b7e207c67d86e7b758f308f6b0ac5",
+            "sourcePages": [
+              372,
+              373
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual source p.373 includes Lux orta est and Laetamini, omitted by supplied English pp.113–114; the full prior English is archived.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -5893,6 +6494,38 @@
           "lauds-b0041": "14794820972e00252d21d9c69450cb7423906e5135614d35364d585ace3a2802",
           "lauds-b0043": "a7a92efb40bb9cd9e522462a29170cdd22fc8f3e3d8501fd50f86408ca402760",
           "lauds-b0047": "a7a92efb40bb9cd9e522462a29170cdd22fc8f3e3d8501fd50f86408ca402760"
+        },
+        "visualPreparedEnglishCorrections": {
+          "lauds-b0001": {
+            "digest": "92059c666ed367d1e07f187ec7d8a1a648d268bdde17187649ba9c013f8bbdae",
+            "sourcePages": [
+              375
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "The printed incipit contains neither meum nor intende; no unprinted possessive or imperative is expanded.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
+        },
+        "suppliedEnglishCorrections": {
+          "lauds-b0016": {
+            "digest": "e06eb8dea2f4a180e2006fe44eb68f5d483bd7b26301f7ee5349dec3b01a8d64",
+            "sourcePages": [
+              376
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "The prior Latin title in the English column is archived and explicitly labelled Latin; this English heading is prepared.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          },
+          "lauds-b0039": {
+            "digest": "e4109ade6b8dc47ff7476b9ef1efd7e8b7aed5a657aac1f6bcc1bd5a2cfdae98",
+            "sourcePages": [
+              377,
+              378
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual source pp.377–378 has no cross in Benedictus; the cross in reused English pp.130–131 is retained in its full archived original, not added to the prepared target.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -5906,6 +6539,17 @@
           "prime-b0019": "fbc81f92610a65f2d8ae8e30ef659a0f5d46a4192994ef2e0dcfd7c143fddd27",
           "prime-b0020": "c2f495151c53612080f7d336ef06b93a5389184343e9a82eaa893635c240cfe4",
           "prime-b0021": "a7a92efb40bb9cd9e522462a29170cdd22fc8f3e3d8501fd50f86408ca402760"
+        },
+        "visualPreparedEnglishCorrections": {
+          "prime-b0002": {
+            "digest": "c1eb655f7a62ef96b45c9180cb3fa8dea0570886dad113fd432381e00385d47a",
+            "sourcePages": [
+              378
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "The printed incipit lacks meum and intende; no unprinted possessive or imperative is supplied.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -5919,6 +6563,17 @@
           "terce-b0013": "0a30c8225ac7dc117e15075be8d4d93929d814a756f1dd59abec334feab0de67",
           "terce-b0014": "43f22394920259e6acc391600e5e5811d743295340053d6b39a0e36b479cf90f",
           "terce-b0023": "da0d406d6f30d9e1face597a92a097a64b2309773d2c75946b3861bf9c0f01fc"
+        },
+        "visualPreparedEnglishCorrections": {
+          "terce-b0002": {
+            "digest": "c1eb655f7a62ef96b45c9180cb3fa8dea0570886dad113fd432381e00385d47a",
+            "sourcePages": [
+              379
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "The printed incipit lacks meum and intende; no unprinted possessive or imperative is supplied.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -5936,6 +6591,28 @@
           "sext-b0020": "79bc70231cd4709e1203a27c8a10e22b71fc176026c99eccd3e26c594211cf77",
           "sext-b0021": "c5b1c3fec3a27890d45baa8b2ead5eca9305d55989001d7fb82d24cafe0eb89e",
           "sext-b0023": "275a10227c6a34c601c5c82cdb096043a164b3f3062f6649351b7c97d360dce2"
+        },
+        "visualPreparedEnglishCorrections": {
+          "sext-b0002": {
+            "digest": "c1eb655f7a62ef96b45c9180cb3fa8dea0570886dad113fd432381e00385d47a",
+            "sourcePages": [
+              380
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "The printed incipit lacks meum and intende; no unprinted possessive or imperative is supplied.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
+        },
+        "suppliedEnglishCorrections": {
+          "sext-b0014": {
+            "digest": "527e45d4be763699736a2ce6f601d19de9077f9fcc6859f8e104d551de4a684c",
+            "sourcePages": [
+              381
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual adducet means shall bring, not shall number as in supplied English pp.144–145. Full original English/provenance retained.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -5954,6 +6631,17 @@
           "none-b0022": "a7a92efb40bb9cd9e522462a29170cdd22fc8f3e3d8501fd50f86408ca402760",
           "none-b0027": "79bc70231cd4709e1203a27c8a10e22b71fc176026c99eccd3e26c594211cf77",
           "none-b0028": "c5b1c3fec3a27890d45baa8b2ead5eca9305d55989001d7fb82d24cafe0eb89e"
+        },
+        "visualPreparedEnglishCorrections": {
+          "none-b0002": {
+            "digest": "c1eb655f7a62ef96b45c9180cb3fa8dea0570886dad113fd432381e00385d47a",
+            "sourcePages": [
+              381
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "The printed incipit lacks meum and intende; no unprinted possessive or imperative is supplied.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       }
     ]
@@ -5973,6 +6661,18 @@
           "night-office-b0019": "c9d21c5212efc111415c65d54b6f2176a987a58b1e636215d59bfaa7d5d0ed14",
           "night-office-b0041": "300c45886884cab8ba831145a76b676e2085a936b604ce742ccd1c81459d4150",
           "night-office-b0051": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "suppliedEnglishCorrections": {
+          "night-office-b0041": {
+            "digest": "0dcaf3080e6b79f91ec93ff69d2a4773097a5e068b403350f46b83c6c0ae1d68",
+            "sourcePages": [
+              268,
+              269
+            ],
+            "verification": "visual-review",
+            "review": "Printed English pp.113–114 omits the two final psalm verses present in the Latin pp.268–269; a prepared reading restores their actual extent.",
+            "requiredNoteText": "Printed English pp"
+          }
         }
       },
       {
@@ -5988,6 +6688,27 @@
           "lauds-b0018": "5e934ec89c53e4f8132e7786c4c9906265931b942041b3e1808f6c4e637a2ebc",
           "lauds-b0019": "a7a92efb40bb9cd9e522462a29170cdd22fc8f3e3d8501fd50f86408ca402760",
           "lauds-b0026": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "suppliedEnglishCorrections": {
+          "lauds-b0003": {
+            "digest": "06de66f2835578fb96e0e627f6ff1c1cf37e2d25a071014f476a69c2375d5bbb",
+            "sourcePages": [
+              269,
+              270
+            ],
+            "verification": "visual-review",
+            "review": "Printed English p.125 omits Terra dedit fructum suum, actually present p.270; prepared reading restores the verse.",
+            "requiredNoteText": "Printed English p"
+          },
+          "lauds-b0018": {
+            "digest": "eb4b0f06ad315a0e9763931e240a568ee30d00a806ec885ba0b28a413a0379ae",
+            "sourcePages": [
+              271
+            ],
+            "verification": "source-reading-pending",
+            "review": "Actual p.271 prints datum se nobis and only Gloria Patri; printed English pp.293–294 supplies a normalised clause and the full doxology. Unresolved Latin remains explicitly bracketed and the abbreviated ending is retained.",
+            "requiredNoteText": "Actual p"
+          }
         }
       },
       {
@@ -6064,6 +6785,26 @@
           "compline-b0009": "74905896f23eb41cc4351fd63998d5f83db64e2282ee62a153fbe994d22eca82",
           "compline-b0017": "a98a6928cd48efd3ef086621864d728a1b6bb7decb362b824210445ceb485bbe",
           "compline-b0018": "a7a92efb40bb9cd9e522462a29170cdd22fc8f3e3d8501fd50f86408ca402760"
+        },
+        "suppliedEnglishCorrections": {
+          "compline-b0007": {
+            "digest": "1b7a8d33b6b65c020ec8bc70e5a681e7ec80fdaa7350f0f2d7f42bc9157d43e8",
+            "sourcePages": [
+              278
+            ],
+            "verification": "visual-review",
+            "review": "Actual supplied English p.160 omits for in its phrase too wonderful me and renders ambulavi in the present; prepared English corrects the grammatical omission and retains the Latin past tense.",
+            "requiredNoteText": "Actual supplied English p"
+          },
+          "compline-b0017": {
+            "digest": "8531a1b84526beeb11dcffef55f1c9acdff93cebf83540b246d26e9fccbb715d",
+            "sourcePages": [
+              279
+            ],
+            "verification": "visual-review",
+            "review": "Actual p.279 prints one cross before servum, while supplied English p.161 prints two; prepared reading retains one sign at its actual source location.",
+            "requiredNoteText": "Actual p"
+          }
         }
       }
     ]
@@ -6130,6 +6871,60 @@
           "matins-b0076": "f5a08ee0e91a17650d17f2822d76f9c7348091d3dbc48746c33601a108416a22",
           "matins-b0083": "f5a08ee0e91a17650d17f2822d76f9c7348091d3dbc48746c33601a108416a22",
           "matins-b0088": "3427bb5dd532510ccea280ecf26652badc8fa2433247a38bee4de824331eeaba"
+        },
+        "reviewedEnglishCorrections": {
+          "matins-b0003": {
+            "digest": "4c58edafc922e0282e78c63eee7add49f6a745557a4afc771a9cce601fa03444",
+            "review": "Actual PDF p.321 personally inspected; ea translated literally, original reused English and provenance preserved.",
+            "requiredNoteText": "those lips"
+          }
+        },
+        "suppliedEnglishCorrections": {
+          "matins-b0029": {
+            "digest": "3e63496b7668a61cdc5cbe0e07419a293fb07fce8ff387cb50c9410a549ed3b4",
+            "sourcePages": [
+              189
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual Benedicta tu is an abbreviated incipit; among women from the reused p.107 English is not supplied to this target. Original full text retained.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          },
+          "matins-b0057": {
+            "digest": "7a04e92e1b174651f7114eab4188329f221b7e207c67d86e7b758f308f6b0ac5",
+            "sourcePages": [
+              191
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual p.191 includes Lux orta est and Laetamini, omitted by supplied English pp.113–114; full original English/provenance retained.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          },
+          "matins-b0059": {
+            "digest": "d8745de3dc4e86dbb9fd2f050a9db80a3d5b0d32459f000d33bd7869f2d84a43",
+            "sourcePages": [
+              192
+            ],
+            "verification": "source-reading-pending",
+            "requiredNoteText": "The actual opaque tionis ejus fragment before Gloria is explicitly bracketed, without changing the otherwise complete psalm.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          },
+          "matins-b0071": {
+            "digest": "6783d9b977158788f2169ef716ebb5800b5326f90dd823883c55c2783fa43b13",
+            "sourcePages": [
+              192
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual p.192 has only Quia after the verse; the full response expansion in supplied English p.285 is archived rather than inserted into this abbreviated target.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          },
+          "matins-b0088": {
+            "digest": "d47e0cc6032de9870ada918a21ed5f32f7d2a0078eba6f4e153daea839b17fff",
+            "sourcePages": [
+              193
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "The actual heading Hymnus Ambrosianus is translated literally; its prior supplied Te Deum alias on p.286 is retained in full.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -6173,6 +6968,56 @@
           "lauds-b0047": "9db18c537f8404274fc5298e744b87da9e9a50c61bfcd47fd27e254d2b49f3f4",
           "lauds-b0048": "1e90bc63773822bfbef446cbc8f414cf7181b52002668a97dad0c816a5178a71",
           "lauds-b0052": "c47eb501c2b2d752e0bee6a28dbaad1e300656abeb7055db2c49e037c0a1ada7"
+        },
+        "suppliedEnglishCorrections": {
+          "lauds-b0012": {
+            "digest": "9901fb866114b7960a426f1b4b6d0c64b1631d8e33197488c01cfe3c22f761fa",
+            "sourcePages": [
+              194
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual p.194 Psalm 62 ends at portions for foxes before Gloria; supplied English pp.124–125 has an additional unprinted king verse, retained only in its full original archive.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          },
+          "lauds-b0013": {
+            "digest": "e06eb8dea2f4a180e2006fe44eb68f5d483bd7b26301f7ee5349dec3b01a8d64",
+            "sourcePages": [
+              194
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "The Latin title in the supplied English column on p.126 is retained with original language Latin; this English heading is prepared.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          },
+          "lauds-b0014": {
+            "digest": "f837e3bc6f745a02e745ea66f471c06cd316a3e1dafe03cac9431d8a735f5033",
+            "sourcePages": [
+              194,
+              195
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual pp.194–195 omit the spirits/souls and holy/humble verse supplied in English pp.126–127; the full original English is retained alongside the prepared reading at actual extent.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          },
+          "lauds-b0038": {
+            "digest": "e7fda94141c8e13568f3977ee894e38ae3a490c7932670701d823e39093741b1",
+            "sourcePages": [
+              196
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual p.196 cross follows Benedictus; prepared English places its single cross after Blessed, preserving the full prior supplied English pp.130–131.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
+        },
+        "visualWordSequenceEnglishCorrections": {
+          "lauds-b0022": {
+            "digest": "7df6157d14f9deef746530694a4952e1ede48ccba17d2433c15edb70c672c212",
+            "sourcePages": [
+              195
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Qui is nominative, retained as the clause’s topic; the subsequent second-person Lactasti has an unexpressed object. Provide retains its adverbial sense with foresight alongside Lactasti after the printed comma, without unprinted quem or an invented object.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -6215,6 +7060,17 @@
           "prime-b0050": "9db18c537f8404274fc5298e744b87da9e9a50c61bfcd47fd27e254d2b49f3f4",
           "prime-b0055": "c47eb501c2b2d752e0bee6a28dbaad1e300656abeb7055db2c49e037c0a1ada7",
           "prime-b0058": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "suppliedEnglishCorrections": {
+          "prime-b0036": {
+            "digest": "6ae0b1149e5a4e9593642d486a2bbc6efb11d90a4929d63aa89970106bbcf39d",
+            "sourcePages": [
+              198
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "The supplied p.307 English omits the article in with Lord our God; full original English/provenance retained alongside the prepared correction.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -6296,6 +7152,17 @@
           "sext-b0043": "1e90bc63773822bfbef446cbc8f414cf7181b52002668a97dad0c816a5178a71",
           "sext-b0047": "c47eb501c2b2d752e0bee6a28dbaad1e300656abeb7055db2c49e037c0a1ada7",
           "sext-b0050": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "suppliedEnglishCorrections": {
+          "sext-b0024": {
+            "digest": "527e45d4be763699736a2ce6f601d19de9077f9fcc6859f8e104d551de4a684c",
+            "sourcePages": [
+              202
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual p.202 adducet means shall bring, not shall number as in supplied English pp.144–145; full original English/provenance retained.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -6376,6 +7243,17 @@
           "vespers-b0046": "1e90bc63773822bfbef446cbc8f414cf7181b52002668a97dad0c816a5178a71",
           "vespers-b0048": "c47eb501c2b2d752e0bee6a28dbaad1e300656abeb7055db2c49e037c0a1ada7",
           "vespers-b0051": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "suppliedEnglishCorrections": {
+          "vespers-b0037": {
+            "digest": "6b4ca01b88a44b46752b87012e53b219c371c9b75f287907708799d8f2be0b18",
+            "sourcePages": [
+              207
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual p.207 cross follows Magnificat; the prepared English retains that single sign after magnify. Full prior supplied English p.156 is archived.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -6400,6 +7278,26 @@
           "compline-b0024": "78150f23bddcf66241054f426c42ed22bb1c26465c694832a6a0bc05de16398a",
           "compline-b0025": "67dc848ba866aa717b5d1e2d5b2ebb0b6493b674c07087b7e751030c35e26c0f",
           "compline-b0030": "a98a6928cd48efd3ef086621864d728a1b6bb7decb362b824210445ceb485bbe"
+        },
+        "suppliedEnglishCorrections": {
+          "compline-b0017": {
+            "digest": "c92a8d57e16a8dc2994b5fc2329b52d1d590d84e4bab4b6a94ff281e5f899a9f",
+            "sourcePages": [
+              208
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual ambulavi is past, and the supplied English p.160 omits for; full original English/provenance retained.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          },
+          "compline-b0030": {
+            "digest": "8531a1b84526beeb11dcffef55f1c9acdff93cebf83540b246d26e9fccbb715d",
+            "sourcePages": [
+              209
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual p.209 has one cross after Nunc dimittis; the two crosses of supplied English p.161 are retained only in its full archive, and the prepared reading has the single actual sign.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -6616,6 +7514,36 @@
           "lauds-b0227": "8646d0d81468ec1067b4c996dda88fa55969d7f630b81baa55741e9c9051827d",
           "lauds-b0232": "8646d0d81468ec1067b4c996dda88fa55969d7f630b81baa55741e9c9051827d",
           "lauds-b0237": "8646d0d81468ec1067b4c996dda88fa55969d7f630b81baa55741e9c9051827d"
+        },
+        "suppliedEnglishCorrections": {
+          "lauds-b0010": {
+            "digest": "06de66f2835578fb96e0e627f6ff1c1cf37e2d25a071014f476a69c2375d5bbb",
+            "sourcePages": [
+              352
+            ],
+            "verification": "visual-review",
+            "review": "Printed English p.125 omits Terra dedit fructum suum, present in the actual Sarum Latin p.352; prepared English restores the complete verse.",
+            "requiredNoteText": "Printed English p"
+          },
+          "lauds-b0014": {
+            "digest": "df3cf35efa82e4cd461e663dd2565c887520fdd8da36ae6484f3d6cc29c70df4",
+            "sourcePages": [
+              352,
+              353
+            ],
+            "verification": "visual-review",
+            "review": "Actual Sarum p.353 lacks the additional omnes present in the reused Roman Latin p.127; the corrected extraction and prepared English preserve Sarum’s own extent, while full printed English pp.127–128 is archived.",
+            "requiredNoteText": "Actual Sarum p"
+          },
+          "lauds-b0016": {
+            "digest": "bc6b791b0171494dac4c1249948ef578f7dbaf83a924b31ebd058bf69738f25b",
+            "sourcePages": [
+              353
+            ],
+            "verification": "visual-review",
+            "review": "Actual p.353 prints future laetabuntur and plural gladii ancipites; supplied English p.292 uses a request and a singular sword. Prepared reading follows the actual source, with the complete printed translation archived.",
+            "requiredNoteText": "Actual p"
+          }
         }
       }
     ]

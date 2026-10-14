@@ -44,11 +44,25 @@
         {
           "type": "prayer",
           "source": "℣. Domine, labia mea aperies,",
-          "english": "℣. O Lord, open my lips,",
+          "english": "℣. O Lord, Thou shalt open my lips,",
           "sourcePages": [
             516
           ],
           "translation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              516
+            ],
+            "review": "editorial-review-complete",
+            "method": "visual-pdf-prepared-translation"
+          },
+          "alignment": "reviewed",
+          "id": "matins-b0001",
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Printed aperies is future, retained without an unprinted imperative. This is an independently prepared replacement of earlier reused English. Prior prepared English/provenance archived; Latin unchanged.",
+          "originalPreparedEnglish": "℣. O Lord, open my lips,",
+          "originalTranslation": {
             "kind": "prepared",
             "method": "exact-reviewed-pdf-reuse",
             "reusedFromOffice": "little-office-of-s-aloysius-gonzaga-of-the-society-of-jesus",
@@ -59,10 +73,9 @@
             "preparedFor": "Sacrum Florilegium",
             "review": "editorial-review-complete"
           },
-          "alignment": "reviewed",
-          "id": "matins-b0001",
-          "verification": "pending",
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+          "originalEnglishPages": [
+            429
+          ]
         },
         {
           "type": "prayer",
@@ -83,7 +96,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -104,7 +118,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -126,8 +141,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0004",
-          "verification": "pending",
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
         },
         {
           "type": "rubric",
@@ -148,12 +163,13 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
           "source": "Cum mundus in caligine reatum jacet Et haeresisum fuligine Suffusis indoleret: Rerum supremus arbiter",
-          "english": "When the world lies in the darkness of guilt\nAnd grieves, stained\nBy the soot of heresies,\nThe supreme Ruler of all things",
+          "english": "When the world lies in darkness [printed reatum: unresolved case connection]\nAnd [printed haeresisum: unresolved genitive] soot\n[printed Suffusis indoleret: unresolved agreement/reference],\nThe supreme Ruler of all things",
           "sourcePages": [
             516
           ],
@@ -169,12 +185,21 @@
           "id": "matins-b0006",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The PDF visibly prints “reatum” and “haeresisum”; the English construction is provisional. The stanza continues into the following row."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Reatum, haeresisum and Suffusis remain unresolved; the initial temporal subordinate continues across following row. Prior prepared English/provenance archived; Latin unchanged.",
+          "originalPreparedEnglish": "When the world lies in the darkness of guilt\nAnd grieves, stained\nBy the soot of heresies,\nThe supreme Ruler of all things",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              516
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
           "source": "Miseritum ingementis, Movit cor, et graviter Innondodo emendicis.",
-          "english": "Moved His heart in pity\nFor the groaning one, and grievously\n[The printed “Innondodo emendicis” is unresolved.]",
+          "english": "[Printed Miseritum ingementis: unresolved connection]\nMoved His heart, and grievously\n[The printed “Innondodo emendicis” is unresolved.]",
           "sourcePages": [
             516
           ],
@@ -190,7 +215,16 @@
           "id": "matins-b0007",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "“Miseritum ingementis” is grammatically defective and rendered provisionally. “Innondodo emendicis” is unresolved."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. The initial Miseritum construction is explicitly bracketed as well as Innondodo emendicis. Prior prepared English/provenance archived; Latin unchanged.",
+          "originalPreparedEnglish": "Moved His heart in pity\nFor the groaning one, and grievously\n[The printed “Innondodo emendicis” is unresolved.]",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              516
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -234,8 +268,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0009",
-          "verification": "pending",
-          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -277,8 +311,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0011",
-          "verification": "pending",
-          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -318,12 +352,13 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0013",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
           "source": "Deus, qui ad majorem Nominis tui gloriam, propagandam novo per B. Ignatium subsidium militantem Ecclesiam roborasti; concede, ut ejus auxilio, et imitatione certantes in terris, coronari cum ipso mereamur in caelis. Qui vivis et regnas, etc.",
-          "english": "O God, who, for the spreading of the greater glory of Thy Name, didst strengthen the Church militant through blessed Ignatius with a new aid, grant that, striving on earth with his help and in imitation of him, we may deserve to be crowned with him in heaven. Who livest and reignest, etc.",
+          "english": "O God, who, for the spreading of the greater glory of Thy Name, [printed novo per B. Ignatium subsidium: unresolved governed case], didst strengthen the Church militant, grant that, striving on earth with his help and in imitation of him, we may deserve to be crowned with him in heaven. Who livest and reignest, etc.",
           "sourcePages": [
             516
           ],
@@ -338,7 +373,16 @@
           "alignment": "reviewed",
           "id": "matins-b0014",
           "verification": "source-reading-pending",
-          "editorialNote": "The source prints “propagandam novo per B. Ignatium subsidium”; its syntax is defective. The English is provisional and the abbreviated conclusion remains as printed."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Subsidium does not print an ablative ending with novo. Six abbreviated same-office prayer references still expand this actual source-blocked prayer. Prior prepared English/provenance archived; Latin unchanged.",
+          "originalPreparedEnglish": "O God, who, for the spreading of the greater glory of Thy Name, didst strengthen the Church militant through blessed Ignatius with a new aid, grant that, striving on earth with his help and in imitation of him, we may deserve to be crowned with him in heaven. Who livest and reignest, etc.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              516
+            ],
+            "review": "editorial-review-complete"
+          }
         }
       ]
     },
@@ -369,7 +413,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -390,7 +435,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -409,8 +455,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0003",
-          "verification": "pending",
-          "editorialNote": "English prepared directly for this printed Latin passage. A previously considered reused version had different versicle/response signs or expanded wording; the prepared English follows this office’s own signs and incipit. The source still awaits visual review."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. English prepared directly for this printed Latin passage. A previously considered reused version had different versicle/response signs or expanded wording; the prepared English follows this office’s own signs and incipit. The source still awaits visual review."
         },
         {
           "type": "rubric",
@@ -431,12 +477,13 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
           "source": "Ignatius Mavortiae se consecrat coronae Spem fregit hujus gratiae Bellona Pampellonae: Curatus aegre cogitat vias inire vitae, Quasi rite Divos, lecitavit, renuncians avitae. Lares Paternos deserit, plensuque charitatis, Ubique semen inserit salubrae sanctitatis.",
-          "english": "Ignatius consecrates himself to the crown of Mars;\nBellona at Pamplona broke his hope of this favour.\nScarcely healed, he thinks of entering the ways of life;\n[The printed “Quasi rite Divos, lecitavit, renuncians avitae” is unresolved.]\nHe leaves his father’s hearths, and, full of charity,\nEverywhere plants the seed of saving holiness.",
+          "english": "Ignatius consecrates himself to the crown of Mars;\nBellona at Pamplona broke his hope of this favour.\nScarcely healed, he thinks of entering the ways of life;\n[The printed “Quasi rite Divos, lecitavit, renuncians avitae” is unresolved.]\nHe leaves his father’s hearths, and [printed plensuque charitatis: unresolved form],\nEverywhere plants the seed [printed salubrae sanctitatis: unresolved qualifier] of holiness.",
           "sourcePages": [
             516
           ],
@@ -452,7 +499,16 @@
           "id": "prime-b0005",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The military deities and Pamplona are retained as the source’s poetic imagery. “Quasi rite Divos, lecitavit, renuncians avitae” is unresolved; “plensuque” and “salubrae” are rendered provisionally."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Plensuque/salubrae remain explicit alongside previously bracketed Quasi rite Divos lecitavit renuncians avitae. Prior prepared English/provenance archived; Latin unchanged.",
+          "originalPreparedEnglish": "Ignatius consecrates himself to the crown of Mars;\nBellona at Pamplona broke his hope of this favour.\nScarcely healed, he thinks of entering the ways of life;\n[The printed “Quasi rite Divos, lecitavit, renuncians avitae” is unresolved.]\nHe leaves his father’s hearths, and, full of charity,\nEverywhere plants the seed of saving holiness.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              516
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -589,7 +645,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -610,7 +667,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -631,7 +689,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -652,7 +711,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "rubric",
@@ -673,12 +733,13 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
           "source": "Ad Matris aram Virginis, pernoct precando durat. Omnique labe criminis cor expiando curat. Carnem domat jejuniis, austeritatibusque Insensu, et cupidis et laetitiis quibusque. Idem frequenter extimos expertus est labores. Idem frequenter intimos expertus est dolores.",
-          "english": "At the altar of the Virgin Mother he endures through the night in prayer;\nHe tends his heart, cleansing it from every stain of sin.\nHe tames the flesh by fasts and austerities;\n[The printed “Insensu, et cupidis et laetitiis quibusque” is unresolved.]\nHe has often experienced outward labours;\nHe has often experienced inward sorrows.",
+          "english": "At the altar of the Virgin Mother [printed pernoct: unresolved shortened form] he endures in prayer;\nHe tends his heart, cleansing it from every stain of sin.\nHe tames the flesh by fasts and austerities;\n[The printed “Insensu, et cupidis et laetitiis quibusque” is unresolved.]\nHe has often experienced outward labours;\nHe has often experienced inward sorrows.",
           "sourcePages": [
             516,
             517
@@ -696,7 +757,17 @@
           "id": "terce-b0006",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The source prints the shortened “pernoct” and the defective “Insensu, et cupidis et laetitiis quibusque.” The latter clause remains unresolved; no omitted renunciation is invented."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Pernoct is not silently expanded to a complete Latin word; existing Insensu clause remains bracketed. Prior prepared English/provenance archived; Latin unchanged.",
+          "originalPreparedEnglish": "At the altar of the Virgin Mother he endures through the night in prayer;\nHe tends his heart, cleansing it from every stain of sin.\nHe tames the flesh by fasts and austerities;\n[The printed “Insensu, et cupidis et laetitiis quibusque” is unresolved.]\nHe has often experienced outward labours;\nHe has often experienced inward sorrows.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              516,
+              517
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -832,7 +903,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -853,7 +925,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -874,7 +947,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -895,7 +969,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "rubric",
@@ -916,7 +991,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -937,7 +1013,16 @@
           "id": "sext-b0006",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The source prints “Tricennis,” “imaestatis,” “sequella,” “saenasque,” and “necque.” Readable clauses are provisional; the unclear words and clauses remain explicitly unresolved."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. The already bracketed imaestatis, sequella construction, saenasque and necque remain unresolved; Tricennis is not regularised in source. Prior prepared English/provenance archived; Latin unchanged.",
+          "originalPreparedEnglish": "At thirty years of age, [the printed “imaestatis” is unresolved], he is a beginner in Latin;\nTo this he is driven by an unusual ardour of charity.\n[The printed “Et actus inde nobis sodalium sequella” is unresolved.]\nThat he might devote himself to affairs, a fruitful remedy for mortals.\nHe bore calumnies, words, [the printed “saenasque” is unresolved], and prisons;\nAnd more willingly endures wounds [the printed “necque” is unresolved].",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              517
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -958,7 +1043,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -977,8 +1063,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0008",
-          "verification": "source-reading-pending",
-          "editorialNote": "The source prints “ad stetit”; “he stood” is provisional. The source’s “secum” is retained in sense."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual p.517 personally compared. Ad stetit preserves all the letters of the ordinary perfect adstetit, stood by; word spacing is retained in source. Secum retains the narrative reference to him, without changing its letters. No unprinted substitute antiphon supplied."
         },
         {
           "type": "prayer",
@@ -1076,7 +1162,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -1097,7 +1184,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -1118,7 +1206,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -1139,7 +1228,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "rubric",
@@ -1160,12 +1250,13 @@
           },
           "alignment": "reviewed",
           "id": "none-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
           "source": "Sublimis inter aera Ignatius tenetur: Quando te ulgens sidera precando conatur Apostolos in judicium ab legat hinc vereptum: Cum caeteris exotiicum hic, excolit rosetum. Aufert suorum cordibus sodalium pavorem Cum Christus ipsis omnibus proponit et favorem.",
-          "english": "Ignatius is held aloft in the air;\n[The printed “Quando te ulgens sidera precando conatur” is unresolved.]\n[The printed “Apostolos in judicium ab legat hinc vereptum” is unresolved.]\nWith the others, here he cultivates [the printed “exotiicum” is unresolved] a rose garden.\nHe removes fear from the hearts of his companions,\nWhen Christ sets before them all His favour.",
+          "english": "Ignatius is held aloft in the air;\n[The printed “Quando te ulgens sidera precando conatur” is unresolved.]\n[The printed “Apostolos in judicium ab legat hinc vereptum” is unresolved.]\nWith the others, here he cultivates [the printed “exotiicum” is unresolved] a rose garden.\nHe removes fear from the hearts of his companions,\nWhen Christ sets before them all favour.",
           "sourcePages": [
             517
           ],
@@ -1181,7 +1272,16 @@
           "id": "none-b0006",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "Several middle lines are corrupt, including “te ulgens,” “ab legat,” “vereptum,” and “exotiicum.” Their meanings remain unresolved rather than importing a known biographical episode."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Previous uncertain clauses remain bracketed; no possessive supplied to favour absent in the printed clause. Prior prepared English/provenance archived; Latin unchanged.",
+          "originalPreparedEnglish": "Ignatius is held aloft in the air;\n[The printed “Quando te ulgens sidera precando conatur” is unresolved.]\n[The printed “Apostolos in judicium ab legat hinc vereptum” is unresolved.]\nWith the others, here he cultivates [the printed “exotiicum” is unresolved] a rose garden.\nHe removes fear from the hearts of his companions,\nWhen Christ sets before them all His favour.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              517
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -1319,7 +1419,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -1340,7 +1441,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -1361,7 +1463,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -1382,7 +1485,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "rubric",
@@ -1403,12 +1507,13 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
           "source": "Mox Ordo Jesu nomine vocatus, inchoatur Fausto deinceps, omine firmatus approbatur. Sacco jubetur caetui Ignatius praeesse, Pastoris hujus mutui grex gessit subsellere. Cutam suorum sodalium fructu ferace gessit, Et Coelique juxta regulam res cuncta vitae cessit.",
-          "english": "Soon the Order called by the name of Jesus is begun;\nThereafter, confirmed under a favourable omen, it is approved.\nIgnatius is commanded to preside over [the printed “Sacco” is unresolved] the company;\n[The printed “Pastoris hujus mutui grex gessit subsellere” is unresolved.]\nHe exercised care for his companions with abundant fruit,\nAnd according to the rule of heaven [the printed “res cuncta vitae cessit” is uncertain].",
+          "english": "Soon the Order called by the name of Jesus is begun;\nThereafter, confirmed under a favourable omen, it is approved.\nIgnatius is commanded to preside over [the printed “Sacco” is unresolved] the company;\n[The printed “Pastoris hujus mutui grex gessit subsellere” is unresolved.]\n[Printed Cutam: unresolved form] of his companions he bore with abundant fruit,\nAnd according to the rule of heaven [printed res cuncta vitae cessit: unresolved agreement/construction].",
           "sourcePages": [
             517,
             518
@@ -1426,7 +1531,17 @@
           "id": "vespers-b0006",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "The printed “Sacco” and “Pastoris hujus mutui grex gessit subsellere” are unresolved. “Cutam” and the final “res cuncta vitae cessit” are provisional. No standard account of the Society’s foundation is substituted."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Actual Cutam now explicitly unresolved rather than silently replaced by curam; prior Sacco/subsellere brackets retained. Prior prepared English/provenance archived; Latin unchanged.",
+          "originalPreparedEnglish": "Soon the Order called by the name of Jesus is begun;\nThereafter, confirmed under a favourable omen, it is approved.\nIgnatius is commanded to preside over [the printed “Sacco” is unresolved] the company;\n[The printed “Pastoris hujus mutui grex gessit subsellere” is unresolved.]\nHe exercised care for his companions with abundant fruit,\nAnd according to the rule of heaven [the printed “res cuncta vitae cessit” is uncertain].",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              517,
+              518
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -1449,8 +1564,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "pending",
-          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1473,8 +1588,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0008",
-          "verification": "pending",
-          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
         },
         {
           "type": "prayer",
@@ -1537,7 +1652,7 @@
         {
           "type": "prayer",
           "source": "℣. Convertere nos Deus salutaris noster.",
-          "english": "℣. Convert us, O God our Saviour.",
+          "english": "℣. [Printed Convertere nos: unresolved construction], O God our Saviour.",
           "sourcePages": [
             518
           ],
@@ -1553,7 +1668,19 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "pending"
+          "verification": "source-reading-pending",
+          "originalPreparedEnglish": "℣. Convert us, O God our Saviour.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              518
+            ],
+            "review": "editorial-review-complete",
+            "method": "exact-source-memory",
+            "memoryId": "99ecc4cd6516d1e9"
+          },
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Convertere nos is not the customary active imperative Converte nos; no unprinted ending supplied. Prior prepared English/provenance archived; Latin unchanged."
         },
         {
           "type": "prayer",
@@ -1574,7 +1701,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -1595,7 +1723,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -1616,7 +1745,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -1637,7 +1767,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -1658,7 +1789,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0006",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "rubric",
@@ -1679,12 +1811,13 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
           "source": "Jam vitis illicae sersperat Ignatio fatore, Orbemque ferme sersperat coelestium favore. Cum strenui mens militis post haec relicta castra Inepta nomen coelitis poli subivit astra. O Patriarcha, lumine dignare nos paterno! Opemque natis, lumine transmittente de superno.",
-          "english": "[The printed “Jam vitis illicae sersperat Ignatio fatore” is unresolved.]\nAnd almost the whole world [the printed “sersperat” is unresolved] through the favour of the heavenly ones.\nWhen the mind of the valiant soldier, having left this camp,\n[The printed “Inepta nomen coelitis” is unresolved], rose to the stars of heaven.\nO Patriarch, deign to look upon us with a father’s light!\nAnd send help to thy children, with light shining from on high.",
+          "english": "[The printed “Jam vitis illicae sersperat Ignatio fatore” is unresolved.]\nAnd almost the whole world [the printed “sersperat” is unresolved] through the favour of the heavenly ones.\nWhen the mind of the valiant soldier, having left this camp,\n[The printed “Inepta nomen coelitis” is unresolved], rose to the stars of heaven.\nO Patriarch, deign to look upon us with a father’s light!\nAnd help to thy children, [printed lumine transmittente de superno: unresolved participle/connection].",
           "sourcePages": [
             518
           ],
@@ -1700,7 +1833,16 @@
           "id": "compline-b0008",
           "verification": "source-reading-pending",
           "poetry": true,
-          "editorialNote": "“illicae,” “sersperat,” “fatore,” and “Inepta nomen coelitis” are corrupt or uncertain. The readable prayer for paternal light and help is retained; the other clauses remain unresolved."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. The actual participle transmittente does not print a second imperative send. Other damaged vine/world/name clauses remain bracketed. Prior prepared English/provenance archived; Latin unchanged.",
+          "originalPreparedEnglish": "[The printed “Jam vitis illicae sersperat Ignatio fatore” is unresolved.]\nAnd almost the whole world [the printed “sersperat” is unresolved] through the favour of the heavenly ones.\nWhen the mind of the valiant soldier, having left this camp,\n[The printed “Inepta nomen coelitis” is unresolved], rose to the stars of heaven.\nO Patriarch, deign to look upon us with a father’s light!\nAnd send help to thy children, with light shining from on high.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              518
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -1721,7 +1863,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -1740,8 +1883,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0010",
-          "verification": "source-reading-pending",
-          "editorialNote": "The source prints “et populus Israel” rather than a standard biblical quotation. Its unusual conjunction is preserved; no word is silently added."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual p.518 personally compared. Hic est frater noster et populus Israel is an unusual but complete nominative predication; the unchanged English preserves both printed nouns and conjunction. No expected biblical quotation imported."
         },
         {
           "type": "prayer",
@@ -1802,8 +1945,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0013",
-          "verification": "pending",
-          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review.",
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review.",
           "referenceExpansion": {
             "targets": [
               "matins-b0013",
@@ -1829,7 +1972,7 @@
         {
           "type": "prayer",
           "source": "Haec vota supplex offero Ignatio praesenti, Et hunc honorem defero majora potenti. Exopto per te maximi nunc ponderis favorem, Tum Numinis, tum proximi terris in his amorem. Ut mens soluta corpore festaret ad superna, Et pace pleno pectore fruatur cive aeterna.",
-          "english": "A suppliant, I offer these vows to Ignatius present,\nAnd render this honour to him who can do greater things.\nThrough thee I now desire a favour of the greatest weight:\nLove both of God and of my neighbour here on earth;\nThat the mind, freed from the body, may hasten unto things above,\nAnd with a breast full of peace may enjoy [the printed “cive aeterna” is uncertain].",
+          "english": "A suppliant, I offer these vows to Ignatius present,\nAnd render this honour to him who can do greater things.\nThrough thee I now desire a favour of the greatest weight:\nLove both of God and of my neighbour here on earth;\nThat the mind, freed from the body, might keep festival in regard to things above,\nAnd with a breast full of peace might enjoy an eternal female citizen.",
           "sourcePages": [
             518
           ],
@@ -1843,9 +1986,18 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0001",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "poetry": true,
-          "editorialNote": "“festaret” and “cive aeterna” are irregular. “May hasten” is provisional; the final object of enjoyment remains uncertain."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Festaret is an attested postclassical festare (keep festival), not an emended haste verb; lexical evidence https://mateo.uni-mannheim.de/camenaref/nolte/nolte1/Nolte_lexicon_3-1.html. Cive is regular ablative singular of common-gender civis; aeterna specifies feminine. Literal female citizen retained without changing source to heavenly city or eternal life. The unexpected devotional imagery is not a defective Latin form. Prior prepared English/provenance archived; Latin unchanged.",
+          "originalPreparedEnglish": "A suppliant, I offer these vows to Ignatius present,\nAnd render this honour to him who can do greater things.\nThrough thee I now desire a favour of the greatest weight:\nLove both of God and of my neighbour here on earth;\nThat the mind, freed from the body, may hasten unto things above,\nAnd with a breast full of peace may enjoy [the printed “cive aeterna” is uncertain].",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              518
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -1869,7 +2021,7 @@
         {
           "type": "prayer",
           "source": "Salve Sancte Patriarcha Ignati, imitator Jesu Christi; templum Spiritus Sancti; serve amantissime SS. Trinitatis! Salve emulator Martyrum; imago Apostolorum, Vas electionis. Salve expugnator vitiorum, compendium virtutum, idea perfectionis. Salve norma patientiae; castitatis lilium, modestiae speculum. Salve obedientiae prodigium, charitatis ignis, pauperum refugium. Salve exemplar abstinentiae, humilitatis prototypon, afflictorum solatium. Auxiliare Magister ignorantium, dux poenitentium, reformator Christi; norum illumina mentem meam, dux infidelium Guberna cor meum, magne affectuum tuorum moderator. Impetra mihi veniam, felicissimae pacis conciliator. Excra in bono perseverantiam, firma Ecclesiae columna. Intercede pro me, meisque omnibus, tum consanguineis, tum amicis et benefactoribus; strenue clientium tuorum Protector. Sis mihi scutum in adversitatibus; defende me in tentationibus, et omnibus in vita malis, nec me deferas in hora mortis meae. Amen.",
-          "english": "Hail, holy Patriarch Ignatius, imitator of Jesus Christ, temple of the Holy Ghost, most loving servant of the most Holy Trinity! Hail, emulator of the Martyrs, image of the Apostles, vessel of election. Hail, conqueror of vices, compendium of virtues, pattern of perfection. Hail, rule of patience, lily of chastity, mirror of modesty. Hail, marvel of obedience, fire of charity, refuge of the poor. Hail, example of abstinence, model of humility, comfort of the afflicted. Help us, teacher of the ignorant, leader of penitents, [the printed “reformator Christi; norum” is unresolved]; illumine my mind, leader of unbelievers; govern my heart, great moderator of thine affections. Obtain pardon for me, bringer of most blessed peace. Obtain perseverance in good, firm pillar of the Church. Intercede for me and all mine, both kinsfolk and friends and benefactors, vigorous protector of thy clients. Be my shield in adversity; defend me in temptations and from all evils in life, and forsake me not at the hour of my death. Amen.",
+          "english": "Hail, holy Patriarch Ignatius, imitator of Jesus Christ, temple of the Holy Ghost, most loving servant of the most Holy Trinity! Hail, emulator of the Martyrs, image of the Apostles, vessel of election. Hail, conqueror of vices, compendium of virtues, pattern of perfection. Hail, rule of patience, lily of chastity, mirror of modesty. Hail, marvel of obedience, fire of charity, refuge of the poor. Hail, example of abstinence, model of humility, comfort of the afflicted. Help, teacher of the ignorant, leader of penitents, [the printed “reformator Christi; norum” is unresolved]; illumine my mind, leader of unbelievers; govern my heart, great moderator of thine affections. Obtain pardon for me, bringer of most blessed peace. [Printed Excra: unresolved verb] perseverance in good, firm pillar of the Church. Intercede for me and all mine, both kinsfolk and friends and benefactors, vigorous protector of thy clients. Be my shield in adversity; defend me in temptations and from all evils in life, and carry me not away at the hour of my death. Amen.",
           "sourcePages": [
             518
           ],
@@ -1884,7 +2036,16 @@
           "alignment": "reviewed",
           "id": "commendatio-b0003",
           "verification": "source-reading-pending",
-          "editorialNote": "The printed “reformator Christi; norum” is unresolved. “Excra” is rendered provisionally as “obtain,” and “deferas” as “forsake.” The remainder of the printed prayer is preserved."
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Auxiliare prints no us; Excra remains unresolved; deferas is the regular verb carry away, not an unprinted deseras forsake. Earlier reformator Christi norum clause remains bracketed. Prior prepared English/provenance archived; Latin unchanged.",
+          "originalPreparedEnglish": "Hail, holy Patriarch Ignatius, imitator of Jesus Christ, temple of the Holy Ghost, most loving servant of the most Holy Trinity! Hail, emulator of the Martyrs, image of the Apostles, vessel of election. Hail, conqueror of vices, compendium of virtues, pattern of perfection. Hail, rule of patience, lily of chastity, mirror of modesty. Hail, marvel of obedience, fire of charity, refuge of the poor. Hail, example of abstinence, model of humility, comfort of the afflicted. Help us, teacher of the ignorant, leader of penitents, [the printed “reformator Christi; norum” is unresolved]; illumine my mind, leader of unbelievers; govern my heart, great moderator of thine affections. Obtain pardon for me, bringer of most blessed peace. Obtain perseverance in good, firm pillar of the Church. Intercede for me and all mine, both kinsfolk and friends and benefactors, vigorous protector of thy clients. Be my shield in adversity; defend me in temptations and from all evils in life, and forsake me not at the hour of my death. Amen.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              518
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -1905,12 +2066,13 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
           "source": "Ego Dominus vocavi te in justitia, et apprehendi manum tuam, et servavi te, et dedi te in foedus populi; in lucem gentium, ut aperies oculos caecorum, et educeres de conclusione vinctum, de domo carceris sedentem in tenebris.",
-          "english": "I, the Lord, have called thee in justice, and taken thy hand, and preserved thee, and given thee for a covenant of the people, for a light of the nations, that thou mightest open the eyes of the blind, and bring forth the prisoner from confinement, and him that sits in darkness from the prison house.",
+          "english": "I, the Lord, have called thee in justice, and taken thy hand, and preserved thee, and given thee for a covenant of the people, for a light of the nations, that thou shalt open the eyes of the blind, and mightest bring forth the prisoner from confinement, and him that sits in darkness from the prison house.",
           "sourcePages": [
             518
           ],
@@ -1924,7 +2086,17 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0005",
-          "verification": "visual-review"
+          "verification": "visual-review",
+          "originalPreparedEnglish": "I, the Lord, have called thee in justice, and taken thy hand, and preserved thee, and given thee for a covenant of the people, for a light of the nations, that thou mightest open the eyes of the blind, and bring forth the prisoner from confinement, and him that sits in darkness from the prison house.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              518
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Printed aperies is future indicative and educeres imperfect subjunctive. The mixed construction remains literal without replacing aperies with an unprinted subjunctive. Prior prepared English/provenance archived; Latin unchanged."
         },
         {
           "type": "prayer",
@@ -1967,7 +2139,7 @@
         {
           "type": "prayer",
           "source": "Oremus, Deus, qui servum tuum S. Ignatium de mundi caesis ad spiritualis militiae triumphos evocasti; praesta quaesumus: ut eum sequamur lucem morum, et protectorem consequamur. Per Christum Dominum nostrum.",
-          "english": "Let us pray. O God, who didst call Thy servant Saint Ignatius from [the printed “mundi caesis” is unresolved] to the triumphs of spiritual warfare, grant, we beseech Thee, that we may follow him as a light of conduct, and obtain him as a protector. Through Christ our Lord.",
+          "english": "Let us pray. O God, who didst call Thy servant Saint Ignatius from the slain of the world to the triumphs of spiritual warfare, grant, we beseech Thee, that we may follow him as a light of conduct, and obtain him as a protector. Through Christ our Lord.",
           "sourcePages": [
             518,
             519
@@ -1983,8 +2155,18 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0008",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed “mundi caesis” is unresolved. No reference to a battlefield or secular life is silently supplied."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Caesis is the substantive ablative plural perfect participle of caedo, the slain, governed by de; mundi is genitive. No unprinted castris or standard biographical battlefield wording substituted. Prior prepared English/provenance archived; Latin unchanged.",
+          "originalPreparedEnglish": "Let us pray. O God, who didst call Thy servant Saint Ignatius from [the printed “mundi caesis” is unresolved] to the triumphs of spiritual warfare, grant, we beseech Thee, that we may follow him as a light of conduct, and obtain him as a protector. Through Christ our Lord.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              518,
+              519
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "rubric",
@@ -2005,12 +2187,13 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
           "source": "Judicio posui te, ut ostenderem te fortitudinem meam, et narretur nomen meum in omni terra.",
-          "english": "In judgment I have set thee, that I might show thee My strength, and that My name might be proclaimed throughout all the earth.",
+          "english": "In judgment I have set thee, that I might show thee as My strength, and that My name might be proclaimed throughout all the earth.",
           "sourcePages": [
             519
           ],
@@ -2024,8 +2207,17 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0010",
-          "verification": "source-reading-pending",
-          "editorialNote": "“ostenderem te fortitudinem meam” has defective syntax; the English is provisional without replacing the printed sentence."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF personally compared. Te is the accusative object of ostenderem, with fortitudinem meam its accusative predicate. The printed predication shows thee as My strength, not an unprinted dative tibi meaning show strength to thee. Prior prepared English/provenance archived; Latin unchanged.",
+          "originalPreparedEnglish": "In judgment I have set thee, that I might show thee My strength, and that My name might be proclaimed throughout all the earth.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              519
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -2065,7 +2257,8 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0012",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         },
         {
           "type": "prayer",
@@ -2105,7 +2298,8 @@
           },
           "alignment": "reviewed",
           "id": "commendatio-b0014",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered page personally compared; printed signs, abbreviations and complete words verified. "
         }
       ]
     }
@@ -2120,6 +2314,15 @@
         518,
         519
       ]
+    },
+    {
+      "pages": [
+        516,
+        517,
+        518,
+        519
+      ],
+      "text": "10 October 2026: all four rendered pages and all 94 passages personally compared, including Coeleste Palmetum attribution, seven actual hours (no Lauds), six same-office collect references and Commendatio prayers. 52 pending passages verified; Convertere nos remains pending. Regular caesis (the slain), spaced ad stetit, nominal et populus Israel, accusative predicate ostenderem te fortitudinem meam and attested festaret/common-gender cive translated literally without importing conventional biography or biblical replacements. 13 source blockers explicitly bracketed; all Latin unchanged, prior English/provenance archived."
     }
   ]
 }

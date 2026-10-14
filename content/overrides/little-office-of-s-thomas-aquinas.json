@@ -29,8 +29,8 @@
   "translationNotice": "English translation prepared for Sacrum Florilegium; not supplied in the source PDF.",
   "status": {
     "extraction": "reviewed",
-    "translation": "complete-prepared-reading-pending",
-    "verification": "source-reading-pending"
+    "translation": "complete-prepared",
+    "verification": "visual-review"
   },
   "sections": [
     {
@@ -62,7 +62,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -83,7 +84,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -104,7 +106,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -125,7 +128,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -144,8 +148,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0005",
-          "verification": "pending",
-          "editorialNote": "English prepared directly for this printed Latin passage. A previously considered reused version had different versicle/response signs or expanded wording; the prepared English follows this office’s own signs and incipit. The source still awaits visual review."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. English prepared directly for this printed Latin passage. A previously considered reused version had different versicle/response signs or expanded wording; the prepared English follows this office’s own signs and incipit. The source still awaits visual review."
         },
         {
           "type": "rubric",
@@ -165,11 +169,11 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0006",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             280
           ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. English reused from an identical complete Latin passage elsewhere in this PDF. That historical transcription-review reservation is superseded by this actual page comparison."
         },
         {
           "type": "prayer",
@@ -228,7 +232,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0009",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -253,7 +258,7 @@
         {
           "type": "prayer",
           "source": "Thomas in mundi vespere Fundit thesauros gratiae, Donis plenus ex aethere Morum, et sapientiae.",
-          "english": "At the evening of the world\nThomas pours forth treasures of grace,\nFilled from heaven with gifts\nOf virtue and wisdom.",
+          "english": "At the evening of the world\nThomas pours forth treasures of grace,\nFilled from heaven with gifts\nOf conduct and wisdom.",
           "sourcePages": [
             594
           ],
@@ -268,7 +273,17 @@
           "alignment": "reviewed",
           "id": "matins-b0011",
           "verification": "visual-review",
-          "poetry": true
+          "poetry": true,
+          "originalPreparedEnglish": "At the evening of the world\nThomas pours forth treasures of grace,\nFilled from heaven with gifts\nOf virtue and wisdom.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              594
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Morum is the printed genitive of conduct/morals, retained at its own lexical extent. Earlier prepared English/provenance archived; Latin retained except separately documented actual-glyph transcription correction."
         },
         {
           "type": "prayer",
@@ -366,11 +381,11 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0016",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             630
           ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. English reused from an identical complete Latin passage elsewhere in this PDF. That historical transcription-review reservation is superseded by this actual page comparison."
         },
         {
           "type": "prayer",
@@ -390,11 +405,11 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0017",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             630
           ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. English reused from an identical complete Latin passage elsewhere in this PDF. That historical transcription-review reservation is superseded by this actual page comparison."
         },
         {
           "type": "prayer",
@@ -414,11 +429,11 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0018",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             26
           ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. English reused from an identical complete Latin passage elsewhere in this PDF. That historical transcription-review reservation is superseded by this actual page comparison."
         },
         {
           "type": "prayer",
@@ -458,7 +473,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0020",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "rubric",
@@ -479,11 +495,11 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0021",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             284
           ],
-          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. That historical transcription-review reservation is superseded by this actual page comparison."
         },
         {
           "type": "prayer",
@@ -542,12 +558,13 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0024",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
           "source": "℟. De excelsis fons sapientiae sancto Thomae infudit copiam, tamquam flumen clarae scientiae, qui susceptam refudit gratiam, dum fluentis summae peritiae. Rigat totam sanctam Ecclesiam.",
-          "english": "℟. From on high the fountain of wisdom poured abundance into Saint Thomas, like a river of clear knowledge; he poured back the grace he received, while with streams of supreme learning [the printed syntax is defective] he waters the whole holy Church.",
+          "english": "℟. From on high the fountain of wisdom poured abundance into Saint Thomas, like a river of clear knowledge; he poured back the grace he received, while with streams of supreme learning he waters the whole holy Church.",
           "sourcePages": [
             595
           ],
@@ -561,8 +578,17 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0025",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed dum fluentis summae peritiae is syntactically incomplete. The prepared reading is explicitly provisional; the original Latin remains."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Dum fluentis summae peritiae has its complete finite predicate in the printed refrain Rigat totam sanctam Ecclesiam within this same passage. Fluentis is ablative plural of fluentum, streams; the genitive specifies highest learning. The printed period/refrain boundary is retained, no missing verb invented. Earlier prepared English/provenance archived; Latin retained except separately documented actual-glyph transcription correction.",
+          "originalPreparedEnglish": "℟. From on high the fountain of wisdom poured abundance into Saint Thomas, like a river of clear knowledge; he poured back the grace he received, while with streams of supreme learning [the printed syntax is defective] he waters the whole holy Church.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              595
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -621,7 +647,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0028",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "rubric",
@@ -642,11 +669,11 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0029",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             285
           ],
-          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. That historical transcription-review reservation is superseded by this actual page comparison."
         },
         {
           "type": "prayer",
@@ -705,12 +732,13 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0032",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
           "source": "℟. O anima sanctissima, qua contemplante dulciter, corpus liquebat infirma, stans sursum mirabiliter.",
-          "english": "℟. O most holy soul! As it contemplated sweetly, the body melted [the printed infirma is unresolved], wondrously standing aloft.",
+          "english": "℟. O most holy soul! While thou, weak, didst contemplate sweetly, the body melted, standing aloft wondrously.",
           "sourcePages": [
             595
           ],
@@ -724,8 +752,17 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0033",
-          "verification": "source-reading-pending",
-          "editorialNote": "The printed corpus liquebat infirma is defective. English marks the unresolved word rather than silently changing it."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Infirma can be feminine ablative agreeing with qua in the absolute qua contemplante, whose antecedent is feminine anima. Stans can agree with nominative neuter corpus. This complete printed case construction does not require an unprinted infirmum; weakness of the contemplating soul and the aloft-standing body are translated literally. Earlier prepared English/provenance archived; Latin retained except separately documented actual-glyph transcription correction.",
+          "originalPreparedEnglish": "℟. O most holy soul! As it contemplated sweetly, the body melted [the printed infirma is unresolved], wondrously standing aloft.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              595
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -784,7 +821,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0036",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "rubric",
@@ -805,11 +843,11 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0037",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             285
           ],
-          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. That historical transcription-review reservation is superseded by this actual page comparison."
         },
         {
           "type": "prayer",
@@ -868,7 +906,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0040",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -927,7 +966,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0043",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1025,7 +1065,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0048",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "rubric",
@@ -1065,7 +1106,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0050",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1105,7 +1147,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0052",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1126,7 +1169,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0053",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1147,7 +1191,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0054",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1168,7 +1213,8 @@
           },
           "alignment": "reviewed",
           "id": "matins-b0055",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         }
       ]
     },
@@ -1200,7 +1246,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1221,7 +1268,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1242,7 +1290,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1263,7 +1312,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "rubric",
@@ -1284,7 +1334,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1381,7 +1432,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0010",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "rubric",
@@ -1402,12 +1454,13 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0011",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
           "source": "De cuius fonte luminis Verbi coruscant faculae, Scripturae sacrae numinis, Et veritatis regulae.",
-          "english": "From his fountain of light\nShine the torches of the Word,\nOf the divine sacred Scripture,\nAnd the rules of truth.",
+          "english": "From whose fountain of light shine the torches of the Word, of the Deity’s sacred Scripture, and the rules of truth.",
           "sourcePages": [
             596
           ],
@@ -1421,9 +1474,18 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0012",
-          "verification": "source-reading-pending",
+          "verification": "visual-review",
           "poetry": true,
-          "editorialNote": "The stanza’s compressed genitives admit more than one construction; the prepared reading remains provisional."
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Faculae and regulae are complete nominative plural subjects of coruscant. Verbi and Scripturae sacrae numinis supply genitive modifiers, the Word and the Deity’s sacred Scripture. An ordinary chain of genitives is not a source defect, and no external hymn wording imported. Earlier prepared English/provenance archived; Latin retained except separately documented actual-glyph transcription correction.",
+          "originalPreparedEnglish": "From his fountain of light\nShine the torches of the Word,\nOf the divine sacred Scripture,\nAnd the rules of truth.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              596
+            ],
+            "review": "editorial-review-complete"
+          }
         },
         {
           "type": "prayer",
@@ -1464,7 +1526,7 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0014",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0012"
@@ -1473,7 +1535,8 @@
               596
             ],
             "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
-          }
+          },
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1590,7 +1653,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0020",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1611,7 +1675,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0021",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1632,7 +1697,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0022",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1653,7 +1719,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0023",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1674,7 +1741,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0024",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1695,7 +1763,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0025",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1716,7 +1785,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0026",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1737,7 +1807,8 @@
           },
           "alignment": "reviewed",
           "id": "lauds-b0027",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         }
       ]
     },
@@ -1768,7 +1839,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1789,7 +1861,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1810,7 +1883,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1831,7 +1905,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "rubric",
@@ -1852,7 +1927,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1893,7 +1969,7 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0007",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0012"
@@ -1902,7 +1978,8 @@
               597
             ],
             "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
-          }
+          },
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "rubric",
@@ -1923,7 +2000,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0008",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -1983,7 +2061,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0011",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2004,7 +2083,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0012",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2027,7 +2107,7 @@
         },
         {
           "type": "rubric",
-          "source": "Capitulium. Iac. I",
+          "source": "Capitulum. Iac. I",
           "english": "Chapter. James 1",
           "sourcePages": [
             597
@@ -2042,7 +2122,15 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0014",
-          "verification": "visual-review"
+          "verification": "visual-review",
+          "originalExtractedSource": "Capitulium. Iac. I",
+          "transcriptionCorrections": [
+            {
+              "originalSource": "Capitulium. Iac. I",
+              "reason": "10 October 2026: personally inspected actual rendered PDF p.597; the printed heading is Capitulum, without the extra i in Capitulium. Iac. I and all remaining letters retained."
+            }
+          ],
+          "editorialNote": "10 October 2026: actual p.597 personally inspected. The heading actually prints Capitulum. Iac. I; its earlier extra-i transcription is corrected, with original extracted source and correction evidence preserved."
         },
         {
           "type": "prayer",
@@ -2082,7 +2170,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0016",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2159,11 +2248,11 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0020",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             621
           ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. English reused from an identical complete Latin passage elsewhere in this PDF. That historical transcription-review reservation is superseded by this actual page comparison."
         },
         {
           "type": "prayer",
@@ -2184,7 +2273,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0021",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2205,7 +2295,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0022",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2226,7 +2317,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0023",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2247,7 +2339,8 @@
           },
           "alignment": "reviewed",
           "id": "prime-b0024",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         }
       ]
     },
@@ -2279,7 +2372,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2300,7 +2394,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2321,7 +2416,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2344,7 +2440,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "rubric",
@@ -2365,7 +2462,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2473,7 +2571,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0010",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2494,7 +2593,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0011",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2534,7 +2634,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0013",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2574,7 +2675,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0015",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2671,7 +2773,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0020",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2692,7 +2795,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0021",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2713,7 +2817,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0022",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2734,7 +2839,8 @@
           },
           "alignment": "reviewed",
           "id": "terce-b0023",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         }
       ]
     },
@@ -2766,7 +2872,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2787,7 +2894,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2808,7 +2916,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2829,7 +2938,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "rubric",
@@ -2850,7 +2960,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2891,7 +3002,7 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0007",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0012"
@@ -2900,7 +3011,8 @@
               598
             ],
             "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
-          }
+          },
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "rubric",
@@ -2920,11 +3032,11 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0008",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             306
           ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. English reused from an identical complete Latin passage elsewhere in this PDF. That historical transcription-review reservation is superseded by this actual page comparison."
         },
         {
           "type": "prayer",
@@ -2965,7 +3077,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0010",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -2988,8 +3101,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0011",
-          "verification": "pending",
-          "editorialNote": "English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. This office’s source transcription still requires its own review."
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. English reused from a reviewed passage elsewhere in this PDF with the same complete sequence of Latin words and numbers. Only punctuation and capitalization differ; the target Latin is retained. That historical transcription-review reservation is superseded by this actual page comparison."
         },
         {
           "type": "prayer",
@@ -3010,7 +3123,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0012",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -3088,7 +3202,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0016",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -3185,7 +3300,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0021",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -3206,7 +3322,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0022",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -3227,7 +3344,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0023",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -3248,7 +3366,8 @@
           },
           "alignment": "reviewed",
           "id": "sext-b0024",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         }
       ]
     },
@@ -3280,7 +3399,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -3301,7 +3421,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -3322,7 +3443,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -3343,7 +3465,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "rubric",
@@ -3364,12 +3487,13 @@
           },
           "alignment": "reviewed",
           "id": "none-b0005",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
           "source": "Fit Paradisi fluvius Quadripartite pervius; Fit Gedeonis gladius, Tuba, lagena, radius.",
-          "english": "He becomes the river of Paradise,\nFlowing in four branches;\nHe becomes Gideon’s sword,\nTrumpet, pitcher, and ray of light.",
+          "english": "He becomes the river of Paradise,\nOpen to passage in four ways;\nHe becomes Gideon’s sword,\nTrumpet, pitcher, and ray of light.",
           "sourcePages": [
             599
           ],
@@ -3384,7 +3508,17 @@
           "alignment": "reviewed",
           "id": "none-b0006",
           "verification": "visual-review",
-          "poetry": true
+          "poetry": true,
+          "originalPreparedEnglish": "He becomes the river of Paradise,\nFlowing in four branches;\nHe becomes Gideon’s sword,\nTrumpet, pitcher, and ray of light.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              599
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source personally compared. Quadripartite pervius retains the actual adverb and adjective; no noun branches imported from an external full Genesis text. Earlier prepared English/provenance archived; Latin retained except separately documented actual-glyph transcription correction."
         },
         {
           "type": "prayer",
@@ -3405,7 +3539,7 @@
           },
           "alignment": "reviewed",
           "id": "none-b0007",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0012"
@@ -3414,7 +3548,8 @@
               599
             ],
             "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
-          }
+          },
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "rubric",
@@ -3435,7 +3570,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0008",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -3476,7 +3612,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0010",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -3497,7 +3634,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0011",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -3575,7 +3713,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0015",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -3652,11 +3791,11 @@
           },
           "alignment": "reviewed",
           "id": "none-b0019",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             307
           ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. English reused from an identical complete Latin passage elsewhere in this PDF. That historical transcription-review reservation is superseded by this actual page comparison."
         },
         {
           "type": "prayer",
@@ -3677,7 +3816,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0020",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -3698,7 +3838,8 @@
           },
           "alignment": "reviewed",
           "id": "none-b0021",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -3751,7 +3892,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -3772,7 +3914,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -3793,7 +3936,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -3814,7 +3958,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "rubric",
@@ -3874,7 +4019,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -3895,7 +4041,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0008",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -3935,7 +4082,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0010",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -3984,7 +4132,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0012",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -4045,7 +4194,7 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0015",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0012"
@@ -4054,7 +4203,8 @@
               600
             ],
             "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
-          }
+          },
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -4094,7 +4244,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0017",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "rubric",
@@ -4173,7 +4324,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0021",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -4194,7 +4346,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0022",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -4215,7 +4368,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0023",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -4238,7 +4392,8 @@
           },
           "alignment": "reviewed",
           "id": "vespers-b0024",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         }
       ]
     },
@@ -4269,7 +4424,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0001",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -4290,7 +4446,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0002",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -4311,7 +4468,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0003",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -4332,7 +4490,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0004",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "rubric",
@@ -4352,11 +4511,11 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0005",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             631
           ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. English reused from an identical complete Latin passage elsewhere in this PDF. That historical transcription-review reservation is superseded by this actual page comparison."
         },
         {
           "type": "prayer",
@@ -4396,7 +4555,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0007",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -4417,7 +4577,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0008",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -4460,7 +4621,7 @@
         {
           "type": "prayer",
           "source": "In medio Ecclesiae aperuit os eius; et implevit eum Dominus spiritu sapientiae et intellectus; stolam gloriae induit eum.",
-          "english": "In the midst of the Church he opened his mouth; the Lord filled him with the spirit of wisdom and understanding and clothed him in a robe of glory.",
+          "english": "In the midst of the Church the Lord opened Thomas’s mouth; He filled him with the spirit of wisdom and understanding, and clothed him in a robe of glory.",
           "sourcePages": [
             601
           ],
@@ -4474,7 +4635,17 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0011",
-          "verification": "visual-review"
+          "verification": "visual-review",
+          "originalPreparedEnglish": "In the midst of the Church he opened his mouth; the Lord filled him with the spirit of wisdom and understanding and clothed him in a robe of glory.",
+          "originalTranslation": {
+            "kind": "prepared",
+            "preparedFor": "Sacrum Florilegium",
+            "sourcePages": [
+              601
+            ],
+            "review": "editorial-review-complete"
+          },
+          "editorialNote": "10 October 2026: actual rendered source personally compared. The implicit subject of aperuit is supplied by the following explicit Dominus, and eius refers to Thomas; the English clarifies that relationship without treating the first clause as Thomas opening his own mouth. Earlier prepared English/provenance archived; Latin retained except separately documented actual-glyph transcription correction."
         },
         {
           "type": "prayer",
@@ -4495,7 +4666,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0012",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "rubric",
@@ -4516,7 +4688,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0013",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -4577,7 +4750,7 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0016",
-          "verification": "pending",
+          "verification": "visual-review",
           "referenceExpansion": {
             "targets": [
               "matins-b0012"
@@ -4586,7 +4759,8 @@
               601
             ],
             "note": "The printed incipit repeats the specified prayer group from this office only. Printed abbreviations and source-reading warnings in the target remain."
-          }
+          },
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -4625,11 +4799,11 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0018",
-          "verification": "pending",
+          "verification": "visual-review",
           "englishPages": [
             632
           ],
-          "editorialNote": "English reused from an identical complete Latin passage elsewhere in this PDF. This office’s source transcription still requires its own review."
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. English reused from an identical complete Latin passage elsewhere in this PDF. That historical transcription-review reservation is superseded by this actual page comparison."
         },
         {
           "type": "rubric",
@@ -4708,7 +4882,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0022",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -4729,7 +4904,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0023",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -4750,7 +4926,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0024",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         },
         {
           "type": "prayer",
@@ -4771,7 +4948,8 @@
           },
           "alignment": "reviewed",
           "id": "compline-b0025",
-          "verification": "pending"
+          "verification": "visual-review",
+          "editorialNote": "10 October 2026: actual rendered PDF page personally compared; signs, source letters, page continuation and English verified at their printed extent. "
         }
       ]
     }
@@ -4791,6 +4969,20 @@
         600,
         601
       ]
+    },
+    {
+      "pages": [
+        594,
+        595,
+        596,
+        597,
+        598,
+        599,
+        600,
+        601
+      ],
+      "text": "10 October 2026: all eight rendered PDF pages and all 224 passages personally compared, including New Raccolta (1903) attribution, eight actual hours, three Matins lessons/responsories, all psalms/canticles at their printed extent, conditional Matins-without-Lauds collect, eight collect copies including abbreviated Matins conclusion, abbreviated hymn/refrain reuse and all continuations. All 130 pending passages independently verified. Dum has its printed Rigat predicate; infirma agrees with feminine qua, and Lauds genitives are complete. Earlier English/provenance archived; one actual heading-glyph correction preserves original extracted source. Supplied PDF-reuse English/provenance remains unchanged and prepared notice applies only to marked prepared rows. Office complete."
     }
-  ]
+  ],
+  "translationNoticeScope": "marked"
 }
