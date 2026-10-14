@@ -136,3 +136,24 @@ test('Paola and Ignatius repeat their own printed prayers and Michael preserves 
  assert(!michael.sections.find(s=>s.id==='lauds').blocks[0].english.endsWith('Amen.'));
  assert(michael.sections.find(s=>s.id==='compline').blocks.find(b=>b.id==='compline-b0013').editorialNote.includes('attenuis'));
 });
+
+test('Cistercian minor hours select the printed weekday psalms and octave omission',()=>{
+ const office=documents.get('little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage');
+ const expected={
+  sun:{prime:['53','84','116'],terce:['119','120','121'],sext:['122','123','124'],none:['125','126','127']},
+  mwf:{prime:['118 (I)','118 (II)','118 (III)'],terce:['118 (V)','118 (VI)','118 (VII)'],sext:['118 (VIII)','118 (IX)','118 (X)'],none:['118 (XI)','118 (XII)','118 (XIII)']},
+  tths:{prime:['53','84','116'],terce:['118 (XIV)','118 (XV)','118 (XVI)'],sext:['118 (XVII)','118 (XVIII) — Justus es, Domine','118 (XIX)'],none:['118 (XX)','118 (XXI)','118 (XXII)']}
+ };
+ for(const [weekday,hours] of Object.entries(expected))for(const [hour,psalms] of Object.entries(hours)){
+  const rows=sectionBlocks(office,hour,resolveVariants(office,{'minor-hour-psalms':weekday}));
+  assert.deepEqual(rows.filter(b=>b.source.startsWith('Psalmus ')).map(b=>b.source.slice(8)),psalms);
+  assert(rows.some(b=>b.id===`${hour}-b0001`));
+ }
+ const omitted=sectionBlocks(office,'lauds',resolveVariants(office,{'saints-commemoration':'omit'}));
+ assert(!omitted.some(b=>b.id==='lauds-b0048'));
+ assert(omitted.some(b=>b.id==='lauds-b0046'));
+ assert(omitted.some(b=>b.id==='lauds-b0053'));
+ assert(sectionBlocks(office,'lauds',resolveVariants(office)).some(b=>b.id==='lauds-b0048'));
+ const unusual=sectionBlocks(office,'sext',resolveVariants(office,{'minor-hour-psalms':'tths'})).find(b=>b.id==='sext-b0026');
+ assert(unusual.source.includes('Feci judicium et justitiam'));
+});

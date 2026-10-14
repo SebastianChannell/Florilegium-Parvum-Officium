@@ -5847,6 +5847,54 @@
           "lauds-b0049": "dd22eee183302218440989b517d58d87ed4b8bc43930518b215c41c1a39ec904",
           "lauds-b0050": "822bb75c198ddff044313fca82884e9e95c8fd4a221db0491c7eddb7300766c2",
           "lauds-b0052": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "suppliedEnglishCorrections": {
+          "lauds-b0012": {
+            "digest": "9901fb866114b7960a426f1b4b6d0c64b1631d8e33197488c01cfe3c22f761fa",
+            "sourcePages": [
+              248,
+              249
+            ],
+            "verification": "visual-review",
+            "review": "Actual Cistercian p.249 closes Psalm 62 after the foxes verse; reused supplied English pp.124–125 adds the absent king verse. Prepared English retains this extract’s actual extent.",
+            "requiredNoteText": "Actual Cistercian p"
+          },
+          "lauds-b0013": {
+            "digest": "3995d2c0975a73528104bd2897ad4382729ccd56be6a3d09623e288a979c620f",
+            "sourcePages": [
+              249
+            ],
+            "verification": "visual-review",
+            "review": "The heading Canticum Trium Puerorum remains Latin even in the supplied right column p.126; a prepared English heading now translates it, with the original Latin heading preserved as Latin provenance.",
+            "requiredNoteText": "The heading Canticum Trium Puerorum remains Latin even in the supplied right column p"
+          },
+          "lauds-b0014": {
+            "digest": "f837e3bc6f745a02e745ea66f471c06cd316a3e1dafe03cac9431d8a735f5033",
+            "sourcePages": [
+              249
+            ],
+            "verification": "visual-review",
+            "review": "Actual Cistercian p.249 proceeds directly from servants to Ananias, Azarias and Misael; supplied English pp.126–127 includes the absent spirits/souls and humble-of-heart line. Prepared English preserves the actual omission.",
+            "requiredNoteText": "Actual Cistercian p"
+          },
+          "lauds-b0018": {
+            "digest": "808cac783f8caf2e3b75ae119f1966c691a4a49914fa3fe000c1ccf2f5df2598",
+            "sourcePages": [
+              250
+            ],
+            "verification": "visual-review",
+            "review": "Supplied English p.128 prints Him name; the actual Cistercian p.250 nomen ejus is His name. Full printed wording is archived before prepared correction.",
+            "requiredNoteText": "Supplied English p"
+          },
+          "lauds-b0050": {
+            "digest": "4334317b1dcd87b092d75c8fdd6251c746d83a5ce3f9a8b17f346b1884beba4e",
+            "sourcePages": [
+              251
+            ],
+            "verification": "visual-review",
+            "review": "Actual Cistercian p.251 marks this a response, ℟; supplied English p.132 marks it ℣. Prepared English retains this extract’s actual role, with the complete original English archived.",
+            "requiredNoteText": "Actual Cistercian p"
+          }
         }
       },
       {
