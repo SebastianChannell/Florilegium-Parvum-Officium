@@ -91,6 +91,32 @@ test('Carthusian separates the printed dry Mass appendix and applies its manual 
   assert(!praise.find(b=>b.id==='compline-b0006').source.includes('Alleluja'));
   assert.match(praise.find(b=>b.id==='compline-b0006').english,/Praise be to Thee/);
 });
+test('Ambrosian preserves both Sext headings and selects the actual printed alternatives', () => {
+  const office=documents.get('little-office-of-the-blessed-virgin-mary-according-to-the-ambrosian-rite');
+  assert.equal(office.sections.find(s=>s.id==='sext-2').sourceHeading,'Ad Sextam');
+  assert.match(office.sections.find(s=>s.id==='sext-2').title,/second printed heading/);
+  assert(!office.sections.some(s=>s.id==='none'));
+  for (const [choice,first,last] of [['sun',29,49],['mon-thu',50,69],['tue-wed',70,90],['wed-sat',91,112]]) {
+    const selected=sectionBlocks(office,'matins',{'matins-days':choice});
+    assert(selected.some(b=>b.id===`matins-b${String(first).padStart(4,'0')}`));
+    assert(selected.some(b=>b.id===`matins-b${String(last).padStart(4,'0')}`));
+    assert.equal(selected.filter(b=>/^matins-b/.test(b.id)&&Number(b.id.split('-b')[1])>=29&&Number(b.id.split('-b')[1])<=112).length,last-first+1);
+  }
+  const solemn=sectionBlocks(office,'matins',{solemnity:'solemn','te-deum':'omit','lauds-connection':'joined'});
+  assert(solemn.some(b=>b.id==='matins-b0017'));
+  assert(!solemn.some(b=>b.id==='matins-b0016'));
+  assert(!solemn.some(b=>b.id==='matins-b0135'||b.id==='matins-b0140'));
+  assert.equal(sectionBlocks(office,'lauds',{'lauds-connection':'joined'})[0].id,'lauds-b0005');
+  const praise=sectionBlocks(office,'prime',{acclamation:'praise'}).find(b=>b.id==='prime-b0004');
+  assert.match(praise.english,/Praise be to Thee/);
+  assert(!praise.source.includes('Alleluia'));
+  for (const [choice,id] of [['inviolata',45],['ave',53],['alma',60],['salve',68],['regina',77]]) {
+    const selected=sectionBlocks(office,'compline',{'final-antiphon':choice});
+    assert(selected.some(b=>b.id===`compline-b${String(id).padStart(4,'0')}`));
+    assert(!selected.some(b=>Number(b.id.split('-b')[1])>43&&b.id!==`compline-b${String(id).padStart(4,'0')}`&&[45,53,60,68,77].includes(Number(b.id.split('-b')[1]))));
+  }
+  assert(sectionBlocks(office,'compline',{'final-antiphon':'omitted'}).every(b=>Number(b.id.split('-b')[1])<=43));
+});
 test('Cistercian collect and Premonstratensian nested suffrage expand complete same-office text', () => {
   const cistercian=documents.get('little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage');
   const vespers=sectionBlocks(cistercian,'vespers');

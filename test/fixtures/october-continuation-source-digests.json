@@ -5221,6 +5221,26 @@
           "lauds-b0070": "dc75b5e41f1321ad430806cc9318fbbd11a9a81b22b3ceea1d739c7a8f00992b",
           "lauds-b0071": "6b1c17ece3aca59da65e513805a5dedcab76fc3c629f7849243eb7138e9a7f9e",
           "lauds-b0073": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "suppliedEnglishCorrections": {
+          "lauds-b0006": {
+            "digest": "ae3d0b708ada04731243c345e0f9274cf791b0934b1581e694d6ef5d65ef2110",
+            "sourcePages": [
+              172
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "The printed Luc 1 reference is retained in English.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          },
+          "lauds-b0018": {
+            "digest": "72b320194bdf0fa222e015c65af3cece938c81941f64e9adb3d2169c3c438ca4",
+            "sourcePages": [
+              172
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "The actual Dan. 3 reference is retained in English.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -5406,6 +5426,17 @@
           "compline-b0080": "6e399f2787a0602f604bd89c19e077a5546c05698b6be5b96baa895cc23a0ec0",
           "compline-b0082": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21",
           "compline-b0084": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "suppliedEnglishCorrections": {
+          "compline-b0077": {
+            "digest": "608a49da1b1e5998d5925412ef6971a560e6862127fe6043bb7a70f3d24819db",
+            "sourcePages": [
+              185
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual meruisti explicitly states merit. The supplied p.134 poetic English omits that meaning; its whole original and provenance are retained before this marked prepared correction.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       }
     ]
