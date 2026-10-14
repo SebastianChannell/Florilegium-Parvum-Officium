@@ -1344,7 +1344,7 @@
         {
           "type": "prayer",
           "source": "℟. Deus ex femine. ut supra.",
-          "english": "℟. God from [femine: unresolved printed form], as above.",
+          "english": "℟. God from a thigh, as above.",
           "sourcePages": [
             269
           ],
@@ -1354,12 +1354,13 @@
             "sourcePages": [
               269
             ],
-            "review": "editorial-review-complete"
+            "review": "editorial-review-complete",
+            "method": "visual-pdf-prepared-translation"
           },
           "alignment": "reviewed",
           "id": "night-office-b0060",
-          "verification": "source-reading-pending",
-          "editorialNote": "10 October 2026: complete sequence personally compared with actual rendered PDF pp.265–279, including weekday rubrics, signs, source letters, eight hours and continuations. Printed reading remains pending; no conjectural emendation. This “ut supra” incipit has no complete antecedent in the Lyon office on PDF pp.265–279. The referenced responsory or hymn cannot be expanded from this volume without selecting an external edition; its printed incipit is retained. P.269 prints femine after ex; the case/form remains unresolved, not silently replaced with femina. Earlier prepared English/provenance archived.",
+          "verification": "visual-review",
+          "editorialNote": "14 October 2026: actual rendered p.269 personally compared again after the Cistercian lexical review. Femine is an attested ablative of femur/femen, thigh; Lewis and Short explicitly documents this form (https://alatius.com/ls/index.php?l=femur). The complete printed incipit Deus ex femine is translated literally without an unprinted femina, feminae or semine. Earlier source-form uncertainty is resolved; the unusual source claim is retained. First and intermediate prepared English/provenance archives remain intact.",
           "referenceReview": {
             "status": "source-unavailable",
             "pages": [
@@ -1381,7 +1382,21 @@
               269
             ],
             "review": "editorial-review-complete"
-          }
+          },
+          "preparedEnglishHistory": [
+            {
+              "date": "2026-10-14",
+              "english": "℟. God from [femine: unresolved printed form], as above.",
+              "translation": {
+                "kind": "prepared",
+                "preparedFor": "Sacrum Florilegium",
+                "sourcePages": [
+                  269
+                ],
+                "review": "editorial-review-complete"
+              }
+            }
+          ]
         },
         {
           "type": "prayer",
@@ -4747,6 +4762,12 @@
         279
       ],
       "text": "10 October 2026: all fifteen actual rendered PDF pages and every one of 199 passages personally compared. 195 verified; four printed readings remain pending: femine, datum se nobis, parturientis pariet and the incomplete final prosa. Eight actual hours and repeated weekday rubrics retained. Missing supplied English verses and mismatched ending/signs replaced with prepared readings, with complete original printed English and provenance archived and quoted inline. Five OCR sign corrections preserve original extracted source. No conjectural Latin emendation."
+    },
+    {
+      "pages": [
+        269
+      ],
+      "text": "14 October 2026: the earlier femine reservation is superseded by independently checked lexical evidence for the attested ablative of femur/femen. The actual printed incipit is translated literally as God from a thigh, without altering Latin or inferring another edition. All first/intermediate English archives retained. Three other printed source reservations remain pending."
     }
   ]
 }
