@@ -39,7 +39,7 @@ export function validateContent({ inventory, documents, boundaries, references =
       if (sections.has(section.id)) add(`Duplicate section: ${section.id}`,office.id);
       sections.add(section.id);
       if (!inventorySections.has(section.id)) add(`Broken inventory section link: ${section.id}`,office.id);
-      if (!section.blocks.length) add(`Empty section: ${section.id}`,office.id);
+      if (!section.blocks.length && !section.assemblyOnly) add(`Empty section: ${section.id}`,office.id);
       for (const b of section.blocks) {
         blocks++;
         if (blockIds.has(b.id)) add(`Duplicate block: ${b.id}`,office.id);
@@ -87,6 +87,10 @@ export function validateContent({ inventory, documents, boundaries, references =
     }
     for (const b of blockMap.values()) if (b.referenceExpansion) checkExpansion(b.id);
     for (const s of doc.sections) {
+      if (s.assemblyOnly) {
+        const heading=blockMap.get(s.sourceHeadingBlock);
+        if (s.blocks.length || !heading || heading.source !== s.sourceHeading || s.assembly?.after?.[0] !== heading.id || !s.sourcePages?.length || s.sourcePages.some(p => !Number.isInteger(p) || p < doc.source.pdfPages[0] || p > doc.source.pdfPages[1])) add(`Assembly-only section lacks its printed heading and source pages: ${s.id}`,office.id);
+      }
       for (const ref of [...(s.assembly?.before || []), ...(s.assembly?.after || [])]) if (!blockIds.has(ref)) add(`Unresolved assembly reference: ${ref}`,office.id);
       for (const ref of s.assembly?.exclude || []) if (!s.blocks.some(b => b.id === ref)) add(`Assembly exclusion is absent from its section: ${ref}`,office.id);
       for (const [anchor, refs] of Object.entries(s.assembly?.insertBefore || {})) {

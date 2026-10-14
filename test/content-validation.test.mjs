@@ -74,3 +74,10 @@ test('assembly relocation targets and selector labels must remain valid',()=>{
  assert(messages.some(m=>/Unresolved assembly/.test(m)));
  assert(messages.some(m=>/Variant lacks visible labels/.test(m)));
 });
+test('an assembly-only section requires its actual printed heading and source pages',()=>{
+ const x=fixture();const doc=x.documents.get('little-office-of-the-blessed-virgin-mary-according-to-the-carthusian-usage');
+ const section=doc.sections.find(s=>s.id==='missae-siccae');
+ assert(!validateContent(x).errors.length);
+ section.sourceHeading='Unprinted heading';section.sourcePages=[];
+ assert(validateContent(x).errors.some(e=>/Assembly-only section lacks its printed heading and source pages/.test(e.message)));
+});

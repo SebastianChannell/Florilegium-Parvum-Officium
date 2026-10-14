@@ -65,6 +65,32 @@ test('Carthusian solitary blessing instruction does not repeat the already displ
   assert.equal(blocks.filter(b=>b.id==='matins-b0059' || b.expandedFrom==='matins-b0059').length,1);
   assert(blocks.find(b=>b.id==='matins-b0060').referenceExpansion.note);
 });
+test('Carthusian separates the printed dry Mass appendix and applies its manual choices', () => {
+  const office=documents.get('little-office-of-the-blessed-virgin-mary-according-to-the-carthusian-usage');
+  const compline=sectionBlocks(office,'compline');
+  assert(!compline.some(b=>Number(b.id.split('-b')[1])>=83));
+  const ordinary=sectionBlocks(office,'missae-siccae',{ 'dry-mass':'outside-advent' });
+  const advent=sectionBlocks(office,'missae-siccae',{ 'dry-mass':'advent' });
+  assert.equal(ordinary.length,92);
+  assert.equal(advent.length,73);
+  assert.equal(ordinary[0].id,'compline-b0083');
+  assert.equal(advent[0].id,'compline-b0083');
+  assert(ordinary.some(b=>b.id==='compline-b0084'));
+  assert(!advent.some(b=>b.id==='compline-b0084'));
+  assert(advent.some(b=>b.id==='compline-b0246'));
+  for (const [choice,first,last] of [['sun-mon-thu',19,29],['tue-fri',30,40],['wed-sat',41,51]]) {
+    const selected=sectionBlocks(office,'matins',{'matins-psalms':choice});
+    assert.deepEqual(selected.filter(b=>/^matins-b00(19|[234][0-9]|5[01])$/.test(b.id)).map(b=>b.id),Array.from({length:last-first+1},(_,i)=>`matins-b${String(first+i).padStart(4,'0')}`));
+  }
+  const alone=sectionBlocks(office,'matins',{recitation:'alone'});
+  assert(!alone.some(b=>b.id==='matins-b0057'));
+  assert.equal(alone.filter(b=>b.id==='matins-b0059').length,1);
+  const praise=sectionBlocks(office,'compline',{season:'septuagesima'});
+  assert(!compline.some(b=>b.id==='compline-b0007'));
+  assert(praise.some(b=>b.id==='compline-b0007'));
+  assert(!praise.find(b=>b.id==='compline-b0006').source.includes('Alleluja'));
+  assert.match(praise.find(b=>b.id==='compline-b0006').english,/Praise be to Thee/);
+});
 test('Cistercian collect and Premonstratensian nested suffrage expand complete same-office text', () => {
   const cistercian=documents.get('little-office-of-the-blessed-virgin-mary-according-to-the-cistercian-usage');
   const vespers=sectionBlocks(cistercian,'vespers');

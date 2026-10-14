@@ -10,7 +10,18 @@ const digest=t=>createHash('sha256').update(t.replace(/\s+/g,' ').trim()).digest
 test('continued offices conserve source text, existing English, and printed hours',()=>{
  for(const entry of expected){
   const office=documents.get(entry.office);
-  assert.deepEqual(office.sections.map(s=>s.id),entry.sections.map(s=>s.id));
+  assert.deepEqual(office.sections.map(s=>s.id),[...entry.sections.map(s=>s.id),...(entry.reviewedAdditionalSections||[]).map(s=>s.id)]);
+  for(const extra of entry.reviewedAdditionalSections||[]){
+   assert(extra.review?.trim());
+   const section=office.sections.find(s=>s.id===extra.id);
+   assert.equal(section.assemblyOnly,true);
+   assert.deepEqual(section.blocks,[]);
+   assert.deepEqual(section.assembly.after,extra.blocks);
+   assert.equal(section.sourceHeading,extra.sourceHeading);
+   assert.equal(section.sourceHeadingBlock,extra.blocks[0]);
+   assert.deepEqual(section.sourcePages,extra.sourcePages);
+   assert.equal(office.sections.flatMap(s=>s.blocks).find(b=>b.id===extra.blocks[0]).source,extra.sourceHeading);
+  }
   for(const section of entry.sections){
    const rows=office.sections.find(s=>s.id===section.id).blocks;
    assert.equal(digest(rows.map(b=>b.originalExtractedSource??b.source).join(' ')),section.sourceDigest);
