@@ -72,9 +72,10 @@ function renderNotes(office) {
 function renderVariants(office) {
   $('variantControls').replaceChildren();
   for (const v of office.variants || []) {
-    const label = el('label'); label.append(el('span', v.title));
-    const select = el('select'); select.setAttribute('aria-label', v.title);
-    for (const option of v.options) { const node = el('option', option.title); node.value = option.id; select.append(node); }
+    const title = v.title || v.label;
+    const label = el('label'); label.append(el('span', title));
+    const select = el('select'); select.setAttribute('aria-label', title);
+    for (const option of v.options) { const node = el('option', option.title || option.label); node.value = option.id; select.append(node); }
     select.value = variants[v.id];
     select.addEventListener('change', () => { variants[v.id] = select.value; renderSection(); setRoute(); });
     label.append(select); $('variantControls').append(label);

@@ -55,6 +55,19 @@ test('continued offices conserve source text, existing English, and printed hour
      assert.equal(row.verification,'visual-review');
      assert.deepEqual(row.sourcePages,visual.sourcePages);
      assert(row.editorialNote?.includes(visual.requiredNoteText));
+    }else if(section.visualWordSequenceEnglishCorrections?.[id]){
+     const visual=section.visualWordSequenceEnglishCorrections[id];
+     assert(visual.review?.trim());
+     assert.equal(digest(row.originalPreparedEnglish),hash);
+     assert.equal(digest(row.english),visual.digest);
+     assert.equal(row.originalTranslation.kind,'prepared');
+     assert.equal(row.originalTranslation.method,'reviewed-pdf-word-sequence-reuse');
+     assert.equal(row.translation.method,'visual-pdf-prepared-translation');
+     assert.equal(row.translation.kind,'prepared');
+     assert.equal(row.translation.review,'editorial-review-complete');
+     assert.equal(row.verification,'visual-review');
+     assert.deepEqual(row.sourcePages,visual.sourcePages);
+     assert(row.editorialNote.includes(visual.requiredNoteText));
     }else if(section.pendingEnglishCorrections?.[id]){
      const pending=section.pendingEnglishCorrections[id];
      assert(pending.review?.trim());
@@ -156,4 +169,42 @@ test('Cistercian minor hours select the printed weekday psalms and octave omissi
  assert(sectionBlocks(office,'lauds',resolveVariants(office)).some(b=>b.id==='lauds-b0048'));
  const unusual=sectionBlocks(office,'sext',resolveVariants(office,{'minor-hour-psalms':'tths'})).find(b=>b.id==='sext-b0026');
  assert(unusual.source.includes('Feci judicium et justitiam'));
+});
+
+test('Carmelite assembly restores column continuations and selects only the printed alternatives',()=>{
+ const office=documents.get('little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-the-brothers-of-the-blessed-virgin-mary-of-mount-carmel-carmelites');
+ const ids=section=>sectionBlocks(office,section,resolveVariants(office)).map(b=>b.id);
+ const tail=Array.from({length:13},(_,i)=>`matins-2-b${String(i+3).padStart(4,'0')}`);
+ assert.deepEqual(ids('compline').slice(-13),tail);
+ assert(!ids('compline').includes('compline-b0031'));
+ assert.equal(ids('matins-2')[0],'compline-b0031');
+ assert(ids('matins-2').includes('matins-2-b0017'));
+ assert(tail.every(id=>!ids('matins-2').includes(id)));
+ assert.deepEqual(ids('sext-2'),['lauds-3-b0002','lauds-3-b0003','lauds-3-b0004']);
+ assert.equal(ids('lauds-3')[0],'sext-2-b0001');
+ assert(!ids('lauds-3').includes('lauds-3-b0002'));
+ assert.deepEqual(ids('lauds-3').slice(-6),Array.from({length:6},(_,i)=>`vespers-2-b${String(i+7).padStart(4,'0')}`));
+ assert.deepEqual(ids('vespers-2'),Array.from({length:6},(_,i)=>`vespers-2-b${String(i+1).padStart(4,'0')}`));
+ for(const [group,psalm] of [['first','matins-b0030'],['second','matins-b0042'],['third','matins-b0053']]){
+  const rows=sectionBlocks(office,'matins',resolveVariants(office,{'matins-psalms':group}));
+  assert(rows.some(b=>b.id===psalm));
+  assert.equal(rows.filter(b=>['matins-b0030','matins-b0042','matins-b0053'].includes(b.id)).length,1);
+ }
+ for(const [form,addition] of [['ordinary',null],['paschal','matins-b0023'],['ascension','matins-b0025'],['pentecost','matins-b0027']]){
+  const selected=resolveVariants(office,{'paschal-form':form});
+  const rows=sectionBlocks(office,'matins',selected);
+  const additions=rows.filter(b=>['matins-b0023','matins-b0025','matins-b0027'].includes(b.id));
+  assert.deepEqual(additions.map(b=>b.id),addition?[addition]:[]);
+  if(addition)assert(rows.findIndex(b=>b.id===addition)<rows.findIndex(b=>b.id==='matins-b0020'));
+  for(const [hour,ordinary,paschal] of [['prime','prime-b0029','prime-b0038'],['terce','terce-b0029','terce-b0034'],['sext','sext-b0029','sext-b0033'],['none','none-b0029','none-b0034']]){
+   const hourRows=sectionBlocks(office,hour,selected);
+   assert.equal(hourRows.some(b=>b.id===ordinary),form==='ordinary');
+   assert.equal(hourRows.some(b=>b.id===paschal),form!=='ordinary');
+  }
+ }
+ const omitted=sectionBlocks(office,'matins',resolveVariants(office,{'te-deum':'omit'}));
+ assert(!omitted.some(b=>b.id==='matins-b0089'));
+ assert.equal(omitted.filter(b=>b.id==='matins-b0084').length,1);
+ assert(office.sections.find(s=>s.id==='none-2').title.includes('Advent'));
+ assert(office.sections.find(s=>s.id==='sext-3').title.includes('Nativity'));
 });

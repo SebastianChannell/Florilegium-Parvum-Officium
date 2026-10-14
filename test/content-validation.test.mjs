@@ -64,3 +64,13 @@ test('empty sections, broken links and invalid page provenance are rejected',()=
   assert(messages.some(m=>/Empty section/.test(m)));
   assert(messages.some(m=>/Page outside office/.test(m)));
 });
+test('assembly relocation targets and selector labels must remain valid',()=>{
+ const x=fixture();const doc=x.documents.get('little-office-of-the-blessed-virgin-mary-according-to-the-rite-of-the-order-of-the-brothers-of-the-blessed-virgin-mary-of-mount-carmel-carmelites');
+ doc.sections[0].assembly={exclude:['absent'],insertBefore:{absent:['missing']}};
+ doc.variants[0].label='';doc.variants[0].title='';
+ const messages=validateContent(x).errors.map(e=>e.message);
+ assert(messages.some(m=>/Assembly exclusion is absent/.test(m)));
+ assert(messages.some(m=>/Assembly insertion anchor is absent/.test(m)));
+ assert(messages.some(m=>/Unresolved assembly/.test(m)));
+ assert(messages.some(m=>/Variant lacks visible labels/.test(m)));
+});

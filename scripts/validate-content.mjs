@@ -88,10 +88,16 @@ export function validateContent({ inventory, documents, boundaries, references =
     for (const b of blockMap.values()) if (b.referenceExpansion) checkExpansion(b.id);
     for (const s of doc.sections) {
       for (const ref of [...(s.assembly?.before || []), ...(s.assembly?.after || [])]) if (!blockIds.has(ref)) add(`Unresolved assembly reference: ${ref}`,office.id);
+      for (const ref of s.assembly?.exclude || []) if (!s.blocks.some(b => b.id === ref)) add(`Assembly exclusion is absent from its section: ${ref}`,office.id);
+      for (const [anchor, refs] of Object.entries(s.assembly?.insertBefore || {})) {
+        if (!s.blocks.some(b => b.id === anchor) || s.assembly?.exclude?.includes(anchor)) add(`Assembly insertion anchor is absent: ${anchor}`,office.id);
+        for (const ref of refs) if (!blockIds.has(ref)) add(`Unresolved assembly reference: ${ref}`,office.id);
+      }
     }
     for (const v of doc.variants || []) {
       const optionIds = v.options.map(o => o.id);
       if (new Set(optionIds).size !== optionIds.length || !optionIds.includes(v.default)) add(`Invalid variant: ${v.id}`,office.id);
+      if (!(v.title || v.label)?.trim() || v.options.some(o => !(o.title || o.label)?.trim())) add(`Variant lacks visible labels: ${v.id}`,office.id);
     }
     for (const s of doc.sections) for (const b of s.blocks) for (const [v,options] of Object.entries(b.when || {})) {
       const variant=doc.variants?.find(x=>x.id===v);

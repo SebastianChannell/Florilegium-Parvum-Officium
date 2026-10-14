@@ -14,7 +14,10 @@ export function sectionBlocks(office, sectionId, variants = {}) {
   if (!section) throw new Error('Section is absent from this office.');
   const index = new Map(office.sections.flatMap(s => s.blocks.map(b => [b.id, b])));
   const assembly = section.assembly || {};
-  const blocks = [...(assembly.before || []).map(id => index.get(id)), ...section.blocks,
+  const excluded = new Set(assembly.exclude || []);
+  const body = section.blocks.filter(b => !excluded.has(b.id)).flatMap(b => [
+    ...(assembly.insertBefore?.[b.id] || []).map(id => index.get(id)), b]);
+  const blocks = [...(assembly.before || []).map(id => index.get(id)), ...body,
     ...(assembly.after || []).map(id => index.get(id))];
   function expand(block, ancestors = []) {
     if (!block) throw new Error('Unresolved prayer reference.');

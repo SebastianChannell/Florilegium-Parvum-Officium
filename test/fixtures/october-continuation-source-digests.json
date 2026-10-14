@@ -6633,6 +6633,53 @@
             "review": "Actual PDF p.321 personally inspected; ea translated literally, original reused English and provenance preserved.",
             "requiredNoteText": "those lips"
           }
+        },
+        "suppliedEnglishCorrections": {
+          "matins-b0029": {
+            "digest": "3e63496b7668a61cdc5cbe0e07419a293fb07fce8ff387cb50c9410a549ed3b4",
+            "sourcePages": [
+              189
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual Benedicta tu is an abbreviated incipit; among women from the reused p.107 English is not supplied to this target. Original full text retained.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          },
+          "matins-b0057": {
+            "digest": "7a04e92e1b174651f7114eab4188329f221b7e207c67d86e7b758f308f6b0ac5",
+            "sourcePages": [
+              191
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual p.191 includes Lux orta est and Laetamini, omitted by supplied English pp.113–114; full original English/provenance retained.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          },
+          "matins-b0059": {
+            "digest": "d8745de3dc4e86dbb9fd2f050a9db80a3d5b0d32459f000d33bd7869f2d84a43",
+            "sourcePages": [
+              192
+            ],
+            "verification": "source-reading-pending",
+            "requiredNoteText": "The actual opaque tionis ejus fragment before Gloria is explicitly bracketed, without changing the otherwise complete psalm.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          },
+          "matins-b0071": {
+            "digest": "6783d9b977158788f2169ef716ebb5800b5326f90dd823883c55c2783fa43b13",
+            "sourcePages": [
+              192
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual p.192 has only Quia after the verse; the full response expansion in supplied English p.285 is archived rather than inserted into this abbreviated target.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          },
+          "matins-b0088": {
+            "digest": "d47e0cc6032de9870ada918a21ed5f32f7d2a0078eba6f4e153daea839b17fff",
+            "sourcePages": [
+              193
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "The actual heading Hymnus Ambrosianus is translated literally; its prior supplied Te Deum alias on p.286 is retained in full.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -6676,6 +6723,56 @@
           "lauds-b0047": "9db18c537f8404274fc5298e744b87da9e9a50c61bfcd47fd27e254d2b49f3f4",
           "lauds-b0048": "1e90bc63773822bfbef446cbc8f414cf7181b52002668a97dad0c816a5178a71",
           "lauds-b0052": "c47eb501c2b2d752e0bee6a28dbaad1e300656abeb7055db2c49e037c0a1ada7"
+        },
+        "suppliedEnglishCorrections": {
+          "lauds-b0012": {
+            "digest": "9901fb866114b7960a426f1b4b6d0c64b1631d8e33197488c01cfe3c22f761fa",
+            "sourcePages": [
+              194
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual p.194 Psalm 62 ends at portions for foxes before Gloria; supplied English pp.124–125 has an additional unprinted king verse, retained only in its full original archive.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          },
+          "lauds-b0013": {
+            "digest": "e06eb8dea2f4a180e2006fe44eb68f5d483bd7b26301f7ee5349dec3b01a8d64",
+            "sourcePages": [
+              194
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "The Latin title in the supplied English column on p.126 is retained with original language Latin; this English heading is prepared.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          },
+          "lauds-b0014": {
+            "digest": "f837e3bc6f745a02e745ea66f471c06cd316a3e1dafe03cac9431d8a735f5033",
+            "sourcePages": [
+              194,
+              195
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual pp.194–195 omit the spirits/souls and holy/humble verse supplied in English pp.126–127; the full original English is retained alongside the prepared reading at actual extent.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          },
+          "lauds-b0038": {
+            "digest": "e7fda94141c8e13568f3977ee894e38ae3a490c7932670701d823e39093741b1",
+            "sourcePages": [
+              196
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual p.196 cross follows Benedictus; prepared English places its single cross after Blessed, preserving the full prior supplied English pp.130–131.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
+        },
+        "visualWordSequenceEnglishCorrections": {
+          "lauds-b0022": {
+            "digest": "7df6157d14f9deef746530694a4952e1ede48ccba17d2433c15edb70c672c212",
+            "sourcePages": [
+              195
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Qui is nominative, retained as the clause’s topic; the subsequent second-person Lactasti has an unexpressed object. Provide retains its adverbial sense with foresight alongside Lactasti after the printed comma, without unprinted quem or an invented object.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -6718,6 +6815,17 @@
           "prime-b0050": "9db18c537f8404274fc5298e744b87da9e9a50c61bfcd47fd27e254d2b49f3f4",
           "prime-b0055": "c47eb501c2b2d752e0bee6a28dbaad1e300656abeb7055db2c49e037c0a1ada7",
           "prime-b0058": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "suppliedEnglishCorrections": {
+          "prime-b0036": {
+            "digest": "6ae0b1149e5a4e9593642d486a2bbc6efb11d90a4929d63aa89970106bbcf39d",
+            "sourcePages": [
+              198
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "The supplied p.307 English omits the article in with Lord our God; full original English/provenance retained alongside the prepared correction.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -6799,6 +6907,17 @@
           "sext-b0043": "1e90bc63773822bfbef446cbc8f414cf7181b52002668a97dad0c816a5178a71",
           "sext-b0047": "c47eb501c2b2d752e0bee6a28dbaad1e300656abeb7055db2c49e037c0a1ada7",
           "sext-b0050": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "suppliedEnglishCorrections": {
+          "sext-b0024": {
+            "digest": "527e45d4be763699736a2ce6f601d19de9077f9fcc6859f8e104d551de4a684c",
+            "sourcePages": [
+              202
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual p.202 adducet means shall bring, not shall number as in supplied English pp.144–145; full original English/provenance retained.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -6879,6 +6998,17 @@
           "vespers-b0046": "1e90bc63773822bfbef446cbc8f414cf7181b52002668a97dad0c816a5178a71",
           "vespers-b0048": "c47eb501c2b2d752e0bee6a28dbaad1e300656abeb7055db2c49e037c0a1ada7",
           "vespers-b0051": "4bbe43df75951d638445e64134163f86055cc41ae926542239841b9f5b09bb21"
+        },
+        "suppliedEnglishCorrections": {
+          "vespers-b0037": {
+            "digest": "6b4ca01b88a44b46752b87012e53b219c371c9b75f287907708799d8f2be0b18",
+            "sourcePages": [
+              207
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual p.207 cross follows Magnificat; the prepared English retains that single sign after magnify. Full prior supplied English p.156 is archived.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
@@ -6903,6 +7033,26 @@
           "compline-b0024": "78150f23bddcf66241054f426c42ed22bb1c26465c694832a6a0bc05de16398a",
           "compline-b0025": "67dc848ba866aa717b5d1e2d5b2ebb0b6493b674c07087b7e751030c35e26c0f",
           "compline-b0030": "a98a6928cd48efd3ef086621864d728a1b6bb7decb362b824210445ceb485bbe"
+        },
+        "suppliedEnglishCorrections": {
+          "compline-b0017": {
+            "digest": "c92a8d57e16a8dc2994b5fc2329b52d1d590d84e4bab4b6a94ff281e5f899a9f",
+            "sourcePages": [
+              208
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual ambulavi is past, and the supplied English p.160 omits for; full original English/provenance retained.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          },
+          "compline-b0030": {
+            "digest": "8531a1b84526beeb11dcffef55f1c9acdff93cebf83540b246d26e9fccbb715d",
+            "sourcePages": [
+              209
+            ],
+            "verification": "visual-review",
+            "requiredNoteText": "Actual p.209 has one cross after Nunc dimittis; the two crosses of supplied English p.161 are retained only in its full archive, and the prepared reading has the single actual sign.",
+            "review": "Every target source page and complete passage visually compared on 14 October 2026; original supplied/prepared English retained before correction."
+          }
         }
       },
       {
